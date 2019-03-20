@@ -1,37 +1,38 @@
-<div class="pt6 pt7-ns cover flex bg-center fadein" style="background: url('{{ .background }}');    background-position: 50%;">
-<!--   <div class="fadein w-100 z-0">
-  {{ range .backgrounds }}
-    <img src="{{ .image }}">
-  {{ end }}
-  </div> -->
-  <div class="gradient h-100">
-    <div class="mw7 center ph3 items-end">
-      <div class="db mb4">
-        <div class="mw7 relative bg-fix-primary mb2">
-          {{ if .pre }}
-          <p class="b f6 white mw6 mb0">
-            {{.pre}}
-          </p>
-          {{ end }}
-          <h1 class="f2 f1-l b di lh-title mb2 white mw6">
-            {{.title}}
-          </h1>
-          {{ if .subtitle }}
-          <p class="b f3 white mw6 mb2">
-            {{.subtitle}}
-          </p>
-          {{ end }}
-        </div>
-        <div class="mw7 relative bg-fix-primary">
-          {{ if .cta }}
-          <p class="b f4 white mw6 mb2">
-            <a href="{{.link}}" class="link">→ {{.cta}}</a></p>
-          </p>
-          {{ end }}
+<div class="bg-black">
+  <div class="pt6 pt7-ns cover flex bg-center fadein" style="background-image: url('{{ .background }}');    background-position: 50%;">
+  <!--   <div class="fadein w-100 z-0">
+    {{ range .backgrounds }}
+      <img src="{{ .image }}">
+    {{ end }}
+    </div> -->
+    <div class="gradient h-100">
+      <div class="mw7 center ph3 items-end">
+        <div class="db mb4">
+          <div class="mw7 relative bg-fix-primary mb2">
+            {{ if .pre }}
+            <p class="b f6 white mw6 mb0">
+              {{.pre}}
+            </p>
+            {{ end }}
+            <h1 class="f2 f1-l b di lh-title mb2 white mw6">
+              {{.title}}
+            </h1>
+            {{ if .subtitle }}
+            <p class="b f3 white mw6 mb2">
+              {{.subtitle}}
+            </p>
+            {{ end }}
+          </div>
+          <div class="mw7 relative bg-fix-primary">
+            {{ if .cta }}
+            <p class="b f4 white mw6 mb2">
+              <a href="{{.link}}" class="link">→ {{.cta}}</a></p>
+            </p>
+            {{ end }}
+          </div>
         </div>
       </div>
     </div>
   </div>
 </div>
-
 
