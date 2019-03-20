@@ -1,0 +1,50 @@
+<div class="pv3">
+  <div class="mw7 center">
+    {{ if .heading }}
+      <h2 class="f3 b lh-title mb2">{{.heading}}</h2>
+    {{ end }}
+    {{ if .text }}
+      <p class="mb4 mw6">{{.text}}</p>
+    {{ end }}
+    <div class="flex-ns flex-wrap mhn2-ns">
+      {{ range .items }}
+      <div class="w-30-ns mb4 mr3 flex justify-between">
+        {{ if .image }}
+          <div class="w-33">
+          {{ if .bio }}<a href="#open-modal-{{.credit}}">{{ end }}
+            <img src="{{.image}}" alt="" class="db mr1 mb1">
+          {{ if .bio }}</a>{{ end }}
+          </div>
+          <div class="w-60">
+            {{ if .name }}
+              <p class="f6 b mb0">{{.name}}</p>
+            {{ end }}
+            {{ if .credit }}
+              <p class="f6 i mb0">{{.credit}}</p>
+            {{ end }}
+            {{ if .bio }}
+              <p class="f6 mb0"><a href="#open-modal-{{.credit}}" class="link">→ Bio</a></p>
+              <div id="open-modal-{{.credit}}" class="modal-window">
+                <div>
+                  <a href="#!" title="Close" class="modal-close"><img src="/img/close-button.svg" alt="close" class="w-40 mt2 ml3"></a>
+                  <div class="scrollme">
+                    {{ if .image }}
+                      <img src="{{.image}}" alt="" class="db mb1 mr3 w-40" align="left">
+                    {{ end }}
+                    <p class="f5 b mb0">{{.name}}</p>
+                    <p class="cms f6 mb1">{{.bio | markdownify}}</p>
+                  </div>
+                </div>
+              </div>
+            {{ end }}
+          </div>
+        {{ end }}
+        {{ if .text }}
+          <p class="f6 mb0">{{.text | markdownify}}</p>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+
+  </div>
+</div>

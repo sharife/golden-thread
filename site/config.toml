@@ -1,3 +1,154 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Homepage"
+title = "Golden Thread Productions"
+
+[menu]
+	[[menu.primary]]
+	identifier = "season"
+	name = "SEASON"
+	url = "/season"
+	weight = 1
+
+	[[menu.primary]]
+	identifier = "about"
+	name = "ABOUT"
+	url = "/about"
+	weight = 2
+		
+		[[menu.primary]]
+		parent = "about"
+		identifier = "people"
+		name = "People"
+		url = "/about/people"
+		weight = 21
+
+		[[menu.primary]]
+		parent = "about"
+		identifier = "history"
+		name = "History"
+		url = "/about/history"
+		weight = 22
+
+		[[menu.primary]]
+		parent = "about"
+		identifier = "past-productions"
+		name = "Past Productions"
+		url = "/about/past-productions"
+		weight = 23
+
+		[[menu.primary]]
+		parent = "about"
+		identifier = "champions"
+		name = "20 Champions"
+		url = "/about/champions"
+		weight = 24
+
+		[[menu.primary]]
+		parent = "about"
+		identifier = "bill-of-rights"
+		name = "Bill of Rights"
+		url = "/about/bill-of-rights"
+		weight = 25
+
+	[[menu.primary]]
+	identifier = "programs"
+	name = "PROGRAMS"
+	url = "/programs"
+	weight = 3
+
+		[[menu.primary]]
+		parent = "programs"
+		identifier = "fairytale-players"
+		name = "Fairytale Players"
+		url = "/programs/fairytale-players"
+		weight = 31
+
+		[[menu.primary]]
+		parent = "programs"
+		identifier = "reorient"
+		name = "ReOrient Festival"
+		url = "/programs/reorient"
+		weight = 32
+
+		[[menu.primary]]
+		parent = "programs"
+		identifier = "new-plays"
+		name = "New Play Development"
+		url = "/programs/new-plays"
+		weight = 33
+
+		[[menu.primary]]
+		parent = "programs"
+		identifier = "new-threads"
+		name = "New Threads Reading Series"
+		url = "/programs/new-threads"
+		weight = 34
+
+		[[menu.primary]]
+		parent = "programs"
+		identifier = "what-do-the-women-say"
+		name = "What do the Women Say?"
+		url = "/programs/what-do-the-women-say"
+		weight = 35
+
+	[[menu.primary]]
+	identifier = "get-involved"
+	name = "GET INVOLVED"
+	url = "/get-involved"
+	weight = 4
+
+		[[menu.primary]]
+		parent = "get-involved"
+		identifier = "donate"
+		name = "Make a Donation"
+		url = "/donate"
+		weight = 41
+
+		[[menu.primary]]
+		parent = "get-involved"
+		identifier = "donors"
+		name = "Donors"
+		url = "/get-involved/donors"
+		weight = 42
+
+		[[menu.primary]]
+		parent = "get-involved"
+		identifier = "jobs"
+		name = "Job Openings"
+		url = "/get-involved/jobs"
+		weight = 43
+
+		[[menu.primary]]
+		parent = "get-involved"
+		identifier = "volunteer"
+		name = "Volunteer"
+		url = "/get-involved/volunteer"
+		weight = 44
+
+		[[menu.primary]]
+		parent = "get-involved"
+		identifier = "auditions"
+		name = "Auditions"
+		url = "/get-involved/auditions"
+		weight = 45
+
+
+[secondary-menu]
+	[[menu.secondary]]
+	identifier = "tickets"
+	name = "BUY TICKETS"
+	url = "/tickets"
+	weight = 1
+
+	[[menu.secondary]]
+	identifier = "donate"
+	name = "DONATE NOW"
+	url = "/donate"
+	weight = 2
+
+	[[menu.secondary]]
+	identifier = "book"
+	name = "BOOK A SHOW"
+	url = "/programs/fairytale-players"
+	weight = 3
+

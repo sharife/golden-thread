@@ -1,0 +1,41 @@
+<div id="mySidenav" class="sidenav">
+	<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <ul>
+		{{ $currentPage := . }}
+		{{ range .Site.Menus.secondary }}
+            <li class="b {{ if $currentPage.IsMenuCurrent "secondary" . }}active{{ end }}">
+                <a href="{{ .URL }}">
+                    {{ .Pre }}
+                    <span>→ {{ .Name }}</span>
+                </a>
+            </li>
+        {{ end }}
+    </ul>
+    <hr width="80%" style="border-color: white; opacity: 0.5;">
+    <ul>
+        {{ range .Site.Menus.primary }}
+            {{ if .HasChildren }}
+                <li class="{{ if $currentPage.HasMenuCurrent "primary" . }}active{{ end }}">
+                    <a href="#" nowrap>
+                        {{ .Pre }}
+                        <span class="b">{{ .Name }}</span>
+                    </a>
+                    <ul class="submenu-r">
+                        {{ range .Children }}
+                            <li class="{{ if $currentPage.IsMenuCurrent "primary" . }}active{{ end }}">
+                                <a href="{{ .URL }}">&#9656; {{ .Name }}</a>
+                            </li>
+                        {{ end }}
+                    </ul>
+                </li>
+            {{ else }}
+                <li class="b {{ if $currentPage.HasMenuCurrent "primary" . }}active{{ end }}">
+                    <a href="{{ .URL }}">
+                        {{ .Pre }}
+                        <span>{{ .Name }}</span>
+                    </a>
+                </li>
+            {{ end }}
+        {{ end }}	
+	</ul>
+</div>

@@ -1,0 +1,35 @@
+<div class="pt3">
+  <div class="mw7 center">
+    {{ if .heading }}
+      <h2 class="f3 b lh-title mb2">{{.heading | markdownify}}</h2>
+    {{ end }}
+    {{ if .text }}
+      <p class="mb4 mw6">{{.text}}</p>
+    {{ end }}
+
+    <div class="flex-ns mhn2-ns mb3">
+      {{ range .items }}
+      <div class="w-30-ns mb4 mr3">
+        {{ if .image }}
+          {{ if .link }}<a href="{{.link}}">{{end}}
+            <img src="{{.image}}" alt="" class="db mb2"></a>
+          {{ if .link }}</a>{{ end }}
+        {{ end }}
+        {{ if .title }}
+          <p class="f4 b mb1 lh-title">{{.title | markdownify}}</p>
+        {{ end }}
+        {{ if .subtitle }}
+          <p class="b mb2 lh-title ">{{.subtitle | markdownify}}</p>
+        {{ end }}
+        {{ if .text }}
+          <p class="f6">{{.text | markdownify}}</p>
+        {{ end }}
+        {{ if .link }}
+          <p class="b"><a href="{{.link}}" class="link">→ {{.cta}}</a></p>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+
+  </div>
+</div>

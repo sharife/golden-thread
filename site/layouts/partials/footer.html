@@ -1,46 +1,47 @@
-<footer class="bg-black ph3 pv4 white">
+<div class="deco-border"></div>
+<footer class="bg-darkblue pv4 white">
 
 	<div class="mw7 center pt3">
 
-		<div class="measure-narrow center mb4">
+<!-- 		<div class="measure-narrow center mb4">
 
-			<img src="/img/logo.svg" alt="Kaldi logo" class="db w4 center mb4 br0">
 			<p class="f3 lh-title light-gray b tc mb2">Newsletter subscribe</p>
 			<p>Get awesome news from us in your inbox every two weeks. Be the first to learn about new products.</p>
 
 			{{ partial "newsletter-form" . }}
 
 		</div>
+ -->
+		<div class="flex-ns ph3">
 
-		<div class="flex-ns justify-between">
+			<div class="w-30-ns mb3 mr3">
+				<h3 class="f5 b lh-title mb1">Golden Thread Productions</h3>
+				<p class="f6">1695 18th Street, #C101 Annex<br />
+					San Francisco, CA 94107<br />
+					Box Office: <a href="#" class="no-underline">boxoffice@goldenthread.org</a><br />
+					Office: <a href="#" class="no-underline">information@goldenthread.org</a><br />
+					Phone: 415.626.4061
+				</p>
+			</div>
 
-			<div>
-				<h3 class="f4 b lh-title mb1 primary">Kaldi</h3>
-				<ul class="mb3">
-					<li><a href="/" class="link">Home</a></li>
-					<li><a href="/products" class="link">Our products</a></li>
-					<li><a href="/values" class="link">About</a></li>
-					<li><a href="/post" class="link">Blog</a></li>
-					<li><a href="/contact" class="link">Contact</a></li>
+			<div class="w-30-ns mb3 mr3">
+				<ul class="f6 mb4 b">
+					<li class="mb2"><a href="/contact" class="link">→ CONTACT US</a></li>
+					<li class="mb2"><a href="https://goldenthread.secure.force.com/signup/?cfid=a05j000000LsdhQAAR" target="_blank" class="link">→ JOIN OUR MAILING LIST</a></li>
+					<li class="mb2"><a href="/visit" class="link">→ PLAN YOUR VISIT</a></li>
 				</ul>
 			</div>
 
-			<div>
-				<h3 class="f4 b lh-title mb1 primary">Find out more</h3>
-				<ul class="mb3">
-					<li><a href="/post/jamaica-blue/" class="link">Latest offers</a></li>
-					<li><a href="/contact" class="link">Schedule and appointment</a></li>
-				</ul>
-			</div>
-
-			<div>
-				<h3 class="f4 b lh-title mb2 primary">Social media</h3>
+			<div class="w-30-ns mb3 mr3">
+				<h3 class="f6 b lh-title mb2">FOLLOW US</h3>
 				<ul class="mhn2">
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-twitter") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-vimeo") }}
+					{{ partial "social-icon" (dict "link" "http://www.facebook.com/goldenthread" "svg" "icons-facebook") }}
+					{{ partial "social-icon" (dict "link" "http://twitter.com/#!/goldenthread" "svg" "icons-twitter") }}
+					{{ partial "social-icon" (dict "link" "http://www.youtube.com/user/gtptheatre" "svg" "icons-youtube") }}
+					{{ partial "social-icon" (dict "link" "https://www.linkedin.com/company/2955209?trk=tyah" "svg" "icons-linkedin") }}
 				</ul>
+				<p class="f6 mt3">Golden Thread Productions © 2015 - 2019<br />
+					All Rights Reserved |  <a href="/about/privacy" class="no-underline">Privacy Notice</a></p>
 			</div>
 
 		</div>
@@ -48,10 +49,15 @@
 
 </footer>
 
-{{ partial "svg" . }}
+{{ partial "svg-alt" . }}
 
 <script src="/app.js"></script>
-
+<script src="/js/perfundo.min.js"></script>
+{{ if .Params.photos}}
+<script>
+  perfundo('.perfundo');
+</script>
+{{ end }}
 </body>
 
 </html>

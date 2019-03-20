@@ -1,13 +1,17 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+{{ partial "jumbotron" (dict "background" .Params.background "title" .Title "cta" .Params.cta "link" .Params.link) }}
 
-{{ partial "short-text" .Params.blurb}}
+<div class="mw7 center ph3 pv4">
 
-{{ partial "2-up" .Params }}
+	<!-- {{ partial "short-text" .Params.blurb}} -->
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+	{{ partial "3-up" .Params }}
 
-{{ partial "blog" . }}
+	<!-- {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }} -->
+
+	<!-- {{ partial "productions" . }} -->
+
+</div>
 
 {{ end }}

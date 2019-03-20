@@ -1,0 +1,19 @@
+<div class="pv4">
+	<div class="mw7 center">
+
+		<h2 class="f3 b lh-title mb3">Productions</h1>
+
+		<div class="w-100 mhn1-ns mb3">
+			{{ range first 4 (where .Data.Pages "Type" "productions") }}
+				<div class="ph1-ns">
+					{{ .Render "li" }}
+				</div>
+			{{ end }}
+		</div>
+
+		<!-- <div class="tc">
+			<a href="/season" class="btn raise">Current Season</a>
+		</div> -->
+
+	</div>
+</div>

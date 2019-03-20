@@ -1,0 +1,84 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "background" .Params.background "pre" .Params.pre "title" .Title "subtitle" .Params.subtitle "cta" .Params.cta "link" .Params.link) }}
+
+  <div class="mw7 center ph3 pv4">
+    <div class="flex-ns justify-between">
+      <div class="cms w-60-ns">
+        {{ if .Params.ticketlink }}
+          <h2 class="lh-title b mb3">{{ .Params.heading }}</h2>
+        {{ end }}
+        <p>{{ .Description | markdownify }}</p>
+        <!-- {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }} -->
+        {{ if .Params.videos }}
+          <div class="mb4">
+            {{ range .Params.videos }}
+              {{ partial "youtube" (dict "id" .id) }}
+            {{ end }}
+          </div>
+        {{ end }}
+      </div>
+      <div class="w-33-ns mb4">
+        <p class="f4 b mb3">{{ dateFormat "Jan 2, 2006" .Params.start }} - {{ dateFormat "Jan 2, 2006" .Params.end }}</p>
+        <p class="f5 b mb0">{{ .Params.stage }}</p>
+        {{ if .Params.address }}
+        <p class="mb3">{{ .Params.address }}</p>
+        {{ end }}
+        {{ if .Params.ticketlink }}
+          <div class="pv2">
+            <a href="{{ .Params.ticketlink }}" class="btn raise">BUY TICKETS</a>
+          </div>
+        {{ end }}
+
+        {{ if .Params.ticketinfo }}
+          <p class="f6 mb2">{{ .Params.ticketinfo | markdownify }}</p>
+        {{ end }}
+
+        <p class="f6 mb3"><a href="/visit" class="link">→ Plan your visit</a></p>
+        <div class="mb3">
+          {{ if .Params.writer }} <p class="mb1">Written by <span class="b">{{ .Params.writer }}</span></p> {{ end }}
+          {{ if .Params.director }} <p class="mb1">Directed by <span class="b">{{ .Params.director }}</span></p> {{ end }}
+          {{ if .Params.featuring }} <p class="mb1">Featuring <span class="b">{{ .Params.featuring }}</span></p> {{ end }}
+        </div>
+        <div class="mb3">
+          {{ if .Params.awards }}<p class="f6 b i mb1">{{ .Params.awards }}</p> {{ end }}
+          {{ if .Params.awardsimage }} <img src="{{ .Params.awardsimage }}" class="mw3" alt="" /> {{ end }}
+          {{ if .Params.misc }} <hr /><p class="f6 mb1">{{ .Params.misc }}</p> {{ end }}
+        </div>
+      </div>
+    </div>
+    <div class="cms pv3">
+      {{ .Content }}
+    </div>
+    <div>
+      
+      {{ if .Params.grids }} 
+        {{ range .Params.grids }}
+          {{ partial "3-up" ( . ) }}
+        {{ end }}
+      {{ end }}
+
+      {{ if .Params.lists }} 
+        {{ range .Params.lists }}
+          {{ partial "list-sm" ( . ) }}
+        {{ end }}
+      {{ end }}
+
+      {{ if .Params.photos }}
+    </div>
+  </div>
+  <div>
+    <div class="mw7 center ph3">
+      {{ partial "gallery" (.Params.photos) }}
+    </div>
+  </div>
+  <div>
+      <div class="mw7 center ph3">
+      {{ end }}
+
+      {{ if .Params.cast }} {{ partial "cast" (.Params.cast) }} {{ end }}
+
+      {{ if .Params.sponsors }} {{ partial "sponsors" (.Params.sponsors) }} {{ end }}
+    </div>
+  </div>
+{{ end }}

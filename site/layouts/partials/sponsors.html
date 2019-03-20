@@ -1,0 +1,11 @@
+<div class="pv3">
+  <h3 class="w-100 tc mb3">• • •</h3>
+  <h3 class="cms f6">{{ .text | markdownify }}</h3>
+</div>
+<div class="flex-ns pv2 mb4">
+	{{ range .logos }}
+		<div class="w-25-ns ph1 tc mb2">
+			<img src="{{ .image }}" alt="">
+		</div>
+	{{ end }}
+</div>

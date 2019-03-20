@@ -1,19 +1,65 @@
-<nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-white divider-grey relative">
+<div class="deco-border"></div>
+<nav id="nav-master" class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-end center bg-secondary top-header relative">
 
 	<!-- Logo -->
-	<a href="/" class="pa3 db mr4 h-100 w3 flex-none">
-		<img src="/img/logo.svg" alt="Kaldi logo" class="br0 db mb0 w-100"/>
+	<a href="/" class="pa3 db mr4 ml4 h-100 w4 flex-none">
+		<img src="/img/logo.svg" alt="logo" class="br0 db mb0 w-100"/>
 	</a>
 
-	<!-- Primary Nav -->
-	<ul class="flex b grey-3">
-		<li><a href="/products" class="pa3 no-underline db">Products</a></li>
-
-		<li><a href="/values" class="pa3 no-underline db">Values</a></li>
-
-		<li><a href="/post" class="pa3 no-underline db">Blog</a></li>
-
-		<li><a href="/contact" class="pa3 no-underline db">Contact</a></li>
-	</ul>
-
+    <div class="nav-p">
+        <ul class="flex b secondary-menu f6 mr3">
+            {{ $currentPage := . }}
+            {{ range .Site.Menus.secondary }}
+                <li class="mr3 {{ if $currentPage.HasMenuCurrent "secondary" . }}active{{ end }}">
+                    <a href="{{ .URL }}">
+                        {{ .Pre }}
+                        <span>→ {{ .Name }}</span>
+                    </a>
+                </li>
+            {{ end }}
+        </ul>
+        <ul class="flex b primary-menu f5 nav mr2">
+            {{ $currentPage := . }}
+            {{ range .Site.Menus.primary }}
+                {{ if .HasChildren }}
+                    <li class="{{ if $currentPage.HasMenuCurrent "primary" . }}active{{ end }}">
+                        <a href="#">
+                            {{ .Pre }}
+                            <span>{{ .Name }}</span>
+                        </a>
+                        <ul class="sub-menu">
+                            {{ range .Children }}
+                                <li class="{{ if $currentPage.IsMenuCurrent "primary" . }}active{{ end }}">
+                                    <a href="{{ .URL }}">{{ .Name }}</a>
+                                </li>
+                            {{ end }}
+                        </ul>
+                    </li>
+                {{ else }}
+                    <li class="{{ if $currentPage.HasMenuCurrent "primary" . }}active{{ end }}">
+                        <a href="{{ .URL }}">
+                            {{ .Pre }}
+                            <span>{{ .Name }}</span>
+                        </a>
+                    </li>
+                {{ end }}
+            {{ end }}
+        </ul>
+    </div>
+    <!-- Responsive Nav -->
+    <div class="nav-r">
+        <a href="#" class="ph3 black no-underline f2" onclick="openSidenav();">&#9776;</a>
+    </div>
 </nav>
+<div class="deco-border"></div>
+
+
+<script>
+function openSidenav() {
+  document.getElementById("mySidenav").style.width = "300px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>

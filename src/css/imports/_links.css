@@ -10,12 +10,11 @@
 }
 .link:hover   {
   transition: color .15s ease-in;
-  text-decoration: underline;
+  border-bottom: 2px solid currentColor;
 }
 .link:active  {
   transition: color .15s ease-in;
 }
 .link:focus   {
   transition: color .15s ease-in;
-  outline: 1px dotted currentColor;
 }
