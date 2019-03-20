@@ -7,7 +7,7 @@
       <div class="cms w-60-ns">
         <h2 class="lh-title b mb3">{{ .Params.heading }}</h2>
         <p>{{ .Description | markdownify }}</p>
-        <!-- {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }} -->
+        {{ if .Params.titleimage }}<img src="{{ .Params.titleimage }}" alt="{{ .Title }}" />{{ end }}
         {{ if .Params.videos }}
           <div class="mb4">
             {{ range .Params.videos }}

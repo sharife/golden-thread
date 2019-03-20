@@ -1,6 +1,6 @@
 ---
 title: Our Enemies
-subtitle: Lively Scenes of Love and Combat
+subtitle: LIVELY SCENES OF LOVE AND COMBAT
 date: 2016-10-28T15:04:10.000Z
 start: 2016-11-20T15:04:10.000Z
 end: 2016-05-29T15:04:10.000Z
@@ -10,7 +10,7 @@ menu:
 heading: A West Coast Premiere Play by Yussef El Guindi
 description: >-
   Struggling writer Gamal hates the way his fellow Arab-Americans represent their culture on American media. It’s easy enough to take out his frustration on literature superstar Mohsen and local mosque leader, Sheikh Alfani. But when his own girlfriend and novelist Noor gets an offer from a major publisher backed with a national media campaign, how will Gamal manage his frustration?<br /><br />Award-winning Egyptian-American playwright Yussef El Guindi holds the honor of being the most produced writer at Golden Thread. El Guindi has won the Steinberg/American Theater Critics Association’s New Play Award in 2012, and was the recipient of the 2010 Middle East America Distinguished Playwright Award. His previous premieres with the company include <em>Language Rooms</em>, <em>Jihad Jones and the Kalashnikov Babes</em>, <em>Back of the Throat</em>, <em>Scenic Routes</em>, and many shorts in ReOrient Festivals. Golden Thread performed El Guindi’s <em>Karima’s City</em> at the Cairo International Festival for Experimental Theatre in 2004.
-
+titleimage: /img/title-our-enemies.jpg
 background: /img/hero-our-enemies.jpg
 writer: Yussef El Guindi
 director: Torange Yeghiazarian
