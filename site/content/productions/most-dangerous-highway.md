@@ -15,7 +15,7 @@ videos:
   - id: q6WsKQrAHVg
 writer: Kevin Artigue
 director: Evren Odcikin
-ticketlink: http://google.com
+ticketlink: https://goldenthread.secure.force.com/ticket/#details_a0Sj0000002xMFFEA2
 ticketinfo: >
   **Ticket Pricing:** Previews $10 | General Admission $34 | Student/Senior $24
 stage: Thick House

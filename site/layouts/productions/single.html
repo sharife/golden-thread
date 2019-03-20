@@ -5,9 +5,7 @@
   <div class="mw7 center ph3 pv4">
     <div class="flex-ns justify-between">
       <div class="cms w-60-ns">
-        {{ if .Params.ticketlink }}
-          <h2 class="lh-title b mb3">{{ .Params.heading }}</h2>
-        {{ end }}
+        <h2 class="lh-title b mb3">{{ .Params.heading }}</h2>
         <p>{{ .Description | markdownify }}</p>
         <!-- {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }} -->
         {{ if .Params.videos }}
@@ -26,7 +24,15 @@
         {{ end }}
         {{ if .Params.ticketlink }}
           <div class="pv2">
-            <a href="{{ .Params.ticketlink }}" class="btn raise">BUY TICKETS</a>
+            <a href="{{.Params.ticketlink }}" class="btn raise">BUY TICKETS</a>
+          </div>
+          <div id="open-modal-{{.Title}}-tickets" class="modal-window">
+            <div>
+              <a href="#!" title="Close" class="modal-close"><img src="/img/close-button.svg" alt="close" class="w-40 mt2 ml3"></a>
+              <div class="scrollme">
+                <iframe src="{{.Params.ticketlink }}" width="550" height="400"></iframe>
+              </div>
+            </div>
           </div>
         {{ end }}
 
