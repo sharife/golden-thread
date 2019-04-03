@@ -32,23 +32,30 @@ title = "Golden Thread Productions"
 		[[menu.primary]]
 		parent = "about"
 		identifier = "past-productions"
-		name = "Past Productions"
-		url = "/about/past-productions"
+		name = "All Productions"
+		url = "/productions"
 		weight = 23
+
+		[[menu.primary]]
+		parent = "about"
+		identifier = "donors"
+		name = "Donors"
+		url = "/about/donors"
+		weight = 24
 
 		[[menu.primary]]
 		parent = "about"
 		identifier = "champions"
 		name = "20 Champions"
 		url = "/about/champions"
-		weight = 24
+		weight = 25
 
 		[[menu.primary]]
 		parent = "about"
 		identifier = "bill-of-rights"
 		name = "Bill of Rights"
 		url = "/about/bill-of-rights"
-		weight = 25
+		weight = 26
 
 	[[menu.primary]]
 	identifier = "programs"
@@ -106,31 +113,10 @@ title = "Golden Thread Productions"
 
 		[[menu.primary]]
 		parent = "get-involved"
-		identifier = "donors"
-		name = "Donors"
-		url = "/get-involved/donors"
-		weight = 42
-
-		[[menu.primary]]
-		parent = "get-involved"
-		identifier = "jobs"
-		name = "Job Openings"
-		url = "/get-involved/jobs"
-		weight = 43
-
-		[[menu.primary]]
-		parent = "get-involved"
 		identifier = "volunteer"
 		name = "Volunteer"
 		url = "/get-involved/volunteer"
-		weight = 44
-
-		[[menu.primary]]
-		parent = "get-involved"
-		identifier = "auditions"
-		name = "Auditions"
-		url = "/get-involved/auditions"
-		weight = 45
+		weight = 42
 
 
 [secondary-menu]

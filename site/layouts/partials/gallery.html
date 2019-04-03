@@ -15,11 +15,11 @@
         {{ $next_img := add $index 1 }}
         {{ $prev_img := sub $index 1 }}
 
-        <div class="bg-black w-30-ns mb4 mr3 br1">
+        <div class="w-30-ns mb4 mr3">
           <div class="perfundo">
             <a class="perfundo__link js-perfundo-link" href="#perfundo-{{ $index }}">
               <!-- <img src="{{.image}}" alt="{{ if .caption }}{{.caption}}{{ end }}" class="mb3"> -->
-              <div class="perfundo__image db br1" style="width: 800px; padding-top: 66.25%; background-image: url({{.image}});"></div>
+              <div class="perfundo__image db" style="width: 800px; padding-top: 66.25%; background-image: url({{.image}});"></div>
             </a>
             <div id="perfundo-{{ $index }}" class="perfundo__overlay js-perfundo-overlay">
               <figure class="perfundo__content perfundo__figure">

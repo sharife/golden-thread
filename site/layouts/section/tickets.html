@@ -1,0 +1,78 @@
+{{ define "main" }}
+
+  {{ partial "jumbotron" (dict "background" .Params.background "title" .Title) }}
+
+  {{ if .Params.sidebar }}
+
+    <div class="mw7 center ph3 pt4 flex-ns justify-between-ns">
+
+      <div class="cms pv3 w-60-ns">
+        {{ if .Params.intro }}
+          <div class="f5 mb3">
+              {{ .Params.intro | markdownify }}
+          </div>
+        {{ end }}
+        {{ if .Params.blockquotes }}
+          {{ range .Params.blockquotes }}
+            {{ partial "blockquote" . }}
+          {{ end }}
+        {{ end }}
+
+      {{ if .Params.grids }} 
+        {{ range .Params.grids }}
+          {{ partial "3-up" ( . ) }}
+        {{ end }}
+      {{ end }}
+
+      {{ if .Params.lists }} 
+        {{ range .Params.lists }}
+          {{ partial "list-sm" ( . ) }}
+        {{ end }}
+      {{ end }}
+          
+        {{ .Content }}
+      </div>
+      <div class="pv3 w-30-ns">
+        {{ if .Params.sidebar }}
+          {{ partial "sidebar" .Params.sidebar }}
+        {{ end }}
+      </div>
+
+    </div>
+
+  {{ else }}
+
+    <div class="mw7 center ph3 pv4">
+      {{ if .Params.intro }}
+        <div class="f5 mb3">
+            {{ .Params.intro | markdownify }}
+        </div>
+      {{ end }}
+        <div class="cms pv3">
+          {{ if .Params.blockquotes }}
+            {{ range .Params.blockquotes }}
+              {{ partial "blockquote" . }}
+            {{ end }}
+          {{ end }}
+
+        {{ if .Params.grids }} 
+          {{ range .Params.grids }}
+            {{ partial "3-up" ( . ) }}
+          {{ end }}
+        {{ end }}
+
+        {{ if .Params.lists }} 
+          {{ range .Params.lists }}
+            {{ partial "list-sm" ( . ) }}
+          {{ end }}
+        {{ end }}
+
+
+
+        {{ .Content }}
+      </div>
+    </div>
+
+  {{ end }}
+
+{{ end }}

@@ -7,7 +7,7 @@
       <p class="mb4 mw6">{{.text}}</p>
     {{ end }}
 
-    <div class="flex-ns mhn2-ns mb3">
+    <div class="flex-ns flex-wrap mhn2-ns mb3">
       {{ range .items }}
       <div class="w-30-ns mb4 mr3">
         {{ if .image }}
@@ -15,6 +15,11 @@
             <img src="{{.image}}" alt="" class="db mb2"></a>
           {{ if .link }}</a>{{ end }}
         {{ end }}
+
+        {{ if .id }}
+          {{ partial "youtube" (dict "id" .id) }}
+        {{ end }}
+
         {{ if .title }}
           <p class="f4 b mb1 lh-title">{{.title | markdownify}}</p>
         {{ end }}

@@ -1,31 +1,165 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
-
-{{ partial "4-up" .Params.intro }}
+{{ partial "jumbotron" (dict "background" .Params.background "title" .Title) }}
 
 
-{{ with .Params.main }}
+{{ if .Params.sidebar }}
+
+    <div class="mw7 center ph3 pt4 flex-ns justify-between-ns">
+
+      <div class="pv3 w-60-ns">
+        <h2 class="f3 lh-title b mb3">{{ .Params.heading }}</h2>
+
+        {{ if .Params.intro }}
+          <p class="f4 mb3">
+              {{ .Params.intro | markdownify }}
+          </p>
+        {{ end }}
+
+        <p class="cms">{{ .Description | markdownify }}</p>
+        
+        {{ if .Params.titleimage }}<img src="{{ .Params.titleimage }}" alt="{{ .Title }}" />{{ end }}
+
+        {{ if .Params.videos }}
+          <div class="mb2">
+            {{ range .Params.videos }}
+              {{ partial "youtube" (dict "id" .id) }}
+            {{ end }}
+          </div>
+        {{ end }}
+
+      </div>
+      <div class="pv3 w-30-ns">
+        {{ if .Params.sidebar }}
+          {{ partial "sidebar" .Params.sidebar }}
+        {{ end }}
+      </div>
+
+    </div>
+
+    <div class="mw7 center ph3 mb4">
+
+      <div class="cms pv3">
+        {{ .Content }}
+      </div>
+
+      {{ if .Params.blockquotes }}
+        {{ range .Params.blockquotes }}
+          {{ partial "blockquote" . }}
+        {{ end }}
+      {{ end }}
+
+      {{ if .Params.grids }} 
+        {{ range .Params.grids }}
+          {{ partial "3-up" ( . ) }}
+        {{ end }}
+      {{ end }}
+
+      {{ if .Params.lists }} 
+        {{ range .Params.lists }}
+          {{ partial "list-sm" ( . ) }}
+        {{ end }}
+      {{ end }}
+
+      {{ if .Params.programs }}
+        {{ range $index, $element := .Params.programs }}
+          {{ if modBool $index 2 }}
+            {{ partial "media-block" $element }}
+          {{ else }}
+            {{ partial "media-block-reverse" $element }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+
+      {{ if .Params.photos }}
+        {{ partial "gallery" (.Params.photos) }}
+      {{ end }}
+    </div>
+
+  {{ else }}
+
+    <div class="mw7 center ph3 pv4">
+      <h2 class="lh-title b mb3">{{ .Params.heading }}</h2>
+      
+      {{ if .Params.intro }}
+        <p class="f4 mb3">
+            {{ .Params.intro | markdownify }}
+        </p>
+      {{ end }}
+
+      <p>{{ .Description | markdownify }}</p>
+      {{ if .Params.titleimage }}<img src="{{ .Params.titleimage }}" alt="{{ .Title }}" />{{ end }}
+      
+      {{ if .Params.videos }}
+        <div class="mb4">
+          {{ range .Params.videos }}
+            {{ partial "youtube" (dict "id" .id) }}
+          {{ end }}
+        </div>
+      {{ end }}
+
+      <div class="cms pv3">
+        {{ .Content }}
+      </div>
+
+      {{ if .Params.blockquotes }}
+        {{ range .Params.blockquotes }}
+          {{ partial "blockquote" . }}
+        {{ end }}
+      {{ end }}
+
+      {{ if .Params.grids }} 
+        {{ range .Params.grids }}
+          {{ partial "3-up" ( . ) }}
+        {{ end }}
+      {{ end }}
+
+      {{ if .Params.lists }} 
+        {{ range .Params.lists }}
+          {{ partial "list-sm" ( . ) }}
+        {{ end }}
+      {{ end }}
+
+      {{ if .Params.programs }}
+        {{ range $index, $element := .Params.programs }}
+          {{ if modBool $index 2 }}
+            {{ partial "media-block" $element }}
+          {{ else }}
+            {{ partial "media-block-reverse" $element }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+
+      {{ if .Params.photos }}
+        {{ partial "gallery" (.Params.photos) }}
+      {{ end }}
+
+    </div>
+
+  {{ end }}
+
+
+<!-- {{ with .Params.main }}
 <div class="mw7 center">
   <div class="mw6 ph3 mb3">
     <h3 class="f3 b lh-title mb2">{{ .heading }}</h3>
     <p>{{ .description }}</p>
   </div>
-</div>
+</div> -->
 
 <!-- Image grid -->
-{{ partial "image-grid" . }}
-{{ end }}
+<!-- {{ partial "image-grid" . }}
+{{ end }} -->
 
-<div class="pb4">
+<!-- <div class="pb4">
   {{ range .Params.testimonials }}
     {{ partial "blockquote" . }}
   {{ end }}
-</div>
+</div> -->
 
 <!-- Full-width image -->
-<img src="{{ .Params.full_image }}" alt="" class="db w-100">
+<!-- <img src="{{ .Params.full_image }}" alt="" class="db w-100">
 
-{{ partial "table" .Params.pricing }}
+{{ partial "table" .Params.pricing }} -->
 
 {{ end }}

@@ -7,15 +7,17 @@
 		<p class="f6 link b dib black mb0">Read more →</p>
 	</a> -->
 	<div class="flex-ns flex-wrap mhn2-ns">
+		{{ if .Params.background }}
 	  <div class="mr2 w-30-ns">
 	    <a href="{{.Permalink}}">
 	      <img src="{{.Params.background}}" alt="" class="w-60 w-100-ns db mb3">
 	    </a>
 	  </div>
-	  <div class="ph2-ns w-60-ns">
+	  {{ end }}
+	  <div class="ph2-ns {{if .Params.background}}w-60-ns{{end}}">
 	    <h3 class="f4 b lh-title">{{.Title}}</h3>
 	    <p class="cms f6 mb0">{{.Description | markdownify }}</p>
-	    <!-- <p class="b"><a href="{{.Permalink}}" class="link">→ View</a></p> -->
+	    <p class="b"><a href="{{.Permalink}}" class="link">→ View</a></p>
 	  </div>
 	</div>
 </div>

@@ -295,3 +295,15 @@ html,body {
         opacity: 1;
     }
 }
+
+.cms ul {
+  max-width: 35rem;
+  padding-left: 2rem;
+}
+
+hr {
+  max-width: 40rem;
+  border-color: var(--secondary);
+  margin: 1rem 0;
+  border-top: 0;
+}

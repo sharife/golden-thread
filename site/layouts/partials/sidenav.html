@@ -11,8 +11,8 @@
             </li>
         {{ end }}
     </ul>
-    <hr width="80%" style="border-color: white; opacity: 0.5;">
-    <ul>
+    <hr width="80%" style="border-color: white; opacity: 0.5; margin-left: 1.75rem;">
+    <ul style="margin-bottom:2rem;">
         {{ range .Site.Menus.primary }}
             {{ if .HasChildren }}
                 <li class="{{ if $currentPage.HasMenuCurrent "primary" . }}active{{ end }}">
@@ -23,7 +23,7 @@
                     <ul class="submenu-r">
                         {{ range .Children }}
                             <li class="{{ if $currentPage.IsMenuCurrent "primary" . }}active{{ end }}">
-                                <a href="{{ .URL }}">&#9656; {{ .Name }}</a>
+                                <a href="{{ .URL }}">{{ .Name }}</a>
                             </li>
                         {{ end }}
                     </ul>

@@ -1,12 +1,12 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "background" .Params.background "pre" .Params.pre "title" .Title "subtitle" .Params.subtitle "cta" .Params.cta "link" .Params.link) }}
+{{ partial "jumbotron" (dict "background" .Params.background "pre" .Params.pre "title" .Title "subtitle" .Params.subtitle "cta" .Params.cta "link" .Params.link "writer" .Params.writer) }}
 
   <div class="mw7 center ph3 pv4">
     <div class="flex-ns justify-between">
       <div class="cms w-60-ns">
         <h2 class="lh-title b mb3">{{ .Params.heading }}</h2>
-        <p>{{ .Description | markdownify }}</p>
+        <p class="cms">{{ .Description | markdownify }}</p>
         {{ if .Params.titleimage }}<img src="{{ .Params.titleimage }}" alt="{{ .Title }}" />{{ end }}
         {{ if .Params.videos }}
           <div class="mb4">
@@ -17,10 +17,14 @@
         {{ end }}
       </div>
       <div class="w-33-ns mb4">
-        <p class="f4 b mb3">{{ dateFormat "Jan 2, 2006" .Params.start }} - {{ dateFormat "Jan 2, 2006" .Params.end }}</p>
-        <p class="f5 b mb0">{{ .Params.stage }}</p>
+        {{ if .Params.start }}
+          <p class="f4 b mb3">{{ dateFormat "Jan 2, 2006" .Params.start }} {{ if .Params.end }}- {{ dateFormat "Jan 2, 2006" .Params.end }}{{ end }}</p>
+        {{ end }}
+        {{ if .Params.stage }}
+          <p class="f5 b mb0">{{ .Params.stage }}</p>
+        {{ end }}
         {{ if .Params.address }}
-        <p class="mb3">{{ .Params.address }}</p>
+          <p class="mb3">{{ .Params.address }}</p>
         {{ end }}
         {{ if .Params.ticketlink }}
           <div class="pv2">
@@ -40,7 +44,10 @@
           <p class="f6 mb2">{{ .Params.ticketinfo | markdownify }}</p>
         {{ end }}
 
-        <p class="f6 mb3"><a href="/visit" class="link">→ Plan your visit</a></p>
+        {{ if .Params.ticketlink }}
+          <p class="f6 mb3"><a href="/about/visit" class="link">→ Plan your visit</a></p>
+        {{ end }}
+        
         <div class="mb3">
           {{ if .Params.writer }} <p class="mb1">Written by <span class="b">{{ .Params.writer }}</span></p> {{ end }}
           {{ if .Params.director }} <p class="mb1">Directed by <span class="b">{{ .Params.director }}</span></p> {{ end }}

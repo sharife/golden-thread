@@ -1,16 +1,41 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+{{ partial "jumbotron" (dict "background" .Params.background "pre" .Params.pre "title" .Title "subtitle" .Params.subtitle "cta" .Params.cta "link" .Params.link) }}
+
 
 <div class="mw7 center ph3 pt4">
 
-  {{ range $index, $element := .Params.values }}
+	{{ if .Params.intro }}
+      <p class="f4 mb3">
+          {{ .Params.intro | markdownify }}
+      </p>
+    {{ end }}
+
+
+    {{ if .Params.lists }} 
+      {{ range .Params.lists }}
+        {{ partial "list-sm" ( . ) }}
+      {{ end }}
+    {{ end }}
+
+    <hr />
+
+  <h3 class="f3 b">Mainstage Productions</h3>
+  <ul class="flex-ns flex-wrap mhn1-ns pv3">
+      {{ range first 3 (where .Site.Pages "Type" "productions") }}
+          <div class="w-100-ns ph1-ns flex">
+            {{ .Render "li"}}
+          </div>
+      {{ end }}
+  </ul>
+
+<!--   {{ range $index, $element := .Params.values }}
     {{ if modBool $index 2 }}
       {{ partial "media-block" $element }}
     {{ else }}
       {{ partial "media-block-reverse" $element }}
     {{ end }}
-  {{ end }}
+  {{ end }} -->
 
 </div>
 

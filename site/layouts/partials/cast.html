@@ -11,7 +11,7 @@
       <div class="w-30-ns mb4 mr3 flex justify-between">
         {{ if .image }}
           <div class="w-33">
-          {{ if .bio }}<a href="#open-modal-{{.credit}}">{{ end }}
+          {{ if .bio }}<a href="#open-modal-{{.name}}">{{ end }}
             <img src="{{.image}}" alt="" class="db mr1 mb1">
           {{ if .bio }}</a>{{ end }}
           </div>
@@ -23,8 +23,8 @@
               <p class="f6 i mb0">{{.credit}}</p>
             {{ end }}
             {{ if .bio }}
-              <p class="f6 mb0"><a href="#open-modal-{{.credit}}" class="link">→ Bio</a></p>
-              <div id="open-modal-{{.credit}}" class="modal-window">
+              <p class="f6 mb0"><a href="#open-modal-{{.name}}" class="link">→ Bio</a></p>
+              <div id="open-modal-{{.name}}" class="modal-window">
                 <div>
                   <a href="#!" title="Close" class="modal-close"><img src="/img/close-button.svg" alt="close" class="w-40 mt2 ml3"></a>
                   <div class="scrollme">
