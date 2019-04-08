@@ -22,6 +22,9 @@
 	  {{ end }}
 	  <div class="ph2-ns w-60-ns">
 	    <h3 class="f3 b lh-title">{{.Title}}</h3>
+	    {{ if .Params.start }}
+          <p class="f6 b mb1">{{ dateFormat "January 2, 2006" .Params.start }} {{ if .Params.end }}- {{ dateFormat "January 2, 2006" .Params.end }}{{ end }}</p>
+        {{ end }}
 	    <p class="cms f6 mb0">{{.Description | markdownify }}</p>
 	    <p class="b"><a href="{{.Permalink}}" class="link">→ View</a></p>
 	  </div>
