@@ -37,7 +37,7 @@ Humaira played an integral part in guiding me in how the people in Afghanistan l
 **COSTUME SKETCHES **
 
 
-![DAOUD](https://www.goldenthread.org/wp-content/uploads/2016/04/DAOUD-766x1024.jpg) ![LITTLE GIRL (REVISED)](https://www.goldenthread.org/wp-content/uploads/2016/04/LITTLE-GIRL-REVISED-761x1024.jpg)   ![NADER](https://www.goldenthread.org/wp-content/uploads/2016/04/NADER-762x1024.jpg) ![SAMIRA (REVISED)](https://www.goldenthread.org/wp-content/uploads/2016/04/SAMIRA-REVISED-751x1024.jpg) ![TRAFFIC](https://www.goldenthread.org/wp-content/uploads/2016/04/TRAFFIC-769x1024.jpg) ![ZARIF (REVISED)](https://www.goldenthread.org/wp-content/uploads/2016/04/ZARIF-REVISED-761x1024.jpg)
+![DAOUD](/img/archive/2016/04/DAOUD-766x1024.jpg) ![LITTLE GIRL (REVISED)](/img/archive/2016/04/LITTLE-GIRL-REVISED-761x1024.jpg)   ![NADER](/img/archive/2016/04/NADER-762x1024.jpg) ![SAMIRA (REVISED)](/img/archive/2016/04/SAMIRA-REVISED-751x1024.jpg) ![TRAFFIC](/img/archive/2016/04/TRAFFIC-769x1024.jpg) ![ZARIF (REVISED)](/img/archive/2016/04/ZARIF-REVISED-761x1024.jpg)
 
 
 
@@ -257,7 +257,7 @@ Thursdays–Saturdays at 8pm and Sundays at 3pm
 
 
 
-![](https://www.goldenthread.org/wp-content/uploads/2016/03/Courtney.jpg)
+![](/img/archive/2016/03/Courtney.jpg)
 
 **Courtney Flores** is a Bay Area Costume Designer. This is her first production with Golden Thread Productions. Recent productions include: _Babylon is Burning_ with Campo Santo at Z Space, _Life Is A Dream_ and _Superheroes _at Cutting Ball Theatre_, By The Way Meet Vera Stark_ and _Skin of Our Teeth_ at Douglas Morrison Theatre, _Spiritrials _with Youth Speaks at Z Space, _Taming of the Shrew_ at San Francisco Shakespeare Festival, _Daylighting_ at Shotgun Players, and _Chasing Mesherle_ at Intersection For The Arts.
 

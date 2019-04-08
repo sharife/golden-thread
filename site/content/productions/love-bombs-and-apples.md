@@ -4,12 +4,9 @@ pre: IN ASSOCIATION WITH TURTLE KEY ARTS AND AIK PRODUCTIONS
 date: 2019-03-12T15:04:10.000Z
 start: 2018-04-19T15:04:10.000Z
 end: 2018-05-06T15:04:10.000Z
-menu:
-  primary:
-    parent: 'season'
 heading: The critically-acclaimed production makes its U.S. debut after two sold-out runs in London
 description: >-
-  A Palestinian actor learns there’s more to English girls than pure sex appeal. A Pakistani-born terror suspect figures out what’s wrong with his first novel. A British youth suspects all is not what it seems with his object of desire. A New Yorker asks his girlfriend for a sexual favor at the worst possible time. Love, Bombs & Apples is the comic tale of four men, each from different parts of the globe, all experiencing a moment of revelation.
+  A Palestinian actor learns there’s more to English girls than pure sex appeal. A Pakistani-born terror suspect figures out what’s wrong with his first novel. A British youth suspects all is not what it seems with his object of desire. A New Yorker asks his girlfriend for a sexual favor at the worst possible time. *Love, Bombs & Apples* is the comic tale of four men, each from different parts of the globe, all experiencing a moment of revelation.
 background: /img/hero-apples.jpg
 videos:
   - id: BrbpcnKkp3c
@@ -69,12 +66,8 @@ cast:
       bio: >
         Asif Khan (Performer) is an award–winning writer and actor born and raised in Bradford, U.K. He trained at RADA. Theatre credits include *A Passage To India* (Royal & Derngate/Park Theatre), *The Hypocrite* (Royal Shakespeare Company/HullTruck), *Paradise of the Assassins* (Tara Arts), *Love, Bombs & Apples* (Arcola Theatre and U.K. tour), *Handbagged* (2015 tour, Tricycle Theatre/Eleanor Lloyd Productions), *Multitudes* (Tricycle Theatre), *Queen of the Nile* (HullTruck), *Kabaddi Kabaddi Kabaddi* (Arcola Theatre), *The Snow Queen* (Unicorn Theatre/ Trestle), *Snookered* (Tamasha/Bush Theatre), *Mixed Up North* (Out of Joint), *Twelfth Night* (National Theatre). Screen work includes *Diana & I* (BBC2), *Love Type D* (feature film to be released soon); *Spooks* (Series 10); *The Dumping Ground*, *Doctors*, *Casualty* (BBC); *Terry Pratchett’s Going Postal* (Sky1); *Man Down*, *Bradford Riots*, and *Plot to Bring Down Britain’s Planes* (Channel 4). His debut play *Combustion* toured the U.K. in 2017, and was nominated for OffWestEnd’s Best New Play award and Best Writer in the Stage Debut awards. In 2018, Asif won the Channel 4 Playwright’s Scheme award with RIFCO and Watford Palace, where he is currently under commission. He developed his first sitcom, *Dirty Shiny Bradford*, while part of the BBC Comedy Room and he was named on the BBC New Talent Hotlist in 2017. He is also under commission to the National Youth Theatre and is developing his first screenplay. <a href="http://theasifkhan.com">theasifkhan.com</a>
     - text: >
-        Scenic & Costume Design: **Mila Sanders** <br />Props Master: **Grisel Torres** <br />Box Office Assistant: **Niku Sharei**
-    - text: >
-        Lighting Design: **Charlie Lucas** <br />Lighting Remounted by **Cassie Barnes** <br />Stage Manager: **Grisel Torres**
-    - text: >
-        Sound Design: **James Hesford** <br />Sound Remounted by **James Ard**
-sponsors: 
+        Scenic & Costume Design: **Mila Sanders**, Props Master: **Grisel Torres**, Box Office Assistant: **Niku Sharei**, Lighting Design: **Charlie Lucas**, Lighting Remounted by **Cassie Barnes**, Stage Manager: **Grisel Torres**, Sound Design: **James Hesford**, Sound Remounted by **James Ard**
+bottom: 
   heading: SPONSORS
   text: >
     Golden Thread thanks Zellerbach Family Foundation for their support of this premiere. Turtle Key Arts would like to acknowledge the support of AIK Productions, Arts Council England, The Iraqi Cultural Centre, The Richard Carne Trust, Shubbak Festival, and Arcola Theatre, as well as the following for supporting us to bring the production to San Francisco: Edward Kemp at Rada, Juliet Horsley at the National Theatre, Fin Kennedy at Tamasha Theatre, Derek Goldman at Georgetown University, Dane Millard at Roxane Vacca Management, and Emanuel de Lange at UK Equity. Charlotte Cunningham, Holly Cameron-Jennings and Imogen Collacott from Turtle Key Arts. <br /><br />Opening night celebration food is donated by Jannah Restaurant. <br/><br />Golden Thread is a resident company of Potrero Stage, operated by PlayGround. This production is made possible in part through the Potrero Stage Presenting Program.

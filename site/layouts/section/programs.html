@@ -16,9 +16,9 @@
           </p>
         {{ end }}
 
+        {{ if .Params.titleimage }}<img class="mb2" src="{{ .Params.titleimage }}" alt="{{ .Title }}" />{{ end }}
+
         <p class="cms">{{ .Description | markdownify }}</p>
-        
-        {{ if .Params.titleimage }}<img src="{{ .Params.titleimage }}" alt="{{ .Title }}" />{{ end }}
 
         {{ if .Params.videos }}
           <div class="mb2">
@@ -87,8 +87,9 @@
         </p>
       {{ end }}
 
+      {{ if .Params.titleimage }}<img class="mb2" src="{{ .Params.titleimage }}" alt="{{ .Title }}" />{{ end }}
+
       <p>{{ .Description | markdownify }}</p>
-      {{ if .Params.titleimage }}<img src="{{ .Params.titleimage }}" alt="{{ .Title }}" />{{ end }}
       
       {{ if .Params.videos }}
         <div class="mb4">

@@ -6,8 +6,8 @@
     <div class="flex-ns justify-between">
       <div class="cms w-60-ns">
         <h2 class="lh-title b mb3">{{ .Params.heading }}</h2>
-        <p class="cms">{{ .Description | markdownify }}</p>
         {{ if .Params.titleimage }}<img src="{{ .Params.titleimage }}" alt="{{ .Title }}" />{{ end }}
+        <p class="cms">{{ .Description | markdownify }}</p>
         {{ if .Params.videos }}
           <div class="mb4">
             {{ range .Params.videos }}
@@ -18,7 +18,7 @@
       </div>
       <div class="w-33-ns mb4">
         {{ if .Params.start }}
-          <p class="f4 b mb3">{{ dateFormat "Jan 2, 2006" .Params.start }} {{ if .Params.end }}- {{ dateFormat "Jan 2, 2006" .Params.end }}{{ end }}</p>
+          <p class="f4 b mb3">{{ dateFormat "January 2, 2006" .Params.start }} {{ if .Params.end }}- {{ dateFormat "January 2, 2006" .Params.end }}{{ end }}</p>
         {{ end }}
         {{ if .Params.stage }}
           <p class="f5 b mb0">{{ .Params.stage }}</p>
@@ -52,11 +52,12 @@
           {{ if .Params.writer }} <p class="mb1">Written by <span class="b">{{ .Params.writer }}</span></p> {{ end }}
           {{ if .Params.director }} <p class="mb1">Directed by <span class="b">{{ .Params.director }}</span></p> {{ end }}
           {{ if .Params.featuring }} <p class="mb1">Featuring <span class="b">{{ .Params.featuring }}</span></p> {{ end }}
+          {{ if .Params.additional }} <p class="f6 mb1 i">{{ .Params.additional }}</p> {{ end }}
         </div>
         <div class="mb3">
           {{ if .Params.awards }}<p class="f6 b i mb1">{{ .Params.awards }}</p> {{ end }}
           {{ if .Params.awardsimage }} <img src="{{ .Params.awardsimage }}" class="mw3" alt="" /> {{ end }}
-          {{ if .Params.misc }} <hr /><p class="f6 mb1">{{ .Params.misc }}</p> {{ end }}
+          {{ if .Params.misc }} <hr /><p class="f6 mb1">{{ .Params.misc | markdownify }}</p> {{ end }}
         </div>
       </div>
     </div>
@@ -89,9 +90,9 @@
       <div class="mw7 center ph3">
       {{ end }}
 
-      {{ if .Params.cast }} {{ partial "cast" (.Params.cast) }} {{ end }}
+      {{ if .Params.cast }} {{ partial "people" (.Params.cast) }} {{ end }}
 
-      {{ if .Params.sponsors }} {{ partial "sponsors" (.Params.sponsors) }} {{ end }}
+      {{ if .Params.bottom }} {{ partial "bottom" (.Params.bottom) }} {{ end }}
     </div>
   </div>
 {{ end }}

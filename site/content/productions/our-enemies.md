@@ -1,12 +1,9 @@
 ---
 title: Our Enemies
-subtitle: LIVELY SCENES OF LOVE AND COMBAT
+subtitle: Lively Scenes of Love And Combat
 date: 2016-10-28T15:04:10.000Z
 start: 2016-11-20T15:04:10.000Z
 end: 2016-05-29T15:04:10.000Z
-menu:
-  primary:
-    parent: 'season'
 heading: A West Coast Premiere Play by Yussef El Guindi
 description: >-
   Struggling writer Gamal hates the way his fellow Arab-Americans represent their culture on American media. It’s easy enough to take out his frustration on literature superstar Mohsen and local mosque leader, Sheikh Alfani. But when his own girlfriend and novelist Noor gets an offer from a major publisher backed with a national media campaign, how will Gamal manage his frustration?<br /><br />Award-winning Egyptian-American playwright Yussef El Guindi holds the honor of being the most produced writer at Golden Thread. El Guindi has won the Steinberg/American Theater Critics Association’s New Play Award in 2012, and was the recipient of the 2010 Middle East America Distinguished Playwright Award. His previous premieres with the company include <em>Language Rooms</em>, <em>Jihad Jones and the Kalashnikov Babes</em>, <em>Back of the Throat</em>, <em>Scenic Routes</em>, and many shorts in ReOrient Festivals. Golden Thread performed El Guindi’s <em>Karima’s City</em> at the Cairo International Festival for Experimental Theatre in 2004.
@@ -19,7 +16,6 @@ ticketinfo: >
   **Ticket Pricing:** Previews $15 | General Admission $34 | Student/Senior $24 *(No additional fees)*
 stage: Thick House
 address: 1695 18th Street, San Francisco
-awards:
 awardsimage: /img/tba-recommended-red-square.png
 misc: >-
   Strong language and sexual situations.
@@ -128,11 +124,7 @@ cast:
       bio: >
         Salim Razawi <em>(Hani)</em> is thrilled to return to Golden Thread where he was last seen as part of the ReOrient readings. He most recently performed in <em>Book of Liz</em> at Altarena Playhouse and toured the Bay Area in the world premiere of <em>Rickshaw Girl</em> with Bay Area Children&#8217;s Theatre. In addition to these, Salim has performed with TheatreWorks, Broadway By the Bay, Pacific Coast Repertory Theatre, Berkeley Playhouse, Tri-Valley REP, Tabard Theatre, Livermore Shakespeare Festival, and SF Shakespeare Festival. When not on stage, Salim is a director, teaching artist, and stage manager for multiple theatre companies throughout the Bay Area. He would like to thank his Rickshaw family for their constant love and support. He can also be seen on a featured TEDx Talk. More at <a href="http://salimrazawi.weebly.com">salimrazawi.weebly.com</a>.
     - text: >
-        **Kenan Arun** (make-up consultant)<br />**Cassie Barnes** (lighting designer)<br />**Michael Truman Cavanaugh** (stage manager)<br />**Naseem Etemad** (assistant stage manager)
-    - text: >
-        **Beckett Finn** (technical director)<br />**Courtney Flores** (costume designer)<br />**Devon LaBelle** (props designer)<br />**Kevin August Landesman** (projection designer)
-    - text: >
-        **Carla Pantoja** (fight choreographer)<br />**George Psarras** (sound designer)<br />**Benjamin Shiu** (production assistant)<br />**Mikiko Uesugi** (set designer)
+        **Kenan Arun** (make-up consultant), **Cassie Barnes** (lighting designer), **Michael Truman Cavanaugh** (stage manager), **Naseem Etemad** (assistant stage manager), **Beckett Finn** (technical director), **Courtney Flores** (costume designer), **Devon LaBelle** (props designer), **Kevin August Landesman** (projection designer), **Carla Pantoja** (fight choreographer), **George Psarras** (sound designer), **Benjamin Shiu** (production assistant), **Mikiko Uesugi** (set designer)
 ---
 
 ## Reviews

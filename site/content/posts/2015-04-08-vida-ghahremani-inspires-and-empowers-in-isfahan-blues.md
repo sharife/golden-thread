@@ -16,7 +16,7 @@ tags:
 # **NEW VIDEO: Vida Ghahremani inspires and empowers**
 
 
-[![Vida Ghahremani Stars in Isfahan Blues](https://www.goldenthread.org/wp-content/uploads/2015/04/VidaFeature_Web.jpg)](https://youtu.be/FV8LspJJK8s)
+[![Vida Ghahremani Stars in Isfahan Blues](/img/archive/2015/04/VidaFeature_Web.jpg)](https://youtu.be/FV8LspJJK8s)
 _"What Vida did was no small feat for a woman in '63,"_ director **Laura Hope** explains, _"She's such a role model for us, to be true to who you are...and insist that our stories be told!"_
 
 

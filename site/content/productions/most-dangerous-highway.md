@@ -4,9 +4,6 @@ pre: A WORLD PREMIERE PLAY BY KEVIN ARTIGUE
 date: 2016-03-10T15:04:10.000Z
 start: 2016-05-06T15:04:10.000Z
 end: 2016-05-29T15:04:10.000Z
-menu:
-  primary:
-    parent: 'season'
 description: >-
   A fearless eight-year old businessman makes his living directing traffic with a soda bottle on the highway connecting Jalalabad to Kabul. Soldiers, accidents, and ghosts are no match for this little fighter with a knack for surviving the toughest challenges. Inspired by a [New York Times](http://www.nytimes.com/2012/10/14/world/asia/afghan-boys-eke-living-amid-peril-at-gorge.html?_r=1) article about the real-life “Pepsi bottle boys” of Afghanistan, this poetic play introduces an up-and-coming writer of great promise.<br /><br />Kevin Artigue is a graduate of Public Theater’s prestigious Emerging Writers Group and the first playwright of non-Middle Eastern descent to be produced on the Golden Thread mainstage. He has been developing this play with Golden Thread for three years, including as part of the 2014 National New Play Network’s showcase.
 background: /img/hero-new.jpg
@@ -20,7 +17,6 @@ ticketinfo: >
   **Ticket Pricing:** Previews $10 | General Admission $34 | Student/Senior $24
 stage: Thick House
 address: 1695 18th Street, San Francisco
-awards:
 awardsimage: /img/tba-recommended-red-square.png
 misc: >-
   Videos by Peter Ruocco. Photos used in video by Mauricio Lima for the New York Times and Zalmai Ahad.
@@ -125,11 +121,7 @@ cast:
         Davern Wright is thrilled to be working with Golden Thread again. Acting credits include Marin Shakespeare Company, 42<sup>nd</sup> St. Moon, Ragged Wing Ensemble, Bindlestiff Studio, Douglas Morrison Theatre, Those Women Productions, and many others.  Writing credits include<em> Cratchit </em>(Best of Playground SF 2015; December 2014 Playground SF People’s Choice Award), <em>Would You Like the Can, Sir? </em>(January 2015 Playground SF People’s Choice Award), and <em>Something’s Wrong with Peter</em> (2011 Santa Fe Film Festival Official Selection).  He is a Playground SF Resident Playwright and winner of their 2015 Emerging Playwright Award. He has an M.F.A. in Film Production from the University of Southern California and a B.A. in Theatre from Williams College.  He currently teaches in the Motion Picture and Television department at the Academy of Art University in San Francisco.
     - text: > 
     - text: >
-        Sound Designer: **James Ard**<br />Make-up Designer: **Kenan Arun**<br />Scenic Designer: **Kate Boyd**<br />Technical Director: **Dave Garner**<br />Production Coordinator: **Michael Cavanaugh**
-    - text: >
-        Assistant Stage Manager: **Naseem Etemad**<br />Costume Designer: **Courtney Flores**<br />Cultural Consultant: **Humaira Ghilzai**<br />Stage Manager: **Marie Shell**<br />Fight Choreographer: **Carla Pantoja**
-    - text: >
-        Properties Designer: **Lizabeth Stanley**<br />Acting Coach for young actors: **Valerie Weak**<br />Production Assistant: **Walid Azad**<br /> Lighting Designer: **Cassie Barnes**
+        Sound Designer: **James Ard**, Make-up Designer: **Kenan Arun**, Scenic Designer: **Kate Boyd**, Technical Director: **Dave Garner**, Production Coordinator: **Michael Cavanaugh**, Assistant Stage Manager: **Naseem Etemad**, Costume Designer: **Courtney Flores**, Cultural Consultant: **Humaira Ghilzai**, Stage Manager: **Marie Shell**, Fight Choreographer: **Carla Pantoja**, Properties Designer: **Lizabeth Stanley**, Acting Coach for young actors: **Valerie Weak**, Production Assistant: **Walid Azad**, Lighting Designer: **Cassie Barnes**
 ---
 
 ## Reviews

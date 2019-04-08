@@ -21,7 +21,7 @@ tags:
 ### _by Nakissa Etemad, Isfahan Blues Dramaturg_
 
 
-[![FarEastSuite](https://www.goldenthread.org/wp-content/uploads/2015/05/FarEastSuite.jpg)](https://www.goldenthread.org/2015/05/15/americasgoodwillambassador/fareastsuite/)
+[![FarEastSuite](/img/archive/2015/05/FarEastSuite.jpg)](https://www.goldenthread.org/2015/05/15/americasgoodwillambassador/fareastsuite/)
 
 
 _Album Cover of Duke Ellington’s The Far East Suite, RCA Victor, 1967_

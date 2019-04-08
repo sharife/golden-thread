@@ -10,12 +10,13 @@
       {{ range .items }}
       <div class="w-30-ns mb4 mr3 flex justify-between">
         {{ if .image }}
-          <div class="w-33">
+          <div class="w-33 mr2">
           {{ if .bio }}<a href="#open-modal-{{.name}}">{{ end }}
             <img src="{{.image}}" alt="" class="db mr1 mb1">
           {{ if .bio }}</a>{{ end }}
           </div>
-          <div class="w-60">
+        {{ end }}
+          <div class="w-100">
             {{ if .name }}
               <p class="f6 b mb0">{{.name}}</p>
             {{ end }}
@@ -38,11 +39,12 @@
               </div>
             {{ end }}
           </div>
-        {{ end }}
-        {{ if .text }}
-          <p class="f6 mb0">{{.text | markdownify}}</p>
-        {{ end }}
       </div>
+      {{ if .text }}
+        <div class="w-100 mb4">
+          <p class="f6 mb0">{{.text | markdownify}}</p>
+        </div>
+        {{ end }}
       {{ end }}
     </div>
 

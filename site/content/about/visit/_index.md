@@ -2,18 +2,6 @@
 date: 2018-04-09 23:33:22+00:00
 slug: visit
 title: Plan Your Visit
-intro: >
-  **POTRERO STAGE** is located in the Potrero Hill neighborhood at 1695 18th Street, San Francisco.<br /><br />
-  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3154.1859706652153!2d-122.40126259838617!3d37.76223737976017!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f7e30702e22ed%3A0x442565984bce2eec!2sGolden+Thread+Productions!5e0!3m2!1sen!2sus!4v1554268597607!5m2!1sen!2sus" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-description: >
-  **ACCESSIBILITY**<br />
-  Potrero Stage is wheelchair accessible. We are not able to provide listening devices at this time.
-  <br /><br />
-  **PARKING**<br />
-  Parking is available on the street. Please arrive early to leave enough time to park, as street parking can be limited during the weekends.
-  <br /><br />
-  **PUBLIC TRANSPORTATION**<br />
-  Buses that come closest to Potrero Stage are **19 Polk** (De Haro St. and 18th St. stop), **22 Fillmore** (18th St. and Connecticut St. stop), and **33 Ashbury** (Potrero Ave and Mariposa St stop). The space is a 20-minute walk from the **16th Street BART Station**. Please note that this part of San Francisco is very hilly, so the walks from these stops can be rigorous. 
 grids:
 - grid: 
   heading: Restaurant Recommendations
@@ -95,3 +83,15 @@ grids:
 ---
 
 
+**POTRERO STAGE** is located in the Potrero Hill neighborhood at 1695 18th Street, San Francisco.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3154.1859706652153!2d-122.40126259838617!3d37.76223737976017!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f7e30702e22ed%3A0x442565984bce2eec!2sGolden+Thread+Productions!5e0!3m2!1sen!2sus!4v1554268597607!5m2!1sen!2sus" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+**ACCESSIBILITY**<br />
+Potrero Stage is wheelchair accessible. We are not able to provide listening devices at this time.
+
+**PARKING**<br />
+Parking is available on the street. Please arrive early to leave enough time to park, as street parking can be limited during the weekends.
+
+**PUBLIC TRANSPORTATION**<br />
+Buses that come closest to Potrero Stage are **19 Polk** (De Haro St. and 18th St. stop), **22 Fillmore** (18th St. and Connecticut St. stop), and **33 Ashbury** (Potrero Ave and Mariposa St stop). The space is a 20-minute walk from the **16th Street BART Station**. Please note that this part of San Francisco is very hilly, so the walks from these stops can be rigorous. 

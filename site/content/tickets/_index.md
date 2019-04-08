@@ -10,7 +10,7 @@ lists:
   items:
     - title: >
         3 Show Pass
-      image: https://www.goldenthread.org/wp-content/uploads/2012/03/3-show-pass-feature.jpg
+      image: /img/archive/2012/03/3-show-pass-feature.jpg
       link: https://goldenthread.secure.force.com/ticket/#sections_a0Ff100000cyMiMEAU
       cta: PURCHASE PASS
       text: >-
@@ -19,7 +19,7 @@ lists:
         $75 (service fees are included) | 25% discount off of single ticket prices
     - title: >
        Scenes From 71* Years
-      image: https://www.goldenthread.org/wp-content/uploads/2012/03/feature-scenes.jpg
+      image: /img/archive/2012/03/feature-scenes.jpg
       link: https://www.goldenthread.org/2019-season/scenes/tickets/
       cta: BUY YOUR TICKETS NOW
       text: >-

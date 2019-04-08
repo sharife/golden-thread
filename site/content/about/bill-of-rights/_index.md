@@ -10,9 +10,9 @@ wordpress_id: 13636
 sidebar: 
   heading: Downloads
   text: >
-    [**Download the Middle Eastern Theatre Artists Bill of Rights** (PDF)](https://www.goldenthread.org/wp-content/uploads/2018/12/MENA-Bill-of-Rights-September-28-2017.docx.pdf)
+    [**Download the Middle Eastern Theatre Artists Bill of Rights** (PDF)](/img/archive/2018/12/MENA-Bill-of-Rights-September-28-2017.docx.pdf)
     <br /><br />
-    [**Download "Dear Producers and Artistic Directors of the American Theatre" Letter** (PDF)](https://www.goldenthread.org/wp-content/uploads/2018/12/Dear-Producers-and-Artistic-Directors-of-the-American-Theatre-September-28-2017.docx-1.pdf)
+    [**Download "Dear Producers and Artistic Directors of the American Theatre" Letter** (PDF)](/img/archive/2018/12/Dear-Producers-and-Artistic-Directors-of-the-American-Theatre-September-28-2017.docx-1.pdf)
 ---
 
 In 2017, two seminal documents were developed as a result of three convenings of Middle Eastern American theatre artists. The first document is an open letter, "Dear Producers and Artistic Directors of the American Theatre," and the second is titled "A Middle Eastern American Theatre Artists Bill of Rights." Given the many artists, activists, and scholars involved in these historic gatherings, our hope is that these two documents will be engaged and discussed within theatre communities across the U.S. and beyond.
@@ -21,7 +21,7 @@ The initial convening occurred in May 2016 in New York City, hosted by the Lark 
 
 Bolstered by the tremendous input and guidance of attendees at each of the three gatherings, these documents were created and compiled by Torange Yeghiazarian, founding artistic director of Golden Thread Productions, and Jamil Khoury, chief programming officer & mission trustee of Silk Road Rising.
 
-![20thAnniversary-Line](https://www.goldenthread.org/wp-content/uploads/2015/03/20thAnniversary-Line.jpg)
+![20thAnniversary-Line](/img/archive/2015/03/20thAnniversary-Line.jpg)
 
 
 # A Middle Eastern American Theatre Artists Bill of Rights
@@ -74,7 +74,7 @@ Furthermore, at this time in history, it’s important that we include American 
 _This document was prepared by Jamil Khoury, Chief Programming Officer & Mission Trustee of Silk Road Rising (Chicago), and Torange Yeghiazarian, Founding Artistic Director of Golden Thread Productions (San Francisco). September 29, 2017_
 
 
-![20thAnniversary-Line](https://www.goldenthread.org/wp-content/uploads/2015/03/20thAnniversary-Line.jpg)
+![20thAnniversary-Line](/img/archive/2015/03/20thAnniversary-Line.jpg)
 
 
 # Dear Producers and Artistic Directors of the American Theatre:

@@ -18,9 +18,9 @@ sidebar:
     **Your generous support is vital to our work.** [**Make your donation today.**](https://goldenthread.secure.force.com/donate/?dfId=a0nf100000eMbmuAAC)
 ---
 
-[![Donate Button](https://www.goldenthread.org/wp-content/uploads/2015/03/Donate-Button-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0nj0000003z3ikAAA)[![Sustaining Donor Button](https://www.goldenthread.org/wp-content/uploads/2015/03/Donate-Button-Sustaining-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0nf100000eMbl8AAC)
+[![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0nj0000003z3ikAAA)[![Sustaining Donor Button](/img/archive/2015/03/Donate-Button-Sustaining-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0nf100000eMbl8AAC)
 
-![](https://www.goldenthread.org/wp-content/uploads/2015/03/20thAnniversary-Line-1024x36.jpg)
+![](/img/archive/2015/03/20thAnniversary-Line-1024x36.jpg)
 
 In today’s 24 hour news cycle and daily stream of tragedy and scandal, it can be hard to see past an ever increasingly fragmented world. Theatre provides a rare opportunity to stop, sit together, and share a common experience. As the first American theatre devoted to the Middle East, Golden Thread has the unique ability to go beyond the headlines and dive deeply into the personal narratives of a region that is often vilified and very rarely celebrated in today’s media.
 
@@ -48,7 +48,7 @@ Any one of the above accomplishments would be cause for pride and celebration, b
 
 Your contribution is essential to our success. [Give as generously as you can](https://goldenthread.secure.force.com/donate/?dfId=a0nj0000003z3ikAAA) because without your support these unique and essential stories will go untold. Only together can we create a less fragmented world.
 
-[![Donate Button](https://www.goldenthread.org/wp-content/uploads/2015/03/Donate-Button-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0nj0000003z3ikAAA)[![Sustaining Donor Button](https://www.goldenthread.org/wp-content/uploads/2015/03/Donate-Button-Sustaining-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0nf100000eMbl8AAC)
-![](https://www.goldenthread.org/wp-content/uploads/2015/03/20thAnniversary-Line-1024x36.jpg)
+[![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0nj0000003z3ikAAA)[![Sustaining Donor Button](/img/archive/2015/03/Donate-Button-Sustaining-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0nf100000eMbl8AAC)
+![](/img/archive/2015/03/20thAnniversary-Line-1024x36.jpg)
 
 [![](https://widgets.guidestar.org/gximage2?o=8177599&l=v4)](https://www.guidestar.org/profile/75-3009451)[![Golden Thread Productions Nonprofit Overview and Reviews on GreatNonprofits](https://cdn.greatnonprofits.org//img/2018-top-rated-awards-badge-embed.png?id=327909)](https://greatnonprofits.org/org/golden-thread-productions)

@@ -21,6 +21,10 @@
           {{ end }}
         {{ end }}
 
+        <div class="cms pv3">
+          {{ .Content }}
+        </div>
+
         {{ if .Params.grids }} 
           {{ range .Params.grids }}
             {{ partial "3-up" ( . ) }}
@@ -39,10 +43,8 @@
 
         {{ if .Params.artists }} {{ partial "cast" (.Params.artists) }} {{ end }}
 
+        {{ if .Params.advisors }} {{ partial "people" (.Params.advisors) }} {{ end }}
 
-        <div class="cms pv3">
-          {{ .Content }}
-        </div>
       </div>
       <div class="pv3 w-30-ns">
         {{ if .Params.sidebar }}
@@ -69,6 +71,10 @@
         {{ end }}
       {{ end }}
 
+      <div class="cms pv3">
+        {{ .Content }}
+      </div>
+
       {{ if .Params.grids }} 
         {{ range .Params.grids }}
           {{ partial "3-up" ( . ) }}
@@ -81,16 +87,14 @@
         {{ end }}
       {{ end }}
 
-      {{ if .Params.staff }} {{ partial "cast" (.Params.staff) }} {{ end }}
+      {{ if .Params.staff }} {{ partial "people" (.Params.staff) }} {{ end }}
 
-      {{ if .Params.board }} {{ partial "cast" (.Params.board) }} {{ end }}
+      {{ if .Params.board }} {{ partial "people" (.Params.board) }} {{ end }}
 
-      {{ if .Params.artists }} {{ partial "cast" (.Params.artists) }} {{ end }}
+      {{ if .Params.artists }} {{ partial "people" (.Params.artists) }} {{ end }}
 
+      {{ if .Params.advisors }} {{ partial "people" (.Params.advisors) }} {{ end }}
 
-      <div class="cms pv3">
-        {{ .Content }}
-      </div>
     </div>
 
   {{ end }}

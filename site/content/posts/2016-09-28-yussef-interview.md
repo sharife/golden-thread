@@ -37,6 +37,6 @@ Unfortunately,  perceptions aren't easily altered. There are certain dominant n
 
 
 
-![Michael Malek Najjar](https://www.goldenthread.org/wp-content/uploads/2016/09/Headshot-MalekNajjar-300x300.jpg)**Michael Malek Najjar** is an assistant professor of Theatre Arts at the University of Oregon. His publications include _Arab American Drama, Film and Performance: A Critical Study, 1908 to the Present_ and _Four Arab American Plays: Works by Leila Buck, Jamil Khoury, Yussef El Guindi, and Lameece Issaq & Jacob Kader. _He serves on the advisory board of New Arab American Theater Works and _Arab Stages_.
+![Michael Malek Najjar](/img/archive/2016/09/Headshot-MalekNajjar-300x300.jpg)**Michael Malek Najjar** is an assistant professor of Theatre Arts at the University of Oregon. His publications include _Arab American Drama, Film and Performance: A Critical Study, 1908 to the Present_ and _Four Arab American Plays: Works by Leila Buck, Jamil Khoury, Yussef El Guindi, and Lameece Issaq & Jacob Kader. _He serves on the advisory board of New Arab American Theater Works and _Arab Stages_.
 
 

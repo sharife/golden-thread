@@ -8,7 +8,7 @@ lists:
   items:
     - title: >
         3 Show Pass
-      image: https://www.goldenthread.org/wp-content/uploads/2012/03/3-show-pass-feature.jpg
+      image: /img/archive/2012/03/3-show-pass-feature.jpg
       link: https://goldenthread.secure.force.com/ticket/#sections_a0Ff100000cyMiMEAU
       cta: PURCHASE PASS
       text: >-

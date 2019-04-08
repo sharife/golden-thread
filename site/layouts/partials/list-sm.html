@@ -1,7 +1,10 @@
 <div class="pt3">
   <h2 class="f3 b lh-title mb2">{{.heading}}</h2>
   {{ if .intro }}
-    <p class="mb2">{{.intro}}</p>
+    <p class="mb4">{{.intro}}</p>
+  {{ end }}
+  {{ if .text }}
+    <p class="mb4">{{.text}}</p>
   {{ end }}
   {{ range .items }}
     <div class="flex-ns justify-between mb3">
@@ -18,6 +21,9 @@
         {{ end }}
         {{ if .title }}
         <h3 class="f4 b lh-title">{{.title | markdownify}}</h3>
+        {{ end }}
+        {{ if .subtitle }}
+        <h4 class="f6 mb2 lh-title">{{.subtitle | markdownify}}</h4>
         {{ end }}
         {{ if .text }}
         <p>{{.text | markdownify }}</p>

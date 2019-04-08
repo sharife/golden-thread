@@ -9,7 +9,7 @@ intro: >
   New Threads is Golden Thread’s annual staged reading series that engages its audience in the process of playmaking and allows writers of Middle Eastern and non-Middle Eastern descent an authentic and supportive space to develop work about the Middle East. Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions.
 title: New Threads Reading Series
 wordpress_id: 10361
-background: https://www.goldenthread.org/wp-content/uploads/2015/10/NewThreads-Slider2-1024x315.jpg
+titleimage: /img/archive/2015/10/NewThreads-Slider2-1024x315.jpg
 sidebar: 
   heading: Artists engaged with 35 presentations
   text: >

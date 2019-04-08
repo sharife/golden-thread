@@ -16,7 +16,7 @@ tags:
 # **NEW VIDEO: _Isfahan Blues_ Brings Two Communities Together**
 
 
-[![Isfahan Blues Brings Two Communities Together](https://www.goldenthread.org/wp-content/uploads/2015/04/PeterVidaFeatureButton1.jpg)](https://www.youtube.com/watch?v=Fn4GtjysVIM)
+[![Isfahan Blues Brings Two Communities Together](/img/archive/2015/04/PeterVidaFeatureButton1.jpg)](https://www.youtube.com/watch?v=Fn4GtjysVIM)
 
 
 _"Collaboration is huge,"_ insists **L. Peter Callender**, Artistic Director of African-American Shakespeare Company,_"and we're hoping that our audiences meet each other, tell stories about their experiences...and that friendships are forged in the audiences, as well as on stage!"_

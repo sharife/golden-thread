@@ -21,7 +21,7 @@ tags:
 ### _ Audience numbers reach record breaking highs _
 
 
-![Isfahan Blues](https://www.goldenthread.org/wp-content/uploads/2015/06/groupfb.png)
+![Isfahan Blues](/img/archive/2015/06/groupfb.png)
 
 We are thrilled to announce that_ Isfahan Blues_ reached a record-breaking high in audience numbers this May. With over 2,000 tickets sold, there was hardly an empty-seat in the entire theater!
 

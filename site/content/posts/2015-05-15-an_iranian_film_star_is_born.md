@@ -21,7 +21,7 @@ tags:
 ### _by Nakissa Etemad, Isfahan Blues Dramaturg_
 
 
-![Tomorrow is Bright](https://www.goldenthread.org/wp-content/uploads/2015/05/14-Tomorrow-is-Bright-1960-Vida-film-poster.jpg)
+![Tomorrow is Bright](/img/archive/2015/05/14-Tomorrow-is-Bright-1960-Vida-film-poster.jpg)
 _Poster for the film Tomorrow is Bright, co-starring Vigen (Iran’s King of Pop & Sultan of Jazz), Fardin (her leading man), and popular singer Delkash. Vida’s character dons Western looks to re-attract her cheating husband._
 
 Eager to establish Iran as a political leader and economic powerhouse, the Shah of Iran Mohammad Reza Pahlavi (ruler from 1941-1979) led the nation towards industrialization and social reform modeled after Western democracies. A U.S.-led coup in 1953 re-established the Shah, and in 1963 Iran was considered America’s main ally in the region. Iran’s young film industry reflected the nation’s desire for modernization and freedom.
