@@ -1,6 +1,5 @@
 ---
 title: "Our Programs"
-background: /img/hero-sweetland.jpg
 programs:
   - heading: "Fairytale Players"
     text: >
@@ -11,7 +10,7 @@ programs:
   - heading: "New Play Development"
     text: >
       Golden Thread ensures the discovery and development of new playwrights and plays through four distinct programs: *Kimia*, *New Threads Staged Reading Series*, *Islam 101*, and *Middle East America*.
-    imageUrl: "/img/hero-islandofanimals.jpg"
+    imageUrl: "/img/hero-ftp-fifthstring.jpg"
     link: /programs/new-plays
     cta: Learn more
   - heading: "New Threads Reading Series"

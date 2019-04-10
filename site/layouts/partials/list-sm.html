@@ -26,7 +26,7 @@
         <h4 class="f6 mb2 lh-title">{{.subtitle | markdownify}}</h4>
         {{ end }}
         {{ if .text }}
-        <p>{{.text | markdownify }}</p>
+        <p class="cms">{{.text | markdownify }}</p>
         {{ end }}
         {{ if .link }}
         <p class="b"><a href="{{.link}}" class="link">→ {{.cta}}</a></p>
