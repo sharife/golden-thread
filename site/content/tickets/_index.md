@@ -1,6 +1,4 @@
 ---
-author: navid@goldenthread.org
-comments: false
 date: 2012-03-27 22:46:58+00:00
 link: https://www.goldenthread.org/tickets/
 slug: tickets
@@ -14,7 +12,7 @@ lists:
       link: https://goldenthread.secure.force.com/ticket/#sections_a0Ff100000cyMiMEAU
       cta: PURCHASE PASS
       text: >-
-        **The 3 Show Passes** offer the best value and priority access to our 2019 Season. Mainstage shows include _Scenes From 71* Years_ by Hannah Khalil, _On Behalf of All Muslims, a Comedy Special_ by Zahra Noorbakhsh, and the ReOrient 2019 Festival of Short Plays.**
+        **The 3 Show Passes** offer the best value and priority access to our 2019 Season. Mainstage shows include _Scenes From 71* Years_ by Hannah Khalil, _On Behalf of All Muslims, a Comedy Special_ by Zahra Noorbakhsh, and the ReOrient 2019 Festival of Short Plays.
         <br />
         $75 (service fees are included) | 25% discount off of single ticket prices
     - title: >
@@ -29,6 +27,20 @@ lists:
         at Potrero Stage (1695 18th Street, San Francisco)
         <br />
         $38 General Admission | $28 Student/Senior 65+ | $20 1st and 2nd Thursdays | $15 Previews
+        <br />
+        Group of 10 or more? Contact [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) for 30% off.
+    - title: >
+       On Behalf of All Muslims: A Comedy Special
+      image: /img/obam-2019-feature.jpg
+      link: https://goldenthread.secure.force.com/ticket/#details_a0Sf1000006r1LPEAY
+      cta: BUY YOUR TICKETS NOW
+      text: >-
+        by **Zahra Noorbakhsh**<br />directed by **Lisa Marie Rollins**, dramaturgy by **Nakissa Etemad**<br />presented in association with **Brava! for Women in the Arts**
+        <br />
+        **June 21-22, 2019**
+        at Brava Theater Center (2781 24th Street, San Francisco)
+        <br />
+        $25 General Admission | $50 Friend of the Arts
         <br />
         Group of 10 or more? Contact [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) for 30% off.
 ---
