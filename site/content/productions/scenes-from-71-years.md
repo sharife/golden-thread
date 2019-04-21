@@ -14,13 +14,8 @@ background: /img/hero-scenes-3.jpg
 titleimage: /img/archive/2019/03/Scenes_1000x400-1.jpg
 writer: Hannah Khalil
 director: Michael Malek Najjar
-ticketlink: https://www.goldenthread.org/2019-season/scenes/tickets/
-ticketinfo: >
-  $38 General Admission; $28 Student/Senior 65+;  $20 1st and 2nd Thursdays; $15 Previews
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco
-misc: >
-  30% off General Admission tickets for groups of 10 or more! Contact boxoffice@goldenthread.org to place your order.
 grids:
 - grid:
   heading: In the Press

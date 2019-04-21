@@ -11,10 +11,6 @@ titleimage: /img/title-our-enemies.jpg
 background: /img/hero-our-enemies.jpg
 writer: Yussef El Guindi
 director: Torange Yeghiazarian
-ticketlink: https://goldenthread.secure.force.com/ticket/#details_a0Sj0000002xMKUEA2
-ticketinfo: >
-  **Ticket Pricing:** Previews $15 | General Admission $34 | Student/Senior $24 *(No additional fees)*
-stage: Thick House
 address: 1695 18th Street, San Francisco
 awardsimage: /img/tba-recommended-red-square.png
 misc: >-

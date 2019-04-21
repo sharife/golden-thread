@@ -11,8 +11,6 @@ videos:
 writer: Amir Nizar Zuabi
 director: Torange Yeghiazarian
 featuring: Nora el Samahy
-ticketinfo: >
-  **All _Oh My Sweet Land_ performances are sold out!**
 awardsimage: /img/tba-recommended-red-square.png
 misc: >-
   In addition to the performances open to the public, _Oh My Sweet Land_ was also presented at organizations such as Stanford University, UC Berkeley, and Google exclusively for those served by the institutions.

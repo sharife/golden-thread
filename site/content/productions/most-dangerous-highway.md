@@ -12,9 +12,6 @@ videos:
   - id: q6WsKQrAHVg
 writer: Kevin Artigue
 director: Evren Odcikin
-ticketlink: https://goldenthread.secure.force.com/ticket/#details_a0Sj0000002xMFFEA2
-ticketinfo: >
-  **Ticket Pricing:** Previews $10 | General Admission $34 | Student/Senior $24
 stage: Thick House
 address: 1695 18th Street, San Francisco
 awardsimage: /img/tba-recommended-red-square.png

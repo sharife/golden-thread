@@ -13,7 +13,6 @@ videos:
 writer: Hassan Abdulrazzak
 director: Rosamunde Hutt
 featuring: Asif Khan
-ticketlink: https://www.goldenthread.org/2018-season/apples/tickets/
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco
 awards: Winner, Theatre Bay Area Award for Outstanding Production, Tier 2
