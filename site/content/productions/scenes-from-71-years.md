@@ -10,8 +10,10 @@ menu:
 heading: An epic snapshot of Palestinian life under occupation
 description: >-
   A picnic interrupted by soldiers. Never-ending lines. Sunbathing in the shadow of a tank. Palestinian-Irish playwright Hannah Khalil draws from stories of family and friends to reveal the real human story: the dreams, comedy, sadness, and frustrations of daily life in the shadow of the ‘separation wall.’ The cast includes members of the Bay Area Palestinian community.
-background: /img/hero-scenes-3.jpg
+background: /img/photo-scenes-1.jpg
 titleimage: /img/archive/2019/03/Scenes_1000x400-1.jpg
+videos:
+  - id: f_Lo3nSXgzE
 writer: Hannah Khalil
 director: Michael Malek Najjar
 stage: Potrero Stage
@@ -41,6 +43,18 @@ grids:
       cta: More info
       text: >-
         Libyan-British blogger Nahla Al-Ageli interviews playwright Hannah Khalil about her new play.
+photos:
+  heading: Photo Gallery
+  items:
+    - image: /img/photo-scenes-1.jpg
+    - image: /img/photo-scenes-2.jpg
+    - image: /img/photo-scenes-3.jpg
+    - image: /img/photo-scenes-4.jpg
+    - image: /img/photo-scenes-5.jpg
+    - image: /img/photo-scenes-6.jpg
+    - image: /img/photo-scenes-7.jpg
+    - image: /img/photo-scenes-8.jpg
+    - image: /img/photo-scenes-9.jpg
 cast:
   heading: Cast & Crew
   items:

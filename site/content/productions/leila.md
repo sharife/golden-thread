@@ -18,7 +18,6 @@ director: Torange Yeghiazarian
 additional: drawn from Palestinian folktales
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco
-ticketlink: https://goldenthread.secure.force.com/ticket/#details_a0Sf10000075wc4EAA
 misc: >
   This production runs approximately 30-minutes followed by 20-min Q & A session. Appropriate for families and children, ages 5-15
 lists:

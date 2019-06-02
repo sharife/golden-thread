@@ -1,26 +1,24 @@
 ---
-title: "Scenes From 71* Years"
-subtitle: An epic snapshot of Palestinian life under occupation
-background: /img/hero-scenes-3.jpg
+title: Middle East Center Stage
+headline: "On Behalf of All Muslims"
+subtitle: a Comedy Special featuring Zahra Noorbakhsh
+background: /img/hero-zahra-solo.jpg
 cta: LEARN MORE
-link: /productions/scenes-from-71-years
+link: /productions/obam-2019/
 items:
-    - image: img/feature-new-season.jpg
-      title: New Season Announced!
-      subtitle: Our 2019 season celebrates courageous storytelling.
-      link: /season
-      cta: LEARN MORE
-      text: "The 2019 Season features new works by Hannah Khalil and Zahra Noorbakhsh, and the 20th anniversary of the ReOrient Festival of Short Plays."
+    - image: img/zahra-nytimes-feature.jpg
+      subtitle: It’s Not This Muslim Comedian’s Job to Open Your Mind
+      link: https://www.nytimes.com/2017/05/06/opinion/sunday/its-not-this-muslim-comedians-job-to-open-your-mind.html
+      cta: Read more
+      text: "Zahra wrote an opinion piece for <em>The New York Times</em> about the dangers of 'we’re just like you' comedy."
+    - image: img/zahra-npr-feature.jpg
+      subtitle: In A Climate Of Fear, A Comedian Remembers What Makes Her Brave
+      link: https://www.npr.org/2017/10/24/557328395/in-a-climate-of-fear-a-comedian-remembers-what-makes-her-brave
+      cta: Read more
+      text: "On <em>Fresh Air with Terry Gross</em>, Zahra remembers a childhood experience to find the courage to continue to perform live in the face of rising anti-Muslim rhetoric."
     - image: img/feature-leila-thumb.jpg
-      title: Leila’s Quest For Flight
-      subtitle: Golden Thread Fairytale Players tour runs through May 2019.
+      subtitle: Celebrate Palestinian Culture with your children
       link: /productions/leila
-      cta: BOOK A SHOW
-      text: "Our newest play for young audiences is drawn from Palestinian folk tales, and is touring Bay Area schools, libraries and festivals."
-    - image: img/feature-pass.jpg
-      title: 3 Shows for 25% Off!
-      subtitle: Get access to the three mainstage shows of 2019.
-      link: https://goldenthread.secure.force.com/ticket/#sections_a0Ff100000cyMiMEAU
-      cta: GET YOUR PASS
-      text: "The 3 Show Pass is the most convenient and cost-effective way to enjoy our 2019 Season."
+      cta: Book a show
+      text: "Drawn from Palestinian folk tales, <em>Leila’s Quest For Flight</em> will resume touring schools & libraries this fall."
 ---

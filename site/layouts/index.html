@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "background" .Params.background "pre" .Params.pre "title" .Title "subtitle" .Params.subtitle "cta" .Params.cta "link" .Params.link) }}
+{{ partial "jumbotron" (dict "background" .Params.background "pre" .Params.pre "title" .Params.headline "subtitle" .Params.subtitle "cta" .Params.cta "link" .Params.link) }}
 
 <div class="mw7 center ph3 pv4">
 
@@ -11,6 +11,8 @@
 	<!-- {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }} -->
 
 	<!-- {{ partial "productions" . }} -->
+
+	<p class="cms f6">Golden Thread is a resident company of <a href="http://potrerostage.org/">Potrero Stage</a>, operated by <a href="http://playground-sf.org/">PlayGround</a>.</p>	
 
 </div>
 

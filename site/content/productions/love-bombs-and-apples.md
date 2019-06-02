@@ -1,7 +1,7 @@
 ---
 title: Love, Bombs, and Apples
 pre: IN ASSOCIATION WITH TURTLE KEY ARTS AND AIK PRODUCTIONS
-date: 2019-03-12T15:04:10.000Z
+date: 2018-03-01T15:04:10.000Z
 start: 2018-04-19T15:04:10.000Z
 end: 2018-05-06T15:04:10.000Z
 heading: The critically-acclaimed production makes its U.S. debut after two sold-out runs in London
