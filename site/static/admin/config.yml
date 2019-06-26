@@ -20,10 +20,10 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Header Image", name: "background", widget: "image", required: false}
       - {label: "Title Image", name: "titleimage", widget: "image", required: false}
       - label: Videos
-            name: videos
-            widget: list
-            fields:
-              - {label: YouTube ID, name: id, widget: string, required: false}
+        name: videos
+        widget: list
+        fields:
+          - {label: YouTube ID, name: id, widget: string, required: false}
       - {label: "Writer", name: "writer", widget: "string", required: false}
       - {label: "Director", name: "director", widget: "string", required: false}
       - {label: "Featuring", name: "featuring", widget: "string", required: false}
