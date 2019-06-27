@@ -37,36 +37,44 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Misc. Text", name: "misc", widget: "text", required: false}
       - label: Lists
         name: lists
-        widget: object
+        widget: list
         fields:
-          - {label: "Heading", name: "heading", widget: "string"}
-          - {label: "Text", name: "text", widget: "markdown", required: false}
-          - label: Items
-            name: items
-            widget: list
+          - label: List
+            name: list
+            widget: object
             fields:
-              - {label: Image, name: image, widget: image, required: false}
-              - {label: "Title", name: "title", widget: "string", required: false}
-              - {label: "Subtitle", name: "subtitle", widget: "markdown", required: false}
+              - {label: "Heading", name: "heading", widget: "string"}
               - {label: "Text", name: "text", widget: "markdown", required: false}
-              - {label: "Link", name: "link", widget: "string", required: false}
-              - {label: "Call to action", name: "cta", widget: "string", required: false}
+              - label: Items
+                name: items
+                widget: list
+                fields:
+                  - {label: Image, name: image, widget: image, required: false}
+                  - {label: "Title", name: "title", widget: "string", required: false}
+                  - {label: "Subtitle", name: "subtitle", widget: "markdown", required: false}
+                  - {label: "Text", name: "text", widget: "markdown", required: false}
+                  - {label: "Link", name: "link", widget: "string", required: false}
+                  - {label: "Call to action", name: "cta", widget: "string", required: false}
       - label: Grids
         name: grids
-        widget: object
+        widget: list
         fields:
-          - {label: "Heading", name: "heading", widget: "string"}
-          - {label: "Text", name: "text", widget: "markdown", required: false}
-          - label: Items
-            name: items
-            widget: list
+          - label: Grid
+            name: grid
+            widget: object
             fields:
-              - {label: Image, name: image, widget: image, required: false}
-              - {label: "Title", name: "title", widget: "string", required: false}
-              - {label: "Subtitle", name: "subtitle", widget: "markdown", required: false}
+              - {label: "Heading", name: "heading", widget: "string"}
               - {label: "Text", name: "text", widget: "markdown", required: false}
-              - {label: "Link", name: "link", widget: "string", required: false}
-              - {label: "Call to action", name: "cta", widget: "string", required: false}
+              - label: Items
+                name: items
+                widget: list
+                fields:
+                  - {label: Image, name: image, widget: image, required: false}
+                  - {label: "Title", name: "title", widget: "string", required: false}
+                  - {label: "Subtitle", name: "subtitle", widget: "markdown", required: false}
+                  - {label: "Text", name: "text", widget: "markdown", required: false}
+                  - {label: "Link", name: "link", widget: "string", required: false}
+                  - {label: "Call to action", name: "cta", widget: "string", required: false}
       - label: Photo Gallery
         name: photos
         widget: object
@@ -83,7 +91,6 @@ collections: # A list of collections the CMS should be able to edit
         widget: object
         fields:
           - {label: "Heading", name: "heading", widget: "string"}
-          - {label: "Text", name: "text", widget: "markdown", required: false}
           - label: Bios
             name: items
             widget: list
@@ -131,8 +138,8 @@ collections: # A list of collections the CMS should be able to edit
             name: items
             widget: list
             fields:
-              - {label: Title, name: subtitle, widget: string}
-              - {label: Text, name: text, widget: text}
+              - {label: Title, name: subtitle, widget: markdown}
+              - {label: Text, name: text, widget: markdown}
               - {label: Image, name: image, widget: image}
               - {label: Call to action, name: cta, widget: string}
               - {label: Link, name: link, widget: string}
