@@ -131,7 +131,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "home"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Headline, name: headline, widget: string, required: false}
+          - {label: Headline, name: headline, widget: string}
           - {label: Subtitle, name: subtitle, widget: string, required: false}
           - {label: Image, name: background, widget: image}
           - {label: Call to action, name: cta, widget: string}
