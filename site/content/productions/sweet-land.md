@@ -19,7 +19,7 @@ grids:
     heading: In the Press
     items:
       - subtitle: >
-        Our production gets the highest rating from the *San Francisco Chronicle*.
+          Our production gets the highest rating from the *San Francisco Chronicle*.
         text: >
           "*Oh My Sweet Land* harks back to a primal joy: that of sitting at the counter of an experienced cook, to watch, listen and smell as she works and tells stories."
         image: /img/archive/2017/06/Feature-sweetland-chron.jpg
