@@ -16,8 +16,7 @@ awardsimage: /img/tba-recommended-red-square.png
 misc: >-
   Strong language and sexual situations.
 grids:
-  - grid:
-    heading: Dive into the world of <em>Our Enemies</em>
+  - heading: Dive into the world of <em>Our Enemies</em>
     items:
       - subtitle: Meet Your “Enemies”
         text: >
@@ -37,8 +36,7 @@ grids:
         image: /img/feature-our-enemies-market.jpg
         link: https://www.goldenthread.org/2016-season/our-enemies-market/
         cta: Read more
-  - grid:
-    heading: In the Press
+  - heading: In the Press
     items:
       - subtitle: >
           <em>Our Enemies</em> Asks: Who Speaks For Middle Easteners?

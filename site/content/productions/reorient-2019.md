@@ -21,8 +21,7 @@ ticketeinfo: $38 General Admission | $28 Student/Senior 65+ | $20 1st and 2nd Th
 misc: >
   30% off General Admission tickets for groups of 10 or more! Contact [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) to place your order.
 lists:
-  - list:
-    heading: REORIENT 2019 LINE-UP
+  - heading: REORIENT 2019 LINE-UP
     text: >
       Golden Thread Fairytale Players has performed at schools, libraries, festivals, and museums all over the Bay area. A few highlights include the Palestine Cultural Day, One World Festival, SFMOMA, the Hearst Museum; numerous San Francisco and San Mateo Public Libraries; many private schools; and public schools in the San Francisco Unified School District, Berkeley Unified School District, San Leandro Unified School District, and Redwood City Unified School District.
     items:

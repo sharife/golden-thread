@@ -20,8 +20,7 @@ awardsimage: /img/tba-recommended-red-square.png
 misc: >-
   This production runs 75 minutes with no intermission.
 grids:
-  - grid:
-    heading: Behind-the-Scenes Blog
+  - heading: Behind-the-Scenes Blog
     items:
       - title: >
           Dive into Stage Magic
@@ -44,8 +43,7 @@ grids:
           The cast of the world premiere discuss the play and their development and production experience.
         link: https://www.goldenthread.org/2018-season/we-swim/cast/
         cta: Read more
-  - grid:
-    heading: In the Press
+  - heading: In the Press
     items:
       - subtitle: >
           A gulf between a family in Golden Thread’s *We Swim, We Talk, We Go to War*

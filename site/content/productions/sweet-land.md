@@ -15,8 +15,7 @@ awardsimage: /img/tba-recommended-red-square.png
 misc: >-
   In addition to the performances open to the public, _Oh My Sweet Land_ was also presented at organizations such as Stanford University, UC Berkeley, and Google exclusively for those served by the institutions.
 grids:
-  - grid:
-    heading: In the Press
+  - heading: In the Press
     items:
       - subtitle: >
           Our production gets the highest rating from the *San Francisco Chronicle*.
@@ -61,8 +60,7 @@ grids:
         link: http://www.sfexaminer.com/oh-sweet-land-details-syrians-struggles-food/
         cta: Read more
 lists:
-  - list:
-    items:
+  - items:
       - title: >
           International Rescue Committee
         text: >-

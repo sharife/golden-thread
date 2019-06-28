@@ -19,8 +19,7 @@ director: Michael Malek Najjar
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco
 grids:
-  - grid:
-    heading: In the Press
+  - heading: In the Press
     items:
       - title: >
           Play about life under occupation staged in London
