@@ -39,42 +39,34 @@ collections: # A list of collections the CMS should be able to edit
         name: "lists"
         widget: "list"
         fields:
-          - label: "List"
-            name: "list"
-            widget: "object"
+          - {label: "Heading", name: "heading", widget: "string", required: false}
+          - label: Items
+            name: items
+            widget: list
             fields:
-              - {label: "Heading", name: "heading", widget: "string", required: false}
-              - label: Items
-                name: items
-                widget: list
-                fields:
-                  - {label: "Image", name: "image", widget: "image", required: false}
-                  - {label: "Title", name: "title", widget: "string", required: false}
-                  - {label: "Eyebrow", name: "pre", widget: "string", required: false}
-                  - {label: "Subtitle", name: "subtitle", widget: "markdown", required: false}
-                  - {label: "Text", name: "text", widget: "markdown", required: false}
-                  - {label: "Link", name: "link", widget: "string", required: false}
-                  - {label: "Call to action", name: "cta", widget: "string", required: false}
+              - {label: "Image", name: "image", widget: "image", required: false}
+              - {label: "Title", name: "title", widget: "string", required: false}
+              - {label: "Eyebrow", name: "pre", widget: "string", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "markdown", required: false}
+              - {label: "Text", name: "text", widget: "markdown", required: false}
+              - {label: "Link", name: "link", widget: "string", required: false}
+              - {label: "Call to action", name: "cta", widget: "string", required: false}
       - label: "Grids"
         name: "grids"
         widget: "list"
         fields:
-          - label: "Grid"
-            name: "grid"
-            widget: "object"
+          - {label: "Heading", name: "heading", widget: "string", required: false}
+          - label: Items
+            name: items
+            widget: list
             fields:
-              - {label: "Heading", name: "heading", widget: "string", required: false}
-              - label: Items
-                name: items
-                widget: list
-                fields:
-                  - {label: "Image", name: "image", widget: "image", required: false}
-                  - {label: "Title", name: "title", widget: "string", required: false}
-                  - {label: "Eyebrow", name: "pre", widget: "string", required: false}
-                  - {label: "Subtitle", name: "subtitle", widget: "markdown", required: false}
-                  - {label: "Text", name: "text", widget: "markdown", required: false}
-                  - {label: "Link", name: "link", widget: "string", required: false}
-                  - {label: "Call to action", name: "cta", widget: "string", required: false}
+              - {label: "Image", name: "image", widget: "image", required: false}
+              - {label: "Title", name: "title", widget: "string", required: false}
+              - {label: "Eyebrow", name: "pre", widget: "string", required: false}
+              - {label: "Subtitle", name: "subtitle", widget: "markdown", required: false}
+              - {label: "Text", name: "text", widget: "markdown", required: false}
+              - {label: "Link", name: "link", widget: "string", required: false}
+              - {label: "Call to action", name: "cta", widget: "string", required: false}
       - label: Photo Gallery
         name: photos
         widget: object
