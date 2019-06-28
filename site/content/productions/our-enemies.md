@@ -16,51 +16,51 @@ awardsimage: /img/tba-recommended-red-square.png
 misc: >-
   Strong language and sexual situations.
 grids:
-- grid:
-  heading: Dive into the world of <em>Our Enemies</em>
-  items:
-    - subtitle: Meet Your “Enemies”
-      text: >
-        The characters of Our Enemies in their own words
-      image: /img/feature-our-enemies-characters.jpg
-      link: https://www.goldenthread.org/2016-season/our-enemies-characters/
-      cta: Read more
-    - subtitle: New World vs. Old World
-      text: >
-        Dr. Michael Najjar interviews award-winning Egyptian-American playwright Yussef El Guindi.
-      image: /img/feature-our-enemies-interview.jpg
-      link: https://www.goldenthread.org/2016/09/28/yussef-interview/
-      cta: Read more
-    - subtitle: The Demands of the Market
-      text: >
-        Torange Yeghiazarian writes about the challenges of the publishing industry for writers of color.
-      image: /img/feature-our-enemies-market.jpg
-      link: https://www.goldenthread.org/2016-season/our-enemies-market/
-      cta: Read more
-- grid:
-  heading: In the Press
-  items:
-    - subtitle: >
-        <em>Our Enemies</em> Asks: Who Speaks For Middle Easteners?
-      text: >-
-        Director Torange Yeghiazarian is interviewed by <em>SF Examiner</em>&#8216;s Jean Schiffman.
-      image: /img/feature-our-enemies-torange.jpg
-      link: http://www.sfexaminer.com/enemies-asks-speaks-middle-easterners/
-      cta: Read more
-    - subtitle: >
-        Yussef El Guindi on <em>Arabology</em>
-      text: >-
-        Award-winning playwright and producer Evren Odcikin speak to Dr. Ramzi Salti about the play.
-      image: /img/feature-our-enemies-yussef.jpg
-      link: https://soundcloud.com/arabology/yussefelguindi
-      cta: Read more
-    - subtitle: >
-        Golden Thread Celebrate their 20th Anniversary with Comedy Play, <em>Our Enemies</em>
-      text: >-
-        <em>Broadway World</em> features the play.
-      image: /img/feature-our-enemies-broadwayworld.jpg
-      link: http://www.broadwayworld.com/san-francisco/article/Golden-Thread-Celebrate-their-20th-Anniversary-with-Comedy-Play-OUR-ENEMIES-20160907
-      cta: Read more
+  - grid:
+    heading: Dive into the world of <em>Our Enemies</em>
+    items:
+      - subtitle: Meet Your “Enemies”
+        text: >
+          The characters of Our Enemies in their own words
+        image: /img/feature-our-enemies-characters.jpg
+        link: https://www.goldenthread.org/2016-season/our-enemies-characters/
+        cta: Read more
+      - subtitle: New World vs. Old World
+        text: >
+          Dr. Michael Najjar interviews award-winning Egyptian-American playwright Yussef El Guindi.
+        image: /img/feature-our-enemies-interview.jpg
+        link: https://www.goldenthread.org/2016/09/28/yussef-interview/
+        cta: Read more
+      - subtitle: The Demands of the Market
+        text: >
+          Torange Yeghiazarian writes about the challenges of the publishing industry for writers of color.
+        image: /img/feature-our-enemies-market.jpg
+        link: https://www.goldenthread.org/2016-season/our-enemies-market/
+        cta: Read more
+  - grid:
+    heading: In the Press
+    items:
+      - subtitle: >
+          <em>Our Enemies</em> Asks: Who Speaks For Middle Easteners?
+        text: >-
+          Director Torange Yeghiazarian is interviewed by <em>SF Examiner</em>&#8216;s Jean Schiffman.
+        image: /img/feature-our-enemies-torange.jpg
+        link: http://www.sfexaminer.com/enemies-asks-speaks-middle-easterners/
+        cta: Read more
+      - subtitle: >
+          Yussef El Guindi on <em>Arabology</em>
+        text: >-
+          Award-winning playwright and producer Evren Odcikin speak to Dr. Ramzi Salti about the play.
+        image: /img/feature-our-enemies-yussef.jpg
+        link: https://soundcloud.com/arabology/yussefelguindi
+        cta: Read more
+      - subtitle: >
+          Golden Thread Celebrate their 20th Anniversary with Comedy Play, <em>Our Enemies</em>
+        text: >-
+          <em>Broadway World</em> features the play.
+        image: /img/feature-our-enemies-broadwayworld.jpg
+        link: http://www.broadwayworld.com/san-francisco/article/Golden-Thread-Celebrate-their-20th-Anniversary-with-Comedy-Play-OUR-ENEMIES-20160907
+        cta: Read more
 photos:
   heading: Photo Gallery
   items:

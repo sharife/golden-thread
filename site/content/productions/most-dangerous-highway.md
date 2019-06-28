@@ -18,49 +18,49 @@ awardsimage: /img/tba-recommended-red-square.png
 misc: >-
   Videos by Peter Ruocco. Photos used in video by Mauricio Lima for the New York Times and Zalmai Ahad.
 grids:
-- grid:
-  heading: In the Press
-  items:
-    - subtitle: >
-        Evren Odcikin and Humaira Ghilzai speak about the show on Arts-Waves on KPFA
-      image: /img/feature-KPFA.jpg
-      link: https://kpfa.org/episode/arts-waves-on-cover-to-cover-may-2-2016/
-      cta: Read more
-    - subtitle: >
-        *Highway* is a Theatre Bay Area Editor’s Pick
-      image: /img/feature-TBAEditorsPicks.png
-      link: http://www.theatrebayarea.org/news/287462/Editors-Picks-May-2016.htm
-      cta: Read more
-    - subtitle: >
-        The Do List recommends *Highway*
-      image: /img/feature-kqed-arts.jpg
-      link: http://ww2.kqed.org/arts/2016/04/28/cy-and-davids-picks-dollar-brand-20-years-of-beethoven-and-getting-a-bleach-job/
-      cta: Read more
+  - grid:
+    heading: In the Press
+    items:
+      - subtitle: >
+          Evren Odcikin and Humaira Ghilzai speak about the show on Arts-Waves on KPFA
+        image: /img/feature-KPFA.jpg
+        link: https://kpfa.org/episode/arts-waves-on-cover-to-cover-may-2-2016/
+        cta: Read more
+      - subtitle: >
+          *Highway* is a Theatre Bay Area Editor’s Pick
+        image: /img/feature-TBAEditorsPicks.png
+        link: http://www.theatrebayarea.org/news/287462/Editors-Picks-May-2016.htm
+        cta: Read more
+      - subtitle: >
+          The Do List recommends *Highway*
+        image: /img/feature-kqed-arts.jpg
+        link: http://ww2.kqed.org/arts/2016/04/28/cy-and-davids-picks-dollar-brand-20-years-of-beethoven-and-getting-a-bleach-job/
+        cta: Read more
 lists:
-- list:
-  heading: Blogs
-  items:
-    - title: >
-        Resilience and Hope in Afghanistan
-      text: >-
-        by Torange Yeghiazarian, Artistic Director
-      image: /img/feature-girls-skating.jpg
-      link: https://www.goldenthread.org/2016/04/19/hope/
-      cta: Read more
-    - title: >
-        Capturing the Feeling of Afghanistan
-      text: >-
-        by Courtney Flores, Costume Designer
-      image: /img/feature-Samira.jpg
-      link: https://www.goldenthread.org/2016/04/13/highway-costumes/
-      cta: Read more
-    - title: >
-        In Tom Hanks’ Seat
-      text: >-
-        by Walid Azad, Production Assistant
-      image: /img/feature-Walid.jpg
-      link: https://www.goldenthread.org/2016/04/26/walid/
-      cta: Read more
+  - list:
+    heading: Blogs
+    items:
+      - title: >
+          Resilience and Hope in Afghanistan
+        text: >-
+          by Torange Yeghiazarian, Artistic Director
+        image: /img/feature-girls-skating.jpg
+        link: https://www.goldenthread.org/2016/04/19/hope/
+        cta: Read more
+      - title: >
+          Capturing the Feeling of Afghanistan
+        text: >-
+          by Courtney Flores, Costume Designer
+        image: /img/feature-Samira.jpg
+        link: https://www.goldenthread.org/2016/04/13/highway-costumes/
+        cta: Read more
+      - title: >
+          In Tom Hanks’ Seat
+        text: >-
+          by Walid Azad, Production Assistant
+        image: /img/feature-Walid.jpg
+        link: https://www.goldenthread.org/2016/04/26/walid/
+        cta: Read more
 photos:
   heading: Photo Gallery
   items:

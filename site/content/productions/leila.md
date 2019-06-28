@@ -21,25 +21,25 @@ address: 1695 18th Street, San Francisco
 misc: >
   This production runs approximately 30-minutes followed by 20-min Q & A session. Appropriate for families and children, ages 5-15
 lists:
-- list:
-  heading: Upcoming Performances
-  text: >
-    Golden Thread Fairytale Players has performed at schools, libraries, festivals, and museums all over the Bay area. A few highlights include the Palestine Cultural Day, One World Festival, SFMOMA, the Hearst Museum; numerous San Francisco and San Mateo Public Libraries; many private schools; and public schools in the San Francisco Unified School District, Berkeley Unified School District, San Leandro Unified School District, and Redwood City Unified School District.
-  items:
-    - title: >
-        Saturday, Apr 13 at 10:30am-11:30am 
-      pre: Berkeley Main Library 
-      text: >
-        2090 Kittredge Street, Berkele
-      link: https://www.berkeleypubliclibrary.org/events/golden-thread-fairytale-players-central-cmr-0
-      cta: More info
-    - title: >
-        Sat, Apr 20 at 11am-12noon
-      pre: Potrero Stage
-      text: >
-        1695 18th Street, San Francisco, CA 94107
-      link: https://goldenthread.secure.force.com/ticket/#details_a0Sf10000075wc4EAA
-      cta: Buy tickets
+  - list:
+    heading: Upcoming Performances
+    text: >
+      Golden Thread Fairytale Players has performed at schools, libraries, festivals, and museums all over the Bay area. A few highlights include the Palestine Cultural Day, One World Festival, SFMOMA, the Hearst Museum; numerous San Francisco and San Mateo Public Libraries; many private schools; and public schools in the San Francisco Unified School District, Berkeley Unified School District, San Leandro Unified School District, and Redwood City Unified School District.
+    items:
+      - title: >
+          Saturday, Apr 13 at 10:30am-11:30am 
+        pre: Berkeley Main Library 
+        text: >
+          2090 Kittredge Street, Berkele
+        link: https://www.berkeleypubliclibrary.org/events/golden-thread-fairytale-players-central-cmr-0
+        cta: More info
+      - title: >
+          Sat, Apr 20 at 11am-12noon
+        pre: Potrero Stage
+        text: >
+          1695 18th Street, San Francisco, CA 94107
+        link: https://goldenthread.secure.force.com/ticket/#details_a0Sf10000075wc4EAA
+        cta: Buy tickets
 photos:
   heading: Photo Gallery
   items:

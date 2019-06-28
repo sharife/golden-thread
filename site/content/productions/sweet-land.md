@@ -15,61 +15,61 @@ awardsimage: /img/tba-recommended-red-square.png
 misc: >-
   In addition to the performances open to the public, _Oh My Sweet Land_ was also presented at organizations such as Stanford University, UC Berkeley, and Google exclusively for those served by the institutions.
 grids:
-- grid:
-  heading: In the Press
-  items:
-    - subtitle: >
+  - grid:
+    heading: In the Press
+    items:
+      - subtitle: >
         Our production gets the highest rating from the *San Francisco Chronicle*.
-      text: >
-        "*Oh My Sweet Land* harks back to a primal joy: that of sitting at the counter of an experienced cook, to watch, listen and smell as she works and tells stories."
-      image: /img/archive/2017/06/Feature-sweetland-chron.jpg
-      link: http://www.sfchronicle.com/performance/article/The-kitchen-counter-is-stage-in-Oh-My-Sweet-12287967.php
-      cta: Read more
-    - subtitle: >
-        Jean Schiffman from _SF/ARTS_ interviews the artists of *Oh My Sweet Land*.
-      text: >
-        "Suffused with rich sensorial detail, a dollop of mordant humor and an ineffable yearning for home, *Oh My Sweet Land* is about characters, says Yeghiazarian, who are driven by urgency, a need for protection and the need to protect."
-      image: /img/archive/2017/06/Feature-SweetLand-sfarts.jpg
-      link: https://sfarts.org/feature.cfm?title=one-woman-play-captures-yearning-for-home&featureID=515
-      cta: Read more
-    - subtitle: >
-        The KQED Public Radio feature by Rachael Myrow includes excerpts from a performance of *Oh My Sweet Land*.
-      text: >
-        “When you’re feeding people, they trust you — implicitly, because they’re going to eat your food! There’s a give and take that’s unspoken."
-      image: /img/archive/2017/06/feature-sweetland-kqed.jpg
-      link: https://ww2.kqed.org/arts/2018/02/12/oh-my-sweet-land-stirs-up-compassion-for-syrian-refugees/
-      cta: Read more
-    - subtitle: >
-        *American Theatre Magazine* features the bi-coastal productions of the play.
-      text: >
-        "The deep connection with the food is what ties [the character] in to her lineage, her heritage. In the Arab world, hospitality and nourishing your children and family and friends are paramount."
-      image: https://www.goldenthread.org/wp-content/uploads/2017/06/Feature-SweetLand-ATM.jpg
-      link: http://www.americantheatre.org/2017/10/11/2-ingredients-of-oh-my-sweet-land-a-refugee-crisis-and-kibbeh/
-      cta: Read more
-    - subtitle: >
-        Sam Hurwitt speaks to Nora el Samahy and Torange Yeghiazarian for *The Mercury News*
-      text: >
-        "I love that there’s this deep generosity in the piece about sharing these stories. And these characters you meet are not monolithic. They’re not tragic. The situation has been tragic, but these are full people."
-      image: https://www.goldenthread.org/wp-content/uploads/2017/06/Feature-SweetLand-mercurynews.jpg
-      link: http://www.mercurynews.com/2017/10/11/stirring-up-syrian-tales-of-survival-in-bay-area-kitchens/
-      cta: Read more
-    - subtitle: >
-        Leslie Katz from *SF Examiner* reviews the show.
-      text: >
-        "“Oh My Sweet Land” is a sensitive, savory one-woman show about the plight of Syrians."
-      image: https://www.goldenthread.org/wp-content/uploads/2017/06/feature-sweetland-examiner.jpg
-      link: http://www.sfexaminer.com/oh-sweet-land-details-syrians-struggles-food/
-      cta: Read more
+        text: >
+          "*Oh My Sweet Land* harks back to a primal joy: that of sitting at the counter of an experienced cook, to watch, listen and smell as she works and tells stories."
+        image: /img/archive/2017/06/Feature-sweetland-chron.jpg
+        link: http://www.sfchronicle.com/performance/article/The-kitchen-counter-is-stage-in-Oh-My-Sweet-12287967.php
+        cta: Read more
+      - subtitle: >
+          Jean Schiffman from _SF/ARTS_ interviews the artists of *Oh My Sweet Land*.
+        text: >
+          "Suffused with rich sensorial detail, a dollop of mordant humor and an ineffable yearning for home, *Oh My Sweet Land* is about characters, says Yeghiazarian, who are driven by urgency, a need for protection and the need to protect."
+        image: /img/archive/2017/06/Feature-SweetLand-sfarts.jpg
+        link: https://sfarts.org/feature.cfm?title=one-woman-play-captures-yearning-for-home&featureID=515
+        cta: Read more
+      - subtitle: >
+          The KQED Public Radio feature by Rachael Myrow includes excerpts from a performance of *Oh My Sweet Land*.
+        text: >
+          “When you’re feeding people, they trust you — implicitly, because they’re going to eat your food! There’s a give and take that’s unspoken."
+        image: /img/archive/2017/06/feature-sweetland-kqed.jpg
+        link: https://ww2.kqed.org/arts/2018/02/12/oh-my-sweet-land-stirs-up-compassion-for-syrian-refugees/
+        cta: Read more
+      - subtitle: >
+          *American Theatre Magazine* features the bi-coastal productions of the play.
+        text: >
+          "The deep connection with the food is what ties [the character] in to her lineage, her heritage. In the Arab world, hospitality and nourishing your children and family and friends are paramount."
+        image: https://www.goldenthread.org/wp-content/uploads/2017/06/Feature-SweetLand-ATM.jpg
+        link: http://www.americantheatre.org/2017/10/11/2-ingredients-of-oh-my-sweet-land-a-refugee-crisis-and-kibbeh/
+        cta: Read more
+      - subtitle: >
+          Sam Hurwitt speaks to Nora el Samahy and Torange Yeghiazarian for *The Mercury News*
+        text: >
+          "I love that there’s this deep generosity in the piece about sharing these stories. And these characters you meet are not monolithic. They’re not tragic. The situation has been tragic, but these are full people."
+        image: https://www.goldenthread.org/wp-content/uploads/2017/06/Feature-SweetLand-mercurynews.jpg
+        link: http://www.mercurynews.com/2017/10/11/stirring-up-syrian-tales-of-survival-in-bay-area-kitchens/
+        cta: Read more
+      - subtitle: >
+          Leslie Katz from *SF Examiner* reviews the show.
+        text: >
+          "“Oh My Sweet Land” is a sensitive, savory one-woman show about the plight of Syrians."
+        image: https://www.goldenthread.org/wp-content/uploads/2017/06/feature-sweetland-examiner.jpg
+        link: http://www.sfexaminer.com/oh-sweet-land-details-syrians-struggles-food/
+        cta: Read more
 lists:
-- list:
-  items:
-    - title: >
-        International Rescue Committee
-      text: >-
-        Golden Thread has partnered with the [**International Rescue Committee Oakland**](https://www.rescue.org/united-states/oakland-ca) to raise awareness about their resettlement services in the Bay Area. The International Rescue Committee provides opportunities for refugees, asylees, victims of human trafficking, survivors of torture, and other immigrants to thrive in America. Each year, thousands of people, forced to flee violence and persecution, are welcomed by the people of the United States into the safety and freedom of America. In Oakland and other offices across the country, the IRC helps them to rebuild their lives. [**Please donate to support their work**](https://help.rescue.org/donate/us-northern-california-ca?ms=ws_resq_top_nav_btn_161010&initialms=ws_resq_top_nav_btn_161010).
-      image: /img/logo-irc.png
-      link: https://www.rescue.org/united-states/oakland-ca
-      cta: Learn more
+  - list:
+    items:
+      - title: >
+          International Rescue Committee
+        text: >-
+          Golden Thread has partnered with the [**International Rescue Committee Oakland**](https://www.rescue.org/united-states/oakland-ca) to raise awareness about their resettlement services in the Bay Area. The International Rescue Committee provides opportunities for refugees, asylees, victims of human trafficking, survivors of torture, and other immigrants to thrive in America. Each year, thousands of people, forced to flee violence and persecution, are welcomed by the people of the United States into the safety and freedom of America. In Oakland and other offices across the country, the IRC helps them to rebuild their lives. [**Please donate to support their work**](https://help.rescue.org/donate/us-northern-california-ca?ms=ws_resq_top_nav_btn_161010&initialms=ws_resq_top_nav_btn_161010).
+        image: /img/logo-irc.png
+        link: https://www.rescue.org/united-states/oakland-ca
+        cta: Learn more
 photos:
   heading: Photo Gallery
   items:

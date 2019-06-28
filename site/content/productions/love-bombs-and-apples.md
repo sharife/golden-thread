@@ -20,21 +20,21 @@ awardsimage: /img/tba-recommended-red-square.png
 misc: >-
   Runtime: 90 minutes with no intermission; Content Advisory: Strong language and sexual situations
 lists:
-- list:
-  heading: Special Events
-  items:
-    - title: >
-        A Conversation with the Artistic Team
-      pre: Sun, Apr 22, following the 3pm matinee
-      image: /img/feature-love-bombs-apples-conversation.jpg
-      text: >-
-        Following the matinee, Founding Artistic Director Torange Yeghiazarian will lead a conversation with playwright Hassan Abdulrazzak, director Rosamunde Hutt, and actor Asif Khan about their ongoing collaboration on *Love, Bombs & Apples*. Free with a ticket to the show.
-    - title: >
-        A Time to Overcome Barriers?
-      pre: Sun, Apr 29, following the 3pm matinee
-      image: /img/feature-barriers.jpg
-      text: >-
-        Continue where *Love, Bombs & Apples* leaves off. Join the conversation with two Palestinian-American and two Jewish-American activists whose personal experiences shed light on the challenges of developing meaningful relationships when figurative and literal walls separate people. Free with a ticket to the show. <br /><br />Participants: Basil Ayish, Rita Karuna Cahn, Glen Hauer, Zeiad Abbas Shamrouch. Facilitated by Torange Yeghiazarian.
+  - list:
+    heading: Special Events
+    items:
+      - title: >
+          A Conversation with the Artistic Team
+        pre: Sun, Apr 22, following the 3pm matinee
+        image: /img/feature-love-bombs-apples-conversation.jpg
+        text: >-
+          Following the matinee, Founding Artistic Director Torange Yeghiazarian will lead a conversation with playwright Hassan Abdulrazzak, director Rosamunde Hutt, and actor Asif Khan about their ongoing collaboration on *Love, Bombs & Apples*. Free with a ticket to the show.
+      - title: >
+          A Time to Overcome Barriers?
+        pre: Sun, Apr 29, following the 3pm matinee
+        image: /img/feature-barriers.jpg
+        text: >-
+          Continue where *Love, Bombs & Apples* leaves off. Join the conversation with two Palestinian-American and two Jewish-American activists whose personal experiences shed light on the challenges of developing meaningful relationships when figurative and literal walls separate people. Free with a ticket to the show. <br /><br />Participants: Basil Ayish, Rita Karuna Cahn, Glen Hauer, Zeiad Abbas Shamrouch. Facilitated by Torange Yeghiazarian.
 photos:
   heading: Photo Gallery
   items:

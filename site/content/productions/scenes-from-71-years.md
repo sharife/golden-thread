@@ -19,30 +19,30 @@ director: Michael Malek Najjar
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco
 grids:
-- grid:
-  heading: In the Press
-  items:
-    - title: >
-        Play about life under occupation staged in London
-      image: /img/archive/2019/02/feature-hannah-ap.jpg
-      link: https://www.youtube.com/watch?v=_q_w0mxNNbU
-      cta: More info
-      text: >-
-        *Associated Press* interviewed playwright Hannah Khalil before the world premiere production of this play in London.
-    - title: >
-        How Skype helped me tell Palestine’s story on stage
-      image: /img/archive/2019/02/feature-skype.jpg
-      link: https://www.thenational.ae/opinion/how-skype-helped-me-tell-palestine-s-story-on-stage-1.222856
-      cta: More info
-      text: >-
-        Hannah Khalil reflects on writing about Palestine for an English-speaking audience in an opinion piece for *The National*.
-    - title: >
-        Hannah Khalil on Nahla Ink
-      image: /img/archive/2019/02/feature-nahlaink.jpg
-      link: http://www.nahlaink.com/interviews/hannah-khalil-palestinian-irish-playwright-%E2%80%98scenes-68-years%E2%80%99
-      cta: More info
-      text: >-
-        Libyan-British blogger Nahla Al-Ageli interviews playwright Hannah Khalil about her new play.
+  - grid:
+    heading: In the Press
+    items:
+      - title: >
+          Play about life under occupation staged in London
+        image: /img/archive/2019/02/feature-hannah-ap.jpg
+        link: https://www.youtube.com/watch?v=_q_w0mxNNbU
+        cta: More info
+        text: >-
+          *Associated Press* interviewed playwright Hannah Khalil before the world premiere production of this play in London.
+      - title: >
+          How Skype helped me tell Palestine’s story on stage
+        image: /img/archive/2019/02/feature-skype.jpg
+        link: https://www.thenational.ae/opinion/how-skype-helped-me-tell-palestine-s-story-on-stage-1.222856
+        cta: More info
+        text: >-
+          Hannah Khalil reflects on writing about Palestine for an English-speaking audience in an opinion piece for *The National*.
+      - title: >
+          Hannah Khalil on Nahla Ink
+        image: /img/archive/2019/02/feature-nahlaink.jpg
+        link: http://www.nahlaink.com/interviews/hannah-khalil-palestinian-irish-playwright-%E2%80%98scenes-68-years%E2%80%99
+        cta: More info
+        text: >-
+          Libyan-British blogger Nahla Al-Ageli interviews playwright Hannah Khalil about her new play.
 photos:
   heading: Photo Gallery
   items:

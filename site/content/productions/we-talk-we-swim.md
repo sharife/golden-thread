@@ -20,68 +20,68 @@ awardsimage: /img/tba-recommended-red-square.png
 misc: >-
   This production runs 75 minutes with no intermission.
 grids:
-- grid:
-  heading: Behind-the-Scenes Blog
-  items:
-    - title: >
-        Dive into Stage Magic
-      image: https://www.goldenthread.org/wp-content/uploads/2018/03/WeSwim-Blog-Workshop-feature.jpg
-      text: >-
-        Have you ever tried swimming on stage? We have. Assistant director Hala Baki takes you behind the scenes as the *We Swim* creative team tackles this fun theatrical challenge.
-      link: https://www.goldenthread.org/2018-season/we-swim/stage-magic
-      cta: Read more
-    - title: >
-        Fairuz: The Voice of Home
-      image: https://www.goldenthread.org/wp-content/uploads/2018/03/WeSwim-Blog-Fairuz-feature.jpg
-      text: >-
-        The beloved Lebanese singer Fairuz’s music plays an important part in *We Swim*. ASWAT Ensemble soloist Rana Mroue explains the historical importance of this artist in the Arab world.
-      link: https://www.goldenthread.org/2018-season/we-swim/fairuz
-      cta: Read more
-    - title: >
-        Backstage Musings: We Swim Actors Reflect on the Play
-      image: https://www.goldenthread.org/wp-content/uploads/2018/03/weswim-cast-feature.jpg
-      text: >-
-        The cast of the world premiere discuss the play and their development and production experience.
-      link: https://www.goldenthread.org/2018-season/we-swim/cast/
-      cta: Read more
-- grid:
-  heading: In the Press
-  items:
-    - subtitle: >
-        A gulf between a family in Golden Thread’s *We Swim, We Talk, We Go to War*
-      image: https://www.goldenthread.org/wp-content/uploads/2018/03/weswim-datebook-feature.jpg
-      text: >-
-        *San Francisco Chronicle’s* Lily Janiak recommends *We Swim*
-      link: https://datebook.sfchronicle.com/theater/a-gulf-between-a-family-in-golden-threads-we-swim-we-talk-we-go-to-war
-      cta: Read more
-    - subtitle: >
-        SF/ARTS Theatre Pick
-      image: https://www.goldenthread.org/wp-content/uploads/2018/03/mansour-sfarts.jpg
-      text: >-
-        Jean Schiffman names *We Swim* one of her November picks for theatre.
-      link: https://www.sfarts.org/event.cfm?event_num=79131
-      cta: Read more
-    - subtitle: >
-        Commissions with a Mission: To Create a Middle Eastern American Plays
-      image: https://www.goldenthread.org/wp-content/uploads/2017/05/feature-mea-at.jpg
-      text: >-
-        *American Theatre Magazine’s* Lizzie Simon writes about our Middle East America commissioning initiative after attending the 2016 Middle East America Convening.
-      link: http://www.americantheatre.org/2016/05/24/commissions-with-a-mission-to-create-middle-eastern-american-plays/
-      cta: Read more
-    - subtitle: >
-        Mona Mansour Interview
-      image: https://www.goldenthread.org/wp-content/uploads/2017/05/feature-mona-interview.jpg
-      text: >-
-        Director Evren Odcikin interviewed playwright Mona Mansour in advance of an earlier workhop of this play at the Lark in New York City.
-      link: http://www.larktheatre.org/blog/closer-look-we-talk-we-swim-we-go-war/
-      cta: Read more
-    - subtitle: >
-        Mona Mansour: Urgent Tales and Breakfast-Table Politics
-      image: https://www.goldenthread.org/wp-content/uploads/2012/01/DearProducersFeature.jpg
-      text: >-
-        Playwright Caridad Svich interviews Mona Mansour for *American Theatre Magazine*.
-      link: https://www.americantheatre.org/2013/09/01/mona-mansour-urgent-tales-and-breakfast-table-politics/
-      cta: Read more
+  - grid:
+    heading: Behind-the-Scenes Blog
+    items:
+      - title: >
+          Dive into Stage Magic
+        image: https://www.goldenthread.org/wp-content/uploads/2018/03/WeSwim-Blog-Workshop-feature.jpg
+        text: >-
+          Have you ever tried swimming on stage? We have. Assistant director Hala Baki takes you behind the scenes as the *We Swim* creative team tackles this fun theatrical challenge.
+        link: https://www.goldenthread.org/2018-season/we-swim/stage-magic
+        cta: Read more
+      - title: >
+          Fairuz: The Voice of Home
+        image: https://www.goldenthread.org/wp-content/uploads/2018/03/WeSwim-Blog-Fairuz-feature.jpg
+        text: >-
+          The beloved Lebanese singer Fairuz’s music plays an important part in *We Swim*. ASWAT Ensemble soloist Rana Mroue explains the historical importance of this artist in the Arab world.
+        link: https://www.goldenthread.org/2018-season/we-swim/fairuz
+        cta: Read more
+      - title: >
+          Backstage Musings: We Swim Actors Reflect on the Play
+        image: https://www.goldenthread.org/wp-content/uploads/2018/03/weswim-cast-feature.jpg
+        text: >-
+          The cast of the world premiere discuss the play and their development and production experience.
+        link: https://www.goldenthread.org/2018-season/we-swim/cast/
+        cta: Read more
+  - grid:
+    heading: In the Press
+    items:
+      - subtitle: >
+          A gulf between a family in Golden Thread’s *We Swim, We Talk, We Go to War*
+        image: https://www.goldenthread.org/wp-content/uploads/2018/03/weswim-datebook-feature.jpg
+        text: >-
+          *San Francisco Chronicle’s* Lily Janiak recommends *We Swim*
+        link: https://datebook.sfchronicle.com/theater/a-gulf-between-a-family-in-golden-threads-we-swim-we-talk-we-go-to-war
+        cta: Read more
+      - subtitle: >
+          SF/ARTS Theatre Pick
+        image: https://www.goldenthread.org/wp-content/uploads/2018/03/mansour-sfarts.jpg
+        text: >-
+          Jean Schiffman names *We Swim* one of her November picks for theatre.
+        link: https://www.sfarts.org/event.cfm?event_num=79131
+        cta: Read more
+      - subtitle: >
+          Commissions with a Mission: To Create a Middle Eastern American Plays
+        image: https://www.goldenthread.org/wp-content/uploads/2017/05/feature-mea-at.jpg
+        text: >-
+          *American Theatre Magazine’s* Lizzie Simon writes about our Middle East America commissioning initiative after attending the 2016 Middle East America Convening.
+        link: http://www.americantheatre.org/2016/05/24/commissions-with-a-mission-to-create-middle-eastern-american-plays/
+        cta: Read more
+      - subtitle: >
+          Mona Mansour Interview
+        image: https://www.goldenthread.org/wp-content/uploads/2017/05/feature-mona-interview.jpg
+        text: >-
+          Director Evren Odcikin interviewed playwright Mona Mansour in advance of an earlier workhop of this play at the Lark in New York City.
+        link: http://www.larktheatre.org/blog/closer-look-we-talk-we-swim-we-go-war/
+        cta: Read more
+      - subtitle: >
+          Mona Mansour: Urgent Tales and Breakfast-Table Politics
+        image: https://www.goldenthread.org/wp-content/uploads/2012/01/DearProducersFeature.jpg
+        text: >-
+          Playwright Caridad Svich interviews Mona Mansour for *American Theatre Magazine*.
+        link: https://www.americantheatre.org/2013/09/01/mona-mansour-urgent-tales-and-breakfast-table-politics/
+        cta: Read more
 photos:
   heading: Photo Gallery
   items:

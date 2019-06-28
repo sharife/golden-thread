@@ -37,13 +37,13 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Misc. Text", name: "misc", widget: "text", required: false}
       - label: "Lists"
         name: "lists"
-        widget: "object"
+        widget: "list"
         fields:
           - label: "List"
             name: "list"
             widget: "object"
             fields:
-              - {label: "Heading", name: "heading", widget: "string"}
+              - {label: "Heading", name: "heading", widget: "string", required: false}
               - label: Items
                 name: items
                 widget: list
@@ -57,13 +57,13 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: "Call to action", name: "cta", widget: "string", required: false}
       - label: "Grids"
         name: "grids"
-        widget: "object"
+        widget: "list"
         fields:
           - label: "Grid"
             name: "grid"
             widget: "object"
             fields:
-              - {label: "Heading", name: "heading", widget: "string"}
+              - {label: "Heading", name: "heading", widget: "string", required: false}
               - label: Items
                 name: items
                 widget: list
