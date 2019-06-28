@@ -22,7 +22,7 @@ export default class PostPreview extends React.Component {
               <img src={getAsset(item.get("image"))} alt="" class="center db mb3" style="max-width:200px;"/>
               <h3>{item.get("subtitle")}</h3>
               <p>{item.get("text")}</p>
-              <a href="{item.get("link")}"><p>{item.get("cta")}</p></a>
+              <p>→ {item.get("cta")}</p>
             </div>)}
           </div>
         </div>
