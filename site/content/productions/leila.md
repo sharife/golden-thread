@@ -3,6 +3,7 @@ title: Leila’s Quest For Flight
 pre: GOLDEN THREAD FAIRYTALE PLAYERS PRESENT
 date: 2019-04-01T15:04:10.000Z
 start: 2019-04-20T15:04:10.000Z
+end: 2019-06-30T17:54:39.893Z
 heading: Touring Bay Area schools through May 2019. Book with us today!
 description: >-
   When the optometrist shatters little Leila’s dream of becoming a pilot, a
