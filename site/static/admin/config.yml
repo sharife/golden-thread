@@ -14,9 +14,9 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Eyebrow", name: "pre", widget: "string", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Start Date", name: "start", widget: "datetime", required: false}
-      - {label: "End Date", name: "end", widget: "datetime"}
+      - {label: "End Date", name: "end", widget: "datetime", required: false}
       - {label: "Heading", name: "heading", widget: "string", required: false}
-      - {label: "Intro", name: "description", widget: "text"}
+      - {label: "Intro", name: "description", widget: "text", required: false}
       - {label: "Header Image", name: "background", widget: "image", required: false}
       - {label: "Title Image", name: "titleimage", widget: "image", required: false}
       - label: Videos
