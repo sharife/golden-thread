@@ -13,7 +13,7 @@ export default class PostPreview extends React.Component {
         image = window.parent.location.protocol + "//" + window.parent.location.host + image;
     }
 
-    return <div style="background-color:white;">
+    return <div className="bg-white">
         <Jumbotron image={image} title={entry.getIn(["data", "headline"])} subtitle={entry.getIn(["data", "subtitle"])}/>
 
         <div className="bg-white pv4">
