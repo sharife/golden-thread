@@ -4,9 +4,7 @@ pre: U.S. PREMIERE
 date: 2019-03-31T15:04:10.000Z
 start: 2019-04-05T15:04:10.000Z
 end: 2019-05-05T15:04:10.000Z
-menu:
-  primary:
-    parent: 'season'
+season: 2019
 heading: An epic snapshot of Palestinian life under occupation
 description: >-
   A picnic interrupted by soldiers. Never-ending lines. Sunbathing in the shadow of a tank. Palestinian-Irish playwright Hannah Khalil draws from stories of family and friends to reveal the real human story: the dreams, comedy, sadness, and frustrations of daily life in the shadow of the ‘separation wall.’ The cast includes members of the Bay Area Palestinian community.

@@ -6,12 +6,16 @@ public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "production" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Production" # Used in the UI, ie.: "New Post"
+    label: "Productions" # Used in the UI, ie.: "New Post"
+    label_singular: "Production"
     folder: "site/content/productions" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    editor:
+      preview: false
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Eyebrow", name: "pre", widget: "string", required: false}
+      - {label: "Season", name: "season", widget: "date", default: "2019", format: "YYYY", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Start Date", name: "start", widget: "datetime", required: false}
       - {label: "End Date", name: "end", widget: "datetime", required: false}
@@ -44,13 +48,13 @@ collections: # A list of collections the CMS should be able to edit
             name: items
             widget: list
             fields:
-              - {label: "Image", name: "image", widget: "image", required: false}
               - {label: "Title", name: "title", widget: "string", required: false}
               - {label: "Eyebrow", name: "pre", widget: "string", required: false}
               - {label: "Subtitle", name: "subtitle", widget: "markdown", required: false}
+              - {label: "Image", name: "image", widget: "image", required: false}
               - {label: "Text", name: "text", widget: "markdown", required: false}
-              - {label: "Link", name: "link", widget: "string", required: false}
               - {label: "Call to action", name: "cta", widget: "string", required: false}
+              - {label: "Link", name: "link", widget: "string", required: false}
       - label: "Grids"
         name: "grids"
         widget: "list"
@@ -60,23 +64,13 @@ collections: # A list of collections the CMS should be able to edit
             name: items
             widget: list
             fields:
-              - {label: "Image", name: "image", widget: "image", required: false}
               - {label: "Title", name: "title", widget: "string", required: false}
               - {label: "Eyebrow", name: "pre", widget: "string", required: false}
               - {label: "Subtitle", name: "subtitle", widget: "markdown", required: false}
+              - {label: "Image", name: "image", widget: "image", required: false}
               - {label: "Text", name: "text", widget: "markdown", required: false}
-              - {label: "Link", name: "link", widget: "string", required: false}
               - {label: "Call to action", name: "cta", widget: "string", required: false}
-      - label: Photo Gallery
-        name: photos
-        widget: object
-        fields: 
-          - {label: "Heading", name: "heading", widget: "string"}
-          - label: Images
-            name: items
-            widget: list
-            fields:
-              - {label: Image, name: image, widget: image, required: false}
+              - {label: "Link", name: "link", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - label: Cast and Crew
         name: cast
@@ -87,11 +81,21 @@ collections: # A list of collections the CMS should be able to edit
             name: items
             widget: list
             fields:
-              - {label: Image, name: image, widget: image, required: false}
               - {label: "Name", name: "name", widget: "string", required: false}
               - {label: "Credit", name: "credit", widget: "string", required: false}
+              - {label: Image, name: image, widget: image, required: false}
               - {label: "Bio", name: "bio", widget: "markdown", required: false}
               - {label: "Alt. Text", name: "text", widget: "markdown", required: false}
+      - label: Photo Gallery
+        name: photos
+        widget: object
+        fields: 
+          - {label: "Heading", name: "heading", widget: "string"}
+          - label: Images
+            name: items
+            widget: list
+            fields:
+              - {label: Image, name: image, widget: image, required: false}
       - label: Sponsors/Bottom
         name: bottom
         widget: object
@@ -104,17 +108,22 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: Image, name: image, widget: image, required: false}
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
+    label: "Posts" # Used in the UI, ie.: "New Post"
+    label_singular: "Post"
     folder: "site/content/posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    editor:
+      preview: false
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Intro Blurb", name: "description", widget: "text", required: false}
-      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Header Image", name: "background", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
+    editor:
+      preview: false
     files:
       - file: "site/content/_index.md"
         label: "Home Page"
@@ -135,6 +144,58 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Image, name: image, widget: image}
               - {label: Call to action, name: cta, widget: string}
               - {label: Link, name: link, widget: string}
+      - file: "site/content/about/people/_index.md"
+        label: "People Page"
+        name: "people"
+        fields:
+          - label: Staff
+            name: staff
+            fields: 
+              - {label: Heading, name: heading, widget: string}
+              - label: items
+                name: items
+                widget: list
+                fields:
+                  - {label: "Name", name: "name", widget: "string", required: false}
+                  - {label: "Credit", name: "credit", widget: "string", required: false}
+                  - {label: Image, name: image, widget: image, required: false}
+                  - {label: "Bio", name: "bio", widget: "markdown", required: false}
+          - label: Board of Trustees
+            name: board
+            fields: 
+              - {label: Heading, name: heading, widget: string}
+              - label: items
+                name: items
+                widget: list
+                fields:
+                  - {label: "Name", name: "name", widget: "string", required: false}
+                  - {label: "Credit", name: "credit", widget: "string", required: false}
+                  - {label: Image, name: image, widget: image, required: false}
+                  - {label: "Bio", name: "bio", widget: "markdown", required: false}
+          - label: Artists
+            name: artists
+            fields: 
+              - {label: Heading, name: heading, widget: string}
+              - label: items
+                name: items
+                widget: list
+                fields:
+                  - {label: "Name", name: "name", widget: "string", required: false}
+                  - {label: "Credit", name: "credit", widget: "string", required: false}
+                  - {label: Image, name: image, widget: image, required: false}
+                  - {label: "Bio", name: "bio", widget: "markdown", required: false}
+          - label: Advisory Board
+            name: advisors
+            fields: 
+              - {label: Heading, name: heading, widget: string}
+              - label: items
+                name: items
+                widget: list
+                fields:
+                  - {label: "Name", name: "name", widget: "string", required: false}
+                  - {label: "Credit", name: "credit", widget: "string", required: false}
+                  - {label: Image, name: image, widget: image, required: false}
+                  - {label: "Bio", name: "bio", widget: "markdown", required: false}
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
         name: "contact"
@@ -152,6 +213,21 @@ collections: # A list of collections the CMS should be able to edit
               - label: Text
                 name: text
                 widget: text
+  - name: settings
+    label: Settings
+    editor:
+      preview: false
+    files:
+      - file: data/settings/nav.yml
+        label: Navigation
+        name: navigation
+        fields:
+          - label: Navigation
+            name: nav_items
+            widget: list
+            fields:
+              - {label: Label, name: label, widget: string}
+              - {label: Path, name: path, widget: string}
       # - file: "site/content/products/_index.md"
       #   label: "Products Page"
       #   name: "products"

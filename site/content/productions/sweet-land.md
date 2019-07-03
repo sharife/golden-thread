@@ -1,6 +1,7 @@
 ---
 title: Oh My Sweet Land
 date: 2017-06-21 20:32:53+00:00
+season: 2018
 start: 2018-03-01T15:04:10.000Z
 end: 2018-03-30T15:04:10.000Z
 description: >-

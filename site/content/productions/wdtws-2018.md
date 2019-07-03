@@ -3,6 +3,7 @@ title: What Do the Women Say?
 subtitle: International Women’s Day 2018
 pre: DISMANTLING PATRIARCHY
 date: 2018-02-02T15:04:10.000Z
+season: 2018
 start: 2018-03-08T15:04:10.000Z
 heading: Golden Thread’s annual celebration of International Women’s Day
 description: >-

@@ -3,9 +3,7 @@ title: Leila’s Quest For Flight
 pre: GOLDEN THREAD FAIRYTALE PLAYERS PRESENT
 date: 2019-04-01T15:04:10.000Z
 start: 2019-04-20T15:04:10.000Z
-menu:
-  primary:
-    parent: 'season'
+season: 2019
 heading: Touring Bay Area schools through May 2019. Book with us today!
 description: >-
   When the optometrist shatters little Leila’s dream of becoming a pilot, a menagerie of mythic birds gather to help her accomplish her goal. Drawn from beloved Palestinian folktales, *Leila’s Quest for Flight* incorporates music, dance, and physical comedy. These dynamic shows are entertaining for all ages, connecting diverse cultural traditions to contemporary themes.

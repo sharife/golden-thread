@@ -5,9 +5,7 @@ pre: Seven short plays. One unforgettable evening.
 date: 2019-04-03T15:04:10.000Z
 start: 2019-10-18T15:04:10.000Z
 end: 2019-11-17T15:04:10.000Z
-menu:
-  primary:
-    parent: 'season'
+season: 2019
 heading: Think you know the Middle East? Think again!
 titleimage: /img/archive/2018/10/ReOrient2019-Slider-Playwrights2.jpg
 description: >-

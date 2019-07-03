@@ -2,6 +2,7 @@
 title: We Swim, We Talk, We Go to War
 pre: WORLD PREMIERE
 date: 2018-10-09 20:03:50+00:00
+season: 2018
 start: 2018-11-17T15:04:10.000Z
 end: 2018-12-16T15:04:10.000Z
 heading: Dive into the murky waters of family, identity, and politics

@@ -2,6 +2,7 @@
 title: Our Enemies
 subtitle: Lively Scenes of Love And Combat
 date: 2016-10-28T15:04:10.000Z
+season: 2016
 start: 2016-11-20T15:04:10.000Z
 end: 2016-05-29T15:04:10.000Z
 heading: A West Coast Premiere Play by Yussef El Guindi

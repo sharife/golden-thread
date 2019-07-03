@@ -9,6 +9,41 @@ title = "Golden Thread Productions"
 	url = "/season"
 	weight = 1
 
+		[[menu.primary]]
+		parent = "season"
+		identifier = "reorient-2019"
+		name = "ReOrient 2019"
+		url = "/productions/reorient-2019"
+		weight = 11
+
+		[[menu.primary]]
+		parent = "season"
+		identifier = "leila"
+		name = "Leila’s Quest For Flight"
+		url = "/productions/leila"
+		weight = 12
+
+		[[menu.primary]]
+		parent = "season"
+		identifier = "obam-2019"
+		name = "On Behalf of All Muslims"
+		url = "/productions/obam-2019"
+		weight = 13
+
+		[[menu.primary]]
+		parent = "season"
+		identifier = "scenes-from-71-years"
+		name = "Scenes From 71* Years"
+		url = "/productions/scenes-from-71-years"
+		weight = 14
+
+		[[menu.primary]]
+		parent = "season"
+		identifier = "wdtws-2019"
+		name = "What Do the Women Say?"
+		url = "/productions/wdtws-2019"
+		weight = 15
+
 	[[menu.primary]]
 	identifier = "about"
 	name = "ABOUT"
