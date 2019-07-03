@@ -144,6 +144,28 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Image, name: image, widget: image}
               - {label: Call to action, name: cta, widget: string}
               - {label: Link, name: link, widget: string}
+      - file: "site/content/tickets/_index.md"
+        label: "Tickets Page"
+        name: "tickets"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+          - label: "Lists"
+            name: "lists"
+            widget: "list"
+            fields:
+              - {label: "Heading", name: "heading", widget: "string", required: false}
+              - label: Items
+                name: items
+                widget: list
+                fields:
+                  - {label: "Title", name: "title", widget: "string", required: false}
+                  - {label: "Eyebrow", name: "pre", widget: "string", required: false}
+                  - {label: "Subtitle", name: "subtitle", widget: "markdown", required: false}
+                  - {label: "Image", name: "image", widget: "image", required: false}
+                  - {label: "Text", name: "text", widget: "markdown", required: false}
+                  - {label: "Call to action", name: "cta", widget: "string", required: false}
+                  - {label: "Link", name: "link", widget: "string", required: false}
       - file: "site/content/about/people/_index.md"
         label: "People Page"
         name: "people"
