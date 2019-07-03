@@ -15,7 +15,7 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Eyebrow", name: "pre", widget: "string", required: false}
-      - {label: "Season", name: "season", widget: "date", default: "2019", format: "YYYY", required: false}
+      - {label: "Season", name: "season", widget: "string", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Start Date", name: "start", widget: "datetime", required: false}
       - {label: "End Date", name: "end", widget: "datetime", required: false}
@@ -150,6 +150,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - label: Staff
             name: staff
+            widget: object
             fields: 
               - {label: Heading, name: heading, widget: string}
               - label: items
@@ -162,6 +163,7 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: "Bio", name: "bio", widget: "markdown", required: false}
           - label: Board of Trustees
             name: board
+            widget: object
             fields: 
               - {label: Heading, name: heading, widget: string}
               - label: items
@@ -174,6 +176,7 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: "Bio", name: "bio", widget: "markdown", required: false}
           - label: Artists
             name: artists
+            widget: object
             fields: 
               - {label: Heading, name: heading, widget: string}
               - label: items
@@ -186,6 +189,7 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: "Bio", name: "bio", widget: "markdown", required: false}
           - label: Advisory Board
             name: advisors
+            widget: object
             fields: 
               - {label: Heading, name: heading, widget: string}
               - label: items
@@ -213,21 +217,21 @@ collections: # A list of collections the CMS should be able to edit
               - label: Text
                 name: text
                 widget: text
-  - name: settings
-    label: Settings
-    editor:
-      preview: false
-    files:
-      - file: data/settings/nav.yml
-        label: Navigation
-        name: navigation
-        fields:
-          - label: Navigation
-            name: nav_items
-            widget: list
-            fields:
-              - {label: Label, name: label, widget: string}
-              - {label: Path, name: path, widget: string}
+  # - name: settings
+  #   label: Settings
+  #   editor:
+  #     preview: false
+  #   files:
+  #     - file: data/settings/nav.yml
+  #       label: Navigation
+  #       name: navigation
+  #       fields:
+  #         - label: Navigation
+  #           name: nav_items
+  #           widget: list
+  #           fields:
+  #             - {label: Label, name: label, widget: string}
+  #             - {label: Path, name: path, widget: string}
       # - file: "site/content/products/_index.md"
       #   label: "Products Page"
       #   name: "products"
