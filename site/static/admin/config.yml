@@ -232,6 +232,13 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: "Credit", name: "credit", widget: "string", required: false}
                   - {label: Image, name: image, widget: image, required: false}
                   - {label: "Bio", name: "bio", widget: "markdown", required: false}
+      - file: "site/content/get-involved/_index.md"
+        label: "Get Involved Page"
+        name: "get-involved"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Intro, name: intro, widget: text, required: false}
+          - {label: Body, name: body, widget: markdown, required: false}
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
         name: "contact"

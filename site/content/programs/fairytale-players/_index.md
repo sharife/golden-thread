@@ -14,7 +14,7 @@ intro: >
 description: >
   Inspired by popular performance traditions such as *Hakawati*, *Ru-hozi*, *Naghalli*, *Karagoz*, and *Commedia dell Arte*, Golden Thread Fairytale Players employ epic storytelling, puppetry, song, dance, circus arts techniques, and Middle Eastern languages to create engaging performances that draw from enriching folk tales and timeless historical texts. <br /><br />Our dynamic and humorous shows invite audience participation and make unexpected connections to contemporary culture. Golden Thread Fairytale Players performances appeal to audiences of all ages, for their highly entertaining value and important capacity to develop deeper appreciation for diverse cultural traditions.<br /><br />**[BOOK YOUR SHOW TODAY!](https://docs.google.com/forms/d/1H7TdX7cdsuCFg__zic9CAz8ljHUz7w7tHbBTBaeep7g)**
 sidebar:
-  heading: Upcoming Performances
+  heading: Recent Performances
   text: >
     **Saturday, Apr 13 at 10:30am-11:30am**<br />
     Berkeley Main Library (2090 Kittredge Street, Berkeley)
