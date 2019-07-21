@@ -1,48 +1,50 @@
 <div class="pv3">
   <div class="mw7 center">
-    {{ if .heading }}
-      <h2 class="f3 b lh-title mb2">{{.heading}}</h2>
-    {{ end }}
-    {{ if .text }}
-      <p class="mb4 mw6">{{.text}}</p>
-    {{ end }}
+    {{ if .items }}
+      {{ if .heading }}
+        <h2 class="f3 b lh-title mb2">{{.heading}}</h2>
+      {{ end }}
+      {{ if .text }}
+        <p class="mb4 mw6">{{.text}}</p>
+      {{ end }}
 
-    {{ $len := (len .items) }}
+      
+      {{ $len := (len .items) }}
 
-    <div class="flex-ns flex-wrap mhn2-ns">
-      {{ range $index, $e := .items }}
+      <div class="flex-ns flex-wrap mhn2-ns">
+        {{ range $index, $e := .items }}
 
-        {{ $next_img := add $index 1 }}
-        {{ $prev_img := sub $index 1 }}
+          {{ $next_img := add $index 1 }}
+          {{ $prev_img := sub $index 1 }}
 
-        <div class="w-30-ns mb4 mr3">
-          <div class="perfundo">
-            <a class="perfundo__link js-perfundo-link" href="#perfundo-{{ $index }}">
-              <!-- <img src="{{.image}}" alt="{{ if .caption }}{{.caption}}{{ end }}" class="mb3"> -->
-              <div class="perfundo__image db" style="width: 800px; padding-top: 66.25%; background-image: url({{.image}});"></div>
-            </a>
-            <div id="perfundo-{{ $index }}" class="perfundo__overlay js-perfundo-overlay">
-              <figure class="perfundo__content perfundo__figure">
-                <img src="{{.image}}" alt="{{ if .caption }}{{.caption}}{{ end }}">
-                <div class="perfundo__image fadein" style="width: 1200px; padding-top: 66.25%; background-image: url({{.image}});"></div>
-                {{ if .caption }}<div class="f6 white tc pv2">{{.caption}}</div>{{ end }}
-              </figure>
-              <a href="#perfundo-untarget" class="perfundo__close perfundo__control js-perfundo-close">Close</a>
-              {{ if eq (add $index 1) $len}}
-              {{ else }}
-                <a class="perfundo__next perfundo__control js-perfundo-next" href="#perfundo-{{ $next_img }}">Next</a>
-              {{ end }}
-              {{ if $index}}
-                <a class="perfundo__prev perfundo__control js-perfundo-prev" href="#perfundo-{{ $prev_img }}">Prev</a>
-              {{ end }}
+          <div class="w-30-ns mb4 mr3">
+            <div class="perfundo">
+              <a class="perfundo__link js-perfundo-link" href="#perfundo-{{ $index }}">
+                <!-- <img src="{{.image}}" alt="{{ if .caption }}{{.caption}}{{ end }}" class="mb3"> -->
+                <div class="perfundo__image db" style="width: 800px; padding-top: 66.25%; background-image: url({{.image}});"></div>
+              </a>
+              <div id="perfundo-{{ $index }}" class="perfundo__overlay js-perfundo-overlay">
+                <figure class="perfundo__content perfundo__figure">
+                  <img src="{{.image}}" alt="{{ if .caption }}{{.caption}}{{ end }}">
+                  <div class="perfundo__image fadein" style="width: 1200px; padding-top: 66.25%; background-image: url({{.image}});"></div>
+                  {{ if .caption }}<div class="f6 white tc pv2">{{.caption}}</div>{{ end }}
+                </figure>
+                <a href="#perfundo-untarget" class="perfundo__close perfundo__control js-perfundo-close">Close</a>
+                {{ if eq (add $index 1) $len}}
+                {{ else }}
+                  <a class="perfundo__next perfundo__control js-perfundo-next" href="#perfundo-{{ $next_img }}">Next</a>
+                {{ end }}
+                {{ if $index}}
+                  <a class="perfundo__prev perfundo__control js-perfundo-prev" href="#perfundo-{{ $prev_img }}">Prev</a>
+                {{ end }}
+              </div>
             </div>
+
           </div>
 
-        </div>
 
-
-      {{ end }}
-    </div>
-
+        {{ end }}
+      </div>
+    {{ end }}
   </div>
 </div>
