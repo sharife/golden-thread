@@ -25,14 +25,13 @@ misc: >
   This production runs approximately 30-minutes followed by 20-min Q & A
   session. Appropriate for families and children, ages 5-15
 lists:
-  - heading: Performances
+  - heading: Upcoming Performances
     items:
       - cta: More info
         link: >-
           https://www.berkeleypubliclibrary.org/events/golden-thread-fairytale-players-central-cmr-0
-        title: |
-          Saturday, Apr 13 at 10:30am-11:30am 
-        pre: Berkeley Main Library
+        title: 'Wednesday, Oct 9 at 3:30pm-4:30pm '
+        pre: Palo Alto Library (Riconada Branch)
         text: |
           2090 Kittredge Street, Berkele
       - cta: Buy tickets
