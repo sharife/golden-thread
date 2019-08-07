@@ -25,7 +25,7 @@ misc: >
   This production runs approximately 30-minutes followed by 20-min Q & A
   session. Appropriate for families and children, ages 5-15
 lists:
-  - heading: FREE Upcoming Performances
+  - heading: Upcoming Performances
     items:
       - cta: More info
         link: >-
@@ -40,6 +40,11 @@ lists:
         text: "800 Alma Street\r Menlo Park"
       - title: 'Sunday, Oct 20 2019'
         pre: 'SF Sunday Streets (Excelsior) Time: TBA'
+      - title: 'Wednesday, Nov 20 2019 7pm-8pm'
+        pre: San Leandro Library
+        subtitle: "300 Estudillo Avenue\r San Leandro"
+      - title: 'Friday, Dec 6 2019 3:30pm-4:30pm'
+        pre: Live Oak Elementary Book Fest
 cast:
   heading: Cast & Crew
   items:
