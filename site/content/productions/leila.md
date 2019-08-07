@@ -31,7 +31,7 @@ lists:
         link: >-
           https://www.berkeleypubliclibrary.org/events/golden-thread-fairytale-players-central-cmr-0
         title: 'Wednesday, Oct 9 at 3:30pm-4:30pm '
-        pre: Palo Alto Library (Riconada Branch)
+        pre: Palo Alto Library (Rinconada Branch)
         text: |
           2090 Kittredge Street, Berkele
       - cta: Buy tickets
