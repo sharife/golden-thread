@@ -25,22 +25,21 @@ misc: >
   This production runs approximately 30-minutes followed by 20-min Q & A
   session. Appropriate for families and children, ages 5-15
 lists:
-  - heading: Upcoming Performances
+  - heading: FREE Upcoming Performances
     items:
       - cta: More info
         link: >-
           https://www.berkeleypubliclibrary.org/events/golden-thread-fairytale-players-central-cmr-0
-        title: 'Wednesday, Oct 9 at 3:30pm-4:30pm '
+        title: 'Wednesday, Oct 9 2019 3:30pm-4:30pm '
         pre: Palo Alto Library (Rinconada Branch)
         text: 1213 Newell Rd Palo Alto
-      - cta: Buy tickets
-        link: >-
-          https://goldenthread.secure.force.com/ticket/#details_a0Sf10000075wc4EAA
-        title: |
-          Sat, Apr 20 at 11am-12noon
-        pre: Potrero Stage
-        text: |
-          1695 18th Street, San Francisco, CA 94107
+      - cta: ''
+        link: ''
+        title: 'Thurs, Oct 17 2019 7pm-8pm'
+        pre: Menlo Park Library
+        text: "800 Alma Street\r Menlo Park"
+      - title: 'Sunday, Oct 20 2019'
+        pre: 'SF Sunday Streets (Excelsior) Time: TBA'
 cast:
   heading: Cast & Crew
   items:
