@@ -27,24 +27,46 @@ misc: >
 lists:
   - heading: Upcoming Performances
     items:
-      - cta: More info
-        link: >-
-          https://www.berkeleypubliclibrary.org/events/golden-thread-fairytale-players-central-cmr-0
-        title: 'Wednesday, Oct 9 2019 3:30pm-4:30pm '
+      - cta: More Info
+        link: 'https://library.cityofpaloalto.org/locations/R/'
+        title: 'Wednesday, October 9, 2019 - 3:30pm'
         pre: Palo Alto Library (Rinconada Branch)
-        text: 1213 Newell Rd Palo Alto
-      - cta: ''
-        link: ''
-        title: 'Thurs, Oct 17 2019 7pm-8pm'
+        subtitle: |-
+          1213 Newell Road
+
+          Palo Alto CA 94303
+        text: ''
+      - cta: More Info
+        link: 'https://menlopark.org/library'
+        title: 'Thursday, October 17, 2019 - 7:00pm'
         pre: Menlo Park Library
-        text: "800 Alma Street\r Menlo Park"
-      - title: 'Sunday, Oct 20 2019'
-        pre: 'SF Sunday Streets (Excelsior) Time: TBA'
-      - title: 'Wednesday, Nov 20 2019 7pm-8pm'
-        pre: San Leandro Library
-        subtitle: "300 Estudillo Avenue\r San Leandro"
-      - title: 'Friday, Dec 6 2019 3:30pm-4:30pm'
+        text: |-
+          800 Alma Street
+
+          Menlo Park, CA 94025
+      - cta: More Info
+        link: 'http://www.sundaystreetssf.com/sunday-streets-2019/ex102019/'
+        title: 'Sunday, October 20, 2019 - TBD'
+        pre: SF Sunday Streets (Excelsior)
+        text: >-
+          Mission Street goes car-free from Silver Avenue to Geneva Avenue with
+          free activities, cultural performances and a mile of open space for
+          all.
+      - cta: More Info
+        link: 'https://www.sanleandro.org/depts/library/'
+        title: 'Wednesday, November 20, 2019 - 7:00pm'
+        pre: San Leandro Community Library
+        subtitle: ''
+        text: |-
+          300 Estudillo Avenue
+
+          San Leandro, CA 94577
+      - title: 'Friday, December 6, 2019 - 3:30pm'
         pre: Live Oak Elementary Book Fest
+        text: |-
+          1555 Mariposa Street
+
+          San Francisco, CA 94107
 cast:
   heading: Cast & Crew
   items:
