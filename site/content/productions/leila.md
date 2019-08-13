@@ -62,7 +62,7 @@ lists:
 
           San Leandro, CA 94577
       - title: 'Friday, December 6, 2019 - 3:30pm'
-        pre: Live Oak Elementary Book Fest
+        pre: Live Oak Elementary Book Festival
         text: |-
           1555 Mariposa Street
 
