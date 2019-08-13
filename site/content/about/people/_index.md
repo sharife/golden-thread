@@ -57,17 +57,15 @@ staff:
       credit: Managing Director
       image: /img/archive/2012/03/Headshot-MichelleMulholland-300x300.jpg
       name: Michelle Mulholland
-    - bio: >
-        <strong>Laura Espino</strong> is a performing artist, a teaching artist,
-        and a mom. As the Program Manager for Fairytale Players, she spearheads
-        the Education Program at Golden Thread Productions. She works in
-        children&#8217;s theatre education as a Lead Teaching Artist primarily
-        in the San Francisco Unified School District with both the San Francisco
-        Opera Guild and The Magic Theatre. As a performing artist, her work
+    - bio: >-
+        <strong>Laura Espino</strong> is an educator and performing artist. As
+        the Program Manager for Fairytale Players, she spearheads the TYA
+        Program at Golden Thread Productions. She is a SFUSD high school teacher
+        at Ruth Asawa School of The Arts. As a performing artist, her work
         includes credits with Theatreworks Silicon Valley, American Conservatory
-        Theatre, The Magic Theatre, Custom Made Theatre, and California
-        Shakespeare Theatre. She is a Theatre Bay Area Award Nominee. Laura is
-        also the Education Coordinator with TheatreFirst in Berkeley.
+        Theatre, The Magic Theatre, Custom Made Theatre, Playground and
+        California Shakespeare Theatre. She is a Theatre Bay Area Award Nominee,
+        and currently an MLA Candidate at Stanford University.
       credit: 'Program Manager, Golden Thread Fairytale Players'
       image: /img/archive/2018/10/Espino-Laura-300x300.jpg
       name: Laura Espino
