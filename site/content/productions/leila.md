@@ -3,8 +3,8 @@ title: Leila’s Quest For Flight
 pre: GOLDEN THREAD FAIRYTALE PLAYERS PRESENT
 season: 2019
 date: 2019-04-01T15:04:10.000Z
-start: 2019-04-20T15:04:10.000Z
-end: 2019-08-07T04:08:18.453Z
+start: ''
+end: ''
 heading: 'Now touring Bay Area schools, libraries, and more. Book with us today!'
 description: >-
   When the optometrist shatters little Leila’s dream of becoming a pilot, a
@@ -19,8 +19,8 @@ videos:
 writer: Torange Yeghiazarian
 director: Torange Yeghiazarian
 additional: drawn from Palestinian folktales
-stage: Potrero Stage
-address: '1695 18th Street, San Francisco'
+stage: ''
+address: ''
 misc: >
   This production runs approximately 30-minutes followed by 20-min Q & A
   session. Appropriate for families and children, ages 5-15
