@@ -82,7 +82,7 @@ cast:
         San Francisco State University.
       credit: Playwright & Director
       image: /img/archive/2014/03/torange_headshot_tfs-e1498076049423.jpg
-      name: Rosamunde Hutt
+      name: Torange Yeghiazarian
     - bio: >
         <strong>Mokhtar Paki</strong> is a Bay Area visual artist, art teacher,
         and sometimes architectural designer. Mokhtar was the production
