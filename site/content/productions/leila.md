@@ -31,7 +31,7 @@ lists:
         link: 'https://library.cityofpaloalto.org/locations/R/'
         title: 'Wednesday, October 9, 2019 - 3:30pm'
         pre: ''
-        subtitle: Palo Alto Library (Rinconada Branch)
+        subtitle: '## Palo Alto Library (Rinconada Branch)'
         text: '1213 Newell Road, Palo Alto CA 94303'
       - cta: More Info
         link: 'https://menlopark.org/library'
