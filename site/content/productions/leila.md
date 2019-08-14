@@ -1,10 +1,11 @@
 ---
 title: Leila’s Quest For Flight
 pre: GOLDEN THREAD FAIRYTALE PLAYERS PRESENT
-date: 2019-04-01T15:04:10.000Z
-start: 2019-04-20T15:04:10.000Z
 season: 2019
-heading: Touring Bay Area schools through May 2019. Book with us today!
+date: 2019-04-01T15:04:10.000Z
+start: ''
+end: ''
+heading: 'Now touring Bay Area schools, libraries, and more. Book with us today!'
 description: >-
   When the optometrist shatters little Leila’s dream of becoming a pilot, a
   menagerie of mythic birds gather to help her accomplish her goal. Drawn from
@@ -18,43 +19,47 @@ videos:
 writer: Torange Yeghiazarian
 director: Torange Yeghiazarian
 additional: drawn from Palestinian folktales
-stage: Potrero Stage
-address: '1695 18th Street, San Francisco'
+stage: ''
+address: ''
 misc: >
   This production runs approximately 30-minutes followed by 20-min Q & A
-  session. Appropriate for families and children, ages 5-15
+  session. Appropriate for families and children, ages 5-15.
 lists:
-  - heading: Performances
+  - heading: Upcoming Performances
     items:
-      - cta: More info
-        link: >-
-          https://www.berkeleypubliclibrary.org/events/golden-thread-fairytale-players-central-cmr-0
-        text: |
-          2090 Kittredge Street, Berkele
-        title: |
-          Saturday, Apr 13 at 10:30am-11:30am 
-        pre: Berkeley Main Library
-      - cta: Buy tickets
-        link: >-
-          https://goldenthread.secure.force.com/ticket/#details_a0Sf10000075wc4EAA
-        text: |
-          1695 18th Street, San Francisco, CA 94107
-        title: |
-          Sat, Apr 20 at 11am-12noon
-        pre: Potrero Stage
-photos:
-  heading: Photo Gallery
-  items:
-    - image: /img/archive/2018/07/WiseSheikh.jpg
-    - image: /img/archive/2018/07/TunjurButcher.jpg
-    - image: /img/archive/2018/07/School.jpg
-    - image: /img/archive/2018/07/Phoenix.jpg
-    - image: /img/archive/2018/07/MotherMagic.jpg
-    - image: /img/archive/2018/07/JmeyzWings.jpg
-    - image: /img/archive/2018/07/HoopoeJmeyz.jpg
-    - image: /img/archive/2018/07/Debke.jpg
-    - image: /img/archive/2018/07/AudienceParticipation.jpg
-    - image: /img/archive/2018/07/Asfour.jpg
+      - cta: More Info
+        link: 'https://library.cityofpaloalto.org/locations/R/'
+        title: 'Wednesday, October 9, 2019 - 3:30pm'
+        pre: Palo Alto Library (Rinconada Branch)
+        subtitle: '1213 Newell Road, Palo Alto CA 94303'
+        text: ''
+      - cta: More Info
+        link: 'https://menlopark.org/library'
+        title: 'Thursday, October 17, 2019 - 7:00pm'
+        pre: Menlo Park Library
+        subtitle: '800 Alma Street, Menlo Park, CA 94025'
+        text: ''
+      - cta: More Info
+        link: 'http://www.sundaystreetssf.com/sunday-streets-2019/ex102019/'
+        title: 'Sunday, October 20, 2019 - TBD'
+        pre: SF Sunday Streets (Excelsior)
+        subtitle: >-
+          Mission Street goes car-free from Silver Avenue to Geneva Avenue with
+          free activities, cultural performances and a mile of open space for
+          all.
+        text: ''
+      - cta: More Info
+        link: 'https://www.sanleandro.org/depts/library/'
+        title: 'Wednesday, November 20, 2019 - 7:00pm'
+        pre: San Leandro Community Library
+        subtitle: '300 Estudillo Avenue, San Leandro, CA 94577'
+        text: ''
+      - cta: More Info
+        link: 'https://www.liveoaksf.org/book-fair'
+        title: 'Friday, December 6, 2019 - 3:30pm'
+        pre: Live Oak Elementary Book Festival
+        subtitle: '1555 Mariposa Street, San Francisco, CA 94107'
+        text: ''
 cast:
   heading: Cast & Crew
   items:
@@ -92,7 +97,7 @@ cast:
         San Francisco State University.
       credit: Playwright & Director
       image: /img/archive/2014/03/torange_headshot_tfs-e1498076049423.jpg
-      name: Rosamunde Hutt
+      name: Torange Yeghiazarian
     - bio: >
         <strong>Mokhtar Paki</strong> is a Bay Area visual artist, art teacher,
         and sometimes architectural designer. Mokhtar was the production
@@ -137,6 +142,19 @@ cast:
       credit: Choreographer
       image: /img/archive/2018/02/Tateosian-Lisa-300x300.jpg
       name: Lisa Tateosian
+photos:
+  heading: Photo Gallery
+  items:
+    - image: /img/archive/2018/07/WiseSheikh.jpg
+    - image: /img/archive/2018/07/TunjurButcher.jpg
+    - image: /img/archive/2018/07/School.jpg
+    - image: /img/archive/2018/07/Phoenix.jpg
+    - image: /img/archive/2018/07/MotherMagic.jpg
+    - image: /img/archive/2018/07/JmeyzWings.jpg
+    - image: /img/archive/2018/07/HoopoeJmeyz.jpg
+    - image: /img/archive/2018/07/Debke.jpg
+    - image: /img/archive/2018/07/AudienceParticipation.jpg
+    - image: /img/archive/2018/07/Asfour.jpg
 bottom:
   text: >
     Golden Thread Fairytale Players is supported by generous grants from <a
@@ -144,20 +162,19 @@ bottom:
     <a href="https://www.hpcfgiving.org/" target="_blank">Harbor Point
     Charitable Foundation</a>
 ---
-
-**Contact [education@goldenthread.org](mailto:education@goldenthread.org) to inquire about presenting a performance.**
+**Contact <mailto:education@goldenthread.org> to inquire about booking a performance.**
 
 Past productions of Fairytale Players have been performed at Asian Art Museum, La Pena Cultural Center, Islamic Cultural Center, San Jose Children’s Discovery Museum, the United States of Asian America Festival, San Francisco TheatreFest, and the Dia de los Niños Festival in San Francisco, as well as numerous schools and libraries in the Alameda, Contra Costa, San Francisco.
 
-"Golden Thread has quickly become a favorite presenter of family programs at San Francisco Public Library."  *—Family Engagement Services, San Francisco Public Library*
+"Golden Thread has quickly become a favorite presenter of family programs at San Francisco Public Library."  _—Family Engagement Services, San Francisco Public Library_
 
-"The program was excellent. It definitely broadened their perception of cultures. The students enjoyed the ingenious way the actors changed their parts. The kids went around mimicking the actors for days." *—Teacher, Hawes
-Elementary*
+"The program was excellent. It definitely broadened their perception of cultures. The students enjoyed the ingenious way the actors changed their parts. The kids went around mimicking the actors for days." _—Teacher, Hawes
+Elementary_
 
-"I’m so happy these kids are getting such wonderful exposure to Middle Eastern culture, and especially getting to hear the Palestinian voice. And to end it with one of my family’s favorite Fairuz songs was the cherry on top!" *—Parent, Berkwood Hedge School*
+"I’m so happy these kids are getting such wonderful exposure to Middle Eastern culture, and especially getting to hear the Palestinian voice. And to end it with one of my family’s favorite Fairuz songs was the cherry on top!" _—Parent, Berkwood Hedge School_
 
-"[As an educator, I valued] an opportunity for students to experience art especially made by people of color and performers. *—Teacher, Cesar Chavez Elementary School*
+"\[As an educator, I valued] an opportunity for students to experience art especially made by people of color and performers. _—Teacher, Cesar Chavez Elementary School_
 
-"Inspirational. It would be wonderful to bring it to all elementary schools." *—President, Berkeley PTA Council*
+"Inspirational. It would be wonderful to bring it to all elementary schools." _—President, Berkeley PTA Council_
 
-"I so appreciated how this performance gave my students some understanding of Palestine, Arabic, and even the simple geography of the Middle East. I especially appreciated the lesson plan that was available to us before the performance." *—Teacher, Berkwood Hedge School*
+"I so appreciated how this performance gave my students some understanding of Palestine, Arabic, and even the simple geography of the Middle East. I especially appreciated the lesson plan that was available to us before the performance." _—Teacher, Berkwood Hedge School_
