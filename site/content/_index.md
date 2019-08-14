@@ -1,31 +1,31 @@
 ---
 title: Middle East Center Stage
-headline: On Behalf of All Muslims
-subtitle: a Comedy Special featuring Zahra Noorbakhsh
-background: /img/hero-zahra-solo.jpg
+headline: ReOrient 2019 Festival of Short Plays
+subtitle: Think you know the Middle East? Think again!
+background: 'https://ucarecdn.com/dd36bdba-f8e2-4518-a52b-3ff079c3fe17/'
 cta: MORE
-link: /productions/obam-2019/
+link: /productions/reorient-2019
 items:
-  - subtitle: It’s Not This Muslim Comedian’s Job to Open Your Mind
-    cta: Read more
-    image: img/zahra-nytimes-feature.jpg
+  - image: 'https://ucarecdn.com/41a20485-f313-41e2-84fe-37c6616355b8/'
+    subtitle: 'We''re Changing the Narrative on the Middle East, One Book at a Time!'
+    cta: Get your copy
     link: >-
-      https://www.nytimes.com/2017/05/06/opinion/sunday/its-not-this-muslim-comedians-job-to-open-your-mind.html
+      https://www.routledge.com/Casting-a-Movement-The-Welcome-Table-Initiative/Syler-Banks/p/book/9781138594777
     text: >-
-      Zahra wrote an opinion piece for <em>The New York Times</em> about the
-      dangers of 'we’re just like you' comedy.
-  - subtitle: 'In A Climate Of Fear, A Comedian Remembers What Makes Her Brave'
-    cta: Read more
-    image: img/zahra-npr-feature.jpg
+      Yeghiazarian writes about casting ReOrient 2009, with a prologue by Yussef
+      El Guindi and an epilogue by Malek Najjar.
+  - image: 'https://ucarecdn.com/1d2c4224-4fa2-48c1-8ebc-b9be74e55c19/'
+    subtitle: Capturing the Arab American Experience
+    cta: Get your copy
     link: >-
-      https://www.npr.org/2017/10/24/557328395/in-a-climate-of-fear-a-comedian-remembers-what-makes-her-brave
+      https://www.bloomsbury.com/us/the-selected-works-of-yussef-el-guindi-9781350057166/
     text: >-
-      On <em>Fresh Air with Terry Gross</em>, Zahra remembers a childhood
-      experience to find the courage to continue to perform live in the face of
-      rising anti-Muslim rhetoric.
-  - subtitle: Celebrate Palestinian Culture with your children
+      We are ecstatic to announce the publication of a comprehensive anthology
+      of plays by Golden Thread resident artist, and most produced playwright,
+      Yussef El Guindi.
+  - image: 'https://ucarecdn.com/ca56218b-dc04-4d08-891f-13222e692821/'
+    subtitle: Celebrate Palestinian Culture with your children
     cta: Book a show
-    image: img/feature-leila-thumb.jpg
     link: /productions/leila
     text: >-
       Drawn from Palestinian folk tales, <em>Leila’s Quest For Flight</em> will
