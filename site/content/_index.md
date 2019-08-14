@@ -2,7 +2,7 @@
 title: Middle East Center Stage
 headline: ReOrient 2019 Festival of Short Plays
 subtitle: Think you know the Middle East? Think again!
-background: 'https://ucarecdn.com/ed57f261-0d2c-4ec3-8f1b-4e91b7227157/'
+background: 'https://ucarecdn.com/dd36bdba-f8e2-4518-a52b-3ff079c3fe17/'
 cta: MORE
 link: productions/reorient2019
 items:
@@ -23,7 +23,7 @@ items:
       We are ecstatic to announce the publication of a comprehensive anthology
       of plays by Golden Thread resident artist, and most produced playwright,
       Yussef El Guindi.
-  - image: img/feature-leila-thumb.jpg
+  - image: 'https://ucarecdn.com/ca56218b-dc04-4d08-891f-13222e692821/'
     subtitle: Celebrate Palestinian Culture with your children
     cta: Book a show
     link: /productions/leila
