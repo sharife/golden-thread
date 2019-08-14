@@ -23,7 +23,7 @@ stage: ''
 address: ''
 misc: >
   This production runs approximately 30-minutes followed by 20-min Q & A
-  session. Appropriate for families and children, ages 5-15
+  session. Appropriate for families and children, ages 5-15.
 lists:
   - heading: Upcoming Performances
     items:
