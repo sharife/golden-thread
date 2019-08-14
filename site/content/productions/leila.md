@@ -62,7 +62,7 @@ lists:
 
           San Leandro, CA 94577
       - cta: More Info
-        link: 'https://www.liveoaksf.org/book-fair/15'
+        link: 'https://www.liveoaksf.org/book-fair'
         title: 'Friday, December 6, 2019 - 3:30pm'
         pre: Live Oak Elementary Book Festival
         text: |-
