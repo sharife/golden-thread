@@ -19,7 +19,7 @@ description: >-
   108 submissions from 13 countries, the seven short plays are diverse in
   content and style, highlighting the multiplicity of Middle Eastern
   perspectives and identities.
-background: 'https://ucarecdn.com/9f0a73f3-6ca2-4b25-a487-f3b268b5dd1f/'
+background: 'https://ucarecdn.com/0c8c878c-1455-4d8a-9e08-d5306f122795/'
 titleimage: /img/archive/2018/10/ReOrient2019-Slider-Playwrights2.jpg
 director: 'Michael French, Rebecca Novick, Lisa Marie Rollins, and Torange Yeghiazarian'
 featuring: >-
