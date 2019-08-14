@@ -37,35 +37,29 @@ lists:
         link: 'https://menlopark.org/library'
         title: 'Thursday, October 17, 2019 - 7:00pm'
         pre: Menlo Park Library
-        text: |-
-          800 Alma Street
-
-          Menlo Park, CA 94025
+        subtitle: '800 Alma Street, Menlo Park, CA 94025'
+        text: ''
       - cta: More Info
         link: 'http://www.sundaystreetssf.com/sunday-streets-2019/ex102019/'
         title: 'Sunday, October 20, 2019 - TBD'
         pre: SF Sunday Streets (Excelsior)
-        text: >-
+        subtitle: >-
           Mission Street goes car-free from Silver Avenue to Geneva Avenue with
           free activities, cultural performances and a mile of open space for
           all.
+        text: ''
       - cta: More Info
         link: 'https://www.sanleandro.org/depts/library/'
         title: 'Wednesday, November 20, 2019 - 7:00pm'
         pre: San Leandro Community Library
-        subtitle: ''
-        text: |-
-          300 Estudillo Avenue
-
-          San Leandro, CA 94577
+        subtitle: '300 Estudillo Avenue, San Leandro, CA 94577'
+        text: ''
       - cta: More Info
         link: 'https://www.liveoaksf.org/book-fair'
         title: 'Friday, December 6, 2019 - 3:30pm'
         pre: Live Oak Elementary Book Festival
-        text: |-
-          1555 Mariposa Street
-
-          San Francisco, CA 94107
+        subtitle: '1555 Mariposa Street, San Francisco, CA 94107'
+        text: ''
 cast:
   heading: Cast & Crew
   items:
