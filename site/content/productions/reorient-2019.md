@@ -25,7 +25,8 @@ description: >-
   here.** If the goal of theatre is to expand our viewpoint, to enrich our
   knowledge, and to embrace empathy, then ReOrient hugely succeeds.” _—Stark
   Insider_
-background: 'https://ucarecdn.com/985c73e7-fdfc-4082-8baf-9f4aef712577/'
+background: >-
+  https://ucarecdn.com/84c03923-97c8-4d2e-9fc4-828f9e91447e/-/crop/1080x782/0,1138/-/preview/
 titleimage: /img/archive/2018/10/ReOrient2019-Slider-Playwrights2.jpg
 director: 'Michael French, Rebecca Novick, Lisa Marie Rollins, and Torange Yeghiazarian'
 featuring: >-
