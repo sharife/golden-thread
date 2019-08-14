@@ -20,7 +20,7 @@ description: >-
   content and style, highlighting the multiplicity of Middle Eastern
   perspectives and identities.
 background: >-
-  https://ucarecdn.com/0c8c878c-1455-4d8a-9e08-d5306f122795/-/crop/1705x514/34,0/-/preview/
+  https://ucarecdn.com/0c8c878c-1455-4d8a-9e08-d5306f122795/-/crop/1494x514/133,0/-/preview/
 titleimage: /img/archive/2018/10/ReOrient2019-Slider-Playwrights2.jpg
 director: 'Michael French, Rebecca Novick, Lisa Marie Rollins, and Torange Yeghiazarian'
 featuring: >-
