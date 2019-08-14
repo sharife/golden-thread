@@ -4,7 +4,7 @@ headline: ReOrient 2019 Festival of Short Plays
 subtitle: Think you know the Middle East? Think again!
 background: 'https://ucarecdn.com/dd36bdba-f8e2-4518-a52b-3ff079c3fe17/'
 cta: MORE
-link: productions/reorient2019
+link: productions/reorient-2019
 items:
   - image: 'https://ucarecdn.com/41a20485-f313-41e2-84fe-37c6616355b8/'
     subtitle: 'We''re Changing the Narrative on the Middle East, One Book at a Time!'
