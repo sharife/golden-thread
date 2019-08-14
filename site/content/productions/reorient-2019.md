@@ -1,5 +1,5 @@
 ---
-title: ReOrient 2019 Festival of Short Plays
+title: ReOrient 2019
 pre: Seven short plays. One unforgettable evening.
 season: 2019
 date: 2019-04-03T15:04:10.000Z
