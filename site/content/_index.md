@@ -2,7 +2,7 @@
 title: Middle East Center Stage
 headline: ReOrient 2019 Festival of Short Plays
 subtitle: Think you know the Middle East? Think again!
-background: 'https://ucarecdn.com/56f7ec31-316b-48f6-8b90-de05dfc6e6ea/'
+background: 'https://ucarecdn.com/ed57f261-0d2c-4ec3-8f1b-4e91b7227157/'
 cta: MORE
 link: productions/reorient2019
 items:
