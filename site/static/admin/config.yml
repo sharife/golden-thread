@@ -232,6 +232,29 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: "Credit", name: "credit", widget: "string", required: false}
                   - {label: Image, name: image, widget: image, required: false}
                   - {label: "Bio", name: "bio", widget: "markdown", required: false}
+      - file: "site/content/season/_index.md"
+        label: "Season Page"
+        name: "season"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Intro, name: intro, widget: text, required: false}
+          - {label: "Header Image", name: "background", widget: "image", required: false}
+          - label: "Lists"
+            name: "lists"
+            widget: "list"
+            fields:
+              - {label: "Heading", name: "heading", widget: "string", required: false}
+              - label: Items
+                name: items
+                widget: list
+                fields:
+                  - {label: "Title", name: "title", widget: "string", required: false}
+                  - {label: "Eyebrow", name: "pre", widget: "string", required: false}
+                  - {label: "Subtitle", name: "subtitle", widget: "markdown", required: false}
+                  - {label: "Image", name: "image", widget: "image", required: false}
+                  - {label: "Text", name: "text", widget: "markdown", required: false}
+                  - {label: "Call to action", name: "cta", widget: "string", required: false}
+                  - {label: "Link", name: "link", widget: "string", required: false}
       - file: "site/content/get-involved/_index.md"
         label: "Get Involved Page"
         name: "get-involved"
