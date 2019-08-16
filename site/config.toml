@@ -67,7 +67,7 @@ title = "Golden Thread Productions"
 		[[menu.primary]]
 		parent = "about"
 		identifier = "past-productions"
-		name = "All Productions"
+		name = "Past Productions"
 		url = "/productions"
 		weight = 23
 
