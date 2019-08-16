@@ -255,6 +255,21 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: "Text", name: "text", widget: "markdown", required: false}
                   - {label: "Call to action", name: "cta", widget: "string", required: false}
                   - {label: "Link", name: "link", widget: "string", required: false}
+      - file: "site/content/programs/_index.md"
+        label: "Programs"
+        name: "programs"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+          - label: Programs list
+            name: programs
+            widget: list
+            fields:
+              - {label: "Heading", name: "heading", widget: "string", required: false}
+              - {label: "Image", name: "imageUrl", widget: "image", required: false}
+              - {label: "Text", name: "text", widget: "markdown", required: false}
+              - {label: "Call to action", name: "cta", widget: "string", required: false}
+              - {label: "Link", name: "link", widget: "string", required: false}
       - file: "site/content/about/donors/_index.md"
         label: "Donors"
         name: "donors"
