@@ -3,8 +3,8 @@ title: Leila’s Quest For Flight
 pre: GOLDEN THREAD FAIRYTALE PLAYERS PRESENT
 season: 2019
 date: 2019-04-01T15:04:10.000Z
-start: ''
-end: ''
+start: 2019-10-09T15:04:10.000Z
+end: 2019-12-06T15:04:10.000Z
 heading: 'Now touring Bay Area schools, libraries, and more. Book with us today!'
 description: >-
   When the optometrist shatters little Leila’s dream of becoming a pilot, a
@@ -19,8 +19,8 @@ videos:
 writer: Torange Yeghiazarian
 director: Torange Yeghiazarian
 additional: drawn from Palestinian folktales
-stage: ''
-address: ''
+stage: Various Bay Area locations
+address: See below for information on upcoming performances.
 misc: >
   This production runs approximately 30-minutes followed by 20-min Q & A
   session. Appropriate for families and children, ages 5-15.
@@ -163,6 +163,8 @@ bottom:
     Charitable Foundation</a>
 ---
 **Contact <mailto:education@goldenthread.org> to inquire about booking a performance.**
+
+## Testimonials
 
 Past productions of Fairytale Players have been performed at Asian Art Museum, La Pena Cultural Center, Islamic Cultural Center, San Jose Children’s Discovery Museum, the United States of Asian America Festival, San Francisco TheatreFest, and the Dia de los Niños Festival in San Francisco, as well as numerous schools and libraries in the Alameda, Contra Costa, San Francisco.
 

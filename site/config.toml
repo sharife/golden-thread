@@ -153,6 +153,34 @@ title = "Golden Thread Productions"
 		url = "/get-involved/volunteer"
 		weight = 42
 
+		[[menu.primary]]
+		parent = "get-involved"
+		identifier = "jobs"
+		name = "Jobs"
+		url = "/get-involved/jobs"
+		weight = 43
+
+		[[menu.primary]]
+		parent = "get-involved"
+		identifier = "auditions"
+		name = "Auditions"
+		url = "/get-involved/auditions"
+		weight = 44
+
+		[[menu.primary]]
+		parent = "get-involved"
+		identifier = "submissions"
+		name = "Submissions"
+		url = "/get-involved/submissions"
+		weight = 45
+
+		[[menu.primary]]
+		parent = "get-involved"
+		identifier = "internships"
+		name = "Internships"
+		url = "/get-involved/internships"
+		weight = 46
+
 
 [secondary-menu]
 	[[menu.secondary]]

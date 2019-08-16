@@ -48,20 +48,14 @@ lists:
     items:
     - title: Princess Tamar Rescues Nazar, the Brave!
       image: /img/archive/2012/03/TamarNazar-thumb.jpg
-      link: https://www.goldenthread.org/education/fairytale-players/princess-tamar/
-      cta: Find out more
       text: >
         Bringing Armenian legends and traditions to life, this new work will feature two of the most popular Armenian fables: the love story of Princess Tamar, and the adventures of the brave Nazar, a beloved comedic hero of Armenian folk literature. Touring Bay Area schools in April. Performances in Redwood City are made possible in part through a generous grant from the Redwood City Civic Cultural Commission.
     - title: 21 Days that Change the Year
       image: /img/archive/2012/03/21Days-thumb.jpg
-      link: https://www.goldenthread.org/education/fairytale-players/21-days/
-      cta: Find out more
       text: >
         *21 Days that Change the Year* is a delightful performance frames an ancient tale from Ferdowsi’s Shahnameh within contemporary adventures of a sister and brother eagerly awaiting the coming of Nowruz. Starting from spring cleaning and setting a traditional Haft-seen table, to Charshanbeh-suri where children jump over fire, and the Sizdeh-bedar picnic which concludes the rite of spring ceremonies, *21 Days* will introduce audiences to the rituals of the Iranian New Year, Nowruz. 
     - title: Nasrudin's Magnificent Journey to Samarkand
       image: /img/archive/2012/03/nasrudin-thumb.jpg
-      link: https://www.goldenthread.org/education/fairytale-players/nasrudins-magnificent-journey-to-samarkand/
-      cta: Find out more
       text: >
         Will Nasrudin and his faithful donkey ever make it to Samarkand, the center of arts and crafts on the ancient Silk Road? There is only one way to find out! This visually colorful performance with dynamic story-telling, dance and music is adapted from several folk tales centered around the comedic personage, Nasrudin Hoja, a wise fool renowned in Central Asia, Turkey, and Iran.
 ---
