@@ -275,6 +275,66 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Intro, name: intro, widget: text, required: false}
           - {label: Body, name: body, widget: markdown, required: false}
+      - file: "site/content/get-involved/jobs/_index.md"
+        label: "Jobs Page"
+        name: "jobs"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown, required: false}
+          - label: "Sidebar"
+            name: sidebar
+            widget: object
+            fields: 
+              - {label: "Heading", name: "heading", widget: "string", required: false}
+              - {label: "Text", name: "text", widget: "markdown", required: false}
+      - file: "site/content/get-involved/volunteer/_index.md"
+        label: "Volunteer Page"
+        name: "volunteer"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown, required: false}
+          - label: "Sidebar"
+            name: sidebar
+            widget: object
+            fields: 
+              - {label: "Heading", name: "heading", widget: "string", required: false}
+              - {label: "Text", name: "text", widget: "markdown", required: false}
+      - file: "site/content/get-involved/auditions/_index.md"
+        label: "Auditions Page"
+        name: "auditions"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown, required: false}
+          - label: "Sidebar"
+            name: sidebar
+            widget: object
+            fields: 
+              - {label: "Heading", name: "heading", widget: "string", required: false}
+              - {label: "Text", name: "text", widget: "markdown", required: false}
+      - file: "site/content/get-involved/submissions/_index.md"
+        label: "Submissions Page"
+        name: "submissions"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown, required: false}
+          - label: "Sidebar"
+            name: sidebar
+            widget: object
+            fields: 
+              - {label: "Heading", name: "heading", widget: "string", required: false}
+              - {label: "Text", name: "text", widget: "markdown", required: false}
+      - file: "site/content/get-involved/internships/_index.md"
+        label: "Internships Page"
+        name: "internships"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown, required: false}
+          - label: "Sidebar"
+            name: sidebar
+            widget: object
+            fields: 
+              - {label: "Heading", name: "heading", widget: "string", required: false}
+              - {label: "Text", name: "text", widget: "markdown", required: false}
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
         name: "contact"

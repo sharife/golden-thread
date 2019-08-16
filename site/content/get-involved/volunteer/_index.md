@@ -1,12 +1,5 @@
 ---
-author: navid@goldenthread.org
-comments: false
-date: 2012-05-07 10:25:04+00:00
-layout: page
-link: https://www.goldenthread.org/volunteer/
-slug: volunteer
 title: Volunteer Opportunities
-wordpress_id: 1561
 sidebar:
   heading: Get in touch
   text: >
