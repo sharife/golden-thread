@@ -150,7 +150,7 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Call to action, name: cta, widget: string}
               - {label: Link, name: link, widget: string}
       - file: "site/content/tickets/_index.md"
-        label: "Tickets Page"
+        label: "Tickets"
         name: "tickets"
         fields:
           - {label: Title, name: title, widget: string}
@@ -172,7 +172,7 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: "Link", name: "link", widget: "string", required: false}
           - {label: Body, name: body, widget: markdown}
       - file: "site/content/about/people/_index.md"
-        label: "People Page"
+        label: "People"
         name: "people"
         fields:
           - {label: Title, name: title, widget: string}
@@ -233,7 +233,7 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: Image, name: image, widget: image, required: false}
                   - {label: "Bio", name: "bio", widget: "markdown", required: false}
       - file: "site/content/season/_index.md"
-        label: "Season Page"
+        label: "Season"
         name: "season"
         fields:
           - {label: Title, name: title, widget: string}
@@ -256,7 +256,7 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: "Call to action", name: "cta", widget: "string", required: false}
                   - {label: "Link", name: "link", widget: "string", required: false}
       - file: "site/content/about/donors/_index.md"
-        label: "Donors Page"
+        label: "Donors"
         name: "donors"
         fields:
           - {label: Title, name: title, widget: string}
@@ -269,14 +269,14 @@ collections: # A list of collections the CMS should be able to edit
               - {label: "Heading", name: "heading", widget: "string", required: false}
               - {label: "Text", name: "text", widget: "markdown", required: false}
       - file: "site/content/get-involved/_index.md"
-        label: "Get Involved Page"
+        label: "Get Involved"
         name: "get-involved"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Intro, name: intro, widget: text, required: false}
           - {label: Body, name: body, widget: markdown, required: false}
       - file: "site/content/get-involved/jobs/_index.md"
-        label: "Jobs Page"
+        label: "Jobs"
         name: "jobs"
         fields:
           - {label: Title, name: title, widget: string}
@@ -288,7 +288,7 @@ collections: # A list of collections the CMS should be able to edit
               - {label: "Heading", name: "heading", widget: "string", required: false}
               - {label: "Text", name: "text", widget: "markdown", required: false}
       - file: "site/content/get-involved/volunteer/_index.md"
-        label: "Volunteer Page"
+        label: "Volunteer"
         name: "volunteer"
         fields:
           - {label: Title, name: title, widget: string}
@@ -299,9 +299,9 @@ collections: # A list of collections the CMS should be able to edit
             fields: 
               - {label: "Heading", name: "heading", widget: "string", required: false}
               - {label: "Text", name: "text", widget: "markdown", required: false}
-      - file: "site/content/get-involved/auditions/_index.md"
-        label: "Auditions Page"
-        name: "auditions"
+      - file: "site/content/get-involved/casting/_index.md"
+        label: "Casting"
+        name: "casting"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown, required: false}
@@ -312,7 +312,7 @@ collections: # A list of collections the CMS should be able to edit
               - {label: "Heading", name: "heading", widget: "string", required: false}
               - {label: "Text", name: "text", widget: "markdown", required: false}
       - file: "site/content/get-involved/submissions/_index.md"
-        label: "Submissions Page"
+        label: "Submissions"
         name: "submissions"
         fields:
           - {label: Title, name: title, widget: string}
@@ -324,7 +324,7 @@ collections: # A list of collections the CMS should be able to edit
               - {label: "Heading", name: "heading", widget: "string", required: false}
               - {label: "Text", name: "text", widget: "markdown", required: false}
       - file: "site/content/get-involved/internships/_index.md"
-        label: "Internships Page"
+        label: "Internships"
         name: "internships"
         fields:
           - {label: Title, name: title, widget: string}
@@ -336,7 +336,7 @@ collections: # A list of collections the CMS should be able to edit
               - {label: "Heading", name: "heading", widget: "string", required: false}
               - {label: "Text", name: "text", widget: "markdown", required: false}
       - file: "site/content/contact/_index.md"
-        label: "Contact Page"
+        label: "Contact"
         name: "contact"
         fields:
           - {label: Title, name: title, widget: string}

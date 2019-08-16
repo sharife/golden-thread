@@ -1,5 +1,5 @@
 ---
-title: Auditions
+title: Casting
 sidebar:
   heading: Get in touch
   text: >
