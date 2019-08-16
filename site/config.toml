@@ -162,9 +162,9 @@ title = "Golden Thread Productions"
 
 		[[menu.primary]]
 		parent = "get-involved"
-		identifier = "auditions"
-		name = "Auditions"
-		url = "/get-involved/auditions"
+		identifier = "casting"
+		name = "Casting"
+		url = "/get-involved/casting"
 		weight = 44
 
 		[[menu.primary]]
