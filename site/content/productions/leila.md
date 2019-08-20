@@ -159,17 +159,7 @@ bottom:
     Charitable Foundation</a>
 
 
-
-
     ## Testimonials
-
-
-    Past productions of Fairytale Players have been performed at Asian Art
-    Museum, La Pena Cultural Center, Islamic Cultural Center, San Jose
-    Children’s Discovery Museum, the United States of Asian America Festival,
-    San Francisco TheatreFest, and the Dia de los Niños Festival in San
-    Francisco, as well as numerous schools and libraries in the Alameda, Contra
-    Costa, San Francisco.
 
 
     "Golden Thread has quickly become a favorite presenter of family programs at
@@ -204,6 +194,4 @@ bottom:
     especially appreciated the lesson plan that was available to us before the
     performance." _—Teacher, Berkwood Hedge School_
 ---
-****
-
-##
+Past productions of Fairytale Players have been performed at Asian Art Museum, La Pena Cultural Center, Islamic Cultural Center, San Jose Children’s Discovery Museum, the United States of Asian America Festival, San Francisco TheatreFest, and the Dia de los Niños Festival in San Francisco, as well as numerous schools and libraries in the Alameda, Contra Costa, San Francisco.
