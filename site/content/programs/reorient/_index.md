@@ -1,12 +1,5 @@
 ---
-author: navid@goldenthread.org
-comments: false
-date: 2012-05-17 20:30:13+00:00
-layout: page
-link: https://www.goldenthread.org/programs/reorient/
-slug: reorient
 title: ReOrient Festival and Forum
-wordpress_id: 2636
 titleimage: /img/archive/2015/08/ReOrient_logo1.png
 intro: >
   **The ReOrient Festival of Short Plays** was inaugurated in 1999 to present alternative perspectives of the Middle East and to showcase the multiplicity of stories, voices and styles from the region, and has since becomes Golden Thread’s most recognized and celebrated program. 
