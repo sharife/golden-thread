@@ -278,8 +278,8 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Header Image, name: background, widget: image, required: false}
           - {label: Heading, name: heading, widget: string, required: false}
-          - {label: Intro, name: text, widget: text}
-          - {label: Description, name: description, widget: markdown}
+          - {label: Intro, name: intro, widget: text, required: false}
+          - {label: Description, name: description, widget: markdown, required: false}
           - {label: Body, name: body, widget: markdown}
           - label: "Sidebar"
             name: sidebar
@@ -337,7 +337,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Header Image, name: background, widget: image, required: false}
           - {label: Heading, name: heading, widget: string, required: false}
           - {label: Title Image, name: titleimage, widget: image, required: false}
-          - {label: Intro, name: text, widget: text, required: false}
+          - {label: Intro, name: intro, widget: text, required: false}
           - {label: Description, name: description, widget: markdown, required: false}
           - {label: Body, name: body, widget: markdown}
           - label: "Sidebar"
