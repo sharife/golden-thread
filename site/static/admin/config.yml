@@ -319,6 +319,7 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: "Text", name: "text", widget: "markdown", required: false}
                   - {label: "Call to action", name: "cta", widget: "string", required: false}
                   - {label: "Link", name: "link", widget: "string", required: false}
+                  - {label: YouTube ID, name: id, widget: string, required: false}
           - label: Photo Gallery
             name: photos
             widget: object
@@ -378,6 +379,7 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: "Text", name: "text", widget: "markdown", required: false}
                   - {label: "Call to action", name: "cta", widget: "string", required: false}
                   - {label: "Link", name: "link", widget: "string", required: false}
+                  - {label: YouTube ID, name: id, widget: string, required: false}
           - label: Photo Gallery
             name: photos
             widget: object
