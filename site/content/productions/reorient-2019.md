@@ -45,7 +45,7 @@ misc: >
 lists:
   - heading: Middle Eastern and North African American Theatre Artists Convening
     items:
-      - cta: More Info
+      - cta: Registration Info
         title: 'November 9 & 10, 2019'
         pre: ''
         subtitle: MENA & Muslim Artists Affinity Work Sessions
