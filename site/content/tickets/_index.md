@@ -3,18 +3,20 @@ title: Tickets
 lists:
   - items:
       - cta: BUY YOUR TICKETS NOW
-        image: /img/archive/2012/03/feature-scenes.jpg
-        link: 'https://www.goldenthread.org/2019-season/scenes/tickets/'
+        image: 'https://ucarecdn.com/b8f36844-5b83-4e9f-a863-f1898671c9fe/'
+        link: >-
+          https://goldenthread.secure.force.com/ticket/#/events/a0Sf1000006r1HhEAI
+        pre: ''
         text: >-
-          by **Hannah Khalil**, directed by **Michael Malek Najjar** <br />
-          **April 5-May 5, 2019** at Potrero Stage (1695 18th Street, San
+          Featuring plays by **Yussef El Guindi**, **Rendah Heywood**, **Lameece
+          Issaq**, **Mustafa Kaymak**, **Betty Shamieh**, **Niku Sharei**, and
+          **Naomi Wallace.** Directed by **Michael French**, **Rebecca Novick**,
+          **Lisa Marie Rollins**, and **Torange Yeghiazarian.** <br /> **October
+          18-November 17, 2019** at Potrero Stage (1695 18th Street, San
           Francisco) <br /> $38 General Admission | $28 Student/Senior 65+ | $20
-          1st and 2nd Thursdays | $15 Previews <br /> Group of 10 or more?
-          Contact
-          [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) for
-          30% off.
-        title: |
-          Scenes From 71* Years
+          1st and 2nd Thursdays of the run | $15 Previews <br /> Group of 10 or
+          more? Contact <mailto:boxoffice@goldenthread.org> for 30% off.
+        title: ReOrient 2019 Festival of Short Plays
       - cta: BUY YOUR TICKETS NOW
         image: /img/obam-2019-feature.jpg
         link: >-
@@ -30,20 +32,18 @@ lists:
         title: |
           On Behalf of All Muslims: A Comedy Special
       - cta: BUY YOUR TICKETS NOW
-        image: 'https://ucarecdn.com/b8f36844-5b83-4e9f-a863-f1898671c9fe/'
-        link: >-
-          https://goldenthread.secure.force.com/ticket/#/events/a0Sf1000006r1HhEAI
-        pre: ''
+        image: /img/archive/2012/03/feature-scenes.jpg
+        link: 'https://www.goldenthread.org/2019-season/scenes/tickets/'
         text: >-
-          Featuring plays by **Yussef El Guindi**, **Rendah Heywood**, **Lameece
-          Issaq**, **Mustafa Kaymak**, **Betty Shamieh**, **Niku Sharei**, and
-          **Naomi Wallace.** Directed by **Michael French**, **Rebecca Novick**,
-          **Lisa Marie Rollins**, and **Torange Yeghiazarian.** <br /> **October
-          18-November 17, 2019** at Potrero Stage (1695 18th Street, San
+          by **Hannah Khalil**, directed by **Michael Malek Najjar** <br />
+          **April 5-May 5, 2019** at Potrero Stage (1695 18th Street, San
           Francisco) <br /> $38 General Admission | $28 Student/Senior 65+ | $20
-          1st and 2nd Thursdays of the run | $15 Previews <br /> Group of 10 or
-          more? Contact <mailto:boxoffice@goldenthread.org> for 30% off.
-        title: ReOrient 2019 Festival of Short Plays
+          1st and 2nd Thursdays | $15 Previews <br /> Group of 10 or more?
+          Contact
+          [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) for
+          30% off.
+        title: |
+          Scenes From 71* Years
 ---
 
 
