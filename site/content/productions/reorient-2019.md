@@ -43,14 +43,12 @@ misc: >
   Contact [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) to
   place your order.
 lists:
-  - heading: >-
-      Middle Eastern and North African American Theatre Artists Convening –
-      November 9 & 10, 2019
+  - heading: Middle Eastern and North African American Theatre Artists Convening
     items:
       - cta: More Info
         title: MENA & Muslim Artists Affinity Work Sessions
-        pre: 'Golden Thread Productions, in partnership with MENA Steering Committee'
-        subtitle: "Saturday, November 9 - MENA & Muslim Artists Affinity Work Sessions 11am-5:30pm \r\n\nSunday, November 10 - MENA & Muslim Artists Affinity Work Sessions 11am-2:30pm; Reception 5:30-8pm"
+        pre: 'November 9 & 10, 2019'
+        subtitle: ''
         text: >-
           Golden Thread Productions is thrilled to host a gathering of Middle
           Eastern, North African, and Muslim theatre artists during the ReOrient
@@ -60,6 +58,14 @@ lists:
           Arts (Portland), we will show up to meet each other, network, and
           strategize on how to increase our community’s visibility, amplify our
           voices, and deepen the impact of our work.
+
+
+          Saturday, November 9 - MENA & Muslim Artists Affinity Work Sessions
+          11am-5:30pm 
+
+
+          Sunday, November 10 - MENA & Muslim Artists Affinity Work Sessions
+          11am-2:30pm; Reception 5:30-8pm
   - heading: REORIENT 2019 LINE-UP
     items:
       - image: /img/archive/2018/02/ElGuindi-Yussef-300x300.jpg
