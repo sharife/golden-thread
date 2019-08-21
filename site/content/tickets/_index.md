@@ -14,8 +14,8 @@ lists:
           **Lisa Marie Rollins**, and **Torange Yeghiazarian.** <br /> **October
           18-November 17, 2019** at Potrero Stage (1695 18th Street, San
           Francisco) <br /> $38 General Admission | $28 Student/Senior 65+ | $20
-          1st and 2nd Thursdays of the run | $15 Previews <br /> Group of 10 or
-          more? Contact <mailto:boxoffice@goldenthread.org> for 30% off.
+          1st and 2nd Thursdays | $15 Previews <br /> Group of 10 or more?
+          Contact <mailto:boxoffice@goldenthread.org> for 30% off.
         title: ReOrient 2019 Festival of Short Plays
       - cta: BUY YOUR TICKETS NOW
         image: /img/obam-2019-feature.jpg
