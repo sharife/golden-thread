@@ -58,14 +58,6 @@ lists:
           Arts (Portland), we will show up to meet each other, network, and
           strategize on how to increase our community’s visibility, amplify our
           voices, and deepen the impact of our work.
-
-
-          Saturday, November 9 - MENA & Muslim Artists Affinity Work Sessions
-          11am-5:30pm 
-
-
-          Sunday, November 10 - MENA & Muslim Artists Affinity Work Sessions
-          11am-2:30pm; Reception 5:30-8pm
   - heading: REORIENT 2019 LINE-UP
     items:
       - image: /img/archive/2018/02/ElGuindi-Yussef-300x300.jpg
