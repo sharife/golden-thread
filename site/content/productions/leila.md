@@ -59,7 +59,14 @@ lists:
         text: ''
   - heading: Testimonials
     items:
-      - text: >-
+      - subtitle: >-
+          Past productions of Fairytale Players have been performed at Asian Art
+          Museum, La Pena Cultural Center, Islamic Cultural Center, San Jose
+          Children’s Discovery Museum, the United States of Asian America
+          Festival, San Francisco TheatreFest, and the Dia de los Niños Festival
+          in San Francisco, as well as numerous schools and libraries in the
+          Alameda, Contra Costa, San Francisco.
+        text: >-
           "Golden Thread has quickly become a favorite presenter of family
           programs at San Francisco Public Library."  _—Family Engagement
           Services, San Francisco Public Library_
