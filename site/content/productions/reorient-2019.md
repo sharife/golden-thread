@@ -38,9 +38,10 @@ stage: Potrero Stage
 address: '1695 18th Street, San Francisco'
 ticketlink: 'https://www.goldenthread.org/2019-season/reorient2019/tickets/'
 misc: >
-  30% off General Admission tickets for groups of 10 or more! Contact
-  [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) to place your
-  order.
+  30% off General Admission tickets for groups of 10 or more!
+
+  Contact [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) to
+  place your order.
 lists:
   - heading: REORIENT 2019 LINE-UP
     items:
@@ -183,13 +184,10 @@ lists:
           Award in Literature.
         title: |
           The Book of Mima
-grids:
-  - heading: ' – '
+  - heading: Middle Eastern and North African American Theatre Artists Convening
     items:
       - cta: More Info
-        title: Middle Eastern and North African American Theatre Artists Convening
-        pre: MENA & Muslim Artists Affinity Work Sessions
-        subtitle: 'November 9 & 10, 2019'
+        pre: 'Golden Thread Productions, in partnership with MENA Steering Committee'
         text: >-
           Golden Thread Productions is thrilled to host a gathering of Middle
           Eastern, North African, and Muslim theatre artists during the ReOrient
@@ -199,6 +197,7 @@ grids:
           Arts (Portland), we will show up to meet each other, network, and
           strategize on how to increase our community’s visibility, amplify our
           voices, and deepen the impact of our work.
+grids: []
 cast:
   heading: REORIENT 2019 HONORARY MENTIONS
   items:
