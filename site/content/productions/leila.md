@@ -160,7 +160,7 @@ bottom:
     Charitable Foundation</a>
 
 
-    # Testimonials
+    <a bold Testimonials</a>
 
 
     "Golden Thread has quickly become a favorite presenter of family programs at
