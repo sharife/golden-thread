@@ -193,6 +193,6 @@ bottom:
     <a href="https://www.hpcfgiving.org/" target="_blank">Harbor Point
     Charitable Foundation</a>
 ---
-Contact \[education@goldenthread.org] (mailto:education@goldenthread.org) to inquire about booking a performance.
+Contact \[education@goldenthread.org](mailto:education@goldenthread.org) to inquire about booking a performance.
 
 Past productions of Fairytale Players have been performed at Asian Art Museum, La Pena Cultural Center, Islamic Cultural Center, San Jose Children’s Discovery Museum, the United States of Asian America Festival, San Francisco TheatreFest, and the Dia de los Niños Festival in San Francisco, as well as numerous schools and libraries in the Alameda, Contra Costa, San Francisco.
