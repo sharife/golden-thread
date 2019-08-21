@@ -46,9 +46,9 @@ lists:
   - heading: Middle Eastern and North African American Theatre Artists Convening
     items:
       - cta: More Info
-        title: MENA & Muslim Artists Affinity Work Sessions
-        pre: 'November 9 & 10, 2019'
-        subtitle: ''
+        title: 'November 9 & 10, 2019'
+        pre: ''
+        subtitle: MENA & Muslim Artists Affinity Work Sessions
         text: >-
           Golden Thread Productions is thrilled to host a gathering of Middle
           Eastern, North African, and Muslim theatre artists during the ReOrient
