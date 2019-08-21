@@ -1,12 +1,5 @@
 ---
-author: navid@goldenthread.org
-comments: false
-date: 2012-03-28 00:31:48+00:00
-layout: page
-link: https://www.goldenthread.org/fairytale-players/
-slug: fairytale-players
 title: Golden Thread Fairytale Players
-wordpress_id: 137
 background: /img/hero-fairytale-players-2.jpg
 heading: Multicultural Theatre for Young Audiences 
 intro: >
