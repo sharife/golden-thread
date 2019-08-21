@@ -25,7 +25,7 @@ misc: >
   This production runs approximately 30-minutes followed by 20-min Q & A
   session. Appropriate for families and children, ages 5-15.
 
-  Contact [education@goldenthread.org} (mailto:education@goldenthread.org) to
+  Contact [education@goldenthread.org] (mailto:education@goldenthread.org) to
   inquire about booking a performance.
 lists:
   - heading: Upcoming Performances
