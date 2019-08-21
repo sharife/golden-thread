@@ -183,6 +183,22 @@ lists:
           Award in Literature.
         title: |
           The Book of Mima
+grids:
+  - heading: ' – '
+    items:
+      - cta: More Info
+        title: Middle Eastern and North African American Theatre Artists Convening
+        pre: MENA & Muslim Artists Affinity Work Sessions
+        subtitle: 'November 9 & 10, 2019'
+        text: >-
+          Golden Thread Productions is thrilled to host a gathering of Middle
+          Eastern, North African, and Muslim theatre artists during the ReOrient
+          Festival. Building on years of community organizing, our partnership
+          with Silk Road Rising (Chicago) and The Lark (New York), and new
+          alliances with Art2Action (Tampa), Noor Theater (New York), and Boom
+          Arts (Portland), we will show up to meet each other, network, and
+          strategize on how to increase our community’s visibility, amplify our
+          voices, and deepen the impact of our work.
 cast:
   heading: REORIENT 2019 HONORARY MENTIONS
   items:
