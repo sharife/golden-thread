@@ -330,9 +330,9 @@ collections: # A list of collections the CMS should be able to edit
                 fields:
                   - {label: Image, name: image, widget: image, required: false}
        - file: "site/content/programs/reorient/_index.md"
-        label: "ReOrient Festival"
-        name: "reorient"
-        fields:
+         label: "ReOrient Festival"
+         name: "reorient"
+         fields:
           - {label: Title, name: title, widget: string}
           - {label: Header Image, name: background, widget: image, required: false}
           - {label: Heading, name: heading, widget: string, required: false}
