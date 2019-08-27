@@ -17,33 +17,6 @@ lists:
           1st and 2nd Thursdays | $15 Previews <br /> Group of 10 or more?
           Contact <mailto:boxoffice@goldenthread.org> for 30% off.
         title: ReOrient 2019 Festival of Short Plays
-      - cta: BUY YOUR TICKETS NOW
-        image: /img/obam-2019-feature.jpg
-        link: >-
-          https://goldenthread.secure.force.com/ticket/#details_a0Sf1000006r1LPEAY
-        text: >-
-          by **Zahra Noorbakhsh**<br />directed by **Lisa Marie Rollins**,
-          dramaturgy by **Nakissa Etemad**<br />presented in association with
-          **Brava! for Women in the Arts** <br /> **June 21-22, 2019** at Brava
-          Theater Center (2781 24th Street, San Francisco) <br /> $25 General
-          Admission | $50 Friend of the Arts <br /> Group of 10 or more? Contact
-          [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) for
-          30% off.
-        title: |
-          On Behalf of All Muslims: A Comedy Special
-      - cta: BUY YOUR TICKETS NOW
-        image: /img/archive/2012/03/feature-scenes.jpg
-        link: 'https://www.goldenthread.org/2019-season/scenes/tickets/'
-        text: >-
-          by **Hannah Khalil**, directed by **Michael Malek Najjar** <br />
-          **April 5-May 5, 2019** at Potrero Stage (1695 18th Street, San
-          Francisco) <br /> $38 General Admission | $28 Student/Senior 65+ | $20
-          1st and 2nd Thursdays | $15 Previews <br /> Group of 10 or more?
-          Contact
-          [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) for
-          30% off.
-        title: |
-          Scenes From 71* Years
 ---
 
 
