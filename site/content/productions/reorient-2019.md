@@ -36,7 +36,8 @@ additional: >-
   Brooke Jennings (Costumes), Grisel Torres (Properties)
 stage: Potrero Stage
 address: '1695 18th Street, San Francisco'
-ticketlink: 'https://www.goldenthread.org/2019-season/reorient2019/tickets/'
+ticketlink: >-
+  https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/events
 misc: >
   30% off General Admission tickets for groups of 10 or more!
 
