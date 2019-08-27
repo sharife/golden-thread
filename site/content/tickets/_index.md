@@ -1,48 +1,22 @@
 ---
-date: 2012-03-27 22:46:58+00:00
-link: https://www.goldenthread.org/tickets/
-slug: tickets
 title: Tickets
 lists:
-- list:
-  items:
-    - title: >
-        3 Show Pass
-      image: /img/archive/2012/03/3-show-pass-feature.jpg
-      link: https://goldenthread.secure.force.com/ticket/#sections_a0Ff100000cyMiMEAU
-      cta: PURCHASE PASS
-      text: >-
-        **The 3 Show Passes** offer the best value and priority access to our 2019 Season. Mainstage shows include _Scenes From 71* Years_ by Hannah Khalil, _On Behalf of All Muslims, a Comedy Special_ by Zahra Noorbakhsh, and the ReOrient 2019 Festival of Short Plays.
-        <br />
-        $75 (service fees are included) | 25% discount off of single ticket prices
-    - title: >
-       Scenes From 71* Years
-      image: /img/archive/2012/03/feature-scenes.jpg
-      link: https://www.goldenthread.org/2019-season/scenes/tickets/
-      cta: BUY YOUR TICKETS NOW
-      text: >-
-        by **Hannah Khalil**, directed by **Michael Malek Najjar**
-        <br />
-        **April 5-May 5, 2019**
-        at Potrero Stage (1695 18th Street, San Francisco)
-        <br />
-        $38 General Admission | $28 Student/Senior 65+ | $20 1st and 2nd Thursdays | $15 Previews
-        <br />
-        Group of 10 or more? Contact [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) for 30% off.
-    - title: >
-       On Behalf of All Muslims: A Comedy Special
-      image: /img/obam-2019-feature.jpg
-      link: https://goldenthread.secure.force.com/ticket/#details_a0Sf1000006r1LPEAY
-      cta: BUY YOUR TICKETS NOW
-      text: >-
-        by **Zahra Noorbakhsh**<br />directed by **Lisa Marie Rollins**, dramaturgy by **Nakissa Etemad**<br />presented in association with **Brava! for Women in the Arts**
-        <br />
-        **June 21-22, 2019**
-        at Brava Theater Center (2781 24th Street, San Francisco)
-        <br />
-        $25 General Admission | $50 Friend of the Arts
-        <br />
-        Group of 10 or more? Contact [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) for 30% off.
+  - items:
+      - cta: BUY YOUR TICKETS NOW
+        image: 'https://ucarecdn.com/b8f36844-5b83-4e9f-a863-f1898671c9fe/'
+        link: >-
+          https://goldenthread.secure.force.com/ticket/#/events/a0Sf1000006r1HhEAI
+        pre: ''
+        text: >-
+          Featuring plays by **Yussef El Guindi**, **Rendah Heywood**, **Lameece
+          Issaq**, **Mustafa Kaymak**, **Betty Shamieh**, **Niku Sharei**, and
+          **Naomi Wallace.** Directed by **Michael French**, **Rebecca Novick**,
+          **Lisa Marie Rollins**, and **Torange Yeghiazarian.** <br /> **October
+          18-November 17, 2019** at Potrero Stage (1695 18th Street, San
+          Francisco) <br /> $38 General Admission | $28 Student/Senior 65+ | $20
+          1st and 2nd Thursdays | $15 Previews <br /> Group of 10 or more?
+          Contact <mailto:boxoffice@goldenthread.org> for 30% off.
+        title: ReOrient 2019 Festival of Short Plays
 ---
 
 
