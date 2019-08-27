@@ -6,9 +6,9 @@ intro: >
   Golden Thread Fairytale Players offer a dynamic repertoire of performances for
   young audiences, with plays based on traditions and folklore from across the
   Middle East. 
-description: >
-  Inspired by popular performance traditions such as *Hakawati*, *Ru-hozi*,
-  *Naghalli*, *Karagoz*, and *Commedia dell Arte*, Golden Thread Fairytale
+description: >-
+  Inspired by popular performance traditions such as _Hakawati_, _Ru-hozi_,
+  _Naghalli_, _Karagoz_, and _Commedia dell Arte_, Golden Thread Fairytale
   Players employ epic storytelling, puppetry, song, dance, circus arts
   techniques, and Middle Eastern languages to create engaging performances that
   draw from enriching folk tales and timeless historical texts. <br /><br />Our
@@ -16,8 +16,7 @@ description: >
   connections to contemporary culture. Golden Thread Fairytale Players
   performances appeal to audiences of all ages, for their highly entertaining
   value and important capacity to develop deeper appreciation for diverse
-  cultural traditions.<br /><br />**[BOOK YOUR SHOW
-  TODAY!](https://docs.google.com/forms/d/1H7TdX7cdsuCFg__zic9CAz8ljHUz7w7tHbBTBaeep7g)**
+  cultural traditions.<br /><br />
 sidebar:
   heading: Recent Performances
   text: >-
@@ -77,6 +76,8 @@ photos:
     - image: /img/archive/2012/03/21Days-6-001.jpg
     - image: /img/archive/2012/03/Nasrudin_StudentThankYou4_McKineleyElem.jpg
 ---
+**[BOOK YOUR SHOW TODAY!](https://docs.google.com/forms/d/1H7TdX7cdsuCFg__zic9CAz8ljHUz7w7tHbBTBaeep7g)**
+
 * Ideal for families and children aged 5-15.
 * Shows are 30 minutes and include a post-performance Question & Answer session with the cast.
 * For schools, an informational brochure with background on themes and resources for further learning are provided.
