@@ -36,12 +36,31 @@ additional: >-
   Brooke Jennings (Costumes), Grisel Torres (Properties)
 stage: Potrero Stage
 address: '1695 18th Street, San Francisco'
-ticketlink: 'https://www.goldenthread.org/2019-season/reorient2019/tickets/'
+ticketlink: >-
+  https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/events
 misc: >
-  30% off General Admission tickets for groups of 10 or more! Contact
-  [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) to place your
-  order.
+  30% off General Admission tickets for groups of 10 or more!
+
+  Contact [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) to
+  place your order.
 lists:
+  - heading: Middle Eastern and North African American Theatre Artists Convening
+    items:
+      - cta: Registration Info
+        link: >-
+          https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006fS5yUAE
+        title: 'November 9 & 10, 2019'
+        pre: ''
+        subtitle: MENA & Muslim Artists Affinity Work Sessions
+        text: >-
+          Golden Thread Productions is thrilled to host a gathering of Middle
+          Eastern, North African, and Muslim theatre artists during the ReOrient
+          Festival. Building on years of community organizing, our partnership
+          with Silk Road Rising (Chicago) and The Lark (New York), and new
+          alliances with Art2Action (Tampa), Noor Theater (New York), and Boom
+          Arts (Portland), we will show up to meet each other, network, and
+          strategize on how to increase our community’s visibility, amplify our
+          voices, and deepen the impact of our work.
   - heading: REORIENT 2019 LINE-UP
     items:
       - image: /img/archive/2018/02/ElGuindi-Yussef-300x300.jpg
@@ -183,6 +202,7 @@ lists:
           Award in Literature.
         title: |
           The Book of Mima
+grids: []
 cast:
   heading: REORIENT 2019 HONORARY MENTIONS
   items:
@@ -210,4 +230,4 @@ bottom:
 ---
 ![](https://ucarecdn.com/a6c035a7-09ab-4d46-8c5e-c440bf2bdcd0/)
 
-This year’s ReOrient Festival marks our second collaboration with the [Literary Managers and Dramaturgs of the Americas (LMDA)](https://lmda.org/). The partnership brings together two organizations that value challenging cultural preconceptions through provocative programming and dialogue. Curated by LMDA’s Regional VP Metro Bay Area and Festival Lead Dramaturg Nakissa Etemad, LMDA is providing a team of Dramaturgs to aid the playwrights in script development, provide contextual information, and write feature articles that peek behind-the-scenes of ReOrient. In addition to Golden Thread resident artist Nakissa Etemad, this year’s Dramaturgy Team includes Scott Horstein, Laura Espino, and Emily DeDakis.
+This year’s ReOrient Festival marks our second collaboration with the [Literary Managers and Dramaturgs of the Americas (LMDA)](https://lmda.org/). The partnership brings together two organizations that value challenging cultural preconceptions through provocative programming and dialogue. Curated by LMDA’s Regional VP Metro Bay Area and Festival Lead Dramaturg Nakissa Etemad, LMDA is providing a team of Dramaturgs to aid the playwrights in script development, provide contextual information, and write feature articles that peek behind-the-scenes of ReOrient. In addition to Golden Thread resident artist Nakissa Etemad, this year’s Dramaturgy Team includes Emily DeDakis, Laura Espino, Scott Horstein, and Michael Malek Najjar.
