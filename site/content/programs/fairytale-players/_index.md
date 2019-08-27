@@ -18,15 +18,37 @@ description: >-
   value and important capacity to develop deeper appreciation for diverse
   cultural traditions.<br /><br />
 sidebar:
-  heading: Recent Performances
-  text: >-
-    Golden Thread Fairytale Players has performed at schools, libraries,
-    festivals, and museums all over the Bay area. A few highlights include the
-    Palestine Cultural Day, One World Festival, SFMOMA, the Hearst Museum;
-    numerous San Francisco and San Mateo Public Libraries; many private schools;
-    and public schools in the San Francisco Unified School District, Berkeley
-    Unified School District, San Leandro Unified School District, and Redwood
-    City Unified School District.
+  heading: >-
+    Golden Thread Fairytale Players has performed for thousands of elementary
+    students.
+  text: |-
+    John Muir Elementary School (Berkeley)
+
+    KZV Armenian School (San Francisco)
+
+    Berkwood Hedge Elementary (Berkeley)
+
+    Cesar Chavez Elementary School (San Francisco)
+
+    Tenderloin Elementary (San Francisco)
+
+    Synergy Elementary (San Francisco)
+
+    New School (San Francisco)
+
+    Orion Alternative Elementary (Redwood City)
+
+    Redding Elementary (San Francisco)
+
+    Thousand Oaks Elementary (Berkeley)
+
+    Palomares Elementary (Castro Valley)
+
+    Daniel Webster Elementary (San Francisco)
+
+    Sylvia Mendez School (Berkeley)
+
+    Emerson Elementary (Berkeley)
 lists:
   - heading: Current Touring Shows
     items:
