@@ -6,9 +6,9 @@ intro: >
   Golden Thread Fairytale Players offer a dynamic repertoire of performances for
   young audiences, with plays based on traditions and folklore from across the
   Middle East. 
-description: >
-  Inspired by popular performance traditions such as *Hakawati*, *Ru-hozi*,
-  *Naghalli*, *Karagoz*, and *Commedia dell Arte*, Golden Thread Fairytale
+description: >-
+  Inspired by popular performance traditions such as _Hakawati_, _Ru-hozi_,
+  _Naghalli_, _Karagoz_, and _Commedia dell Arte_, Golden Thread Fairytale
   Players employ epic storytelling, puppetry, song, dance, circus arts
   techniques, and Middle Eastern languages to create engaging performances that
   draw from enriching folk tales and timeless historical texts. <br /><br />Our
@@ -16,7 +16,14 @@ description: >
   connections to contemporary culture. Golden Thread Fairytale Players
   performances appeal to audiences of all ages, for their highly entertaining
   value and important capacity to develop deeper appreciation for diverse
-  cultural traditions.<br /><br />**[BOOK YOUR SHOW
+  cultural traditions.<br /><br />Golden Thread Fairytale Players has performed
+  at schools, libraries, festivals, and museums all over the Bay area. A few
+  highlights include the Palestine Cultural Day, One World Festival, SFMOMA, the
+  Hearst Museum; numerous San Francisco and San Mateo Public Libraries; many
+  private schools; and public schools in the San Francisco Unified School
+  District, Berkeley Unified School District, San Leandro Unified School
+  District, and Redwood City Unified School District.<br /><br />**[BOOK YOUR
+  SHOW
   TODAY!](https://docs.google.com/forms/d/1H7TdX7cdsuCFg__zic9CAz8ljHUz7w7tHbBTBaeep7g)**
 sidebar:
   heading: Recent School Performances
@@ -81,22 +88,18 @@ photos:
     - image: /img/archive/2012/03/Nasrudin_StudentThankYou4_McKineleyElem.jpg
 ---
 
-Golden Thread Fairytale Players has performed at schools, libraries, festivals, and museums all over the Bay area. A few highlights include the Palestine Cultural Day, One World Festival, SFMOMA, the Hearst Museum; numerous San Francisco and San Mateo Public Libraries; many private schools; and public schools in the San Francisco Unified School District, Berkeley Unified School District, San Leandro Unified School District, and Redwood City Unified School District.
 
-  * Ideal for families and children aged 5-15.
-  * Shows are 30 minutes and include a post-performance Question & Answer session with the cast.
-  * For schools, an informational brochure with background on themes and resources for further learning are provided.
+* Ideal for families and children aged 5-15.
+* Shows are 30 minutes and include a post-performance Question & Answer session with the cast.
+* For schools, an informational brochure with background on themes and resources for further learning are provided.
 
-**Questions? Email us at [education@goldenthread.org](mailto:education@goldenthread.org).**
+**Questions? Email us at <mailto:education@goldenthread.org>.**
 
 **Golden Thread Fairytale Players is supported by generous grants from [Neda Nobari Foundation](http://nnf.foundation/) and [Harbor Point Charitable Foundation](https://www.hpcfgiving.org/).**
 
-
-* * *
-
+- - -
 
 ## **Testimonials**
-
 
 **Here is what audience members and educators are saying about the program.**
 
@@ -107,10 +110,8 @@ Elementary_
 
 "I’m so happy these kids are getting such wonderful exposure to Middle Eastern culture, and especially getting to hear the Palestinian voice. And to end it with one of my family’s favorite Fairuz songs was the cherry on top!" _—Parent, Berkwood Hedge School_
 
-"[As an educator, I valued] an opportunity for students to experience art especially made by people of color and performers. _—Teacher, Cesar Chavez Elementary School_
+"\[As an educator, I valued] an opportunity for students to experience art especially made by people of color and performers. _—Teacher, Cesar Chavez Elementary School_
 
 "Inspirational. It would be wonderful to bring it to all elementary schools." _—President, Berkeley PTA Council_
 
 "I so appreciated how this performance gave my students some understanding of Palestine, Arabic, and even the simple geography of the Middle East. I especially appreciated the lesson plan that was available to us before the performance." _—Teacher, Berkwood Hedge School_
-
-
