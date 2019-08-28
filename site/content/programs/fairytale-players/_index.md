@@ -22,7 +22,7 @@ description: >-
   Hearst Museum; numerous San Francisco and San Mateo Public Libraries; many
   private schools; and public schools in the San Francisco Unified School
   District, Berkeley Unified School District, San Leandro Unified School
-  District, and Redwood City Unified School District.<br /><br />
+  District, and Redwood City Unified School District.
 sidebar:
   heading: >-
     Golden Thread Fairytale Players have performed for thousands of elementary
