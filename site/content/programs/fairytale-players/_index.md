@@ -17,6 +17,27 @@ description: >-
   performances appeal to audiences of all ages, for their highly entertaining
   value and important capacity to develop deeper appreciation for diverse
   cultural traditions.<br /><br />
+
+
+  **[BOOK YOUR SHOW
+  TODAY!](https://docs.google.com/forms/d/1H7TdX7cdsuCFg__zic9CAz8ljHUz7w7tHbBTBaeep7g)**
+
+
+  * Ideal for families and children aged 5-15.
+
+  * Shows are 30 minutes and include a post-performance Question & Answer
+  session with the cast.
+
+  * For schools, an informational brochure with background on themes and
+  resources for further learning are provided.
+
+
+  **Questions? Email us at <mailto:education@goldenthread.org>.**
+
+
+  **Golden Thread Fairytale Players is supported by generous grants from [Neda
+  Nobari Foundation](http://nnf.foundation/) and [Harbor Point Charitable
+  Foundation](https://www.hpcfgiving.org/).**
 sidebar:
   heading: ''
   text: >-
@@ -100,16 +121,6 @@ photos:
     - image: /img/archive/2012/03/21Days-6-001.jpg
     - image: /img/archive/2012/03/Nasrudin_StudentThankYou4_McKineleyElem.jpg
 ---
-**[BOOK YOUR SHOW TODAY!](https://docs.google.com/forms/d/1H7TdX7cdsuCFg__zic9CAz8ljHUz7w7tHbBTBaeep7g)**
-
-* Ideal for families and children aged 5-15.
-* Shows are 30 minutes and include a post-performance Question & Answer session with the cast.
-* For schools, an informational brochure with background on themes and resources for further learning are provided.
-
-**Questions? Email us at <mailto:education@goldenthread.org>.**
-
-**Golden Thread Fairytale Players is supported by generous grants from [Neda Nobari Foundation](http://nnf.foundation/) and [Harbor Point Charitable Foundation](https://www.hpcfgiving.org/).**
-
 - - -
 
 ## **Testimonials**
