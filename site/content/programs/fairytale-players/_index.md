@@ -22,9 +22,7 @@ description: >-
   Hearst Museum; numerous San Francisco and San Mateo Public Libraries; many
   private schools; and public schools in the San Francisco Unified School
   District, Berkeley Unified School District, San Leandro Unified School
-  District, and Redwood City Unified School District.<br /><br />**[BOOK YOUR
-  SHOW
-  TODAY!](https://docs.google.com/forms/d/1H7TdX7cdsuCFg__zic9CAz8ljHUz7w7tHbBTBaeep7g)**
+  District, and Redwood City Unified School District.<br /><br />
 sidebar:
   heading: >-
     Golden Thread Fairytale Players have performed for thousands of elementary
@@ -85,7 +83,7 @@ photos:
     - image: /img/archive/2012/03/21Days-6-001.jpg
     - image: /img/archive/2012/03/Nasrudin_StudentThankYou4_McKineleyElem.jpg
 ---
-
+**[BOOK YOUR SHOW TODAY!](https://docs.google.com/forms/d/1H7TdX7cdsuCFg__zic9CAz8ljHUz7w7tHbBTBaeep7g)**
 
 * Ideal for families and children aged 5-15.
 * Shows are 30 minutes and include a post-performance Question & Answer session with the cast.
