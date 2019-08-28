@@ -23,7 +23,7 @@ stage: Various Bay Area locations
 address: See below for information on upcoming performances.
 misc: >
   This production runs approximately 30-minutes followed by 20-min Q & A
-  session. Appropriate for families and children, ages 5-15.<br />Contact
+  session. Appropriate for families and children, ages 5-15.<br /><br />Contact
   [education@goldenthread.org](mailto:education@goldenthread.org) to inquire
   about booking a performance.
 lists:
