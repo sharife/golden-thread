@@ -18,7 +18,7 @@ There are no current casting opportunities with Golden Thread. Check back anothe
 - - -
 
 **PLAY SUBMISSIONS**\
-Golden Thread will not be accepting submissions for the 2019 season. [**Learn more.**](/get-involved/submissions/)
+Golden Thread will not be accepting submissions for the 2019 season. Check back another time or join our email list for general submission announcements. [**Learn more.**](/get-involved/submissions/)
 
 - - -
 
