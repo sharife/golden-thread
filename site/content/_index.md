@@ -26,7 +26,7 @@ items:
   - image: 'https://ucarecdn.com/ca56218b-dc04-4d08-891f-13222e692821/'
     subtitle: Celebrate Palestinian Culture with your children
     cta: Book a show
-    link: /pages/leila
+    link: /productions/leila
     text: >-
       Drawn from Palestinian folk tales, <em>Leila’s Quest For Flight</em> will
       resume touring schools & libraries this fall.
