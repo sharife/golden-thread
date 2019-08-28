@@ -5,7 +5,7 @@ season: 2019
 date: 2019-04-01T15:04:10.000Z
 start: ''
 end: ''
-heading: Bay Area school and library tour resumes this fall!
+heading: Touring Bay Area schools and libraries this fall!
 description: >-
   When the optometrist shatters little Leila’s dream of becoming a pilot, a
   menagerie of mythic birds gather to help her accomplish her goal. Drawn from
@@ -23,9 +23,9 @@ stage: Various Bay Area locations
 address: See below for information on upcoming performances.
 misc: >
   This production runs approximately 30-minutes followed by 20-min Q & A
-  session. Appropriate for families and children, ages 5-15.<br /><br />Contact
-  [education@goldenthread.org](mailto:education@goldenthread.org) to inquire
-  about booking a performance.
+  session. Appropriate for families and children, ages 5-15.<br /><br
+  />Questions? Email us at
+  [education@goldenthread.org](mailto:education@goldenthread.org).<br /><br />
 lists:
   - heading: Upcoming Performances
     items:
