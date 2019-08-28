@@ -18,31 +18,18 @@ sidebar:
 **Season Sponsors ($50,000 and above)**<br />The William & Flora Hewlett Foundation<br />Neda Nobari Foundation<br />San Francisco Arts Commission<br />San Francisco Grants for the Arts
 
 **Lead Sponsors ($25,000 to $49,999)**\
-California Arts Council
-<br />The Walter & Elise Haas Fund
-<br />Sam Mazza Foundation
+California Arts Council<br />The Walter & Elise Haas Fund<br />Sam Mazza Foundation
 
 **Program Sponsors ($10,000 to $24,999)**\
-John Atwood & Sofia Ahmad
-<br />Doris Duke Charitable Fund
-<br />National Endowment for the Arts
-<br />The Shubert Foundation
-<br />The Tides Foundation Venturous Theater Fund
-<br />The Zellerbach Family Foundation
+John Atwood & Sofia Ahmad<br />Doris Duke Charitable Fund<br />National Endowment for the Arts<br />The Shubert Foundation<br />The Tides Foundation Venturous Theater Fund<br />The Zellerbach Family Foundation
 
 ### **PRODUCER CIRCLE**
 
 **Executive Producer ($5,000 to $9,999)**\
-Monica Cappuccini Fund
-<br />The Dillon Fund
-<br />Harbor Point Charitable Foundation
+Monica Cappuccini Fund<br />The Dillon Fund<br />Harbor Point Charitable Foundation
 
 **Lead Producers ($2,500 to $4,999)**\
-Nora el Samahy & Patrick Kaliski
-<br />Artin Der Minassians
-<br />Murrey E. Nelson
-<br />Babak Sani
-<br />The Tournesol Project
+Nora el Samahy & Patrick Kaliski<br />Artin Der Minassians<br />Murrey E. Nelson<br />Babak Sani<br />The Tournesol Project
 
 **Associate Producers ($1,000 to $2,499)**\
 Anonymous<br />Thomas Bell<br />Farah & Fabio Bullara<br />King Choi<br />Ron Dudum<br />Fleishhacker Foundation<br />Alexa Hauser in memory of Terry Lamb<br />Rita Hovakimian<br />Betsy Jasny<br />Ray & Carla Kaliski<br />Middle East Children’s Alliance<br />Rebecca Novick & Jeff Prucher<br />The Puffin Foundation Ltd.<br />Sara Razavi<br />Martha Richards<br />Jane Swinerton<br />WomenArts<br />Torange Yeghiazarian
