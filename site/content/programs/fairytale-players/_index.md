@@ -21,13 +21,37 @@ description: >
 sidebar:
   heading: Recent Performances
   text: >-
-    **Saturday, Apr 13 at 10:30am-11:30am**<br /> Berkeley Main Library (2090
-    Kittredge Street, Berkeley) <br /><br /> **Saturday, Apr 20 at 11am-12:00am
-    (NOTE: this is a ticketed event)**<br /> Potrero Stage (1695 18th Street,
-    San Francisco)
+    Golden Thread Fairytale Players has performed for thousands of elementary
+    students.
 
 
-    <small>John Muir Elementary School (Berkeley)<small>
+    * John Muir Elementary
+
+    * KZV Armenian School
+
+    * Berkwood Hedge Elementary
+
+    * Cesar Chavez Elementary
+
+    * Tenderloin Elementary
+
+    * Synergy Elementary
+
+    * New School
+
+    * Orion Alternative Elementary
+
+    * Redding Elementary
+
+    * Thousand Oaks Elementary
+
+    * Palomares Elementary
+
+    * Daniel Webster Elementary
+
+    * Sylvia Mendez School
+
+    * Emerson Elementary
 lists:
   - heading: Current Touring Shows
     items:
