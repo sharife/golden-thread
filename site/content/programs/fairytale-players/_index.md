@@ -19,8 +19,8 @@ description: >-
   cultural traditions.<br /><br />
 
 
-  **[BOOK YOUR SHOW
-  TODAY!](https://docs.google.com/forms/d/1H7TdX7cdsuCFg__zic9CAz8ljHUz7w7tHbBTBaeep7g)**
+  [BOOK YOUR SHOW
+  TODAY!](https://docs.google.com/forms/d/1H7TdX7cdsuCFg__zic9CAz8ljHUz7w7tHbBTBaeep7g/viewform?edit_requested=true)
 
 
   * Ideal for families and children aged 5-15.
@@ -45,33 +45,33 @@ sidebar:
     students.
 
 
-    * John Muir Elementary School (Berkeley)
+    * John Muir Elementary School
 
-    * KZV Armenian School (San Francisco)
+    * KZV Armenian School
 
-    * Berkwood Hedge Elementary (Berkeley)
+    * Berkwood Hedge Elementary
 
-    * Cesar Chavez Elementary School (San Francisco)
+    * Cesar Chavez Elementary School
 
-    * Tenderloin Elementary (San Francisco)
+    * Tenderloin Elementary
 
-    * Synergy Elementary (San Francisco)
+    * Synergy Elementary
 
-    * New School (San Francisco)
+    * New School
 
-    * Orion Alternative Elementary (Redwood City)
+    * Orion Alternative Elementary
 
-    * Redding Elementary (San Francisco)
+    * Redding Elementary
 
-    * Thousand Oaks Elementary (Berkeley)
+    * Thousand Oaks Elementary
 
-    * Palomares Elementary (Castro Valley)
+    * Palomares Elementary
 
-    * Daniel Webster Elementary (San Francisco)
+    * Daniel Webster Elementary
 
-    * Sylvia Mendez School (Berkeley)
+    * Sylvia Mendez School
 
-    * Emerson Elementary (Berkeley)
+    * Emerson Elementary
 lists:
   - heading: Current Touring Shows
     items:
