@@ -39,10 +39,9 @@ address: '1695 18th Street, San Francisco'
 ticketlink: >-
   https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/events
 misc: >
-  30% off General Admission tickets for groups of 10 or more!
-
-  Contact [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) to
-  place your order.
+  30% off General Admission tickets for groups of 10 or more!<br /><br />Contact
+  [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) to place your
+  order.
 lists:
   - heading: Middle Eastern and North African American Theatre Artists Convening
     items:
