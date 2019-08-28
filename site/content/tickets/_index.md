@@ -18,39 +18,23 @@ lists:
           Contact <mailto:boxoffice@goldenthread.org> for 30% off.
         title: ReOrient 2019 Festival of Short Plays
 ---
-
-
 **GOLDEN THREAD TICKETING POLICIES**
-
 
 Tickets for a Golden Thread performance may be purchased online by clicking the Buy Tickets link for the show you want to see.
 
 The only way to guarantee your seat is to pay in advance online with a credit card. You can purchase tickets with cash at the venue an hour before the show, but that is based solely on availability.
 
-There is no need to print your tickets. We will have your name on the list at will call the night of your scheduled performance. Simply arrive to the theater, say your last name, and we will hand you your ticket at that time. Of course, tickets are valid only for the date and performance issued.
+There is no need to print your tickets. Your name will appear on the will call list on the night of your scheduled performance. Simply arrive to the theater, give your name, and we will hand you your ticket at that time. Please bring your photo id for confirmation. Tickets are only valid for the date and performance issued.
 
 We generally offer discounts for students, seniors 65+ and TBA members as well as groups of 10 or more. Students and TBA members will be asked to show their id or membership cards at will call. Groups of 10 or more should contact us by email to arrange a purchase.
 
 Directions and parking information for various venues and other show information can be found on the main production page of the show you wish to see.
 
-	
-  * The Box Office will open at the venue one hour before the show begins for will call pick-up and day of show sales.
+* The Box Office will open at the venue one hour before the show begins for will call pick-up and day of show sales.
+* Online ticket sales will end 4 hours before show time.
+* All ticket sales are final. Tickets may be transferable, depending on availability. Contact us by email to request an exchange.
+* Any guests with hearing, sight, or mobility issues are asked to contact us by email in advance of making reservations so that we may best accommodate your party. Please be aware that we do not offer listening devices.
+* Seating is usually general admission and begins 30 minutes before the performance. There is no late seating.
+* Unclaimed prepaid tickets may be released for company walk-ins prior to the start of the show.
 
-	
-  * Online ticket sales will end 4 hours before show time.
-
-	
-  * All ticket sales are final. Tickets may be transferable, depending on availability. Contact us by email to request an exchange.
-
-	
-  * Any guests with hearing, sight, or mobility issues are asked to contact us by email in advance of making reservations so that we may best accommodate your party. Please be aware that we do not offer listening devices.
-
-	
-  * Seating is usually general admission and begins 30 minutes before the performance. There is no late seating.
-
-	
-  * Unclaimed prepaid tickets may be released for company walk-ins prior to the start of the show.
-
-
-The best way to reach us if you have questions or require assistance is to email us at **[boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org)** or call 415.626.4061.
-
+The best way to reach us if you have questions or require assistance is to email us at **<mailto:boxoffice@goldenthread.org>** or call 415.626.4061.
