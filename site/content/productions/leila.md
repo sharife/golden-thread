@@ -5,7 +5,7 @@ season: 2019
 date: 2019-04-01T15:04:10.000Z
 start: ''
 end: ''
-heading: 'Touring Bay Area schools, libraries, and more. Book with us today!'
+heading: Bay Area school and library tour resumes this fall!
 description: >-
   When the optometrist shatters little Leila’s dream of becoming a pilot, a
   menagerie of mythic birds gather to help her accomplish her goal. Drawn from
