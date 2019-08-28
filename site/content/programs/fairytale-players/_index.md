@@ -26,12 +26,10 @@ description: >-
   SHOW
   TODAY!](https://docs.google.com/forms/d/1H7TdX7cdsuCFg__zic9CAz8ljHUz7w7tHbBTBaeep7g)**
 sidebar:
-  heading: Recent School Performances
-  text: >-
+  heading: >-
     Golden Thread Fairytale Players has performed for thousands of elementary
     students.
-
-
+  text: >-
     John Muir Elementary<br />KZV Armenian School<br />Berkwood Hedge
     Elementary<br />Cesar Chavez Elementary<br />Tenderloin Elementary<br
     />Synergy Elementary<br />New School<br />Orion Alternative Elementary<br
