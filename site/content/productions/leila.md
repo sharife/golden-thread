@@ -25,7 +25,9 @@ misc: >
   This production runs approximately 30-minutes followed by 20-min Q & A
   session. Appropriate for families and children, ages 5-15.<br /><br
   />Questions? Email us at
-  [education@goldenthread.org](mailto:education@goldenthread.org).<br /><br />
+  [education@goldenthread.org](mailto:education@goldenthread.org).<br /><br
+  />BOOK YOUR SHOW TODAY!<a
+  href="https://docs.google.com/forms/d/1H7TdX7cdsuCFg__zic9CAz8ljHUz7w7tHbBTBaeep7g/viewform?edit_requested=true"> 
 lists:
   - heading: Upcoming Performances
     items:
@@ -195,4 +197,6 @@ bottom:
     <a href="https://www.hpcfgiving.org/" target="_blank">Harbor Point
     Charitable Foundation</a>
 ---
-Golden Thread Fairytale Players have performed at the Asian Art Museum, La Pena Cultural Center, Islamic Cultural Center, San Jose Children’s Discovery Museum, the United States of Asian America Festival, San Francisco TheatreFest, and the Dia de los Niños Festival in San Francisco, as well as numerous schools and libraries in the Alameda, Contra Costa, and San Francisco counties.
+## Bring Leila To Your School!
+
+[BOOK YOUR SHOW TODAY!](https://docs.google.com/forms/d/1H7TdX7cdsuCFg__zic9CAz8ljHUz7w7tHbBTBaeep7g/viewform?edit_requested=true)
