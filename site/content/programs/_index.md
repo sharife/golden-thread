@@ -35,7 +35,7 @@ programs:
     text: >-
       Golden Thread ensures the discovery and development of new playwrights and
       plays through four distinct programs: _Middle East America, Kimia_, _Islam
-      101_, and _New Threads Staged Reading Series_,.
+      101_, and _New Threads Staged Reading Series_.
   - cta: Learn more
     heading: New Threads Reading Series
     imageUrl: /img/hero-new-threads.jpg
