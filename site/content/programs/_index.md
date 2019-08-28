@@ -2,6 +2,25 @@
 title: Our Programs
 programs:
   - cta: Learn more
+    heading: Reorient Festival
+    imageUrl: /img/hero-reorient.png
+    link: /programs/reorient
+    text: >
+      The ReOrient Festival of Short Plays was inaugurated in 1999 to present
+      alternative perspectives of the Middle East and to showcase the
+      multiplicity of stories, voices and styles from the region, and has since
+      become Golden Thread’s most recognized and celebrated program. 
+  - cta: Learn more
+    heading: What do the Women Say?
+    imageUrl: /img/hero-WDTWS.jpg
+    link: /programs/what-do-the-women-say
+    text: >-
+      Each year, Golden Thread Productions celebrates International Women’s Day
+      by showcasing the work of leading Middle Eastern women artists. Previous
+      programs have focused on female solo performers, activism by women
+      artists, artists who explore sexuality, and the intersection of tradition
+      and innovation in art forms.
+  - cta: Learn more
     heading: Fairytale Players
     imageUrl: /img/hero-fairytale-players.jpg
     link: /programs/fairytale-players
@@ -28,25 +47,6 @@ programs:
       to develop work about the Middle East. Since its launch in 2011, many New
       Threads plays and playwrights have continued on to receive mainstage
       productions.
-  - cta: Learn more
-    heading: Reorient Festival
-    imageUrl: /img/hero-reorient.png
-    link: /programs/reorient
-    text: >
-      The ReOrient Festival of Short Plays was inaugurated in 1999 to present
-      alternative perspectives of the Middle East and to showcase the
-      multiplicity of stories, voices and styles from the region, and has since
-      become Golden Thread’s most recognized and celebrated program. 
-  - cta: Learn more
-    heading: What do the Women Say?
-    imageUrl: /img/hero-WDTWS.jpg
-    link: /programs/what-do-the-women-say
-    text: >-
-      Each year, Golden Thread Productions celebrates International Women’s Day
-      by showcasing the work of leading Middle Eastern women artists. Previous
-      programs have focused on female solo performers, activism by women
-      artists, artists who explore sexuality, and the intersection of tradition
-      and innovation in art forms.
 ---
 Golden Thread has been a pioneer in the field of Middle Eastern American theatre and has a long track record of producing world premieres and collaboratively developing original plays. Our programming consists of productions of new full-length plays; the [**ReOrient Festival**](https://golden-thread.netlify.com/programs/reorient/) of short plays; special community outreach events such as [**What do the Women Say?**](https://golden-thread.netlify.com/programs/what-do-the-women-say/); and the [**Fairytale Players**](/programs/fairytale-players), a dynamic touring ensemble that performs family shows at schools, libraries and festivals.
 
