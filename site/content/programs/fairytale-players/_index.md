@@ -19,39 +19,18 @@ description: >
   cultural traditions.<br /><br />**[BOOK YOUR SHOW
   TODAY!](https://docs.google.com/forms/d/1H7TdX7cdsuCFg__zic9CAz8ljHUz7w7tHbBTBaeep7g)**
 sidebar:
-  heading: Recent Performances
+  heading: Recent School Performances
   text: >-
     Golden Thread Fairytale Players has performed for thousands of elementary
     students.
 
 
-    * John Muir Elementary
-
-    * KZV Armenian School
-
-    * Berkwood Hedge Elementary
-
-    * Cesar Chavez Elementary
-
-    * Tenderloin Elementary
-
-    * Synergy Elementary
-
-    * New School
-
-    * Orion Alternative Elementary
-
-    * Redding Elementary
-
-    * Thousand Oaks Elementary
-
-    * Palomares Elementary
-
-    * Daniel Webster Elementary
-
-    * Sylvia Mendez School
-
-    * Emerson Elementary
+    John Muir Elementary<br />KZV Armenian School<br />Berkwood Hedge
+    Elementary<br />Cesar Chavez Elementary<br />Tenderloin Elementary<br
+    />Synergy Elementary<br />New School<br />Orion Alternative Elementary<br
+    />Redding Elementary<br />Thousand Oaks Elementary<br />Palomares
+    Elementary<br />Daniel Webster Elementary<br />Sylvia Mendez School<br
+    />Emerson Elementary
 lists:
   - heading: Current Touring Shows
     items:
