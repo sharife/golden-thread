@@ -14,15 +14,15 @@ items:
     text: >-
       Yeghiazarian writes about casting ReOrient 2009, with a prologue by Yussef
       El Guindi and an epilogue by Malek Najjar.
-  - image: 'https://ucarecdn.com/1d2c4224-4fa2-48c1-8ebc-b9be74e55c19/'
-    subtitle: Capturing the Arab American Experience
-    cta: Get your copy
+  - image: 'https://ucarecdn.com/d8264d0c-caed-48db-a503-885e7e018184/'
+    subtitle: Trailblazing Partnership Results In Multiple Wins!
+    cta: Read More
     link: >-
-      https://www.bloomsbury.com/us/the-selected-works-of-yussef-el-guindi-9781350057166/
+      https://www.broadwayworld.com/san-francisco/article/Crowded-Fire-Golden-Thread-Reflect-on-Partnership-20190820
     text: >-
-      We are ecstatic to announce the publication of a comprehensive anthology
-      of plays by Golden Thread resident artist, and most produced playwright,
-      Yussef El Guindi.
+      In a theatre ecosystem dominated by a mindset of scarcity and competition,
+      Crowded Fire Theater and Golden Thread Productions are seeing positive
+      results from a deep and multidimensional partnership.
   - image: 'https://ucarecdn.com/ca56218b-dc04-4d08-891f-13222e692821/'
     subtitle: Celebrate Palestinian Culture with your children
     cta: Book a show
