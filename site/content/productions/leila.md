@@ -3,9 +3,9 @@ title: Leila’s Quest For Flight
 pre: GOLDEN THREAD FAIRYTALE PLAYERS PRESENT
 season: 2019
 date: 2019-04-01T15:04:10.000Z
-start: 2019-10-09T15:04:10.000Z
-end: 2019-12-06T15:04:10.000Z
-heading: 'Now touring Bay Area schools, libraries, and more. Book with us today!'
+start: ''
+end: ''
+heading: 'Touring Bay Area schools, libraries, and more. Book with us today!'
 description: >-
   When the optometrist shatters little Leila’s dream of becoming a pilot, a
   menagerie of mythic birds gather to help her accomplish her goal. Drawn from
@@ -23,7 +23,9 @@ stage: Various Bay Area locations
 address: See below for information on upcoming performances.
 misc: >
   This production runs approximately 30-minutes followed by 20-min Q & A
-  session. Appropriate for families and children, ages 5-15.
+  session. Appropriate for families and children, ages 5-15.<br /><br />Contact
+  [education@goldenthread.org](mailto:education@goldenthread.org) to inquire
+  about booking a performance.
 lists:
   - heading: Upcoming Performances
     items:
@@ -54,12 +56,43 @@ lists:
         pre: San Leandro Community Library
         subtitle: '300 Estudillo Avenue, San Leandro, CA 94577'
         text: ''
-      - cta: More Info
-        link: 'https://www.liveoaksf.org/book-fair'
-        title: 'Friday, December 6, 2019 - 3:30pm'
-        pre: Live Oak Elementary Book Festival
-        subtitle: '1555 Mariposa Street, San Francisco, CA 94107'
-        text: ''
+  - heading: Testimonials
+    items:
+      - subtitle: ''
+        text: >-
+          "Golden Thread has quickly become a favorite presenter of family
+          programs at San Francisco Public Library."  _—Family Engagement
+          Services, San Francisco Public Library_
+
+
+          "The program was excellent. It definitely broadened their perception
+          of cultures. The students enjoyed the ingenious way the actors changed
+          their parts. The kids went around mimicking the actors for days."
+          _—Teacher, Hawes
+
+          Elementary_
+
+
+          "I’m so happy these kids are getting such wonderful exposure to Middle
+          Eastern culture, and especially getting to hear the Palestinian voice.
+          And to end it with one of my family’s favorite Fairuz songs was the
+          cherry on top!" _—Parent, Berkwood Hedge School_
+
+
+          "\[As an educator, I valued] an opportunity for students to experience
+          art especially made by people of color and performers. _—Teacher,
+          Cesar Chavez Elementary School_
+
+
+          "Inspirational. It would be wonderful to bring it to all elementary
+          schools." _—President, Berkeley PTA Council_
+
+
+          "I so appreciated how this performance gave my students some
+          understanding of Palestine, Arabic, and even the simple geography of
+          the Middle East. I especially appreciated the lesson plan that was
+          available to us before the performance." _—Teacher, Berkwood Hedge
+          School_
 cast:
   heading: Cast & Crew
   items:
@@ -156,27 +189,10 @@ photos:
     - image: /img/archive/2018/07/AudienceParticipation.jpg
     - image: /img/archive/2018/07/Asfour.jpg
 bottom:
-  text: >
+  text: >-
     Golden Thread Fairytale Players is supported by generous grants from <a
     href="http://nnf.foundation/" target="_blank">Neda Nobari Foundation</a> and
     <a href="https://www.hpcfgiving.org/" target="_blank">Harbor Point
     Charitable Foundation</a>
 ---
-**Contact <mailto:education@goldenthread.org> to inquire about booking a performance.**
-
-## Testimonials
-
-Past productions of Fairytale Players have been performed at Asian Art Museum, La Pena Cultural Center, Islamic Cultural Center, San Jose Children’s Discovery Museum, the United States of Asian America Festival, San Francisco TheatreFest, and the Dia de los Niños Festival in San Francisco, as well as numerous schools and libraries in the Alameda, Contra Costa, San Francisco.
-
-"Golden Thread has quickly become a favorite presenter of family programs at San Francisco Public Library."  _—Family Engagement Services, San Francisco Public Library_
-
-"The program was excellent. It definitely broadened their perception of cultures. The students enjoyed the ingenious way the actors changed their parts. The kids went around mimicking the actors for days." _—Teacher, Hawes
-Elementary_
-
-"I’m so happy these kids are getting such wonderful exposure to Middle Eastern culture, and especially getting to hear the Palestinian voice. And to end it with one of my family’s favorite Fairuz songs was the cherry on top!" _—Parent, Berkwood Hedge School_
-
-"\[As an educator, I valued] an opportunity for students to experience art especially made by people of color and performers. _—Teacher, Cesar Chavez Elementary School_
-
-"Inspirational. It would be wonderful to bring it to all elementary schools." _—President, Berkeley PTA Council_
-
-"I so appreciated how this performance gave my students some understanding of Palestine, Arabic, and even the simple geography of the Middle East. I especially appreciated the lesson plan that was available to us before the performance." _—Teacher, Berkwood Hedge School_
+Golden Thread Fairytale Players have performed at the Asian Art Museum, La Pena Cultural Center, Islamic Cultural Center, San Jose Children’s Discovery Museum, the United States of Asian America Festival, San Francisco TheatreFest, and the Dia de los Niños Festival in San Francisco, as well as numerous schools and libraries in the Alameda, Contra Costa, and San Francisco counties.
