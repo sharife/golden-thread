@@ -20,14 +20,7 @@ sidebar:
 ---
 ### **LEADERSHIP CIRCLE**
 
-**Season Sponsors ($50,000 and above)**\
-The William & Flora Hewlett Foundation
-
-Neda Nobari Foundation
-
-San Francisco Arts Commission
-
-San Francisco Grants for the Arts
+**Season Sponsors ($50,000 and above)**<br />The William & Flora Hewlett Foundation<br />Neda Nobari Foundation<br />San Francisco Arts Commission<br />San Francisco Grants for the Arts<br />
 
 **Lead Sponsors ($25,000 to $49,999)**\
 Neda Nobari Foundation
