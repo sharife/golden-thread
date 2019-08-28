@@ -17,9 +17,8 @@ programs:
     text: >-
       Each year, Golden Thread Productions celebrates International Women’s Day
       by showcasing the work of leading Middle Eastern women artists. Previous
-      programs have focused on female solo performers, activism by women
-      artists, artists who explore sexuality, and the intersection of tradition
-      and innovation in art forms.
+      programs have focused on solo performance, activism, explorations of
+      sexuality, and the intersection of tradition and innovation in art forms.
   - cta: Learn more
     heading: Fairytale Players
     imageUrl: /img/hero-fairytale-players.jpg
