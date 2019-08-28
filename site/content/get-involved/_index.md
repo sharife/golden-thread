@@ -28,4 +28,4 @@ Donate your time to Golden Thread! There are many ways to volunteer. [**Learn mo
 - - -
 
 **INTERNSHIPS**\
-There are several internship opportunities available. [**Learn more.**](/get-involved/internships/)
+Golden Thread is seeking two highly organized and motivated individuals for our ReOrient 2019 Festival of Short Plays. This internship will provide hands-on experience in theater production, marketing and community engagement, and conference planning. [**Learn more.**](/get-involved/internships/)
