@@ -15,27 +15,40 @@ sidebar:
 ---
 ### **LEADERSHIP CIRCLE**
 
-**Season Sponsors ($50,000 and above)**<br />The William & Flora Hewlett Foundation<br />Neda Nobari Foundation<br />San Francisco Arts Commission<br />San Francisco Grants for the Arts<br />
+**Season Sponsors ($50,000 and above)**<br />The William & Flora Hewlett Foundation<br />Neda Nobari Foundation<br />San Francisco Arts Commission<br />San Francisco Grants for the Arts
 
 **Lead Sponsors ($25,000 to $49,999)**\
-California Arts Council<br />The Walter & Elise Haas Fund<br />Sam Mazza Foundation<br />
+California Arts Council
+<br />The Walter & Elise Haas Fund
+<br />Sam Mazza Foundation
 
 **Program Sponsors ($10,000 to $24,999)**\
-John Atwood & Sofia Ahmad<br />Doris Duke Charitable Fund<br />National Endowment for the Arts<br />The Shubert Foundation<br />The Tides Foundation Venturous Theater Fund<br />The Zellerbach Family Foundation<br />
+John Atwood & Sofia Ahmad
+<br />Doris Duke Charitable Fund
+<br />National Endowment for the Arts
+<br />The Shubert Foundation
+<br />The Tides Foundation Venturous Theater Fund
+<br />The Zellerbach Family Foundation
 
 ### **PRODUCER CIRCLE**
 
 **Executive Producer ($5,000 to $9,999)**\
-Monica Cappuccini Fund<br />The Dillon Fund<br />Harbor Point Charitable Foundation<br />
+Monica Cappuccini Fund
+<br />The Dillon Fund
+<br />Harbor Point Charitable Foundation
 
 **Lead Producers ($2,500 to $4,999)**\
-Nora el Samahy & Patrick Kaliski<br />Artin Der Minassians<br />Murrey E. Nelson<br />Babak Sani<br />The Tournesol Project<br />
+Nora el Samahy & Patrick Kaliski
+<br />Artin Der Minassians
+<br />Murrey E. Nelson
+<br />Babak Sani
+<br />The Tournesol Project
 
 **Associate Producers ($1,000 to $2,499)**\
-Anonymous<br />Thomas Bell<br />Farah & Fabio Bullara<br />King Choi<br />Ron Dudum<br />Fleishhacker Foundation<br />Alexa Hauser in memory of Terry Lamb<br />Rita Hovakimian<br />Betsy Jasny<br />Ray & Carla Kaliski<br />Middle East Children’s Alliance<br />Rebecca Novick & Jeff Prucher<br />The Puffin Foundation Ltd.<br />Sara Razavi<br />Martha Richards<br />Jane Swinerton<br />WomenArts<br />Torange Yeghiazarian
+Anonymous<br />Thomas Bell<br />Farah & Fabio Bullara<br />King Choi<br />Ron Dudum<br />Fleishhacker Foundation<br />Alexa Hauser in memory of Terry Lamb<br />Rita Hovakimian<br />Betsy Jasny<br />Ray & Carla Kaliski<br />Middle East Children’s Alliance<br />Rebecca Novick & Jeff Prucher<br />The Puffin Foundation Ltd.<br />Sara Razavi<br />Martha Richards<br />Jane Swinerton<br />WomenArts<br />Torange Yeghiazarian
 
 **$500 to $999**\
-May Allam<br />Anonymous<br />Bryan Baker<br />Anna & Amer Budayr<br />Linda Chang & Emin Maltepe<br />Syan & Kayden Davis<br />Rasha Dessouki<br />Richard Dudum<br />Rami el Samahy & Kelly Hutzell<br />Hassan Fouda<br />Iranian Diaspora Studies Program at SFSU<br />Jennifer Grady<br />Jim Lucas<br />Sana Makhoul<br />Sami & Leila Masri<br />Kia Mousavi<br />Duraid Musleh<br />Jumana Muwafi<br />John O'Farrell<br />Bothaina Salama<br />Lila Shadloo & Terry Griffith
+May Allam<br />Anonymous<br />Bryan Baker<br />Anna & Amer Budayr<br />Linda Chang & Emin Maltepe<br />Syan & Kayden Davis<br />Rasha Dessouki<br />Richard Dudum<br />Rami el Samahy & Kelly Hutzell<br />Hassan Fouda<br />Iranian Diaspora Studies Program at SFSU<br />Jennifer Grady<br />Jim Lucas<br />Sana Makhoul<br />Sami & Leila Masri<br />Kia Mousavi<br />Duraid Musleh<br />Jumana Muwafi<br />John O'Farrell<br />Bothaina Salama<br />Lila Shadloo & Terry Griffith
 
 **$250 to $499**\
 Fatma Abdelhalim, Selma Abinader, Anonymous (x2), Caroline Barnard, Jaleh Besharat, Dr. Kian Beyzavi, Joanne Chow Winship, Creative Capacity Fund, Liana Crosby, Armen and Nelly Der Kiureghian, Ron Dudum, Paky Elhossamy, Pauline Fong, Keith Goldstein, Evan Jernagan, Hulya Koc, Daniel Lettieri, Karnig Mikaelian, North Atlantic Books in memory of Terry Lamb, Guenet Sebsibe, Diane Shortsleeve, Maha Selim, Gae Shulman, David Tateosian, Arman Toorians, Paul Von Stamwitz, Anush Yegyazarian & Oliver Rist in memory of Vida Ghahremani
