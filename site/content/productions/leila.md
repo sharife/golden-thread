@@ -23,7 +23,8 @@ stage: Various Bay Area locations
 address: See below for information on upcoming performances.
 misc: >
   This production runs approximately 30-minutes followed by 20-min Q & A
-  session. Appropriate for families and children, ages 5-15.
+  session. Appropriate for families and children, ages 5-15.<br />Contact
+  [education@goldenthread.org] to inquire about booking a performance.
 lists:
   - heading: Upcoming Performances
     items:
@@ -193,6 +194,6 @@ bottom:
     <a href="https://www.hpcfgiving.org/" target="_blank">Harbor Point
     Charitable Foundation</a>
 ---
-Contact <mailto:education@goldenthread.org> to inquire about booking a performance.
+
 
 Past productions of Fairytale Players have been performed at Asian Art Museum, La Pena Cultural Center, Islamic Cultural Center, San Jose Children’s Discovery Museum, the United States of Asian America Festival, San Francisco TheatreFest, and the Dia de los Niños Festival in San Francisco, as well as numerous schools and libraries in the Alameda, Contra Costa, San Francisco.
