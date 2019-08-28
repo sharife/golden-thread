@@ -27,7 +27,7 @@ description: >-
   TODAY!](https://docs.google.com/forms/d/1H7TdX7cdsuCFg__zic9CAz8ljHUz7w7tHbBTBaeep7g)**
 sidebar:
   heading: >-
-    Golden Thread Fairytale Players has performed for thousands of elementary
+    Golden Thread Fairytale Players have performed for thousands of elementary
     students.
   text: >-
     John Muir Elementary<br />KZV Armenian School<br />Berkwood Hedge
