@@ -19,8 +19,8 @@ videos:
 writer: Torange Yeghiazarian
 director: Torange Yeghiazarian
 additional: drawn from Palestinian folktales
-stage: ''
-address: Upcoming performances listed below.
+stage: Various Bay Area locations
+address: See below for information on upcoming performances.
 misc: >
   This production runs approximately 30-minutes followed by 20-min Q & A
   session. Appropriate for families and children, ages 5-15.
