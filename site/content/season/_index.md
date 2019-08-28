@@ -12,7 +12,8 @@ lists:
         text: >-
           THE 3 SHOW PASS ($75) offers the best value and priority access to our
           2019 Season. Each pass includes one ticket to each of our three
-          mainstage productions at a 25% discount. Valid through May 5, 2019.
+          mainstage productions at a 25% discount. Offer valid through May 5,
+          2019.
         title: THE THREE SHOW PASS
 ---
 
