@@ -15,8 +15,8 @@ programs:
     imageUrl: /img/hero-WDTWS.jpg
     link: /programs/what-do-the-women-say
     text: >-
-      Each year, Golden Thread Productions celebrates International Women’s Day
-      by showcasing the work of leading Middle Eastern women artists. Previous
+      Each year, Golden Thread celebrates International Women’s Day by
+      showcasing the work of leading Middle Eastern women artists. Previous
       programs have focused on solo performance, activism, explorations of
       sexuality, and the intersection of tradition and innovation in art forms.
   - cta: Learn more
