@@ -5,7 +5,7 @@ season: 2019
 date: 2019-04-01T15:04:10.000Z
 start: ''
 end: ''
-heading: 'Touring Bay Area schools, libraries, and more. Book with us today!'
+heading: Touring Bay Area schools and libraries this fall!
 description: >-
   When the optometrist shatters little Leila’s dream of becoming a pilot, a
   menagerie of mythic birds gather to help her accomplish her goal. Drawn from
@@ -23,9 +23,11 @@ stage: Various Bay Area locations
 address: See below for information on upcoming performances.
 misc: >
   This production runs approximately 30-minutes followed by 20-min Q & A
-  session. Appropriate for families and children, ages 5-15.<br /><br />Contact
-  [education@goldenthread.org](mailto:education@goldenthread.org) to inquire
-  about booking a performance.
+  session. Appropriate for families and children, ages 5-15.<br /><br
+  />Questions? Email us at
+  [education@goldenthread.org](mailto:education@goldenthread.org).<br /><br /><a
+  href="https://docs.google.com/forms/d/1H7TdX7cdsuCFg__zic9CAz8ljHUz7w7tHbBTBaeep7g/viewform?edit_requested=true">BOOK
+  YOUR SHOW TODAY!</a> 
 lists:
   - heading: Upcoming Performances
     items:
@@ -195,4 +197,4 @@ bottom:
     <a href="https://www.hpcfgiving.org/" target="_blank">Harbor Point
     Charitable Foundation</a>
 ---
-Golden Thread Fairytale Players have performed at the Asian Art Museum, La Pena Cultural Center, Islamic Cultural Center, San Jose Children’s Discovery Museum, the United States of Asian America Festival, San Francisco TheatreFest, and the Dia de los Niños Festival in San Francisco, as well as numerous schools and libraries in the Alameda, Contra Costa, and San Francisco counties.
+## Bring Leila To Your School! [Book Your Show Today!](https://docs.google.com/forms/d/1H7TdX7cdsuCFg__zic9CAz8ljHUz7w7tHbBTBaeep7g/viewform?edit_requested=true)
