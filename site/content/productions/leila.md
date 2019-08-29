@@ -18,7 +18,9 @@ videos:
   - id: IYQFCLj2m5I
 writer: Torange Yeghiazarian drawn from Palestinian folktales
 director: Torange Yeghiazarian
-additional: ''
+additional: >-
+  Creative team: Mokhtar Paki (Production Designer), Lisa Tateosian
+  (Choreographer), Sarah Al-Kassab (Stage Manager)
 stage: Various Bay Area locations
 address: See below for information on upcoming performances.
 misc: >
