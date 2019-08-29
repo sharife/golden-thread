@@ -2,7 +2,7 @@
 title: Our Programs
 programs:
   - cta: Learn more
-    heading: Reorient Festival
+    heading: ReOrient Festival
     imageUrl: /img/hero-reorient.png
     link: /programs/reorient
     text: >
