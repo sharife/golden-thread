@@ -13,7 +13,7 @@ There are no current job openings with Golden Thread. However, we accept ongoing
 - - -
 
 **CASTING**\
-There are no current casting opportunities with Golden Thread. Check back another time or join our email list for general audition announcements. [**Learn more.**](/get-involved/auditions/)
+There are no current casting opportunities with Golden Thread. Check back another time or join our email list for general audition announcements. [**Learn more**](https://golden-thread.netlify.com/get-involved/casting/)**.**
 
 - - -
 
