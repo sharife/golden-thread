@@ -16,13 +16,13 @@ description: >-
   connections to contemporary culture. Golden Thread Fairytale Players
   performances appeal to audiences of all ages, for their highly entertaining
   value and important capacity to develop deeper appreciation for diverse
-  cultural traditions.<br /><br />Golden Thread Fairytale Players has performed
+  cultural traditions.<br /><br />Golden Thread Fairytale Players have performed
   at schools, libraries, festivals, and museums all over the Bay area. A few
-  highlights include the Palestine Cultural Day, One World Festival, SFMOMA, the
-  Hearst Museum; numerous San Francisco and San Mateo Public Libraries; many
-  private schools; and public schools in the San Francisco Unified School
-  District, Berkeley Unified School District, San Leandro Unified School
-  District, and Redwood City Unified School District.
+  highlights include Palestine Cultural Day, One World Festival, the SFMOMA, the
+  Hearst Museum and the Asian Art Museum; numerous San Francisco and San Mateo
+  Public Libraries; many private schools; and public schools in the San
+  Francisco Unified School District, Berkeley Unified School District, San
+  Leandro Unified School District, and Redwood City Unified School District.
 sidebar:
   heading: >-
     Golden Thread Fairytale Players have performed for thousands of elementary
