@@ -197,4 +197,4 @@ bottom:
     <a href="https://www.hpcfgiving.org/" target="_blank">Harbor Point
     Charitable Foundation</a>
 ---
-## Bring Leila To Your School! [BOOK YOUR SHOW TODAY!](https://docs.google.com/forms/d/1H7TdX7cdsuCFg__zic9CAz8ljHUz7w7tHbBTBaeep7g/viewform?edit_requested=true)
+Bring Leila To Your School! [BOOK YOUR SHOW TODAY!](https://docs.google.com/forms/d/1H7TdX7cdsuCFg__zic9CAz8ljHUz7w7tHbBTBaeep7g/viewform?edit_requested=true)
