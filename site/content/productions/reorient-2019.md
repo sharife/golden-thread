@@ -32,8 +32,10 @@ featuring: >-
   plays by Yussef El Guindi, Rendah Heywood, Lameece Issaq, Mustafa Kaymak,
   Betty Shamieh, Niku Sharei, and Naomi Wallace
 additional: >-
-  Design Team: Kate Boyd (Scenic), Dylan Feldman (Lighting), James Ard (Sound),
-  Brooke Jennings (Costumes), Grisel Torres (Properties)
+  Cast: Sofia Ahmad*, Atosa Babaoff*, Ali-Moosa Mirza, Lawrence Radecker*,
+  Amitis Rossoukh<br />Design Team: Kate Boyd (Scenic), Dylan Feldman
+  (Lighting), James Ard (Sound), Brooke Jennings (Costumes), Grisel Torres
+  (Properties)
 stage: Potrero Stage
 address: '1695 18th Street, San Francisco'
 ticketlink: >-
