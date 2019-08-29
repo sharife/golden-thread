@@ -33,9 +33,8 @@ featuring: >-
   Betty Shamieh, Niku Sharei, and Naomi Wallace
 additional: >-
   Cast: Sofia Ahmad*, Atosa Babaoff*, Ali-Moosa Mirza, Lawrence Radecker*,
-  Amitis Rossoukh<br />Design Team: Kate Boyd (Scenic), Dylan Feldman
-  (Lighting), James Ard (Sound), Brooke Jennings (Costumes), Grisel Torres
-  (Properties)
+  Amitis Rossoukh. Design Team: Kate Boyd (Scenic), Dylan Feldman (Lighting),
+  James Ard (Sound), Brooke Jennings (Costumes), Grisel Torres (Properties)
 stage: Potrero Stage
 address: '1695 18th Street, San Francisco'
 ticketlink: >-
