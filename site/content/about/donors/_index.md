@@ -1,114 +1,55 @@
 ---
-author: Torange
-comments: false
-date: 2016-05-01 00:04:16+00:00
-link: https://www.goldenthread.org/about/donors/
-slug: donors
 title: Donors
-wordpress_id: 11083
 intro: >
-  We are privileged to recognize the generous individuals and institutions that support our mission and make our programming possible. (Combined gifts from 7/1/2017 through 11/1/2018)
+  We are privileged to recognize the generous individuals and institutions that
+  support our mission and make our programming possible. (Combined gifts from
+  1/1/2018 through 6/11/2019)
 sidebar:
-  text: >
-    **We gratefully acknowledge gifts from the following donors in memory of Terry Lamb:**<br />
-    JoAnne Winter & Adrian Elfenbaum, Alexa Hauser, Lukas Hauser, G. Horinouchi & M. Maggart, Marty & Joy, North Atlantic Books, Kevin O'Connor, Lawrence Radecker, Catherine Rico, Jean Schiffman  
-    <br /><br />
+  text: >-
+    **We gratefully acknowledge gifts from the following donors in memory of
+    Terry Lamb:**<br />JoAnne Winter & Adrian Elfenbaum, Alexa Hauser, Lukas
+    Hauser, G. Horinouchi & M. Maggart, Marty & Joy, North Atlantic Books, Kevin
+    O’Connor, Lawrence Radecker, Catherine Rico, Jean Schiffman   <br /><br />
     **Thank you to these corporations for their Matching Gift Programs:**<br />
-    Amazon.com, Chevron, Genentech, Google, Inc., Intuit, Literary Managers and Dramaturgs of the Americas, TMC Development Working Solutions, UC Berkeley, WomenArts  
-    <br /><br />
-    **Thank you to the following for their In-Kind Support:**<br />
-    Farah Bullara, Wes Burwell, Patricia Cotter, Artin Der Minassians, Humaira Ghilzai, La Mediterranee Restaurant, Murrey E. Nelson, Armen Sedrakian & Ruth Alahydoian  
+    Amazon.com, Chevron, Genentech, Google, Inc., Intuit, Nissan, TMC
+    Development Working Solutions, UC Berkeley   <br /><br /> **Thank you to the
+    following for their In-Kind Support:**<br /> Wes Burwell, Artin Der
+    Minassians, Humaira Ghilzai, Athena Kyle, La Mediterranee Restaurant, Bob
+    Miller & Judy Wilbur, Murrey E. Nelson, Armen Sedrakian & Ruth Alahydoian
 ---
-
-
 ### **LEADERSHIP CIRCLE**
 
+**Season Sponsors ($50,000 and above)**<br />The William & Flora Hewlett Foundation<br />Neda Nobari Foundation<br />San Francisco Arts Commission<br />San Francisco Grants for the Arts
 
-**Season Sponsors ($50,000 and above)**  
-The William & Flora Hewlett Foundation  
-San Francisco Arts Commission  
-San Francisco Grants for the Arts
+**Lead Sponsors ($25,000 to $49,999)**\
+California Arts Council<br />The Walter & Elise Haas Fund<br />Sam Mazza Foundation
 
-**Lead Sponsors ($25,000 to $49,999)**  
-Neda Nobari Foundation
-
-**Program Sponsors ($10,000 to $24,999)**  
-California Arts Council  
-The Walter & Elise Haas Fund  
-Sam Mazza Foundation  
-National Endowment for the Arts  
-
-
-
+**Program Sponsors ($10,000 to $24,999)**\
+John Atwood & Sofia Ahmad<br />Doris Duke Charitable Fund<br />National Endowment for the Arts<br />The Shubert Foundation<br />The Tides Foundation Venturous Theater Fund<br />The Zellerbach Family Foundation
 
 ### **PRODUCER CIRCLE**
 
+**Executive Producer ($5,000 to $9,999)**\
+Monica Cappuccini Fund<br />The Dillon Fund<br />Harbor Point Charitable Foundation
 
-**Executive Producer ($5,000 to $9,999)**  
-American Theatre Wing  
-John Atwood & Sofia Ahmad  
-Monica Cappuccini Fund  
-Fleishhacker Foundation  
+**Lead Producers ($2,500 to $4,999)**\
+Nora el Samahy & Patrick Kaliski<br />Artin Der Minassians<br />Murrey E. Nelson<br />Babak Sani<br />The Tournesol Project
 
-**Lead Producers ($2,500 to $4,999)**  
-Nora el Samahy & Patrick Kaliski  
-Murrey E. Nelson  
-The Hand Foundation  
-Harbor Point Charitable Foundation  
-Babak Sani  
-The Tournesol Project
+**Associate Producers ($1,000 to $2,499)**\
+Anonymous<br />Thomas Bell<br />Farah & Fabio Bullara<br />King Choi<br />Ron Dudum<br />Fleishhacker Foundation<br />Rita Hovakimian<br />Betsy Jasny<br />Ray & Carla Kaliski<br />Middle East Children’s Alliance<br />Rebecca Novick & Jeff Prucher<br />The Puffin Foundation Ltd.<br />Sara Razavi<br />Martha Richards<br />Jane Swinerton<br />WomenArts<br />Torange Yeghiazarian
 
-**Associate Producers ($1,000 to $2,499)**  
-Thomas Bell  
-Farah & Fabio Bullara  
-Creative Capacity Fund  
-Artin Der Minassians  
-Betsy Jasny  
-Hulya and Aydin Koc  
-Rebecca Novick & Jeff Prucher  
-The Puffin Foundation Ltd.  
-Martha Richards  
-Jane Swinerton  
-Torange Yeghiazarian  
+**$500 to $999**\
+May Allam<br />Anonymous<br />Bryan Baker<br />Anna & Amer Budayr<br />Linda Chang & Emin Maltepe<br />Syan & Kayden Davis<br />Rasha Dessouki<br />Richard Dudum<br />Rami el Samahy & Kelly Hutzell<br />Hassan Fouda<br />Iranian Diaspora Studies Program at SFSU<br />Jennifer Grady<br />Jim Lucas<br />Sana Makhoul<br />Sami & Leila Masri<br />Kia Mousavi<br />Duraid Musleh<br />Jumana Muwafi<br />John O'Farrell<br />Bothaina Salama<br />Lila Shadloo & Terry Griffith
 
+**$250 to $499**\
+Fatma Abdelhalim, Selma Abinader, Anonymous (x2), Caroline Barnard, Jaleh Besharat, Dr. Kian Beyzavi, Joanne Chow Winship, Creative Capacity Fund, Liana Crosby, Armen and Nelly Der Kiureghian, Ron Dudum, Paky Elhossamy, Pauline Fong, Keith Goldstein, Evan Jernagan, Hulya Koc, Daniel Lettieri, Karnig Mikaelian, Guenet Sebsibe, Diane Shortsleeve, Maha Selim, Gae Shulman, David Tateosian, Arman Toorians, Paul Von Stamwitz, Anush Yegyazarian & Oliver Rist in memory of Vida Ghahremani
 
+**$100 to $249**\
+Ahmad Abdulkader, Elmaz Abinader, Paul Ajlouny, Alex & Travis in honor of Evren Odcikin & Jack Choi, Nagwa Allam, Zahwa Amad, Anonymous (x4), Marine Arakelians, Jack & Mary Aslanian Fund, Reda Athanasios, Kathleen Atwood, Cynthia Avakian, Basil Ayish, Valerie Barth, Nora Bayani, Jeff Becerra, David Becht, Maziar Behrooz, Elizabeth Benedict, Peter Boiger, Elaine Brown, Melissa Cefkin & Mazyar Lotfalian, Linda Chapman, Meta Chessin, Winnie Chu, Lee Collins, Jeanette Cool, Tiffany Cothran in honor of Evren Odcikin & Jack Choi, George Crowe, Ebby Dabiri, Afshin Daghi, Omar M. Dajani, Mike Dinning, Sally Doane, Earthbody Day Spa in honor of Evren Odcikin & Jack Choi, Laila El Dafashy, Yussef El Guindi, Tarek and Sara Eletr, Ganzeer, Inc., Afshin Gharachedaghi, Ron Goldstein & Judith Love, Anne & Conn Hallinan, Beverly Hansen, Cariwyl Hebert, Judy Helfand, Paul Heller, Armineh Hovanesian, Cynthia Hurst, Arzhang Kalbali, Gaguik Khachatourian, Fady Khalil, Arcadia Kim, Rosemary Koesling in honor of Evren Odcikin, Athena Kyle, Denise LaPointe, Lori Laqua, Marya Levenson in honor of Anne & Ringo Hallinan, Pam MacKinnon, Ken Mahru, Lynn Mari, Masood Mokhtary, Mina Morita in honor of Evren Odcikin & Jack Choi, Jane & Rick Nahass Charitable Fund, Fatima Osman, Evelyn Jean Pine & Doug Peckler, Lawrence Radecker in honor of Evren Odcikin & Jack Choi, Muhammad Ramadan & Timothy Palmer, Bella Ramazan-Nia, Niusha Ramazan-Nia, Donald Raphael, Hazem Rashed, Mike Richey & Chris Winslow, Elizabeth Robinson, Pepi Ross, Ziad Saba, John & Rania Sanford, Armen Sedrakian & Ruth Alahydoian, Scott Seiffer, Dipita Shah, Ileana Soto, Roswell Spafford in honor of Anne & Ringo Hallinan, Basil Stamos, Lucie Sweda, Eric Ting, Carolyn Uno, Roberto Varea, Allyson Washburn, Wilkowski Family Charitable Fund, Iraj & Fariba Zolnasr, Lorene Zarou-Zouzounis
 
+**$99 and under**\
+David Ahle, Rajesh Aji, Rami Alayan, Arwa Ali, Omar Ali, Louise Anderson, Anonymous (x5), Arjay Aseniero, Dena Aslanian-Williams, Atsuko Awaya, Ahmed Ayish, Linda Ayres-Frederick, Zeina Babetty, Hala Baki, Mehdi Banijamaly, Jeannie Barroga, Janelle & Joseph Becerra, Bluestone Imports, Jean Bogiages, Denise Bostrom, Amanda & Nicholas Brandes in honor of Evren Odcikin & Jack Choi, Ellen Brotsky, Dina Bseiso, Bushra Burney, Laura Maria Censabella, Rana Cho, Jane Courant, Ann Davis, Gail Debellis, Guri Dhingra, Maria Dichov, Michael DiGiacinto, Carol Dorf, Suzanne El Gamal, Lisa Esherick, Howard Fallon, Jennifer Fearon, Leslie Finlev, Geoffrey Fletcher, Mary Foley, Arturo Galvan-Alarcon, Alejandro Garcia, Joseph Glatzer, Judy Goddess, Miriam Grant, Valerie Gutwirth, Mazen Haddad, Katherine Hallal, Lisa Hammond, Howard Harawitz, Raymond Harb, Staci Hartman, Sarah Hayon, Donald Hesse, Nan Hohenstein, Naomi Horowitz, Bruce Johnson, Ross Johnson, Shahrazad Junblat, Zaven Kanneian & Janet Yeghissian, Nancy Kho, Matt Lai, Hector Lee, Eleanor Levine, Tali Levy, Sherman Lew, Audra Lindsey, Nancy Loewen, Albert Loshkajian, Linda Lucero, Elizabeth Macken, Zahra Mahloudji and Michael Goldbach, Sophia Majeed, Betty Marcon, Lydia Mattar Titcomb, Marita Mayer, Whitney McAniff in honor of Evren Odcikin & Jack Choi, Daniel Michaelson, Katya Miller, Martha & Donald Missirlian, Jean Moran, Carolina Morones, Jennifer Moulton, Debra Murov, Ani Nayman, Joan Neilson, Omid Niroumandzadeh, Thomas Nolan, Henry Norr, Rana Orangi, Mokhtar Paki, Anu Patil, Carolyn Perlstein, Lesley Pierce, Deborah Plaza, Ali Pour Issa, Anastacia Powers Cuellar, Betty Prenter, Bassam Qasem, Jean Rabovsky, Roneet Rahamim, Nasser Rahmaninejad, Kamini Ramani, Nima Reyhani, Margarite Reynolds, Catherine Rico, Connie Robinson, Leigh Rondon-Davis, Kathy Rucker, Karen Runk, Fadi Saba, Margaret Salimi, Elizabeth Slavit, Marcia Smolens, Wiley Strasser, Liz Sweet, Ellen Taylor, Wally Tettamanti, Lida Tohidi, Rachel Tracy, Ruby & Alan Unger, Marzieh Vali, Travis VanBrasch, Steve Vinga, Kathy Voss-Jensen, Karen Walter, Betty Wexler, Anthony Williams, Ana Williamson, Adonay Yacob, Marjan Zand, Kathy Zarur, Victoria Zhang, Sophie Ziegler
 
+- - -
 
-
-**$500 to $999**  
-Anonymous  
-Bryan Baker  
-Syan & Kayden Davis  
-Jennifer Grady  
-Shahnaz Graham  
-Rita Hovakimian  
-Denise LaPointe  
-Jim Lucas  
-Sara Razavi & Jillian Goldstein  
-Diane Shortsleeve  
-Gae Shulman  
-David Tateosian  
-
-**$250 to $499**  
-Anonymous, Caroline Barnard, Dr. Kian Beyzavi, Linda Chapman, Liana Crosby, Nelly Der Kiureghian, Judy Helfand, Daniel Lettieri, Jumana Muwafi, Julie Roller, Eva Salas, Guenet Sebsibe, Lila Shadloo & Terry Griffith, Jennifer Sousae, Arman Toorians & Helen Gregorian, Paul Von Stamwitz, Anush Yegyazarian & Oliver Rist in memory of Vida Ghahremani, Ramin Zoufonoun  
-
-**$100 to $249**  
-Anonymous, Elmaz Abinader, May Allam, Wilkowski Family Charitable Fund, Kathleen Atwood, Cynthia Avakian, Valerie Barth, Nora Bayani, David Becht, Maziar Behrooz, Melissa Cefkin & Mazyar Lotfalian, Peter Chase, Tiffany Cothran in honor of Evren Odcikin & Jack Choi, Dena & Scott Cuyjet, Afshin Daghi, Amit Deutsch, Michael DiGiacinto, Sally Doane, Yussef El Guindi, Asma Eschen, Zahra Mahloudji & Michael Goldbach, Anne & Conn Hallinan, Beverly Hansen, Cariwyl Hebert, Paul Heller, Mohammad Hooshmand, Cynthia Hurst, Arzhang Kalbali, Mary Aslanian-Kendalian and Jack Aslanian, Celia Karian, Gaguik Khachatourian, Rosemary Koesling in honor of Evren Odcikin, Lori Laqua, Alex & Travis in honor of Evren Odcikin & Jack Choi, Joe Lombardi, Judith Love, Sasha Madfes on behalf of John Atwood, Karnig Mikaelian, Masood Mokhtary, Mina Morita in honor of Evren Odcikin & Jack Choi, Edward & Rosemary Omron, Lawrence Radecker in honor of Evren Odcikin & Jack Choi, Bella Warda, Mike Richey & Chris Winslow, Negar Saei, Marjan Safa, Scott Seiffer, Kam Shadan, Ghada Shamieh, Ileana Soto, Carolyn Spitz, Martha Stevenson, Eric Ting, Julia Wilkowski, Iraj & Fariba Zolnasr  
-
-**$99 and under**  
-Anonymous, David Ahle, Rajesh Aji, Shan-e-Zahra Alavi in memory of Siraj Alavi, Arwa Ali, Jane Caroline Allen, Arjay Aseniero, Fatimeh Asi, Atsuko Awaya, Linda Ayres-Frederick, Mehdi Banijamaly, Jeannie Barroga, Chantel Benson, Alan Bernstein, Raymond Bobgan, Denise Bostrom, Amanda & Nicholas Brandes in honor of Evren Odcikin & Jack Choi, David Brandon, Dina Bseiso, Bushra Burney, Rana Cho, Jeanette Cool, Jane Courant, Ann Davis, Josh Dazel, Gail Debellis, Rasha Dessouki, Guri Dhingra, Maria Dichov, Carol Dorf, Earthbody Day Spa in honor of Evren Odcikin & Jack Choi, Nancy Edwards Dasho, Suzanne El Gamal, Sahar El-Etr, Lisa Esherick, Jennifer Fearon, Kay Marie Ferguson, Leslie Finlev, Kathy Foley, Carol Garsten, Sudhir Giri, Judy Goddess, Barbara Goldman-Sherman, Katherine Hallal, Lisa Hammond, Staci Hartman, Holly Hill, Naomi Horowitz, Armineh Hovanesian, Joanne Hyrnin, Matt Lai, Carol Lashof, Hector Lee, Tali Levy, Crystal Liu, Albert Loshkajian, Cat Luedtke, Elizabeth Macken, Ken Mahru, Whitney McAniff in honor of Evren Odcikin & Jack Choi, Reza Memar, Daniel Michaelson, Morvarid Moayeri, Jean Moran, Carolina Morones, Jennifer Moulton, Ani Nayman, Joan Neilson, Thomas Nolan, Josetta Owen, Mokhtar Paki, Paul Palmer, Amanda J. Hibbert Parvez, Liza Percer, Carolyn Perlstein, Deborah Plaza, Anastacia Powers Cuellar, Betty Prenter, Jean Rabovsky, Nasser Rahmaninejad, Nima Reyhani, Leigh Rondon-Davis, Parissa Sayar, Marjorie Seashore, Lauren Spencer, Joan Sperans, Wiley Naman Strasser, Bijan Tabrizi, Ellen Taylor, Wally Tettamanti, Lida Tohidi, Rachel Tracy, Ruby & Alan Unger, Marzieh Vali, Travis VanBrasch, Roberto Varea, Pauline Vinson, Miranda Von Stockhausen, Hannah Pearl Walcott, Betty Wexler, Anthony Williams, Ana Williamson, Adonay Yacob, Ben & Anisa Yalom, Sophie Ziegler  
-
-
-
-
-
-
-
-* * *
-
-
-
-
-
-**We strive for accurate donor listings. If you have a correction or questions, or would like to find out more about ways to support Golden Thread, please contact Michelle Mulholland at [michelle@goldenthread.org](mailto:michelle@goldenthread.org).**
+**We strive for accurate donor listings. If you have a correction or questions, or would like to find out more about ways to support Golden Thread, please contact Michelle Mulholland at <mailto:michelle@goldenthread.org>.**
