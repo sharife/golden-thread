@@ -18,6 +18,7 @@ videos:
   - id: IYQFCLj2m5I
 writer: Torange Yeghiazarian
 director: Torange Yeghiazarian
+featuring: Featuring Simone Bloch and Val Garrahan
 additional: drawn from Palestinian folktales
 stage: Various Bay Area locations
 address: See below for information on upcoming performances.
