@@ -16,10 +16,9 @@ background: /img/hero-leila.jpg
 titleimage: /img/archive/2018/07/leila-slider.jpg
 videos:
   - id: IYQFCLj2m5I
-writer: Torange Yeghiazarian
+writer: Torange Yeghiazarian drawn from Palestinian folktales
 director: Torange Yeghiazarian
-featuring: Featuring Simone Bloch and Val Garrahan
-additional: drawn from Palestinian folktales
+additional: ''
 stage: Various Bay Area locations
 address: See below for information on upcoming performances.
 misc: >
