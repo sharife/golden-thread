@@ -34,7 +34,7 @@ These positions require excellent communication and organizational skills, and t
 
 Position Location:
 
-Golden Thread Productions and/or Potrero Stage<br /><br />1695 18th Street, San Francisco, CA  94107
-<br /><br />Some tasks may be done remotely.
+Golden Thread Productions and/or Potrero Stage<br />1695 18th Street, San Francisco, CA  94107
+<br />Some tasks may be done remotely.
 
 - - -
