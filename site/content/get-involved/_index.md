@@ -8,17 +8,17 @@ intro: >
 - - -
 
 **JOB OPENINGS**\
-Golden Thread Productions seeks a **Marketing and Communications Associate** to join our small but mighty team to support our ongoing work in diversifying the American theatre by amplifying the voices of underrepresented artists and empowering under-served communities. [**Learn more.**](/get-involved/jobs/)
+There are no current job openings with Golden Thread. However, we accept ongoing resumes with letters of interest in Golden Thread from stage managers, designers, set builders, and technical directors at [information@goldenthread.org]((mailto:information@goldenthread.org)).
 
 - - -
 
 **CASTING**\
-Golden Thread and Crowded Fire Theater Company will hold joint auditions for our co-production of *At The Periphery* by Paris-based Turkish playwright, Sedef Ecer. In this ensemble piece,  Ecer takes a lyrical, funny, and deeply human look at hope and home against all odds. Auditions will be held on **July 16, 12noon-4pm & 5-9pm** in San Francisco [**Learn more.**](/get-involved/auditions/)
+There are no current casting opportunities with Golden Thread. Check back another time or join our email list for general audition announcements. [**Learn more.**](/get-involved/auditions/)
 
 - - -
 
 **PLAY SUBMISSIONS**\
-Golden Thread will not be accepting submissions for the 2019 season. [**Learn more.**](/get-involved/submissions/)
+Golden Thread will not be accepting submissions for the 2019 season. Check back another time or join our email list for general submission announcements. [**Learn more.**](/get-involved/submissions/)
 
 - - -
 
@@ -28,4 +28,4 @@ Donate your time to Golden Thread! There are many ways to volunteer. [**Learn mo
 - - -
 
 **INTERNSHIPS**\
-There are several internship opportunities available. [**Learn more.**](/get-involved/internships/)
+Golden Thread is seeking two highly organized and motivated individuals for our ReOrient 2019 Festival of Short Plays. This internship will provide hands-on experience in theater production, marketing and community engagement, and conference planning. [**Learn more.**](/get-involved/internships/)
