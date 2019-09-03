@@ -28,7 +28,11 @@ description: >-
 background: 'https://ucarecdn.com/3d28da38-1e75-4372-a523-27ce622bdb33/'
 titleimage: /img/archive/2018/10/ReOrient2019-Slider-Playwrights2.jpg
 videos:
-  - id: 'https://youtu.be/g1L6QbZCZPg'
+  - id: >-
+      <iframe width="1264" height="711"
+      src="https://www.youtube.com/embed/g1L6QbZCZPg" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope;
+      picture-in-picture" allowfullscreen></iframe>
 director: 'Michael French, Rebecca Novick, Lisa Marie Rollins, and Torange Yeghiazarian'
 featuring: >-
   plays by Yussef El Guindi, Rendah Heywood, Lameece Issaq, Mustafa Kaymak,
