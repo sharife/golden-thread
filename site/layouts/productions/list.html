@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "background" .Params.background "pre" .Params.pre "title" "Past Productions" "subtitle" .Params.subtitle "cta" .Params.cta "link" .Params.link) }}
+
+<div class="mw7 center pv4">
+  <ul class="flex-ns flex-wrap mhn1-ns pa3">
+      {{ range (.Paginator 10).Pages.ByPublishDate.Reverse }}
+          <div class="w-100-ns ph1-ns flex">
+            {{ .Render "li"}}
+          </div>
+      {{ end }}
+  </ul>
+  {{ partial "pagination" . }}
+</div>
+
+{{end}}

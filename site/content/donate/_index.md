@@ -1,12 +1,5 @@
 ---
-author: Torange
-comments: false
-date: 2015-03-16 21:05:54+00:00
-layout: page
-link: https://www.goldenthread.org/support/
-slug: support
 title: Support Golden Thread
-wordpress_id: 8982
 sidebar:
   heading: There are so many ways to participate!
   text: >

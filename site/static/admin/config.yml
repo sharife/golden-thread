@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-display_url: https://golden-thread.netlify.com
+display_url: https://goldenthread.org
 publish_mode: editorial_workflow
 media_library:
   name: uploadcare
@@ -81,6 +81,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: Cast and Crew
         name: cast
         widget: object
+        required: false
         fields:
           - {label: "Heading", name: "heading", widget: "string"}
           - label: Bios
@@ -95,6 +96,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: Photo Gallery
         name: photos
         widget: object
+        required: false
         fields: 
           - {label: "Heading", name: "heading", widget: "string"}
           - label: Images
@@ -464,6 +466,18 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown, required: false}
+          - label: "Sidebar"
+            name: sidebar
+            widget: object
+            fields: 
+              - {label: "Heading", name: "heading", widget: "string", required: false}
+              - {label: "Text", name: "text", widget: "markdown", required: false}
+      - file: "site/content/donate/_index.md"
+        label: "Donate"
+        name: "donate"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
           - label: "Sidebar"
             name: sidebar
             widget: object
