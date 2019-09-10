@@ -13,7 +13,8 @@ address: '1695 18th Street, San Francisco'
 cast:
   heading: Cast & Crew
   items:
-    - name: Creative
+    - name: ''
+      text: "**Creative Team:** Kate Boyd (Scenic Designer)\r, Cassie Barnes (Lighting Designer)\r, James Ard^ (Sound Designer), Maggie Whittacker (Costume Designer)\r, Kenan Arun (Make-up Design)\r, Nima Dehghani (Projection Designer)"
 photos:
   heading: Photo Gallery
 ---
