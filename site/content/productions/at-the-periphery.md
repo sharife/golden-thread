@@ -12,6 +12,8 @@ stage: Potrero Stage
 address: '1695 18th Street, San Francisco'
 cast:
   heading: Cast & Crew
+  items:
+    - name: Creative
 photos:
   heading: Photo Gallery
 ---
