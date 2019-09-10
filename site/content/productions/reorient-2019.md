@@ -67,6 +67,12 @@ lists:
           Registration is free, but advanced registration is strongly encouraged
           to secure your space. Walk-up registration will be available on site,
           space permitting.
+
+
+          For a full schedule, click here. 
+
+
+          .
   - heading: REORIENT 2019 LINE-UP
     items:
       - image: /img/archive/2018/02/ElGuindi-Yussef-300x300.jpg
