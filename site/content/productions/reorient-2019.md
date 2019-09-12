@@ -34,11 +34,11 @@ featuring: >-
   plays by Yussef El Guindi, Rendah Heywood, Lameece Issaq, Mustafa Kaymak,
   Betty Shamieh, Niku Sharei, and Naomi Wallace
 additional: >-
-  Creative Team: Sofia Ahmad, James Ard, Atosa Babaoff, Michelle Bank, Kate
+  Creative Team: Sofia Ahmad*, James Ard, Atosa Babaoff*, Michelle Bank, Kate
   Boyd, Emily DeDakis, Laura Espino, Nakissa Etemad, Dylan Feldman, Scott
   Horstein, Brooke Jennings, Caitlin McFann, Tyler Miller, Ali-Moosa Mirza,
-  Michael Malek Najjar, Lawrence Radecker, Amitis Rossoukh, Karen Runk and
-  Grisel Torres
+  Michael Malek Najjar, Lawrence Radecker*, Amitis Rossoukh, Karen Runk* and
+  Grisel Torres. *Member, Actors' Equity
 stage: Potrero Stage
 address: '1695 18th Street, San Francisco'
 ticketlink: >-
