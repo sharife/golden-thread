@@ -34,8 +34,11 @@ featuring: >-
   plays by Yussef El Guindi, Rendah Heywood, Lameece Issaq, Mustafa Kaymak,
   Betty Shamieh, Niku Sharei, and Naomi Wallace
 additional: >-
-  Design Team: Kate Boyd (Scenic), Dylan Feldman (Lighting), James Ard (Sound),
-  Brooke Jennings (Costumes), Grisel Torres (Properties)
+  Creative Team: Sofia Ahmad*, James Ard, Atosa Babaoff*, Michelle Bank, Kate
+  Boyd, Emily DeDakis, Laura Espino, Nakissa Etemad, Dylan Feldman, Scott
+  Horstein, Brooke Jennings, Caitlin McFann, Tyler Miller, Ali-Moosa Mirza,
+  Michael Malek Najjar, Lawrence Radecker*, Amitis Rossoukh, Karen Runk* and
+  Grisel Torres. *Member, Actors' Equity
 stage: Potrero Stage
 address: '1695 18th Street, San Francisco'
 ticketlink: >-
@@ -67,6 +70,13 @@ lists:
           Registration is free, but advanced registration is strongly encouraged
           to secure your space. Walk-up registration will be available on site,
           space permitting.
+
+
+          For a full schedule, click
+          [here](http://goldenthread.org/posts/reorient-2019--national-convening-of-mena-theatre-artists/). 
+
+
+          .
   - heading: REORIENT 2019 LINE-UP
     items:
       - image: /img/archive/2018/02/ElGuindi-Yussef-300x300.jpg
