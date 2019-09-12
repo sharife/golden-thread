@@ -71,7 +71,8 @@ lists:
           space permitting.
 
 
-          For a full schedule, click here. 
+          For a full schedule, click
+          [here](http://goldenthread.org/posts/reorient-2019--national-convening-of-mena-theatre-artists/). 
 
 
           .
