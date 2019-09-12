@@ -38,7 +38,7 @@ additional: >-
   Boyd, Emily DeDakis, Laura Espino, Nakissa Etemad, Dylan Feldman, Scott
   Horstein, Brooke Jennings, Caitlin McFann, Tyler Miller, Ali-Moosa Mirza,
   Michael Malek Najjar, Lawrence Radecker*, Amitis Rossoukh, Karen Runk* and
-  Grisel Torres. *Member, Actors' Equity
+  Grisel Torres. *Member, Actors' Equityy
 stage: Potrero Stage
 address: '1695 18th Street, San Francisco'
 ticketlink: >-
