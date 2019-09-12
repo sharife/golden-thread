@@ -39,7 +39,7 @@ grids:
           The characters of Our Enemies in their own words
       - cta: Read more
         image: /img/feature-our-enemies-interview.jpg
-        link: 'https://www.goldenthread.org/2016/09/28/yussef-interview/'
+        link: 'https://goldenthread.org/posts/yussef-interview/'
         subtitle: New World vs. Old World
         text: >
           Dr. Michael Najjar interviews award-winning Egyptian-American
