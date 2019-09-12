@@ -34,8 +34,10 @@ featuring: >-
   plays by Yussef El Guindi, Rendah Heywood, Lameece Issaq, Mustafa Kaymak,
   Betty Shamieh, Niku Sharei, and Naomi Wallace
 additional: >-
-  Design Team: Kate Boyd (Scenic), Dylan Feldman (Lighting), James Ard (Sound),
-  Brooke Jennings (Costumes), Grisel Torres (Properties)
+  Creative Team: James Ard, Michelle Bank, Kate Boyd, Emily DeDakis, Laura
+  Espino, Nakissa Etemad, Dylan Feldman, Scott Horstein, Brooke Jennings,
+  Caitlin McFann, Tyler Miller, Michael Malek Najjar, Karen Runk and Grisel
+  Torres
 stage: Potrero Stage
 address: '1695 18th Street, San Francisco'
 ticketlink: >-
