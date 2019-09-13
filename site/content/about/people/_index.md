@@ -108,10 +108,10 @@ staff:
         throughout his education, Rea is also an experienced playwright, poet
         and dramaturg. In 2018, he co-founded an art collective (The Forum) that
         focuses on journalism theatre and gallery curation. He has worked with
-        the Playwrights Foundation, Greenhouse Theatre Festival, Firehouse Art
-        Collective, Adelines Lab and Playground. His acting credits include
-        Sweat (Benicia Old Town Hall Theatre Group), Honky (Left Edge Theatre)
-        and Multiverse (Ragged Wing Ensemble).
+        the Playwrights Foundation, Greenhouse Theatre Festival, Nomadic Press,
+        Firehouse Art Collective, Adelines Lab and Playground. His acting
+        credits include Sweat (Benicia Old Town Hall Theatre Group), Honky (Left
+        Edge Theatre) and Multiverse (Ragged Wing Ensemble).
       credit: Marketing & Communications Associate
       image: 'https://ucarecdn.com/34322725-42ba-414a-9511-278c5c6c7451/'
       name: Julius Rea
