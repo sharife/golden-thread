@@ -100,6 +100,21 @@ staff:
       credit: Art Director
       image: /img/archive/2012/04/navid_headshot.jpg
       name: Navid Ghaem Maghami
+    - bio: >-
+        **Julius Rea** is a Bay Area theatre maker and curator. In addition to
+        writing for publications such as the East Bay Express and EBONY
+        magazine, he obtained a degree in Philosophy at San Francisco State
+        University. While gaining experience as a theater and event producer
+        throughout his education, Rea is also an experienced playwright, poet
+        and dramaturg. In 2018, he co-founded an art collective (The Forum) that
+        focuses on journalism theatre and gallery curation. He has worked with
+        the Playwrights Foundation, Greenhouse Theatre Festival, Firehouse Art
+        Collective, Adelines Lab and Playground. His acting credits include
+        Sweat (Benicia Old Town Hall Theatre Group), Honky (Left Edge Theatre)
+        and Multiverse (Ragged Wing Ensemble).
+      credit: Marketing & Communications Associate
+      image: 'https://ucarecdn.com/34322725-42ba-414a-9511-278c5c6c7451/'
+      name: Julius Rea
     - bio: >
         <strong>Vida Ghahremani</strong> began acting in films as a teenager in
         Iran, where she established the standards of stardom. Some of her
