@@ -15,7 +15,7 @@ cast:
   heading: Cast & Crew
   items:
     - name: ''
-      text: "**Creative Team:** Kate Boyd (Scenic Designer)\r, Cassie Barnes (Lighting Designer)\r, James Ard^ (Sound Designer), Maggie Whittacker (Costume Designer)\r, Kenan Arun (Make-up Design)\r, Nima Dehghani (Projection Designer)"
+      text: "**Cast:** _Sultane Ayla Yarkut*_\r\n\n_Tamar Leila Rosa_\r\n\n_Azad Zaya Kolia_\r\n\n_Bilo Lijesh Krishnan_\r\n\n_Dilcha Sofia Ahmad*_\n\n****\n\n**Scenic: Kate Boyd (confirmed)**\r\n\n**Lights: Cassie Barnes (confirmed)**\r\n\n**Sound: James Ard (confirmed)**\r\n\n**Costumes: Maggie Whittacker (confirmed)**\r\n\n**Makeup & Hair: Kenan Arun (confirmed)**\r\n\n**Props: Grisel?**\r\n\n**Projections: Nima Dehghani (confirmed)**\n\n****\n\n**Cultural Consultant: Evren Odcikin**\r\n\n**Stage Manager: ?**\r\n\n**Assistant Stage Manager: Rachel Mogan?**\r\n\n**Assistant Stage Manager: Sophie Burke?**\r\n\n**Production Manager: Stephanie Alyson**\r\n\n**Technical Director: Beckett Finn**"
 photos:
   heading: Photo Gallery
 ---
