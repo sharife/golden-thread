@@ -33,6 +33,23 @@ cast:
         Princeton University and received her MFA from Birkbeck, University of
         London. www.eringilley.com
       name: Erin Gilley
+    - bio: >-
+        Evren Odcikin is a San Francisco-based freelance theatre director.
+        Recent credits include KISS by Guillermo Calderón at Shotgun Players,
+        and the world premiere of Mona Mansour’s WE SWIM, WE TALK, WE GO TO WAR
+        at Golden Thread. Other credits: the world premiere of MJ Kaufman’s
+        SENSITIVE GUYS at InterACT (Barrymore Recommended), I CALL MY BROTHERS
+        by Jonas Hassen Khemiri at Cleveland Public Theatre; Saïd
+        Sayrafiezadeh’s AUTOBIOGRAPHY OF A TERRORIST, and Kevin Artigue’s THE
+        MOST DANGEROUS HIGHWAY in the World (6 BATCC nominations, including best
+        director) at Golden Thread; I CALL MY BROTHERS (TBA Awards nomination
+        for Outstanding Direction) and INVASION! by Jonas Hassen Khemiri and
+        \[410]GONE by Frances Ya-Chu Cowhig (Production Notebook feature in
+        American Theatre Magazine) at Crowded Fire.  A graduate of Princeton,
+        Evren was named a “Theatre Worker to Watch” by American Theatre Magazine
+        in 2016, awarded a 2015 National Directors Fellowship by the O’Neill.
+        Odcikin.com
+      name: Evren Odcikin
     - name: ''
       text: >-
         **Cast:** _Sultane Ayla Yarkut\*, Tamar Leila Rosa, Azad Zaya Kolia,
