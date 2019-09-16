@@ -25,7 +25,8 @@ description: >-
   Translated from Turkish by Evren Odcikin, this production marks both At the
   Periphery's US premiere as well as the first co-production between Golden
   Thread Productions and [Crowded Fire Theater](crowdedfire.org). For more
-  information about the history between these two companies, click here.
+  information about the history between these two companies, click
+  [here](www.goldenthread.org/posts/trailblazing-partnership-results-in-multiple-wins-for-two-exemplary-bay-area-theatre-companies/).
 background: 'https://ucarecdn.com/174b7abb-5b7d-40e2-8f35-b4413a503bb8/'
 writer: Sedef Ecer
 director: Erin Gilley
