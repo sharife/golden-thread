@@ -4,6 +4,7 @@ date: 2019-09-16T21:44:12.386Z
 description: >-
   ReOrient 2019 cements Golden Thread Productions' longtime working
   relationships with Yussef El Guindi, Betty Shamieh, and Naomi Wallace.
+background: 'https://ucarecdn.com/1f5ad9ba-04be-40fa-b8d2-62de0fe6462c/'
 ---
 ReOrient 2019 Festival of Short Plays marks the 20th Anniversary of the festival and promises to be one of the most important yet, including three playwrights with longtime working relationships with Golden Thread Productions: Yussef El Guindi, Betty Shamieh, and Naomi Wallace. These playwrights (two of whom are Middle Eastern American) have been creating plays that address the Middle East for decades. Egyptian-American playwright Yussef El Guindi’s first play, Hostages, first produced in 1988, tackled Western intervention in Lebanon at the height of that country’s civil war. Palestinian-American playwright Betty Shamieh’s play Chocolate in Heat: Growing Up Arab in America, first premiered in 2001 and paved the way for female Arab American solo performances that followed. Naomi Wallace’s 1994 play In the Heart of America was a searing exploration of the First Gulf War which changed the way American theatres perceived how Arabs could be more fully represented on stage. In the ensuing years these playwrights have written myriad plays that explore cultural identity and the dissection of ongoing conflicts and foreign interventions in the Middle East, with a consistent focus on Arab and Arab American characters.
 
