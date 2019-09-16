@@ -13,6 +13,8 @@ Come be part of our conversation on leading and fostering Middle Eastern and Nor
 
 All events are open to the public unless otherwise specified as a MENA-only work session. Snacks and refreshments will be provided throughout the convening. Admission is free; advanced registration is strongly encouraged.
 
+_Please note that we define “Middle East” and “Middle Eastern” broadly and inclusively, and embrace the multiplicity of ethnic and religious identities that span Southwest Asia, North Africa, Central Asia, the Caucasus, parts of Mediterranean Europe, and our Diaspora communities. We understand our respective backgrounds in terms of rich pluralism and interconnectedness. We also define “America” and “American” in the broadest possible ways to include the continents of North and South America. Furthermore, at this time in history, it’s important that we include American Muslims, of all cultural, ethnic, and racial backgrounds, as members of our Middle Eastern American communities._
+
 _**MENA CONVENING SCHEDULE**_
 
 **SATURDAY, NOVEMBER 9, 2019**
@@ -50,3 +52,7 @@ _**MENA CONVENING SCHEDULE**_
 _\*MENA-only work sessions are closed to the public._
 
 _**To register, click**_ [_**here**_](https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006fS5yUAE)_**.**_
+
+_**MENA Coalition Steering Committee Members:**_
+
+_Shoresh Alaudini, Andrea Assaf (Art2Action, Inc.), Leila Buck, Deborah Ben-Eliezer, Catherine Coray (NYU/The Lark), Tracy Francis, Yussef El Guindi, Kathryn Haddad, Pia Haddad, Taous Khazem, Kate Moore Heaney (Noor Theater), Denmo Ibrahim, Jamil Khoury (Silk Road Rising), Michael Malek Najjar (University of Oregon), Evren Odcikin, Nora El Samahy, Torange Yeghiazarian (Golden Thread Productions)_
