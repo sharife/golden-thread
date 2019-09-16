@@ -13,6 +13,19 @@ description: >-
   Young lovers Azad and Tamar appeal to superstar Sultane’s reality TV show to
   realize their dream of a life in France. Gyspy woman Kybelee finds home in a
   shack she has made with her own hands.
+
+
+  Sedef Ecer’s new play takes a lyrical, funny, and deeply human look at hope
+  and home against all odds. Furthermore, the play examines homelessness and
+  displacement in Istanbul with an expansive global lens that brings it home to
+  the San Francisco Bay Area where these issues are extremely palpable and
+  relevant. 
+
+
+  Translated from Turkish by Evren Odcikin, this production marks both At the
+  Periphery's US premiere as well as the first co-production between Golden
+  Thread Productions and [Crowded Fire Theater](crowdedfire.org). For more
+  information about the history between these two companies, click here.
 background: 'https://ucarecdn.com/174b7abb-5b7d-40e2-8f35-b4413a503bb8/'
 writer: Sedef Ecer
 director: Erin Gilley
@@ -99,10 +112,6 @@ cast:
 photos:
   heading: Photo Gallery
 ---
-Sedef Ecer’s new play takes a lyrical, funny, and deeply human look at hope and home against all odds. Furthermore, the play examines homelessness and displacement in Istanbul with an expansive global lens that brings it home to the San Francisco Bay Area where these issues are extremely palpable and relevant. 
-
-Translated from Turkish by Evren Odcikin, this production marks both At the Periphery's US premiere as well as the first co-production between Golden Thread Productions and [Crowded Fire Theater](crowdedfire.org). For more information about the history between these two companies, click here. **{<<<<INPUT LINK TO POST HERE tktktktktktktktkt}**
-
 **_COLLABORATING THEATERS_**
 
 **Golden Thread Productions** is the first American theatre company devoted to plays from or about the Middle East, defined broadly and inclusively. We produce passionate and provocative plays and are a developmental catalyst and vibrant artistic home to artists at various stages of their career. We bring the Middle East to the American stage, creating treasured cultural experiences for audiences of all ages and backgrounds.  
