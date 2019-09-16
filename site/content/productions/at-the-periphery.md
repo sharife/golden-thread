@@ -1,11 +1,13 @@
 ---
 title: 'At the Periphery '
+pre: US Premiere
 season: '2019'
 date: 2019-09-10T20:06:27.442Z
 start: 2020-02-23T08:00:00.000Z
 end: 2020-04-04T20:06:27.482Z
-heading: 'Tell me, what’s your wish?'
+heading: ''
 description: ''
+background: 'https://ucarecdn.com/174b7abb-5b7d-40e2-8f35-b4413a503bb8/'
 writer: Sedef Ecer
 director: Erin Gilley
 additional: Translation by Evren Odcikin
@@ -14,9 +16,74 @@ address: '1695 18th Street, San Francisco'
 cast:
   heading: Cast & Crew
   items:
+    - bio: "Sedef Ecer was born in Istanbul, where she grew up in the world of movie-making, theatre and television. She has written numerous articles or opinion pieces for national newspapers or magazines, novels, screenplays, explored new genres with transmedia stories and translated Charlotte Delbo, and Saint-Exupery's works into Turkish. But her major work is in the field of theater, in French. Now living in Paris and writing in French, her plays are published by Les Éditions de l'Amandier, Les Éditions l'Espace d'un Instant, Lansman and l'Avant-Scène in France, and translated into Polish, Turkish, Armenian, German, Greek, and English. Ms. Ecer's plays have been seen across Europe at venues including Metz Opera House, National Theatre Le Liberté, Théâtre du Peuple, Aalen Stadt Theater, and Théâtre National de Strasbourg. \r\n\nShe is one of the three women writers who founded the Parlement des Écrivaines \rFrancophones, and is entered in the 2014 Dictionnaire Universel des Créatrices (The Universal Dictionary of Women Creators Worldwide, supported by Unesco). She is represented by Zelig in France, Merlin Verlag in Germany, and Habitus in Turkey. https://www.sedefecer.com"
+      image: 'https://ucarecdn.com/e14cbe61-760f-4643-af43-5efc8c32c0cd/'
+      name: Sedef Ecer
+    - bio: >-
+        Erin Gilley is a director and video projection designer. Recent
+        projection design credits include: Shotgun Players’ Women Laughing Alone
+        with Salad, Kings, and White; and Golden Thread's Scenes from 71* Years.
+        Other notable credits include directing and projection design for San
+        Francisco's immersive theatre production The Speakeasy (Boxcar Theatre),
+        the international digital theatre production Longitude (LIFT/elastic
+        future), and The Technology Cave in The Lily's Revenge (Magic Theatre).
+        Upcoming projects include projection design for Elevada at Shotgun
+        Players, and directing the immersive haunted house Unhinged at
+        Winchester Mystery House. Erin studied theatre as an undergraduate at
+        Princeton University and received her MFA from Birkbeck, University of
+        London. www.eringilley.com
+      name: Erin Gilley
     - name: ''
-      text: "**Cast:** _Sultane Ayla Yarkut*_\r\n\n_Tamar Leila Rosa_\r\n\n_Azad Zaya Kolia_\r\n\n_Bilo Lijesh Krishnan_\r\n\n_Dilcha Sofia Ahmad*_\n\n****\n\n**Scenic: Kate Boyd (confirmed)**\r\n\n**Lights: Cassie Barnes (confirmed)**\r\n\n**Sound: James Ard (confirmed)**\r\n\n**Costumes: Maggie Whittacker (confirmed)**\r\n\n**Makeup & Hair: Kenan Arun (confirmed)**\r\n\n**Props: Grisel?**\r\n\n**Projections: Nima Dehghani (confirmed)**\n\n****\n\n**Cultural Consultant: Evren Odcikin**\r\n\n**Stage Manager: ?**\r\n\n**Assistant Stage Manager: Rachel Mogan?**\r\n\n**Assistant Stage Manager: Sophie Burke?**\r\n\n**Production Manager: Stephanie Alyson**\r\n\n**Technical Director: Beckett Finn**"
+      text: >-
+        **Cast:** _Sultane Ayla Yarkut\*, Tamar Leila Rosa, Azad Zaya Kolia,
+        Bilo Lijesh Krishnan, Dilcha Sofia Ahmad\*_
+
+
+        _\*Member, Actors Equity_
+
+
+        - - -
+
+
+        **Scenic:** _Kate Boyd_
+
+
+        **Lighings:** _Cassie Barnes_
+
+
+        **Sound:** _James Ard_
+
+
+        **Costumes:** _Maggie Whittacker_
+
+
+        **Makeup & Hair:** _Kenan Arun_
+
+
+        **Projections:** _Nima Dehghani_
+
+
+        - - -
+
+
+        **Cultural Consultant:** _Evren Odcikin_
+
+
+        **Production Manager:** _Stephanie Alyson_
+
+
+        **Technical Director:** _Beckett Finn_
 photos:
   heading: Photo Gallery
 ---
-Set in Istanbul and Paris, **AT THE PERIPHERY** is a new play that focuses on the rarely told stories of migrants in Istanbul’s urban slums. Farmers Dilcha and Bilo leave their home in the countryside to make a life in the big city. Young lovers Azad and Tamar appeal to superstar Sultane’s reality TV show to realize their dream of a life in France. Gyspy woman Kybelee finds home in a shack she has made with her own hands. Sedef Ecer’s new play takes a lyrical, funny, and deeply human look at hope and home against all odds.
+Set in Istanbul and Paris, **AT THE PERIPHERY** is a new play that focuses on the rarely told stories of migrants in Istanbul’s urban slums. Farmers Dilcha and Bilo leave their home in the countryside to make a life in the big city. Young lovers Azad and Tamar appeal to superstar Sultane’s reality TV show to realize their dream of a life in France. Gyspy woman Kybelee finds home in a shack she has made with her own hands.
+
+Sedef Ecer’s new play takes a lyrical, funny, and deeply human look at hope and home against all odds. Furthermore, the play examines homelessness and displacement in Istanbul with an expansive global lens that brings it home to the San Francisco Bay Area where these issues are extremely palpable and relevant. 
+
+Translated from Turkish by Evren Odcikin, this production marks both At the Periphery's US premiere as well as the first co-production between Golden Thread Productions and [Crowded Fire Theater](crowdedfire.org). For more information about the history between these two companies, click here. **{<<<<INPUT LINK TO POST HERE tktktktktktktktkt}**
+
+_**COLLABORATING THEATERS**_
+
+**Golden Thread Productions** is the first American theatre company devoted to plays from or about the Middle East, defined broadly and inclusively. We produce passionate and provocative plays and are a developmental catalyst and vibrant artistic home to artists at various stages of their career. We bring the Middle East to the American stage, creating treasured cultural experiences for audiences of all ages and backgrounds.  
+
+**Crowded Fire Theater’s** ensemble produces poetic, bold theater created by new and contemporary artists. We seek to engage our community by producing adventurous work, innovative in structure, which addresses the diverse political and social concerns of our audiences.
