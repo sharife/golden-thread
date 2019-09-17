@@ -6,19 +6,20 @@ background: 'https://ucarecdn.com/dd36bdba-f8e2-4518-a52b-3ff079c3fe17/'
 cta: MORE
 link: /productions/reorient-2019
 items:
-  - image: 'https://ucarecdn.com/41a20485-f313-41e2-84fe-37c6616355b8/'
-    subtitle: 'We''re Changing the Narrative on the Middle East, One Book at a Time!'
-    cta: Get your copy
+  - image: 'https://ucarecdn.com/a86fade5-0d01-4447-9e56-91015d0d414a/'
+    subtitle: A Homecoming for Golden Thread Alumni Playwrights
+    cta: Get oriented with ReOrient
     link: >-
-      https://www.routledge.com/Casting-a-Movement-The-Welcome-Table-Initiative/Syler-Banks/p/book/9781138594777
+      https://goldenthread.org/posts/reorient-2019-a-homecoming-for-golden-thread-alumni/
     text: >-
-      Yeghiazarian writes about casting ReOrient 2009, with a prologue by Yussef
-      El Guindi and an epilogue by Malek Najjar.
-  - image: 'https://ucarecdn.com/d8264d0c-caed-48db-a503-885e7e018184/'
+      ReOrient 2019 cements Golden Thread Productions’ longtime working
+      relationships with Yussef El Guindi, Betty Shamieh, and Naomi Wallace.
+  - image: >-
+      https://ucarecdn.com/d8264d0c-caed-48db-a503-885e7e018184/-/crop/2188x1278/8,155/-/preview/
     subtitle: Trailblazing Partnership Results In Multiple Wins!
     cta: Read More
     link: >-
-      https://www.broadwayworld.com/san-francisco/article/Crowded-Fire-Golden-Thread-Reflect-on-Partnership-20190820
+      https://goldenthread.org/posts/trailblazing-partnership-results-in-multiple-wins-for-two-exemplary-bay-area-theatre-companies/
     text: >-
       In a theatre ecosystem dominated by a mindset of scarcity and competition,
       Crowded Fire Theater and Golden Thread Productions are seeing positive
