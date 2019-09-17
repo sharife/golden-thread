@@ -33,6 +33,7 @@ director: Erin Gilley
 additional: Translation by Evren Odcikin
 stage: Potrero Stage
 address: '1695 18th Street, San Francisco'
+ticketlink: 'https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/ '
 cast:
   heading: Cast & Crew
   items:
