@@ -8,13 +8,14 @@ link: /productions/reorient-2019
 items:
   - image: 'https://ucarecdn.com/a86fade5-0d01-4447-9e56-91015d0d414a/'
     subtitle: A Homecoming for Golden Thread Alumni Playwrights
-    cta: Get your copy
+    cta: Get oriented with ReOrient
     link: >-
       https://goldenthread.org/posts/reorient-2019-a-homecoming-for-golden-thread-alumni/
     text: >-
       ReOrient 2019 cements Golden Thread Productions’ longtime working
       relationships with Yussef El Guindi, Betty Shamieh, and Naomi Wallace.
-  - image: 'https://ucarecdn.com/d8264d0c-caed-48db-a503-885e7e018184/'
+  - image: >-
+      https://ucarecdn.com/d8264d0c-caed-48db-a503-885e7e018184/-/crop/2188x1278/8,155/-/preview/
     subtitle: Trailblazing Partnership Results In Multiple Wins!
     cta: Read More
     link: >-
