@@ -215,6 +215,17 @@ lists:
           Award in Literature.
         title: |
           The Book of Mima
+  - heading: Blogs
+    items:
+      - cta: Read more
+        image: 'https://ucarecdn.com/27f9948e-1cf4-466f-8357-d105f0e627cc/'
+        link: >-
+          https://goldenthread.org/posts/reorient-2019-a-homecoming-for-golden-thread-alumni/
+        subtitle: >-
+          ReOrient 2019 cements Golden Thread Productions’ longtime working
+          relationships with Yussef El Guindi, Betty Shamieh, and Naomi Wallace.
+        text: 'By Michael Malek Najjar, 2019 ReOrient Publications Dramaturg'
+        title: A Homecoming for Golden Thread Alumni
 grids: []
 cast:
   heading: REORIENT 2019 HONORARY MENTIONS
