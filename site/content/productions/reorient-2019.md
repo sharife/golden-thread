@@ -215,7 +215,13 @@ lists:
           Award in Literature.
         title: |
           The Book of Mima
-grids: []
+grids:
+  - heading: Blogs
+    items:
+      - subtitle: >-
+          ReOrient 2019 cements Golden Thread Productions’ longtime working
+          relationships with Yussef El Guindi, Betty Shamieh, and Naomi Wallace.
+        title: A Homecoming for Golden Thread Alumni
 cast:
   heading: REORIENT 2019 HONORARY MENTIONS
   items:
