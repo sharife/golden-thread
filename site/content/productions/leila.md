@@ -121,8 +121,8 @@ cast:
         Palestinian-American and is a fluent Arabic speaker. She received her BA
         in Theatre Arts from San Francisco State University and recently trained
         at the Stella Adler Studio of Acting in New York. Her SFSU stage credits
-        include Top Girls, The Laramie Project, The Baltimore Waltz, Five Women
-        Wearing the Same Dress, and Forever Chasing Smarts. When she is not
+        include _Top Girls, The Laramie Project, The Baltimore Waltz, Five Women
+        Wearing the Same Dress,_ and _Forever Chasing Smarts_. When she is not
         on-stage, Maya loves to spend her time solo-backpacking around the
         world! She is beyond excited to be joining the Golden Thread Fairytale
         Players and is grateful for this opportunity.
