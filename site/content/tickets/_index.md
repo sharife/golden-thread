@@ -17,6 +17,29 @@ lists:
           1st and 2nd Thursdays | $15 Previews <br /> Group of 10 or more?
           Contact <mailto:boxoffice@goldenthread.org> for 30% off.
         title: ReOrient 2019 Festival of Short Plays
+      - cta: BUY YOUR TICKETS NOW
+        image: 'https://ucarecdn.com/70b5fdcf-4fc2-413d-a3e9-f8f540ac47ad/'
+        link: >-
+          https://goldenthread.secure.force.com/ticket/#/events/a0Sf1000006r1HhEAI
+        subtitle: >-
+          Set in Istanbul and Paris, **AT THE PERIPHERY** is a new play that
+          focuses on the rarely told stories of migrants in Istanbul’s urban
+          slums. Sedef Ecer’s new play takes a lyrical, funny, and deeply human
+          look at hope and home against all odds. Furthermore, the play examines
+          homelessness and displacement in Istanbul with an expansive global
+          lens that brings it home to the San Francisco Bay Area where these
+          issues are extremely palpable and relevant.
+
+
+          **February 23 - April 4, 2020** at Potrero Stage (1695 18th Street,
+          San Francisco) \
+
+          $15-50 General Admission | $28 Student/Senior 65+ | $20 1st and 2nd
+          Thursdays | $15 Previews\
+
+          Group of 10 or more? Contact <mailto:boxoffice@goldenthread.org> for
+          30% off.
+        title: At the Periphery
 ---
 **GOLDEN THREAD TICKETING POLICIES**
 
