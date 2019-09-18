@@ -116,9 +116,19 @@ cast:
       credit: Player 2 / Leila
       image: /img/archive/2018/10/Simone-Bloch-300x300.jpg
       name: Simone Bloch
-    - credit: Player 1 / Mother
-      image: /img/archive/2018/07/Garrahan-Val-300x300.jpg
-      name: Val Garrahan
+    - bio: >-
+        Maya Nazzal is a San Francisco-based actor. She is first-generation
+        Palestinian-American and is a fluent Arabic speaker. She received her BA
+        in Theatre Arts from San Francisco State University and recently trained
+        at the Stella Adler Studio of Acting in New York. Her SFSU stage credits
+        include Top Girls, The Laramie Project, The Baltimore Waltz, Five Women
+        Wearing the Same Dress, and Forever Chasing Smarts. When she is not
+        on-stage, Maya loves to spend her time solo-backpacking around the
+        world! She is beyond excited to be joining the Golden Thread Fairytale
+        Players and is grateful for this opportunity.
+      credit: Player 1 / Mother
+      image: 'https://ucarecdn.com/10992e43-cdc1-4d16-b3c8-534a9bf03e9b/'
+      name: Maya Nazzal
     - bio: >
         <strong>Torange Yeghiazarian</strong> is a playwright, director, and
         translator. She is the Founding Artistic Director of Golden Thread
