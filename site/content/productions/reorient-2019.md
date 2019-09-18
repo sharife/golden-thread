@@ -216,15 +216,17 @@ lists:
         title: |
           The Book of Mima
 grids:
-  - heading: Blogs
+  - heading: Dramaturgs Dive Deep in ReOrient 2019
     items:
       - cta: Read more
         image: 'https://ucarecdn.com/d3df5a98-71d9-4917-a2c6-a3ffe7994e2d/'
         link: >-
           https://goldenthread.org/posts/reorient-2019-a-homecoming-for-golden-thread-alumni/
-        subtitle: >-
-          ReOrient 2019 cements Golden Thread Productions’ longtime working
-          relationships with Yussef El Guindi, Betty Shamieh, and Naomi Wallace.
+        subtitle: ''
+        text: >-
+          This year's festival cements Golden Thread Productions’ longtime
+          working relationships with Yussef El Guindi, Betty Shamieh, and Naomi
+          Wallace.
         title: A Homecoming for Golden Thread Alumni
 cast:
   heading: REORIENT 2019 HONORARY MENTIONS
