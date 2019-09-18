@@ -32,10 +32,15 @@ lists:
           Bay Area where these issues are extremely palpable and relevant.
 
 
+          This production marks both At the Periphery’s US premiere as well as
+          **the first co-production between Golden Thread Productions and
+          Crowded Fire Theater**.
+
+
           **February 23 - April 4, 2020** at Potrero Stage (1695 18th Street,
           San Francisco) \
 
-          $15-50 General Admission | $28 Student/Senior 65+ | $20 1st and 2nd
+          $50-38 General Admission | $28 Student/Senior 65+ | $20 1st and 2nd
           Thursdays | $15 Previews\
 
           Group of 10 or more? Contact <mailto:boxoffice@goldenthread.org> for
