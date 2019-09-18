@@ -1,7 +1,5 @@
 ---
-title: >-
-  Trailblazing Partnership Results in Multiple Wins for Two Exemplary Bay Area
-  Theatre Companies
+title: Trailblazing Partnership Results in Multiple Wins
 date: 2019-09-16T21:30:23.880Z
 description: ''
 background: 'https://ucarecdn.com/678521cd-e6a0-4852-89f0-0b0409736247/'
