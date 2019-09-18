@@ -127,7 +127,8 @@ cast:
         world! She is beyond excited to be joining the Golden Thread Fairytale
         Players and is grateful for this opportunity.
       credit: Player 1 / Mother
-      image: 'https://ucarecdn.com/10992e43-cdc1-4d16-b3c8-534a9bf03e9b/'
+      image: >-
+        https://ucarecdn.com/10992e43-cdc1-4d16-b3c8-534a9bf03e9b/-/crop/425x414/0,0/-/preview/
       name: Maya Nazzal
     - bio: >
         <strong>Torange Yeghiazarian</strong> is a playwright, director, and
