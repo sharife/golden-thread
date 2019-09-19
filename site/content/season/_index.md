@@ -1,5 +1,6 @@
 ---
 title: 2019 Season
+currentseason: 2019
 intro: >
   Golden Thread’s 2019 Season celebrates courageous storytelling with new works
   featuring rarely-highlighted perspectives from or about the Middle East.

@@ -1,7 +1,7 @@
 ---
-title: 'At the Periphery '
+title: 'At the Periphery'
 pre: US Premiere
-season: '2019'
+season: 2020
 date: 2019-09-10T20:06:27.442Z
 start: 2020-02-23T08:00:00.000Z
 end: 2020-04-04T20:06:27.482Z
@@ -24,9 +24,9 @@ description: >-
 
   Translated from Turkish by Evren Odcikin, this production marks both At the
   Periphery's US premiere as well as the first co-production between Golden
-  Thread Productions and [Crowded Fire Theater](crowdedfire.org). For more
+  Thread Productions and [Crowded Fire Theater](http://crowdedfire.org). For more
   information about the history between these two companies, click
-  [here](www.goldenthread.org/posts/trailblazing-partnership-results-in-multiple-wins-for-two-exemplary-bay-area-theatre-companies/).
+  [here](https://www.goldenthread.org/posts/trailblazing-partnership-results-in-multiple-wins-for-two-exemplary-bay-area-theatre-companies/).
 background: 'https://ucarecdn.com/174b7abb-5b7d-40e2-8f35-b4413a503bb8/'
 writer: Sedef Ecer
 director: Erin Gilley
@@ -52,7 +52,7 @@ cast:
         Players, and directing the immersive haunted house Unhinged at
         Winchester Mystery House. Erin studied theatre as an undergraduate at
         Princeton University and received her MFA from Birkbeck, University of
-        London. www.eringilley.com
+        London. http://www.eringilley.com
       name: Erin Gilley
     - bio: >-
         Evren Odcikin is a San Francisco-based freelance theatre director.

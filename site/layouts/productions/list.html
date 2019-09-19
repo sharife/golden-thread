@@ -4,7 +4,8 @@
 
 <div class="mw7 center pv4">
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
-      {{ range where (where .Paginator.Pages "Type" "productions") ".Params.season" "<" 2019 }}
+  	{{ $season := (int .Site.Params.currentseason) }}
+      {{ range where (where .Paginator.Pages "Type" "productions") ".Params.season" "<"  $season }}
           <div class="w-100-ns ph1-ns flex">
             {{ .Render "li"}}
           </div>

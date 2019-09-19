@@ -1,6 +1,8 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Golden Thread Productions"
+[params] 
+	currentseason = "2019"
 
 [menu]
 	[[menu.primary]]
@@ -43,6 +45,13 @@ title = "Golden Thread Productions"
 		name = "What Do the Women Say?"
 		url = "/productions/wdtws-2019"
 		weight = 15
+
+		[[menu.primary]]
+		parent = "season"
+		identifier = "upcoming"
+		name = "2020 Season"
+		url = "/season/upcoming"
+		weight = 16
 
 	[[menu.primary]]
 	identifier = "about"

@@ -240,6 +240,31 @@ collections: # A list of collections the CMS should be able to edit
         name: "season"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Current Season, name: currentseason, widget: string}
+          - {label: Intro, name: intro, widget: text, required: false}
+          - {label: "Header Image", name: "background", widget: "image", required: false}
+          - label: "Lists"
+            name: "lists"
+            widget: "list"
+            fields:
+              - {label: "Heading", name: "heading", widget: "string", required: false}
+              - label: Items
+                name: items
+                widget: list
+                fields:
+                  - {label: "Title", name: "title", widget: "string", required: false}
+                  - {label: "Eyebrow", name: "pre", widget: "string", required: false}
+                  - {label: "Subtitle", name: "subtitle", widget: "markdown", required: false}
+                  - {label: "Image", name: "image", widget: "image", required: false}
+                  - {label: "Text", name: "text", widget: "markdown", required: false}
+                  - {label: "Call to action", name: "cta", widget: "string", required: false}
+                  - {label: "Link", name: "link", widget: "string", required: false}
+      - file: "site/content/season/upcoming/_index.md"
+        label: "Upcoming Season"
+        name: "upcoming"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Season, name: currentseason, widget: string}
           - {label: Intro, name: intro, widget: text, required: false}
           - {label: "Header Image", name: "background", widget: "image", required: false}
           - label: "Lists"

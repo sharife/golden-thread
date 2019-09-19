@@ -16,7 +16,7 @@
         {{ range .Site.Menus.primary }}
             {{ if .HasChildren }}
                 <li class="{{ if $currentPage.HasMenuCurrent "primary" . }}active{{ end }}">
-                    <a href="#" nowrap>
+                    <a href="{{ .URL }}" nowrap>
                         {{ .Pre }}
                         <span class="b">{{ .Name }}</span>
                     </a>
