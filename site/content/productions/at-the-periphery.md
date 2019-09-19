@@ -1,5 +1,5 @@
 ---
-title: 'At the Periphery'
+title: At the Periphery
 pre: US Premiere
 season: 2020
 date: 2019-09-10T20:06:27.442Z
@@ -24,8 +24,8 @@ description: >-
 
   Translated from Turkish by Evren Odcikin, this production marks both At the
   Periphery's US premiere as well as the first co-production between Golden
-  Thread Productions and [Crowded Fire Theater](http://crowdedfire.org). For more
-  information about the history between these two companies, click
+  Thread Productions and [Crowded Fire Theater](http://crowdedfire.org). For
+  more information about the history between these two companies, click
   [here](https://www.goldenthread.org/posts/trailblazing-partnership-results-in-multiple-wins-for-two-exemplary-bay-area-theatre-companies/).
 background: 'https://ucarecdn.com/174b7abb-5b7d-40e2-8f35-b4413a503bb8/'
 writer: Sedef Ecer
@@ -73,44 +73,20 @@ cast:
       name: Evren Odcikin
     - name: ''
       text: >-
-        **Cast:** _Sultane Ayla Yarkut\*, Tamar Leila Rosa, Azad Zaya Kolia,
-        Bilo Lijesh Krishnan, Dilcha Sofia Ahmad\*_
+        **Cast:** Ayla Yarkut\*, Leila Rosa, Zaya Kolia, Lijesh Krishnan, Sofia
+        Ahmad\*
 
 
-        _\*Member, Actors Equity_
+        \*Member, Actors Equity
 
 
-        - - -
 
 
-        **Scenic:** _Kate Boyd_
-
-
-        **Lighings:** _Cassie Barnes_
-
-
-        **Sound:** _James Ard_
-
-
-        **Costumes:** _Maggie Whittacker_
-
-
-        **Makeup & Hair:** _Kenan Arun_
-
-
-        **Projections:** _Nima Dehghani_
-
-
-        - - -
-
-
-        **Cultural Consultant:** _Evren Odcikin_
-
-
-        **Production Manager:** _Stephanie Alyson_
-
-
-        **Technical Director:** _Beckett Finn_
+        **Creative Team:** Kate Boyd (Scenic Design), Cassie Barnes (Lighting
+        Design), James Ard (Sound Design), Maggie Whittacker (Costume Design),
+        Kenan Arun (Makeup Design), Nima Dehghani (Projection Design), Evren
+        Odcikin (Cultural Consultant), Stephanie Alyson (Production Manager)
+        Beckett Finn (Technical Director)
 photos:
   heading: Photo Gallery
 ---
