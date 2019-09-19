@@ -20,7 +20,7 @@ lists:
       - cta: BUY YOUR TICKETS NOW
         image: 'https://ucarecdn.com/70b5fdcf-4fc2-413d-a3e9-f8f540ac47ad/'
         link: >-
-          https://goldenthread.secure.force.com/ticket/#/events/a0Sf1000006r1HhEAI
+          https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006fbQvUAI
         subtitle: ''
         text: "## A Golden Thread Productions and Crowded Fire Theater Company Co-Production\r\n\nSet in Istanbul and Paris, **AT THE PERIPHERY** is a new play that focuses on the rarely told stories of migrants in Istanbul’s urban slums. **Sedef Ecer’s** new play takes a lyrical, funny, and deeply human look at hope and home against all odds. Directed by **Erin Gilley**, the play examines homelessness and displacement in Istanbul with an expansive global lens that brings it home to the San Francisco Bay Area where these issues are extremely palpable and relevant.\n\nThis production marks both At the Periphery’s US premiere as well as **the first co-production between Golden Thread Productions and Crowded Fire Theater**.\n\n**February 23 - April 4, 2020** at Potrero Stage (1695 18th Street, San Francisco) \\\n$50-38 General Admission | $28 Student/Senior 65+ | $20 1st and 2nd Thursdays | $15 Previews\\\nGroup of 10 or more? Contact <mailto:boxoffice@goldenthread.org> for 30% off."
         title: At the Periphery
