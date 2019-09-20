@@ -78,7 +78,7 @@ cast:
         in 2016, awarded a 2015 National Directors Fellowship by the O’Neill.
         Odcikin.com
       name: Evren Odcikin
-    - bio: '****'
+    - bio: ''
       name: ''
       text: >-
         **Cast:** Ayla Yarkut\*, Leila Rosa, Zaya Kolia, Lijesh Krishnan, Sofia
