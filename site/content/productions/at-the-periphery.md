@@ -41,18 +41,25 @@ cast:
       image: 'https://ucarecdn.com/e14cbe61-760f-4643-af43-5efc8c32c0cd/'
       name: Sedef Ecer
     - bio: >-
-        Erin Gilley is a director and video projection designer. Recent
-        projection design credits include: Shotgun Players’ Women Laughing Alone
-        with Salad, Kings, and White; and Golden Thread's Scenes from 71* Years.
-        Other notable credits include directing and projection design for San
-        Francisco's immersive theatre production The Speakeasy (Boxcar Theatre),
-        the international digital theatre production Longitude (LIFT/elastic
-        future), and The Technology Cave in The Lily's Revenge (Magic Theatre).
-        Upcoming projects include projection design for Elevada at Shotgun
-        Players, and directing the immersive haunted house Unhinged at
-        Winchester Mystery House. Erin studied theatre as an undergraduate at
-        Princeton University and received her MFA from Birkbeck, University of
-        London. http://www.eringilley.com
+        Erin Gilley (Director). Erin is a director and video projection designer
+        who specializes in immersive theatre and new plays. Directing credits
+        include: Manar, Turning Tricks and Counting in Sha'ab \[Golden Thread's
+        ReOrient festival]; Wreckage  \[Crowded Fire]; The Speakeasy and Equus
+        \[Boxcar Theatre]; Unhinged \[Winchester Mystery House]; digital theatre
+        productions Longitude and Peek A Boo \[London International Festival
+        Theatre]; Fiction \[Dragon Theatre] The Technology Cave in Taylor Mac’s
+        The Lily’s Revenge \[Magic Theatre]; The Unauthorized Autobiography of
+        Kim Deal and Beautiful \[elastic future]; The Woods by David Mamet
+        \[Theatre in the Woods]; Criminal Genius by George Walker and Making
+        Noise Quietly by Robert Holman \[TheatreFirst]. Assistant directing
+        credits include: 12 Angry Men \[Bill Kenwright, West End]; The Life of
+        Galileo \[Birmingham Rep/Royal Shakespeare Company]; Khandan
+        \[Birmingham Rep/Royal Court Theatre]. Upcoming projects include
+        projection design for Elevada at Shotgun Players and directing Secrets,
+        Dreams, and Other Missing Objects, a new immersive theatre adventure
+        produced by 3 Girls Theatre and First Person Travel. Erin studied
+        theatre as an undergraduate at Princeton University and received her MFA
+        from Birkbeck, University of London. www.eringilley.com
       name: Erin Gilley
     - bio: >-
         Evren Odcikin is a San Francisco-based freelance theatre director.
@@ -71,22 +78,22 @@ cast:
         in 2016, awarded a 2015 National Directors Fellowship by the O’Neill.
         Odcikin.com
       name: Evren Odcikin
-    - name: ''
+    - bio: '****'
+      name: ''
       text: >-
         **Cast:** Ayla Yarkut\*, Leila Rosa, Zaya Kolia, Lijesh Krishnan, Sofia
         Ahmad\*
 
 
-        \*Member, Actors Equity
 
 
+        **Creative Team:** Kate Boyd^ (Scenic Design), Cassie Barnes^ (Lighting
+        Design), James Ard^ (Sound Design), Maggie Whittacker (Costume Design),
+        Kenan Arun^ (Makeup Design), Nima Dehghani (Projection Design),
+        Stephanie Alyson (Production Manager), Beckett Finn (Technical Director)
 
 
-        **Creative Team:** Kate Boyd (Scenic Design), Cassie Barnes (Lighting
-        Design), James Ard (Sound Design), Maggie Whittacker (Costume Design),
-        Kenan Arun (Makeup Design), Nima Dehghani (Projection Design), Evren
-        Odcikin (Cultural Consultant), Stephanie Alyson (Production Manager)
-        Beckett Finn (Technical Director)
+        _\*Member, Actors Equity; ^Golden Thread Resident Artist_
 photos:
   heading: Photo Gallery
 ---
