@@ -78,22 +78,6 @@ cast:
         in 2016, awarded a 2015 National Directors Fellowship by the O’Neill.
         Odcikin.com
       name: Evren Odcikin
-    - bio: ''
-      name: ''
-      text: >-
-        **Cast:** Ayla Yarkut\*, Leila Rosa, Zaya Kolia, Lijesh Krishnan, Sofia
-        Ahmad\*
-
-
-
-
-        **Creative Team:** Kate Boyd^ (Scenic Design), Cassie Barnes^ (Lighting
-        Design), James Ard^ (Sound Design), Maggie Whittacker (Costume Design),
-        Kenan Arun^ (Makeup Design), Nima Dehghani (Projection Design),
-        Stephanie Alyson (Production Manager), Beckett Finn (Technical Director)
-
-
-        _\*Member, Actors Equity; ^Golden Thread Resident Artist_
 photos:
   heading: Photo Gallery
 ---
