@@ -77,16 +77,17 @@ cast:
         Ahmad\*
 
 
-        \*Member, Actors Equity
+        __
 
 
-
-
-        **Creative Team:** Kate Boyd (Scenic Design), Cassie Barnes (Lighting
-        Design), James Ard (Sound Design), Maggie Whittacker (Costume Design),
-        Kenan Arun (Makeup Design), Nima Dehghani (Projection Design), Evren
-        Odcikin (Cultural Consultant), Stephanie Alyson (Production Manager)
+        **Creative Team:** Kate Boyd^ (Scenic Design), Cassie Barnes^ (Lighting
+        Design), James Ard^ (Sound Design), Maggie Whittacker (Costume Design),
+        Kenan Arun^ (Makeup Design), Nima Dehghani (Projection Design), Evren
+        Odcikin^ (Cultural Consultant), Stephanie Alyson (Production Manager),
         Beckett Finn (Technical Director)
+
+
+        _\*Member, Actors Equity; ^Golden Thread Resident Artist_
 photos:
   heading: Photo Gallery
 ---
