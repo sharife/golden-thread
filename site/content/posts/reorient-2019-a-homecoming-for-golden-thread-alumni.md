@@ -6,7 +6,7 @@ description: >-
   relationships with Yussef El Guindi, Betty Shamieh, and Naomi Wallace.
 background: 'https://ucarecdn.com/1f5ad9ba-04be-40fa-b8d2-62de0fe6462c/'
 ---
-As _a team member of the second partnership between Golden Thread and_ [_Literary Managers and Dramaturgs of the Americas_](www.lmda.org/)_, Publications Dramaturg Michael Malek Najjar interviews ReOrient playwrights Yussef El Guindi (Brass Knuckles_), Betty Shamieh (_An Echo of Laughter_) and Naomi Wallace (_The Book of Mima_) to discuss their longtime histories with ReOrient & Golden Thread and their playwriting careers centered on the Middle East._
+As _a team member of the second partnership between Golden Thread and_ [_Literary Managers and Dramaturgs of the Americas_](www.lmda.org/)_, Publications Dramaturg Michael Malek Najjar interviews ReOrient playwrights Yussef El Guindi (Brass Knuckles_), Betty Shamieh (_An Echo of Laughter_) and Naomi Wallace (_The Book of Mima_) to discuss their longtime histories with ReOrient & Golden Thread and their playwriting careers centered on the Middle East.
 
 _**MICHAEL MALEK NAJJAR** (PhD, MFA) is an Associate Professor of Theatre Arts with the University of Oregon. He is also a professional director whose recent works include Zafira and the Resistance (New Arab American Theatre Works at the Guthrie Theatre, co-directed with Zeina Salame), Scenes from 71* Years (Golden Thread Productions), and Pilgrims Musa and Sheri in the New World (The Very Little Theatre). Malek teaches directing and dramaturgy at the University of Oregon._
 
