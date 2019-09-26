@@ -60,6 +60,11 @@ lists:
         pre: San Leandro Community Library
         subtitle: '300 Estudillo Avenue, San Leandro, CA 94577'
         text: ''
+      - cta: More Info
+        link: 'https://10times.com/potrero-hill-festival'
+        title: 'Saturday, October 19, 2019 - Time: TBD'
+        pre: Potrero Hill Festival
+        subtitle: Potrero Hill
   - heading: Testimonials
     items:
       - subtitle: ''
