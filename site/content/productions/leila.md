@@ -49,7 +49,9 @@ lists:
         link: 'https://10times.com/potrero-hill-festival'
         title: 'Saturday, October 19, 2019 - TBD'
         pre: Potrero Hill Festival
-        subtitle: Potrero Hill
+        subtitle: >-
+          Potrero Hill's annual festival is up on the 20th Street Hill. Music,
+          food, crafts, rides and activities for young and old alike.
       - cta: More Info
         link: 'http://www.sundaystreetssf.com/sunday-streets-2019/ex102019/'
         title: 'Sunday, October 20, 2019 - TBD'
