@@ -46,6 +46,11 @@ lists:
         subtitle: '800 Alma Street, Menlo Park, CA 94025'
         text: ''
       - cta: More Info
+        link: 'https://10times.com/potrero-hill-festival'
+        title: 'Saturday, October 19, 2019 - TBD'
+        pre: Potrero Hill Festival
+        subtitle: Potrero Hill
+      - cta: More Info
         link: 'http://www.sundaystreetssf.com/sunday-streets-2019/ex102019/'
         title: 'Sunday, October 20, 2019 - TBD'
         pre: SF Sunday Streets (Excelsior)
