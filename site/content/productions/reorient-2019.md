@@ -69,11 +69,13 @@ lists:
 
           Registration is free, but advanced registration is strongly encouraged
           to secure your space. Walk-up registration will be available on site,
-          space permitting.
+          space permitting. Also, Golden Thread has secured a limited number of
+          discounted hotel rooms during the Convening. Click here for more info
+          and reservation links. This offer expires October 13.
 
 
-          _**For more information and a full schedule, click**_
-          [_**here**_](http://goldenthread.org/posts/reorient-2019--national-convening-of-mena-theatre-artists/)_**.**_
+          **_For more information and a full schedule, click_**
+          [**_here_**](http://goldenthread.org/posts/reorient-2019--national-convening-of-mena-theatre-artists/)**_._**
   - heading: REORIENT 2019 LINE-UP
     items:
       - image: /img/archive/2018/02/ElGuindi-Yussef-300x300.jpg
