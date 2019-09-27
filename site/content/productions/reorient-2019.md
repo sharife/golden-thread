@@ -72,8 +72,8 @@ lists:
           space permitting.
 
 
-          **_For a full schedule, click_**
-          [**_here_**](http://goldenthread.org/posts/reorient-2019--national-convening-of-mena-theatre-artists/)**_._**
+          _**For more information and a full schedule, click**_
+          [_**here**_](http://goldenthread.org/posts/reorient-2019--national-convening-of-mena-theatre-artists/)_**.**_
   - heading: REORIENT 2019 LINE-UP
     items:
       - image: /img/archive/2018/02/ElGuindi-Yussef-300x300.jpg
