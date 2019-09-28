@@ -2,7 +2,7 @@
 title: Brave New Voices in ReOrient 2019
 date: 2019-09-27T19:38:18.821Z
 description: >-
-  Meet four writers who are brand-new to the festival, all clearly at home in
+  Meet four writers who are brand-new to the festival — all clearly at home in
   ReOrient, celebrating its 20th anniversary this year.
 background: 'https://ucarecdn.com/4f990302-d9d2-4e78-bd39-a5c791b6cf4d/'
 ---
