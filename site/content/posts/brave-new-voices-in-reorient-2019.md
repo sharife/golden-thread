@@ -2,7 +2,7 @@
 title: Brave New Voices in ReOrient 2019
 date: 2019-09-27T19:38:18.821Z
 description: >-
-  Meet four writers who are brand-new to the festival — all clearly at home in
+  Meet four writers who are brand-new to the festival, all clearly at home in
   ReOrient, celebrating its 20th anniversary this year.
 background: 'https://ucarecdn.com/4f990302-d9d2-4e78-bd39-a5c791b6cf4d/'
 ---
@@ -46,7 +46,7 @@ Now based in the UK, she remembers, “I really felt more connected to my Middle
 
 The Grievance Club is Heywood’s first and only piece of writing. It marks the one time she has ever “committed to putting pen to paper.” She finished it just in time to submit to the Samuel French short plays festival – and it was chosen for production. Her director at Samuel French, Egyptian artist Kareem Fahmy, suggested she send it to Golden Thread. Heywood was “just dumbfounded” when Torange and the team picked it up for ReOrient too. (“Rendah’s so sweet and so talented – I can’t wait to see what she’s done,” Lameece Issaq told me.)
 
-![](https://ucarecdn.com/e2409931-b255-4f1d-99f3-c59a464ec7f1/ "Rendah Heywood, left, and Carla Langley in \\"Cuddles,\\" a vampire drama by Joseph Wilde at 59E59 Theaters in 2015. // Photo courtesy of Julieta Cervantes for The New York Times")
+![](https://ucarecdn.com/877a5675-be7f-40ed-82d6-d5a617379f4e/ "Rendah Heywood, left, and Carla Langley in \\"Cuddles,\\" a vampire drama by Joseph Wilde at 59E59 Theaters in 2015. // Photo courtesy of Julieta Cervantes for The New York Times")
 
 **_Rendah Heywood, left, and Carla Langley in_** **Cuddles_, a vampire drama by Joseph Wilde at 59E59 Theaters in 2015. // Photo courtesy of Julieta Cervantes for The New York Times_**
 
