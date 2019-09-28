@@ -4,6 +4,7 @@ date: 2019-09-27T19:38:18.821Z
 description: >-
   Meet four writers who are brand-new to the festival, all clearly at home in
   ReOrient, celebrating its 20th anniversary this year.
+background: 'https://ucarecdn.com/4f990302-d9d2-4e78-bd39-a5c791b6cf4d/'
 ---
 Thi_s article is written by Emily DeDakis, a team member of the second partnership between Golden Thread and_ [_Literary Managers and Dramaturgs of the Americas_](https://lmda.org)_. As ReOrient Publications Dramaturg, Emily spoke with playwrights Lameece Issaq (Noor and Hadi Go to Hogwarts), Rendah Heywood (The Grievance Club), Niku Sharei (In Spenglic), and Mustafa Kaymak (The Basement) about their writing careers and their debuts as ReOrient playwrights._ 
 
