@@ -2,7 +2,7 @@
 title: Brave New Voices in ReOrient 2019
 date: 2019-09-27T19:38:18.821Z
 description: >-
-  Meet four writers who are brand-new to the festival — all clearly at home in
+  Meet four writers who are brand-new to the festival, all clearly at home in
   ReOrient, celebrating its 20th anniversary this year.
 background: 'https://ucarecdn.com/ad96aca9-98e2-4717-8915-88fa48cb84d8/'
 ---
@@ -24,7 +24,7 @@ Also strange, according to Issaq? Growing up in Las Vegas with strict Palestinia
 
 ![](https://ucarecdn.com/c099241d-e925-4c40-806c-ab83a99901ca/ "Lameece Issaq, left, in her play \\\\"Food and Fadwa\\\\" — co-created with Jacob Kader as a co-production with Noor Theatre at New York Theatre Workshop in 2012.")
 
-**_Left, Lameece Issaq in her play_** **Food and Fadwa,** **_co-created with Jacob Kader, as a co-production with Noor Theatre at New York Theatre Workshop in 2012._**
+**_Left, Lameece Issaq in her play_** **Food and Fadwa,** **_co-created with Jacob Kader as a co-production with Noor Theatre at New York Theatre Workshop in 2012._**
 
 Navigating the immigrant experience for Issaq means taking stock: “I always want to figure out what our emotional inheritance is. War and displacement make their way down generations.” Even if you’re not in the thick of conflict, like the young characters Noor and Hadi in her Harry Potter-steeped play, even if you only come from people who experienced this, “things like trauma and survival skills are still in you somewhere,” she says. 
 
@@ -48,7 +48,7 @@ _The Grievance Club_ is Heywood’s first and only piece of writing. It marks th
 
 ![](https://ucarecdn.com/877a5675-be7f-40ed-82d6-d5a617379f4e/ "Rendah Heywood, left, and Carla Langley in \\\\"Cuddles,\\\\" a vampire drama by Joseph Wilde at 59E59 Theaters in 2015. // Photo courtesy of Julieta Cervantes for The New York Times")
 
-**_Rendah Heywood, left, and Carla Langley in_** **Cuddles —** _**a vampire drama by Joseph Wilde at 59E59 Theaters in 2015. // Photo courtesy of Julieta Cervantes for The New York Times**_
+**_Rendah Heywood, left, and Carla Langley in_** **Cuddles,** _**a vampire drama by Joseph Wilde at 59E59 Theaters in 2015. // Photo courtesy of Julieta Cervantes for The New York Times**_
 
 Heywood’s voice (even in the underwatery sound-world of Skype) has a glorious poise and polish, but she’s refreshingly frank about her green lack of ease as a playwright: “I don’t really know who I am as I writer at all. I wanted to see if I could do it. I found it such difficult work – everything you write you immediately hate when you read it. I’m not even sure I’d ever do it again,” she admits, laughing. And it is funny. Because she clearly has a knack for it.  
 
@@ -74,7 +74,7 @@ Finding her personal center of gravity also involves looking at language (includ
 
 ![](https://ucarecdn.com/43af0fac-b5a8-4348-a152-ec0cb9c56a64/-/crop/1526x981/166,97/-/preview/ "\\\\"In Spangelic\\\\" playwright Niku Sharei stand center with director Lisa Marie Rollins, left, and ReOrient Festival Lead Dramaturg Nakissa Etemad in early 2019.")
 
-**Center, In Spangelic** **_playwright Niku Sharei stands with director Lisa Marie Rollins, left, and ReOrient Festival Lead Dramaturg Nakissa Etemad in early 2019._**
+**In Spangelic _playwright Niku Sharei, center, stands with director Lisa Marie Rollins, left, and ReOrient Festival Lead Dramaturg Nakissa Etemad in early 2019._**
 
 Sharei loves the Bay Area theatre scene – with great thanks to Golden Thread. She first heard about the company through an Iranian student group at UC Berkeley. Her first ReOrient experience was as a festival intern in 2012 and “the relationship hasn’t stopped since.” She began working for the company in 2017, doing a variety of things from box office to intern management. Having seen them in action (both front and back of house), Sharei knows that Golden Thread’s work is high quality and that they treat artists with great respect. She is overjoyed to be working with them as a writer for the first time. Although she wrote the play five years ago, Sharei never had the chance to develop it. “I could tell there were some issues with it, but I didn’t quite know how to fix it. I just really wanted to learn more.” The hands-on ReOrient process is ideal for new writers, spending time asking the important questions before it hits the stage, making sure it’s concise but that complex ideas make it to the audience intact.   
 
