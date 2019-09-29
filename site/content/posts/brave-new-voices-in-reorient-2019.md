@@ -6,7 +6,7 @@ description: >-
   ReOrient, celebrating its 20th anniversary this year.
 background: 'https://ucarecdn.com/ad96aca9-98e2-4717-8915-88fa48cb84d8/'
 ---
-Thi_s article is written by Emily DeDakis, a team member of the second partnership between Golden Thread and_ [_Literary Managers and Dramaturgs of the Americas_](https://lmda.org)_. As ReOrient Publications Dramaturg, Emily spoke with playwrights Lameece Issaq (Noor and Hadi Go to Hogwarts), Rendah Heywood (The Grievance Club), Niku Sharei (In Spenglic), and Mustafa Kaymak (The Basement) about their writing careers and their debuts as ReOrient playwrights._ 
+_This article is written by Emily DeDakis, a team member of the second partnership between Golden Thread and Literary Managers and Dramaturgs of the Americas. As ReOrient Publications Dramaturg, Emily spoke with playwrights Lameece Issaq (Noor and Hadi Go to Hogwarts), Rendah Heywood (The Grievance Club), Niku Sharei (In Spenglic), and Mustafa Kaymak (The Basement) about their writing careers and their debuts as ReOrient playwrights._
 
 _**EMILY DeDAKIS** is a writer and theatre-maker from the southeast U.S., now based in Belfast, N. Ireland. She is a member of LMDA and Dramaturgs’ Network (UK/Ireland). As dramaturg & producer for Accidental Theatre, she has developed dozens of new performances in forms like 24-hour plays, verbatim dance and immersive theatre. Emily’s writing has appeared on BBC TV and radio, and her collaborations with sonic artists include a musical essay, a soundwalk and an immersive audio play._
 
@@ -22,9 +22,9 @@ Issaq is founding artistic director of Noor Theatre in New York City, now in its
 
 Also strange, according to Issaq? Growing up in Las Vegas with strict Palestinian parents. Her father is now an octogenarian blackjack dealer who still works the graveyard shift on the strip. And yet, she says, “I grew up a little bit naïve, and that’s probably for the best because that is a place you can really get lost. You can easily walk into a convenience store or 7-11 and start gambling, you can get drugs and alcohol 24/7 – \[my parents] did a hell of a job protecting us.” 
 
-![](https://ucarecdn.com/c099241d-e925-4c40-806c-ab83a99901ca/ "Lameece Issaq, left, in her play \\"Food and Fadwa\\" — co-created with Jacob Kader as a co-production with Noor Theatre at New York Theatre Workshop in 2012.")
+![](https://ucarecdn.com/c099241d-e925-4c40-806c-ab83a99901ca/ "Lameece Issaq, left, in her play \\\"Food and Fadwa\\\" — co-created with Jacob Kader as a co-production with Noor Theatre at New York Theatre Workshop in 2012.")
 
-**_Lameece Issaq, left, in her play_** **Food and Fadwa** **_— co-created with Jacob Kader as a co-production with Noor Theatre at New York Theatre Workshop in 2012._**
+_**Lameece Issaq, left, in her play**_ **Food and Fadwa** _**— co-created with Jacob Kader as a co-production with Noor Theatre at New York Theatre Workshop in 2012.**_
 
 Navigating the immigrant experience for Issaq means taking stock: “I always want to figure out what our emotional inheritance is. War and displacement make their way down generations.” Even if you’re not in the thick of conflict, like the young characters Noor and Hadi in her Harry Potter-steeped play, even if you only come from people who experienced this, “things like trauma and survival skills are still in you somewhere,” she says. 
 
@@ -46,9 +46,9 @@ Now based in the UK, she remembers, “I really felt more connected to my Middle
 
 The Grievance Club is Heywood’s first and only piece of writing. It marks the one time she has ever “committed to putting pen to paper.” She finished it just in time to submit to the Samuel French short plays festival – and it was chosen for production. Her director at Samuel French, Egyptian artist Kareem Fahmy, suggested she send it to Golden Thread. Heywood was “just dumbfounded” when Torange and the team picked it up for ReOrient too. (“Rendah’s so sweet and so talented – I can’t wait to see what she’s done,” Lameece Issaq told me.)
 
-![](https://ucarecdn.com/877a5675-be7f-40ed-82d6-d5a617379f4e/ "Rendah Heywood, left, and Carla Langley in \\"Cuddles,\\" a vampire drama by Joseph Wilde at 59E59 Theaters in 2015. // Photo courtesy of Julieta Cervantes for The New York Times")
+![](https://ucarecdn.com/877a5675-be7f-40ed-82d6-d5a617379f4e/ "Rendah Heywood, left, and Carla Langley in \\\"Cuddles,\\\" a vampire drama by Joseph Wilde at 59E59 Theaters in 2015. // Photo courtesy of Julieta Cervantes for The New York Times")
 
-**_Rendah Heywood, left, and Carla Langley in_** **Cuddles_, a vampire drama by Joseph Wilde at 59E59 Theaters in 2015. // Photo courtesy of Julieta Cervantes for The New York Times_**
+_**Rendah Heywood, left, and Carla Langley in**_ **Cuddles_, a vampire drama by Joseph Wilde at 59E59 Theaters in 2015. // Photo courtesy of Julieta Cervantes for The New York Times_**
 
 Heywood’s voice (even in the underwatery sound-world of Skype) has a glorious poise and polish, but she’s refreshingly frank about her green lack of ease as a playwright: “I don’t really know who I am as I writer at all. I wanted to see if I could do it. I found it such difficult work – everything you write you immediately hate when you read it. I’m not even sure I’d ever do it again,” she admits, laughing. And it is funny. Because she clearly has a knack for it.  
 
@@ -72,9 +72,9 @@ Like Issaq and Heywood, Sharei is also first-generation, with an Iranian-German 
 
 Finding her personal center of gravity also involves looking at language (including names) – a signifier of identity that fascinates Sharei, and is also at the center of her play. Her very name has been a minefield from the start. When her parents were registering her birth with Iranian officials, her mother was not permitted to put her daughter’s first name on her Iranian passport. ‘Niku’ is Farsi for ‘good’, derived from the Zoroastrian motto: ‘Good thoughts, good words, good deeds (pendar e nik, goftar e nik, kerdar e nik)’.  And it also happens to sound very much like an Arabic slang word for ‘prostitute’. The late-‘80s pushback against Persian culture meant that “depending on who you got \[when you were registering a birth] they would stop you from using certain kinds of names.” The registry official called up Sharei’s mother and told her to pick another name. When she pushed back, he apparently said, “You should be happy that I even called you – I could have named her Fatima or whatever I wanted.” So her Iranian passport holds only her Arabic middle name: Soraya. Arabic speakers do sometimes draw attention to her first name: ‘You know what your name means?’ For Sharei, the questions make her want to hold onto it more tightly. She recalls seeing a production of The Crucible in San Francisco and being so struck when John Procter shouted, ‘Because it is my name! Because I cannot have another in my life!’
 
-![](https://ucarecdn.com/43af0fac-b5a8-4348-a152-ec0cb9c56a64/-/crop/1526x981/166,97/-/preview/ "\\"In Spangelic\\" playwright Niku Sharei stand center with director Lisa Marie Rollins, left, and ReOrient Festival Lead Dramaturg Nakissa Etemad in early 2019.")
+![](https://ucarecdn.com/43af0fac-b5a8-4348-a152-ec0cb9c56a64/-/crop/1526x981/166,97/-/preview/ "\\\"In Spangelic\\\" playwright Niku Sharei stand center with director Lisa Marie Rollins, left, and ReOrient Festival Lead Dramaturg Nakissa Etemad in early 2019.")
 
-**In Spangelic** **_playwright Niku Sharei stand center with director Lisa Marie Rollins, left, and ReOrient Festival Lead Dramaturg Nakissa Etemad in early 2019._**
+**In Spangelic** _**playwright Niku Sharei stand center with director Lisa Marie Rollins, left, and ReOrient Festival Lead Dramaturg Nakissa Etemad in early 2019.**_
 
 Sharei loves the Bay Area theatre scene – with great thanks to Golden Thread. She first heard about the company through an Iranian student group at UC Berkeley. Her first ReOrient experience was as a festival intern in 2012 and “the relationship hasn’t stopped since.” She began working for the company in 2017, doing a variety of things from box office to intern management. Having seen them in action (both front and back of house), Sharei knows that Golden Thread’s work is high quality and that they treat artists with great respect. She is overjoyed to be working with them as a writer for the first time. Although she wrote the play five years ago, Sharei never had the chance to develop it. “I could tell there were some issues with it, but I didn’t quite know how to fix it. I just really wanted to learn more.” The hands-on ReOrient process is ideal for new writers, spending time asking the important questions before it hits the stage, making sure it’s concise but that complex ideas make it to the audience intact.   
 
@@ -94,7 +94,7 @@ Migration has marked his life, and his stories. In 2008, after finishing a degre
 
 ![](https://ucarecdn.com/a042ad24-9653-4a83-ae0b-aa6d67c550c4/)
 
-**_Mustafa Kaymak, center, watch the footage of his short film_** **Green** **_during production with director Suzanne Andrews Correa, left, and co-producer Michael Peters._**
+_**Mustafa Kaymak, center, watch the footage of his short film**_ **Green** _**during production with director Suzanne Andrews Correa, left, and co-producer Michael Peters.**_
 
 Kaymak has been following ReOrient for a few years, since meeting Evren Odcikin during a Middle East America Convening at The Lark theater laboratory in NYC and then connecting with Golden Thread and Torange Yeghiazarian. He appreciates the festival’s focus on “full-shaped original stories with diverse backgrounds,” he says, and was very happy to be chosen as a writer for the festival this year, especially knowing how competitive the process is. “I was even more thrilled when I saw my name appearing next to very accomplished writers from the Middle East.” He’s grateful to Yeghiazarian and Odcikin: “Thank you for helping my voice to be heard.”
 
