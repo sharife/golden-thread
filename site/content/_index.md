@@ -6,8 +6,7 @@ background: 'https://ucarecdn.com/dd36bdba-f8e2-4518-a52b-3ff079c3fe17/'
 cta: MORE
 link: /productions/reorient-2019
 items:
-  - image: >-
-      https://ucarecdn.com/d8264d0c-caed-48db-a503-885e7e018184/-/crop/2188x1278/8,155/-/preview/
+  - image: 'https://ucarecdn.com/f982851a-517e-414a-a1bc-ca75092de46c/'
     subtitle: Brave New Voices in ReOrient 2019
     cta: Read More
     link: 'https://goldenthread.org/posts/brave-new-voices-in-reorient-2019/'
