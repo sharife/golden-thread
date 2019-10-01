@@ -234,6 +234,13 @@ grids:
           working relationships with Yussef El Guindi, Betty Shamieh, and Naomi
           Wallace.
         title: A Homecoming for Golden Thread Alumni
+      - cta: Read more
+        image: 'https://ucarecdn.com/0d965797-dbcc-4383-8c2f-fce16d108a72/'
+        link: 'https://goldenthread.org/posts/brave-new-voices-in-reorient-2019/'
+        text: >-
+          Meet four writers who are brand-new to the festival, all clearly at
+          home in ReOrient, celebrating its 20th anniversary this year.
+        title: Brave New Voices in ReOrient 2019
 cast:
   heading: REORIENT 2019 HONORARY MENTIONS
   items:
