@@ -8,7 +8,7 @@ link: /productions/reorient-2019
 items:
   - image: 'https://ucarecdn.com/f982851a-517e-414a-a1bc-ca75092de46c/'
     subtitle: Brave New Voices in ReOrient 2019
-    cta: Read More
+    cta: Read the full article
     link: 'https://goldenthread.org/posts/brave-new-voices-in-reorient-2019/'
     text: >-
       Meet four writers who are brand-new to the festival, all clearly at home
