@@ -15,7 +15,7 @@ items:
       in ReOrient, celebrating its 20th anniversary this year!
   - image: >-
       https://ucarecdn.com/2caf07f3-57ed-4877-9bc2-00cf43fad49a/-/crop/591x304/0,91/-/preview/
-    subtitle: ReOrient's National Convening of MENA Theatre Artists
+    subtitle: National Convening of MENA Theatre Artists
     cta: Learn more
     link: >-
       https://goldenthread.org/posts/reorient-2019--national-convening-of-mena-theatre-artists/
