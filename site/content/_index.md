@@ -13,6 +13,16 @@ items:
     text: >-
       Meet four writers who are brand-new to the festival, all clearly at home
       in ReOrient, celebrating its 20th anniversary this year!
+  - image: >-
+      https://ucarecdn.com/2caf07f3-57ed-4877-9bc2-00cf43fad49a/-/crop/591x304/0,91/-/preview/
+    subtitle: ReOrient's National Convening of MENA Theatre Artists
+    cta: Learn more
+    link: >-
+      https://goldenthread.org/posts/reorient-2019--national-convening-of-mena-theatre-artists/
+    text: >-
+      Building on years of community organizing, the convening, hosted by Golden
+      Thread, will launch a national coalition of Middle Eastern, North African
+      and Muslim theatre artists.
   - image: 'https://ucarecdn.com/ca56218b-dc04-4d08-891f-13222e692821/'
     subtitle: Celebrate Palestinian Culture with your children
     cta: Book a show
@@ -20,13 +30,5 @@ items:
     text: >-
       Drawn from Palestinian folk tales, <em>Leila’s Quest For Flight</em> will
       resume touring schools & libraries this fall.
-  - image: 'https://ucarecdn.com/a86fade5-0d01-4447-9e56-91015d0d414a/'
-    subtitle: A Homecoming for Golden Thread Alumni Playwrights
-    cta: Get oriented with ReOrient
-    link: >-
-      https://goldenthread.org/posts/reorient-2019-a-homecoming-for-golden-thread-alumni/
-    text: >-
-      ReOrient 2019 cements Golden Thread Productions’ longtime working
-      relationships with Yussef El Guindi, Betty Shamieh, and Naomi Wallace.
 ---
 
