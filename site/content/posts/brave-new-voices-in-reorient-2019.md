@@ -6,7 +6,7 @@ description: >-
   ReOrient, celebrating its 20th anniversary this year.
 background: 'https://ucarecdn.com/ad96aca9-98e2-4717-8915-88fa48cb84d8/'
 ---
-_This article is written by Emily DeDakis, a team member of the second partnership between Golden Thread and Literary Managers and Dramaturgs of the Americas. As ReOrient Publications Dramaturg, Emily spoke with playwrights Lameece Issaq (Noor and Hadi Go to Hogwarts), Rendah Heywood (The Grievance Club), Niku Sharei (In Spenglic), and Mustafa Kaymak (The Basement) about their writing careers and their debuts as ReOrient playwrights._
+_This article is written by Emily DeDakis, a team member of the second partnership between Golden Thread and_ [_Literary Managers and Dramaturgs of the Americas_](https://lmda.org/)_. As a ReOrient Publications Dramaturg, Emily spoke with playwrights Lameece Issaq (Noor and Hadi Go to Hogwarts), Rendah Heywood (The Grievance Club), Niku Sharei (In Spenglic), and Mustafa Kaymak (The Basement) about their writing careers and their debuts as ReOrient playwrights._
 
 _**EMILY DeDAKIS** is a writer and theatre-maker from the southeast U.S., now based in Belfast, N. Ireland. She is a member of LMDA and Dramaturgs’ Network (UK/Ireland). As dramaturg & producer for Accidental Theatre, she has developed dozens of new performances in forms like 24-hour plays, verbatim dance and immersive theatre. Emily’s writing has appeared on BBC TV and radio, and her collaborations with sonic artists include a musical essay, a soundwalk and an immersive audio play._
 
@@ -22,7 +22,7 @@ Issaq is founding artistic director of Noor Theatre in New York City, now in its
 
 Also strange, according to Issaq? Growing up in Las Vegas with strict Palestinian parents. Her father is now an octogenarian blackjack dealer who still works the graveyard shift on the strip. And yet, she says, “I grew up a little bit naïve, and that’s probably for the best because that is a place you can really get lost. You can easily walk into a convenience store or 7-11 and start gambling, you can get drugs and alcohol 24/7 – \[my parents] did a hell of a job protecting us.” 
 
-![](https://ucarecdn.com/c099241d-e925-4c40-806c-ab83a99901ca/ "Lameece Issaq, left, in her play \\\\\"Food and Fadwa\\\\\" — co-created with Jacob Kader as a co-production with Noor Theatre at New York Theatre Workshop in 2012.")
+![](https://ucarecdn.com/c099241d-e925-4c40-806c-ab83a99901ca/ "Lameece Issaq, left, in her play \\\\\\"Food and Fadwa\\\\\\" — co-created with Jacob Kader as a co-production with Noor Theatre at New York Theatre Workshop in 2012.")
 
 **Left, Lameece Issaq in her play** **_Food and Fadwa_,** **co-created with Jacob Kader as a co-production with Noor Theatre at New York Theatre Workshop in 2012.**
 
@@ -46,7 +46,7 @@ Now based in the UK, she remembers, “I really felt more connected to my Middle
 
 _The Grievance Club_ is Heywood’s first and only piece of writing. It marks the one time she has ever “committed to putting pen to paper.” She finished it just in time to submit to the Samuel French short plays festival – and it was chosen for production. Her director at Samuel French, Egyptian artist Kareem Fahmy, suggested she send it to Golden Thread. Heywood was “just dumbfounded” when Torange and the team picked it up for ReOrient too. (“Rendah’s so sweet and so talented – I can’t wait to see what she’s done,” Lameece Issaq told me.)
 
-![](https://ucarecdn.com/877a5675-be7f-40ed-82d6-d5a617379f4e/ "Rendah Heywood, left, and Carla Langley in \\\\\"Cuddles,\\\\\" a vampire drama by Joseph Wilde at 59E59 Theaters in 2015. // Photo courtesy of Julieta Cervantes for The New York Times")
+![](https://ucarecdn.com/877a5675-be7f-40ed-82d6-d5a617379f4e/ "Rendah Heywood, left, and Carla Langley in \\\\\\"Cuddles,\\\\\\" a vampire drama by Joseph Wilde at 59E59 Theaters in 2015. // Photo courtesy of Julieta Cervantes for The New York Times")
 
 **Rendah Heywood, left, and Carla Langley in** **_Cuddles_,** **a vampire drama by Joseph Wilde at 59E59 Theaters in 2015. // Photo courtesy of Julieta Cervantes for The New York Times**
 
@@ -72,7 +72,7 @@ Like Issaq and Heywood, Sharei is also first-generation, with an Iranian-German 
 
 Finding her personal center of gravity also involves looking at language (including names) – a signifier of identity that fascinates Sharei, and is also at the center of her play. Her very name has been a minefield from the start. When her parents were registering her birth with Iranian officials, her mother was not permitted to put her daughter’s first name on her Iranian passport. ‘Niku’ is Farsi for ‘good’, derived from the Zoroastrian motto: ‘Good thoughts, good words, good deeds (pendar e nik, goftar e nik, kerdar e nik)’.  And it also happens to sound very much like an Arabic slang word for ‘prostitute’. The late-‘80s pushback against Persian culture meant that “depending on who you got \[when you were registering a birth] they would stop you from using certain kinds of names.” The registry official called up Sharei’s mother and told her to pick another name. When she pushed back, he apparently said, “You should be happy that I even called you – I could have named her Fatima or whatever I wanted.” So her Iranian passport holds only her Arabic middle name: Soraya. Arabic speakers do sometimes draw attention to her first name: ‘You know what your name means?’ For Sharei, the questions make her want to hold onto it more tightly. She recalls seeing a production of The Crucible in San Francisco and being so struck when John Procter shouted, ‘Because it is my name! Because I cannot have another in my life!’
 
-![](https://ucarecdn.com/43af0fac-b5a8-4348-a152-ec0cb9c56a64/-/crop/1526x981/166,97/-/preview/ "\\\\\"In Spangelic\\\\\" playwright Niku Sharei stand center with director Lisa Marie Rollins, left, and ReOrient Festival Lead Dramaturg Nakissa Etemad in early 2019.")
+![](https://ucarecdn.com/43af0fac-b5a8-4348-a152-ec0cb9c56a64/-/crop/1526x981/166,97/-/preview/ "\\\\\\"In Spangelic\\\\\\" playwright Niku Sharei stand center with director Lisa Marie Rollins, left, and ReOrient Festival Lead Dramaturg Nakissa Etemad in early 2019.")
 
 **_In Spenglic_ playwright Niku Sharei, center, stands with director Lisa Marie Rollins, left, and ReOrient Festival Lead Dramaturg Nakissa Etemad in early 2019.**
 
