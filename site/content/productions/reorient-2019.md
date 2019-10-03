@@ -25,7 +25,7 @@ description: >-
   here.** If the goal of theatre is to expand our viewpoint, to enrich our
   knowledge, and to embrace empathy, then ReOrient hugely succeeds.” _—Stark
   Insider_
-background: 'https://ucarecdn.com/3d28da38-1e75-4372-a523-27ce622bdb33/'
+background: 'https://ucarecdn.com/c2b606ee-74f4-49f7-9155-c96013d9ee46/'
 titleimage: /img/archive/2018/10/ReOrient2019-Slider-Playwrights2.jpg
 videos:
   - id: g1L6QbZCZPg
