@@ -1,5 +1,5 @@
 ---
-title: 'ReOrient 2019 MENA Convening: Discounted Hotel Rates'
+title: 'ReOrient 2019 MENA Convening: Discounted Hotel Rate'
 date: 2019-09-27T19:38:18.821Z
 description: ''
 ---
