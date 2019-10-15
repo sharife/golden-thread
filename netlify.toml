@@ -6,3 +6,10 @@
 
 [context.deploy-preview]
   command = "yarn build-preview"
+
+
+[[redirects]]
+  from = "/survey"
+  to = "https://www.surveygizmo.com/s3/5220252/c97ec149ec04"
+  status = 301
+  force = true
