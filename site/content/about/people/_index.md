@@ -142,6 +142,22 @@ staff:
       credit: Operations Associate
       image: 'https://ucarecdn.com/922ca672-59df-4e6e-8643-3e1197ffb4d1/'
       name: Amitis Rossoukh
+    - bio: >-
+        **Aram Krikorian** was born in San Francisco. After attending KZV
+        Armenian School he went on to work in Los Angeles and New York City in
+        television at CBS and theater at the Tres Stage (adjacent to Mashti
+        Malone's Persian Ice Cream Shop). He has worked with director Marc
+        Erdahi in many productions featured in NY Fringe Fest, SF Fringe Fest,
+        MITF and NYMF. Back in the Bay Area he has returned to advocating for
+        Palestinian equal human rights along with other Jerusalem Armenians
+        organizing with Jewish Voice for Peace (JVP) and the Middle Eastern
+        Children's Alliance (MECA). After many years of being a fan, joining in
+        with Golden Thread's family and community has been a fantastic dream
+        come true.
+      credit: Box Office Associate
+      image: >-
+        https://ucarecdn.com/0ba6f208-92bf-4447-b4b6-2afb7ca5fc27/-/crop/1242x1546/0,662/-/preview/
+      name: Aram Krikorian
 board:
   heading: Board of Trustees
   items:
