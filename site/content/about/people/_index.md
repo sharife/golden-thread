@@ -83,6 +83,49 @@ staff:
       credit: Production Manager
       image: /img/archive/2018/02/Torres-Grisel-300x300.jpg
       name: Grisel Torres
+    - bio: >-
+        **Julius Rea** is a Bay Area theatre maker and curator. In addition to
+        writing for publications such as the East Bay Express and EBONY
+        magazine, he obtained a degree in Philosophy at San Francisco State
+        University. While gaining experience as a theater and event producer
+        throughout his education, Rea is also an experienced playwright, poet
+        and dramaturg. In 2018, he co-founded an art collective (The Forum) that
+        focuses on journalism theatre and gallery curation. He has worked with
+        the Playwrights Foundation, Greenhouse Theatre Festival, Nomadic Press,
+        Firehouse Art Collective, Adelines Lab and Playground. His acting
+        credits include Sweat (Benicia Old Town Hall Theatre Group), Honky (Left
+        Edge Theatre) and Multiverse (Ragged Wing Ensemble).
+      credit: Marketing & Communications Associate
+      image: 'https://ucarecdn.com/34322725-42ba-414a-9511-278c5c6c7451/'
+      name: Julius Rea
+    - bio: >-
+        **Amitis Rossoukh** is a Bay-Area based, bi-cultural 1st-gen American
+        who’s been captivated by the stage since her first school play. She
+        holds a BA in Theater Arts from UC Santa Cruz, and is now happily
+        involved as a performer in the SF Bay Area. Having previously worked as
+        a tech specialist at a local private high school, Amitis is just as
+        comfortable in the theater as she is tearing down a computer. She
+        couldn’t be more pleased to be joining both Crowded Fire and Golden
+        Thread as their new Operations Associate!
+      credit: Operations Associate
+      image: 'https://ucarecdn.com/922ca672-59df-4e6e-8643-3e1197ffb4d1/'
+      name: Amitis Rossoukh
+    - bio: >-
+        **Aram Krikorian** was born in San Francisco. After attending KZV
+        Armenian School he went on to work in Los Angeles and New York City in
+        television at CBS and theater at the Tres Stage (adjacent to Mashti
+        Malone's Persian Ice Cream Shop). He has worked with director Marc
+        Erdahi in many productions featured in NY Fringe Fest, SF Fringe Fest,
+        MITF and NYMF. Back in the Bay Area he has returned to advocating for
+        Palestinian equal human rights along with other Jerusalem Armenians
+        organizing with Jewish Voice for Peace (JVP) and the Middle Eastern
+        Children's Alliance (MECA). After many years of being a fan, joining in
+        with Golden Thread's family and community has been a fantastic dream
+        come true.
+      credit: Box Office Associate
+      image: >-
+        https://ucarecdn.com/0ba6f208-92bf-4447-b4b6-2afb7ca5fc27/-/crop/1242x1546/0,662/-/preview/
+      name: Aram Krikorian
     - bio: >
         <strong>Navid Ghaem Maghami</strong> (Art Director) is a graphic
         designer based in San Francisco. He began working with Golden Thread in
@@ -100,21 +143,6 @@ staff:
       credit: Art Director
       image: /img/archive/2012/04/navid_headshot.jpg
       name: Navid Ghaem Maghami
-    - bio: >-
-        **Julius Rea** is a Bay Area theatre maker and curator. In addition to
-        writing for publications such as the East Bay Express and EBONY
-        magazine, he obtained a degree in Philosophy at San Francisco State
-        University. While gaining experience as a theater and event producer
-        throughout his education, Rea is also an experienced playwright, poet
-        and dramaturg. In 2018, he co-founded an art collective (The Forum) that
-        focuses on journalism theatre and gallery curation. He has worked with
-        the Playwrights Foundation, Greenhouse Theatre Festival, Nomadic Press,
-        Firehouse Art Collective, Adelines Lab and Playground. His acting
-        credits include Sweat (Benicia Old Town Hall Theatre Group), Honky (Left
-        Edge Theatre) and Multiverse (Ragged Wing Ensemble).
-      credit: Marketing & Communications Associate
-      image: 'https://ucarecdn.com/34322725-42ba-414a-9511-278c5c6c7451/'
-      name: Julius Rea
     - bio: >
         <strong>Vida Ghahremani</strong> began acting in films as a teenager in
         Iran, where she established the standards of stardom. Some of her
