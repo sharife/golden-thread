@@ -130,6 +130,18 @@ staff:
       credit: Artist Emeritus
       image: /img/archive/2015/02/VidaGhahremani_300x300.jpg
       name: Vida Ghahremani
+    - bio: >-
+        **Amitis Rossoukh** is a Bay-Area based, bi-cultural 1st-gen American
+        who’s been captivated by the stage since her first school play. She
+        holds a BA in Theater Arts from UC Santa Cruz, and is now happily
+        involved as a performer in the SF Bay Area. Having previously worked as
+        a tech specialist at a local private high school, Amitis is just as
+        comfortable in the theater as she is tearing down a computer. She
+        couldn’t be more pleased to be joining both Crowded Fire and Golden
+        Thread as their new Operations Associate!
+      credit: Operations Associate
+      image: 'https://ucarecdn.com/922ca672-59df-4e6e-8643-3e1197ffb4d1/'
+      name: Amitis Rossoukh
 board:
   heading: Board of Trustees
   items:
