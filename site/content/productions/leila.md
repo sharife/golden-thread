@@ -34,16 +34,16 @@ lists:
   - heading: Upcoming Performances
     items:
       - cta: More Info
+        link: 'https://sfpl.org/index.php?pg=0100000601'
+        title: 'Thursday, November 14 2019 - 3:00pm'
+        pre: 'Excelsior Library '
+        subtitle: '4400 Mission St, San Francisco, CA 94112'
+      - cta: More Info
         link: 'https://www.sanleandro.org/depts/library/'
         title: 'Wednesday, November 20, 2019 - 7:00pm'
         pre: San Leandro Community Library
         subtitle: '300 Estudillo Avenue, San Leandro, CA 94577'
         text: ''
-      - cta: More Info
-        link: 'https://sfpl.org/index.php?pg=0100000601'
-        title: 'Thursday, November 14 2019 - 3:00pm'
-        pre: 'Excelsior Library '
-        subtitle: '4400 Mission St, San Francisco, CA 94112'
   - heading: Testimonials
     items:
       - subtitle: ''
