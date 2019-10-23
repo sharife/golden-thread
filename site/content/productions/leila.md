@@ -35,7 +35,7 @@ lists:
     items:
       - cta: More Info
         link: 'https://sfpl.org/index.php?pg=0100000601'
-        title: 'Thursday, November 14 2019 - 3:00pm'
+        title: 'Thursday, November 14 2019 - 3:30pm'
         pre: 'Excelsior Library '
         subtitle: '4400 Mission St, San Francisco, CA 94112'
       - cta: More Info
