@@ -10,7 +10,7 @@ _This article is written by Scott Horstein, a team member of the second partners
 
 ![](https://ucarecdn.com/11ce948f-1249-4081-a766-3a5f243cf66a/)
 
-In Room 225, Founding Artistic Director Torange Yeghiazarian is telling the directors to pick their battles. In Room 226, actor Lawrence Radecker is feeling his way through Naomi Wallace’s monologue play _The Book of Mima_, which purposefully obscures its character’s true identity. In room 227, lead dramaturg Nakissa Etemad is helping early-career playwright Niku Sharei track the logic and sci-fi “rules” of her futuristic play In Spenglic, where the characters carry their identities around as block letters in see-thru holsters.
+In Room 225, Founding Artistic Director Torange Yeghiazarian is telling the directors to pick their battles. In Room 226, actor Lawrence Radecker is feeling his way through Naomi Wallace’s monologue play _The Book of Mima_, which purposefully obscures its character’s true identity. In room 227, lead dramaturg Nakissa Etemad is helping early-career playwright Niku Sharei track the logic and sci-fi “rules” of her futuristic play _In Spenglic_, where the characters carry their identities around as block letters in see-thru holsters.
 
 The twentieth anniversary of Golden Thread Productions’ ReOrient 2019 Festival of Short Plays is officially underway, beginning with an incubation weekend in July that the company calls “ReOrient Camp.” As Golden Thread’s signature program, ReOrient Fest capitalizes on the short play format to dramatize the diversity of the Middle East, to provide alternate perspectives and to counter dominant stereotypes. Most of the plays have never been produced before, ever or in the United States. Torange says the goal is not just cultural but aesthetic diversity. Here’s the aesthetic challenge: five actors performing seven short plays in wildly different styles that somehow should feel like a coherent single narrative.
 
@@ -18,9 +18,9 @@ Here at Camp, cast, playwrights who are local, directors, and a shared design, d
 
 What’s impressive is the company’s clarity of process. Part and parcel of the new play movement in the American theatre, Golden Thread marries leading play development practices with a commitment to full production (as opposed to staged readings) of these short plays. Torange encourages the creative teams to have opinions about each other’s areas, to dialogue and disagree when necessary, not for the sake of provocation but for the sake of shared solutions. When it comes to the cultural explorations within the festival material, she explains, “Some topics may be difficult to talk about, but this is the place to do it.” By the end of the weekend the writers will have begun rewrites for final rehearsal drafts.
 
-![](https://ucarecdn.com/e8ee1d43-5ade-4c56-a9d6-287904a240e2/)
+![](https://ucarecdn.com/0c2e94c1-2932-4269-9ee3-00c6521e7b67/)
 
-**Top left, assistant stage manager Michelle Bank sits with director Michael French (_The Basement_; _An Echo of Laughter_) and research dramaturg Laura Espino. Left, the ReOrient Camp team discusses _Noor and Hadi Go to Hogwarts_ by Lameece Issaq. \[Photos by Michelle Mulholland] Right, actor Atosa Babaoff and director Torange Yeghiazarian discuss notes on Yussef El Guindi's _Brass Knuckles_. \[Photo courtesy of Persis Karim]**
+**Top left, assistant stage manager Michelle Bank sits with director Michael French (_The Basement_; _An Echo of Laughter_) and research dramaturg Laura Espino. Left, the ReOrient Camp team discusses _Noor and Hadi Go to Hogwarts_ by Lameece Issaq. \[Photos by Michelle Mulholland] Right,  director Torange Yeghiazarian and assistant stage manager Caitlin McFann listen during a run-through of Yussef El Guindi's _Brass Knuckles_. \[Photo courtesy of Persis Karim]**
 
 As part of a second-time partnership between Literary Managers and Dramaturgs of the Americas (LMDA) and Golden Thread, ReOrient Fest features dramaturgy at its center in a way I haven’t seen before in other festivals. Lead dramaturg Nakissa Etemad serves as casting director and oversees script development of the festival plays, while managing a team of research and publications dramaturgs (Emily DeDakis, Laura Espino, Michael Malek Najjar and myself). Each play’s team receives Notes & Context, one page front and back of painstakingly culled research on the specific subjects and countries featured in each play. Torange encourages the creative teams, wherever possible, to emphasize the specificity of cultural context and to gain a deeper understanding of the Middle East in the process. _The Book of Mima_’s team and director Rebecca Novick contemplate the wondrous “gingerbread” style of historic Yemeni architecture, while her team of _Noor and Hadi Go to Hogwarts_ reviews social media posts from children under bombardment in Syria.
 
@@ -30,7 +30,7 @@ Over the course of the long weekend, the artists roam from room to room, weaving
 
 ![](https://ucarecdn.com/05b73493-8c8b-4a58-b6fe-896451a5b673/)
 
-_**The tentative line-up of plays are placed on a chalkboard. // Photo by Michelle Mulholland**_
+**_The tentative line-up of plays are placed on a chalkboard. // Photo by Michelle Mulholland_**
 
 Some choices have to do with character. In _Brass Knuckles_ by Yussef El Guindi, the question is how to costume the lone character Maysoon, played by Atosa Babaoff, as she tells the audience about wearing hijab on the streets in the U.S., and how she plans to defend herself. Kate Boyd, the scenic designer, notes that brass knuckles are illegal in California. What does this say about the character? Torange, who is directing, wants to avoid the stereotype of hijab meaning a “traditional” look and says she imagines the character as “sporty.” The design team starts to imagine her as a single woman, without kids, maybe the kind of person who has a Bruce Lee poster on her wall. What costume, set, light, and sound choices might this imply? What might it imply about how the actor portrays the character?
 
@@ -42,10 +42,10 @@ Still other choices have to do with levels of reality and point of view. For _Th
 
 ![](https://ucarecdn.com/302fce5a-8164-4175-8b84-465995e6c68e/)
 
-_**The 2019 ReOrient Camp team. // Photo courtesy of Michelle Mulholland**_
+**_The 2019 ReOrient Camp team. // Photo courtesy of Michelle Mulholland_**
 
 The Camp weekend culminates with the entire ReOrient company in one room hashing out a running order for the plays (How to juxtapose tone and subject matter? How to give the five actors time for costume changes?), then reading all the plays out loud one more time, in that order. Brooke Jennings, the costume designer, discusses color progression for the actors over the course of the show, while James Ard, the sound designer, focuses on the unifying potential of audio transitions. And the dramaturgs chime in, helping sort out the overall story that the running order implies.
 
 Two months later we’re at the first full rehearsal for the festival. It’s September 18, at Golden Thread’s rehearsal and office space at Potrero Stage. We read the plays, we see presentations by the designers, we hear the directors and the lead dramaturg describe the essence of each play. Inspired by the warmth, fierceness, and vision of Golden Thread and the Camp weekend, writers have clarified narratives, directors have refined concepts. In the bright, hopeful light of the rehearsal process to come, we end the read-through with the final lines of Yussef El Guindi’s _Brass Knuckles_, the last play of the evening:
 
-**_Hello day. I am ready for you. Are you ready for me?_**
+_**Hello day. I am ready for you. Are you ready for me?**_
