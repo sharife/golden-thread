@@ -30,7 +30,7 @@ Over the course of the long weekend, the artists roam from room to room, weaving
 
 ![](https://ucarecdn.com/05b73493-8c8b-4a58-b6fe-896451a5b673/)
 
-**_The tentative line-up of plays are placed on a chalkboard. // Photo by Michelle Mulholland_**
+**The tentative line-up of plays are placed on a chalkboard. // Photo by Michelle Mulholland**
 
 Some choices have to do with character. In _Brass Knuckles_ by Yussef El Guindi, the question is how to costume the lone character Maysoon, played by Atosa Babaoff, as she tells the audience about wearing hijab on the streets in the U.S., and how she plans to defend herself. Kate Boyd, the scenic designer, notes that brass knuckles are illegal in California. What does this say about the character? Torange, who is directing, wants to avoid the stereotype of hijab meaning a “traditional” look and says she imagines the character as “sporty.” The design team starts to imagine her as a single woman, without kids, maybe the kind of person who has a Bruce Lee poster on her wall. What costume, set, light, and sound choices might this imply? What might it imply about how the actor portrays the character?
 
@@ -42,10 +42,10 @@ Still other choices have to do with levels of reality and point of view. For _Th
 
 ![](https://ucarecdn.com/302fce5a-8164-4175-8b84-465995e6c68e/)
 
-**_The 2019 ReOrient Camp team. // Photo courtesy of Michelle Mulholland_**
+**The 2019 ReOrient Camp team. // Photo courtesy of Michelle Mulholland**
 
 The Camp weekend culminates with the entire ReOrient company in one room hashing out a running order for the plays (How to juxtapose tone and subject matter? How to give the five actors time for costume changes?), then reading all the plays out loud one more time, in that order. Brooke Jennings, the costume designer, discusses color progression for the actors over the course of the show, while James Ard, the sound designer, focuses on the unifying potential of audio transitions. And the dramaturgs chime in, helping sort out the overall story that the running order implies.
 
 Two months later we’re at the first full rehearsal for the festival. It’s September 18, at Golden Thread’s rehearsal and office space at Potrero Stage. We read the plays, we see presentations by the designers, we hear the directors and the lead dramaturg describe the essence of each play. Inspired by the warmth, fierceness, and vision of Golden Thread and the Camp weekend, writers have clarified narratives, directors have refined concepts. In the bright, hopeful light of the rehearsal process to come, we end the read-through with the final lines of Yussef El Guindi’s _Brass Knuckles_, the last play of the evening:
 
-_**Hello day. I am ready for you. Are you ready for me?**_
+**_Hello day. I am ready for you. Are you ready for me?_**
