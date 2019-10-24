@@ -241,6 +241,17 @@ grids:
           Meet four writers who are brand-new to the festival, all clearly at
           home in ReOrient, celebrating its 20th anniversary this year.
         title: Brave New Voices in ReOrient 2019
+      - cta: Read more
+        image: >-
+          https://ucarecdn.com/8dcc4278-3507-4421-acd8-9f263386f0c7/-/crop/3500x2369/0,253/-/preview/
+        link: >-
+          https://goldenthread.org/posts/weaving-the-golden-thread-at-reorient-2019-camp/
+        subtitle: ''
+        text: >-
+          The twentieth anniversary of the ReOrient Festival of Short Plays
+          began with an incubation weekend that Golden Thread calls “ReOrient
+          Camp.”
+        title: Weaving the Golden Thread at ReOrient 2019 Camp
 cast:
   heading: REORIENT 2019 HONORARY MENTIONS
   items:
