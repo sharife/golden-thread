@@ -1,6 +1,10 @@
 ---
 title: Weaving the Golden Thread at ReOrient 2019 Camp
 date: 2019-10-23T22:59:59.232Z
+description: >-
+  The twentieth anniversary of Golden Thread Productions’ ReOrient 2019 Festival
+  of Short Plays began with an incubation weekend that the company calls
+  “ReOrient Camp.”
 background: >-
   https://ucarecdn.com/84a81c03-60c4-4e5c-a08d-bdd9cf3c5c7f/-/crop/3500x2407/0,215/-/preview/
 ---
