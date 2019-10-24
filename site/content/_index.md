@@ -6,13 +6,15 @@ background: 'https://ucarecdn.com/dd36bdba-f8e2-4518-a52b-3ff079c3fe17/'
 cta: MORE
 link: /productions/reorient-2019
 items:
-  - image: 'https://ucarecdn.com/f982851a-517e-414a-a1bc-ca75092de46c/'
-    subtitle: Brave New Voices in ReOrient 2019
+  - image: >-
+      https://ucarecdn.com/9a24a39d-e035-472f-95c1-d374a34d73b0/-/crop/3500x2402/0,220/-/preview/
+    subtitle: Weaving the Golden Thread at ReOrient 2019 Camp
     cta: Read the full article
-    link: 'https://goldenthread.org/posts/brave-new-voices-in-reorient-2019/'
+    link: >-
+      https://goldenthread.org/posts/weaving-the-golden-thread-at-reorient-2019-camp/
     text: >-
-      Meet four writers who are brand-new to the festival, all clearly at home
-      in ReOrient, celebrating its 20th anniversary this year!
+      The twentieth anniversary of the ReOrient Festival of Short Plays began
+      with an incubation weekend that Golden Thread calls “ReOrient Camp.”
   - image: >-
       https://ucarecdn.com/2caf07f3-57ed-4877-9bc2-00cf43fad49a/-/crop/591x304/0,91/-/preview/
     subtitle: National Convening of MENA Theatre Artists
