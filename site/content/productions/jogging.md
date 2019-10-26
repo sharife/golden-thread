@@ -6,9 +6,9 @@ date: 2019-09-10T20:06:27.442Z
 start: 2020-05-03T03:00:00.000Z
 end: ''
 description: >-
-  Acclaimed Lebanese writer and performer, Hanane Hajj Ali brings her one-woman
-  show to the Bay Area following her celebrated performances at the Kennedy
-  Center and the Guthrie Theater.
+  Acclaimed Lebanese writer and performer, **Hanane Hajj Ali** brings her
+  one-woman show to the Bay Area following her celebrated performances at the
+  Kennedy Center and the Guthrie Theater.
 background: 'https://ucarecdn.com/1ac911b1-3bf3-466e-9062-4baa009e1df2/'
 videos:
   - id: >-
