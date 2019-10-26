@@ -10,14 +10,7 @@ description: >-
   one-woman show to the Bay Area following her celebrated performances at the
   Kennedy Center and the Guthrie Theater.
 background: 'https://ucarecdn.com/1ac911b1-3bf3-466e-9062-4baa009e1df2/'
-videos:
-  - id: >-
-      <iframe src="https://player.vimeo.com/video/189645503" width="640"
-      height="360" frameborder="0" allow="autoplay; fullscreen"
-      allowfullscreen></iframe> <p><a
-      href="https://vimeo.com/189645503">Performance JOGGING Trailer</a> from <a
-      href="https://vimeo.com/shadijaber">Shadi Jaber</a> on <a
-      href="https://vimeo.com">Vimeo</a>.</p>
+videos: []
 writer: Hanane Hajj Ali
 director: Eric Deniaud
 additional: Translated by Hassan Abdulrazzak
@@ -41,6 +34,16 @@ grids:
         text: >-
           _The Skinny_'s Cat Acheson reviews the one-woman show by Hanane Hajj
           Ali
+  - heading: Videos & Interviews
+    items:
+      - subtitle: '_Jogging_: Performance Trailer'
+        text: "<iframe src=\"https://player.vimeo.com/video/189645503\" width=\"640\" height=\"360\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen></iframe>\r\n\n<p><a href=\"https://vimeo.com/189645503\">Performance JOGGING Trailer</a> from <a href=\"https://vimeo.com/shadijaber\">Shadi Jaber</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>"
+      - subtitle: Hanane Hajj Ali on “Jogging – Theatre in Progress”
+        text: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/dFK1EtjWTA0" frameborder="0"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope;
+          picture-in-picture" allowfullscreen></iframe>
 cast:
   heading: Cast & Crew
   items:
@@ -93,6 +96,7 @@ photos:
     - image: 'https://ucarecdn.com/6537be20-50d9-4b8d-82c7-5338297ef0d2/'
     - image: 'https://ucarecdn.com/d066b489-c83f-4f8e-8134-be0e777fc317/'
     - image: 'https://ucarecdn.com/50a4e3ae-9d33-47e9-a5b8-d2fea00bffbf/'
+    - {}
 ---
 Hanane, a fifty-something Lebanese actress and citizen, exercises daily to avoid osteoporosis, obesity, and depression. As she jogs through both secluded and open spaces in Beirut, she revisits dreams, desires, hopes, disillusionments, characters, and roles. Her body is stimulated through exercise with two hormones, dopamine and adrenaline, alternating between destruction and construction. In Medea-like fashion, this cycle within Hanane — woman, wife and mother — echoes that of her city, one that destroys to build and builds to destroy. 
 
