@@ -15,15 +15,7 @@ description: >-
   — woman, wife and mother — echoes that of her city, one that destroys to build
   and builds to destroy.
 background: 'https://ucarecdn.com/da937f09-cb5d-4c02-af13-9bd88976c53b/'
-videos:
-  - id: >-
-      <iframe src="https://player.vimeo.com/video/189645503" width="640"
-      height="360" frameborder="0" allow="autoplay; fullscreen"
-      allowfullscreen></iframe><p><a
-      href="https://vimeo.com/189645503">Performance JOGGING Trailer</a> from <a
-      href="https://vimeo.com/shadijaber">Shadi Jaber</a> on <a
-      href="https://vimeo.com">Vimeo</a>.</p>
-  - id: dFK1EtjWTA0
+videos: []
 writer: Hanane Hajj Ali
 director: Eric Deniaud
 additional: Translated by Hassan Abdulrazzak
@@ -47,6 +39,12 @@ grids:
         text: >-
           _The Skinny_'s Cat Acheson reviews the one-woman show by Hanane Hajj
           Ali
+      - cta: Read more
+        link: >-
+          https://www.gatetheatre.co.uk/blog/an-interview-with-hanane-hajj-ali-jogging/
+        subtitle: An Interview with Hanane Hajj Ali
+        text: Hanane Hajj Ali answers questions from Gate Theatre
+      - {}
 cast:
   heading: Cast & Crew
   items:
@@ -105,7 +103,9 @@ photos:
     - image: 'https://ucarecdn.com/6537be20-50d9-4b8d-82c7-5338297ef0d2/'
     - image: 'https://ucarecdn.com/d066b489-c83f-4f8e-8134-be0e777fc317/'
     - image: 'https://ucarecdn.com/50a4e3ae-9d33-47e9-a5b8-d2fea00bffbf/'
-    - {}
+    - image: 'https://ucarecdn.com/eb3f155d-b932-4110-8b4f-3108ed7dd2d2/'
+    - image: 'https://ucarecdn.com/dd28e9d0-780c-4042-ba25-7bc7b3450914/'
+    - image: 'https://ucarecdn.com/5352e510-bdd4-4de7-9c07-f310a49fe9cc/'
 ---
 Acclaimed Lebanese writer and performer, Hanane Hajj Ali brings her one-woman show to the Bay Area following her celebrated performances at the Kennedy Center and the Guthrie Theater.
 
