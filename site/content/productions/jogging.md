@@ -5,7 +5,10 @@ season: '2020'
 date: 2019-09-10T20:06:27.442Z
 start: 2020-05-03T03:00:00.000Z
 end: ''
-description: ''
+description: >-
+  Acclaimed Lebanese writer and performer, Hanane Hajj Ali brings her one-woman
+  show to the Bay Area following her celebrated performances at the Kennedy
+  Center and the Guthrie Theater.
 background: 'https://ucarecdn.com/1ac911b1-3bf3-466e-9062-4baa009e1df2/'
 videos:
   - id: >-
@@ -17,7 +20,7 @@ videos:
       href="https://vimeo.com">Vimeo</a>.</p>
 writer: Hanane Hajj Ali
 director: Eric Deniaud
-additional: ''
+additional: Translated by Hassan Abdulrazzak
 stage: Brava Theater Center
 address: '2781 24th St, San Francisco, CA 94110'
 grids:
@@ -41,11 +44,57 @@ grids:
 cast:
   heading: Cast & Crew
   items:
-    - name: ''
+    - bio: >-
+        Hanane Hajj Ali is the recipient of the Order of letters and Arts from
+        the rank of knight of the French Ministry of Culture, and an eminent
+        cultural and artistic figure in Lebanon and the Arab World. Founding
+        member of the collective group HAKAWATI Theatre (Lebanese Theatre of
+        Storytellers), Hanane has performed in prestigious international
+        theatres and festivals. Hanane’s latest play Jogging has won numerous
+        competitions and prizes including The Vertebra Prize for Best Actor at
+        the Fringe Edinburgh Festival in 2017. In addition to her work as an
+        actress, playwright, writer, and director since 1978, Hanane is a
+        teacher in Theatrical studies/Master program at IESAV- Saint Joseph
+        University, and at The Lebanese University. Hanane is also a founder and
+        board member of several organizations such as, Culture Resource- Al
+        Mawred Athaqafy, Action for Hope, and Ettijahate, Independent Culture.
+      credit: Playwright and Performer
+      image: >-
+        https://ucarecdn.com/8396b6df-6aee-4ead-8ba7-81103d96f29a/-/crop/1430x1441/295,0/-/preview/
+      name: Hanane Hajj Ali
+    - bio: >-
+        Eric Deniaud is a graduate of the International Institute of Puppetry
+        Art (ESNAM) in Charleville-Mézières, France. He works as an actor,
+        director, and set designer on mostly but not exclusively puppet plays.
+        Eric’s numerous international collaborations include: the National
+        Puppet Theatre of Vietnam in Hanoi, the National Centre for Dramatic Art
+        in Paris, the National Centre for Stage Writings, Ectera Teatro in
+        Spain, and Kaze theater in Tokyo. His collaboration with Alice Laloy on
+        Y-es tu? was nominated for the Molières award for the Best Performance
+        for Young Audiences in 2011. In Lebanon, Eric co-founded Collectif
+        Kahraba in 2007, and is the co-director of Nehna wel Amar wel Jiran
+        Festival in Beirut since 2011. Since 2017 he has served as the
+        co-director of Hammana Artist House, a residency space for artists in
+        Lebanon.
+      credit: Director
+      name: 'Eric Deniaud '
+    - bio: >-
+        Hassan Abdulrazzak is an Iraqi playwright and Writer, and a Golden
+        Thread resident artist. Hassan is the author of several plays including,
+        Baghdad Wedding, The Prophet, Dhow Under The Sun, Catalina, Love, Bombs,
+        & Apples, and Here I am. He was born in Prague and holds a PhD in
+        molecular biology. Awards include George Devine, Meyer-Whitworth and
+        Arab British Center’s Award for Culture in 2013.
+      credit: Translator
+      name: Hassan Abdulrazzak
 photos:
   heading: Photo Gallery
+  items:
+    - image: 'https://ucarecdn.com/6537be20-50d9-4b8d-82c7-5338297ef0d2/'
+    - image: 'https://ucarecdn.com/d066b489-c83f-4f8e-8134-be0e777fc317/'
+    - image: 'https://ucarecdn.com/50a4e3ae-9d33-47e9-a5b8-d2fea00bffbf/'
 ---
-Hanane Hajj Ali, a fifty-something Lebanese actress and citizen, exercises daily to avoid osteoporosis, obesity, and depression. As she jogs through both secluded and open spaces in Beirut, she revisits dreams, desires, hopes, disillusionments, characters, and roles. Her body is stimulated through exercise with two hormones, dopamine and adrenaline, alternating between destruction and construction. In Medea-like fashion, this cycle within Hanane — woman, wife and mother — echoes that of her city, one that destroys to build and builds to destroy. Acclaimed Lebanese writer and performer, Hajj Ali brings her one-woman show to the Bay Area following her celebrated performances at the Kennedy Center and the Guthrie Theater.
+Hanane, a fifty-something Lebanese actress and citizen, exercises daily to avoid osteoporosis, obesity, and depression. As she jogs through both secluded and open spaces in Beirut, she revisits dreams, desires, hopes, disillusionments, characters, and roles. Her body is stimulated through exercise with two hormones, dopamine and adrenaline, alternating between destruction and construction. In Medea-like fashion, this cycle within Hanane — woman, wife and mother — echoes that of her city, one that destroys to build and builds to destroy. 
 
 Performed in Arabic with English super titles. 
 
