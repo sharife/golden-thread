@@ -90,6 +90,7 @@ cast:
         Arab British Center’s Award for Culture in 2013.
       credit: Translator
       name: Hassan Abdulrazzak
+    - text: "**Original Creative Team:** Abdallah AlKafri\r (Dramaturgy), Sarmad Louis / Rayan Nihawi\r (Light Design), James Chehab / Karam Abou Ayach\r (Technical Direction); KALABSHA / Louloua Abdel Baki (Costume Design); Danielle Kattar\r (Graphic Design); Haifa Safa\r (Coordination and surtitles); Marwan Tahtah\r (Photography)"
 photos:
   heading: Photo Gallery
   items:
