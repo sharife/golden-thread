@@ -80,20 +80,7 @@ cast:
       name: Evren Odcikin
     - bio: ''
       name: ''
-      text: >-
-        **Cast:** Ayla Yarkut\*, Leila Rosa, Zaya Kolia, Lijesh Krishnan, Sofia
-        Ahmad\*
-
-
-
-
-        **Creative Team:** Kate Boyd^ (Scenic Design), Cassie Barnes^ (Lighting
-        Design), James Ard^ (Sound Design), Maggie Whittacker (Costume Design),
-        Kenan Arun^ (Makeup Design), Nima Dehghani (Projection Design),
-        Stephanie Alyson (Production Manager), Beckett Finn (Technical Director)
-
-
-        _\*Member, Actors Equity; ^Golden Thread Resident Artist_
+      text: "**Cast:** Ayla Yarkut\\*, Leila Rosa, Zaya Kolia, Lijesh Krishnan, Sofia Ahmad\\*^, Olivia Rosaldo-Pratt\r\n\n**Creative Team:** Kate Boyd^ (Scenic Design), Cassie Barnes^ (Lighting Design), James Ard^ (Sound Design), Maggie Whittacker (Costume Design), Kenan Arun^ (Makeup Design), Nima Dehghani (Projection Design), Grisel GG Torres (Prop Design), Stephanie Alyson (Production Manager), Beckett Finn (Technical Director), Rachel Mogan\r (Assistant Stage Manager), Sophie Burke\r (Assistant Stage Manager)\n\n_\\*Member, Actors Equity; ^Golden Thread Resident Artist_"
 photos:
   heading: Photo Gallery
 ---
