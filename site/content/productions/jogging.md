@@ -6,9 +6,14 @@ date: 2019-09-10T20:06:27.442Z
 start: 2020-05-03T03:00:00.000Z
 end: ''
 description: >-
-  Acclaimed Lebanese writer and performer, **Hanane Hajj Ali** brings her
-  one-woman show to the Bay Area following her celebrated performances at the
-  Kennedy Center and the Guthrie Theater.
+  **Hanane Hajj Ali**, a fifty-something Lebanese actress and citizen, exercises
+  daily to avoid osteoporosis, obesity, and depression. As she jogs through both
+  secluded and open spaces in Beirut, she revisits dreams, desires, hopes,
+  disillusionments, characters, and roles. Her body is stimulated through
+  exercise with two hormones, dopamine and adrenaline, alternating between
+  destruction and construction. In Medea-like fashion, this cycle within Hanane
+  — woman, wife and mother — echoes that of her city, one that destroys to build
+  and builds to destroy.
 background: 'https://ucarecdn.com/da937f09-cb5d-4c02-af13-9bd88976c53b/'
 videos:
   - id: >-
@@ -102,7 +107,7 @@ photos:
     - image: 'https://ucarecdn.com/50a4e3ae-9d33-47e9-a5b8-d2fea00bffbf/'
     - {}
 ---
-Hanane, a fifty-something Lebanese actress and citizen, exercises daily to avoid osteoporosis, obesity, and depression. As she jogs through both secluded and open spaces in Beirut, she revisits dreams, desires, hopes, disillusionments, characters, and roles. Her body is stimulated through exercise with two hormones, dopamine and adrenaline, alternating between destruction and construction. In Medea-like fashion, this cycle within Hanane — woman, wife and mother — echoes that of her city, one that destroys to build and builds to destroy. 
+Acclaimed Lebanese writer and performer, Hanane Hajj Ali brings her one-woman show to the Bay Area following her celebrated performances at the Kennedy Center and the Guthrie Theater.
 
 Performed in Arabic with English super titles. 
 
