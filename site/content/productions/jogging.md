@@ -9,7 +9,7 @@ description: >-
   Acclaimed Lebanese writer and performer, **Hanane Hajj Ali** brings her
   one-woman show to the Bay Area following her celebrated performances at the
   Kennedy Center and the Guthrie Theater.
-background: 'https://ucarecdn.com/1ac911b1-3bf3-466e-9062-4baa009e1df2/'
+background: 'https://ucarecdn.com/da937f09-cb5d-4c02-af13-9bd88976c53b/'
 videos:
   - id: >-
       <iframe src="https://player.vimeo.com/video/189645503" width="640"
@@ -88,7 +88,12 @@ cast:
         Arab British Center’s Award for Culture in 2013.
       credit: Translator
       name: Hassan Abdulrazzak
-    - text: "**Original Creative Team:** Abdallah AlKafri\r (Dramaturgy), Sarmad Louis / Rayan Nihawi\r (Light Design), James Chehab / Karam Abou Ayach\r (Technical Direction); KALABSHA / Louloua Abdel Baki (Costume Design); Danielle Kattar\r (Graphic Design); Haifa Safa\r (Coordination and surtitles); Marwan Tahtah\r (Photography)"
+    - text: >-
+        **Original Creative Team:** Abdallah AlKafri (Dramaturgy), Sarmad Louis
+        / Rayan Nihawi (Light Design), James Chehab / Karam Abou Ayach
+        (Technical Direction); KALABSHA / Louloua Abdel Baki (Costume Design);
+        Danielle Kattar (Graphic Design); Haifa Safa (Coordination and
+        surtitles); Marwan Tahtah (Photography)
 photos:
   heading: Photo Gallery
   items:
