@@ -26,16 +26,14 @@ grids:
     items:
       - cta: Read more
         link: 'https://artsequator.com/jogging-hanane-hajj-ali-2019/'
-        subtitle: “Jogging” To Survive
+        subtitle: _Jogging_ To Survive
         text: >-
           _ARTS EQUATOR_'s Stephanie Burridge covers the performance in M1
           Singapore Fringe Festival 2019.
       - cta: Read more
         link: >-
           https://www.theskinny.co.uk/festivals/edinburgh-fringe/theatre/jogging-summerhall
-        subtitle: >-
-          _Jogging_ presents a radical challenge to the stereotypes and
-          prejudices that afflict global perceptions of Arab women
+        subtitle: '_Jogging_: a radical challenge to the global perceptions of Arab women'
         text: >-
           _The Skinny_'s Cat Acheson reviews the one-woman show by Hanane Hajj
           Ali
@@ -43,8 +41,13 @@ grids:
         link: >-
           https://www.gatetheatre.co.uk/blog/an-interview-with-hanane-hajj-ali-jogging/
         subtitle: An Interview with Hanane Hajj Ali
-        text: Hanane Hajj Ali answers questions from Gate Theatre
-      - {}
+        text: The playwright and performer answers questions from Gate Theatre
+      - cta: Read more
+        link: 'https://arablit.org/2019/08/03/hanane-hajj-alis-jogging/'
+        subtitle: 'Sex, Prime Ministers, and Running in Circles'
+        text: >-
+          _ArabLit_'s Katie Logan writes about the show, part of the 2019
+          Shubbak Festival in London
 cast:
   heading: Cast & Crew
   items:
