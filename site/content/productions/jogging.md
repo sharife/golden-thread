@@ -10,7 +10,15 @@ description: >-
   one-woman show to the Bay Area following her celebrated performances at the
   Kennedy Center and the Guthrie Theater.
 background: 'https://ucarecdn.com/1ac911b1-3bf3-466e-9062-4baa009e1df2/'
-videos: []
+videos:
+  - id: >-
+      <iframe src="https://player.vimeo.com/video/189645503" width="640"
+      height="360" frameborder="0" allow="autoplay; fullscreen"
+      allowfullscreen></iframe><p><a
+      href="https://vimeo.com/189645503">Performance JOGGING Trailer</a> from <a
+      href="https://vimeo.com/shadijaber">Shadi Jaber</a> on <a
+      href="https://vimeo.com">Vimeo</a>.</p>
+  - id: dFK1EtjWTA0
 writer: Hanane Hajj Ali
 director: Eric Deniaud
 additional: Translated by Hassan Abdulrazzak
@@ -34,16 +42,6 @@ grids:
         text: >-
           _The Skinny_'s Cat Acheson reviews the one-woman show by Hanane Hajj
           Ali
-  - heading: Videos & Interviews
-    items:
-      - subtitle: '_Jogging_: Performance Trailer'
-        text: "<iframe src=\"https://player.vimeo.com/video/189645503\" width=\"640\" height=\"360\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen></iframe>\r\n\n<p><a href=\"https://vimeo.com/189645503\">Performance JOGGING Trailer</a> from <a href=\"https://vimeo.com/shadijaber\">Shadi Jaber</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>"
-      - subtitle: Hanane Hajj Ali on “Jogging – Theatre in Progress”
-        text: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/dFK1EtjWTA0" frameborder="0"
-          allow="accelerometer; autoplay; encrypted-media; gyroscope;
-          picture-in-picture" allowfullscreen></iframe>
 cast:
   heading: Cast & Crew
   items:
