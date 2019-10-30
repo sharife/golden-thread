@@ -2,44 +2,43 @@
 title: Support Golden Thread
 sidebar:
   heading: There are so many ways to participate!
-  text: >
-    [**Make your gift today**](https://goldenthread.secure.force.com/donate/?dfId=a0nj0000003z3ikAAA).	
-    <br /><br />
-    Request a match through your employer’s matching gift program and double your gift!
-    <br /><br />
-    Designate us to receive 0.5% of your Amazon purchases when you shop through [**smile.amazon.com**](http://smile.amazon.com).<br /><br />
-    **Your generous support is vital to our work.** [**Make your donation today.**](https://goldenthread.secure.force.com/donate/?dfId=a0nf100000eMbmuAAC)
+  text: "[**Make your gift today**](https://goldenthread.secure.force.com/donate/?dfId=a0nj0000003z3ikAAA).\t <br /><br /> Request a match through your employer’s matching gift program and double your gift! <br /><br /> Designate us to receive 0.5% of your Amazon purchases when you shop through [**smile.amazon.com**](http://smile.amazon.com).<br /><br /> **Your generous support is vital to our work.** [**Make your donation today.**](https://goldenthread.secure.force.com/donate/?dfId=a0nf100000eMbmuAAC)\n"
 ---
-
 [![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0nj0000003z3ikAAA)[![Sustaining Donor Button](/img/archive/2015/03/Donate-Button-Sustaining-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0nf100000eMbl8AAC)
 
 ![](/img/archive/2015/03/20thAnniversary-Line-1024x36.jpg)
 
-In today’s 24 hour news cycle and daily stream of tragedy and scandal, it can be hard to see past an ever increasingly fragmented world. Theatre provides a rare opportunity to stop, sit together, and share a common experience. As the first American theatre devoted to the Middle East, Golden Thread has the unique ability to go beyond the headlines and dive deeply into the personal narratives of a region that is often vilified and very rarely celebrated in today’s media.
+# <center>Celebrate the 20th Anniversary of ReOrient!</center>
 
-* * *
+Bringing many voices and diverse perspectives to one stage, Golden Thread's ReOrient Festival is the place to be to gain a deeper understanding of the Middle East and its global diaspora. As we struggle to go beyond the latest crisis or news bite to understand how events actually impact human lives, ReOrient is theatre that helps us see ourselves in someone else’s story, breaking down barriers and illustrating how our shared humanity supersedes political and cultural differences.
 
-**GOLDEN THREAD'S 2018 ACCOMPLISHMENTS**
+These stories come from the heart. They ignite dialogue and allow us to engage in deeply moving conversations that last well beyond the life of any one play.
 
-**ARTISTIC RECOGNITION**
-_Love, Bombs, and Apples_ was the recipient of an 
-Outstanding Production of a Play Award from Theatre Bay Area.
+Give as generously as you can. Without you these stories will go untold.
 
-**RAVE REVIEWS**
-"Can American theater really still beget a political play that represents opposing sides fairly, in good faith, such that audience members of different political stripes might all recognize themselves in the characters? The magic of [the production] is that it answers with an understated but insistent affirmative and wholly earns that hopeful outlook — even in our divisive, cynical times." —_San Francisco Chronicle_ on _We Swim, We Talk, We Go to War_
+ReOrient's 20th Anniversary is only one of Golden Thread's many 2019 accomplishments. Here are the rest:
 
-**COMMUNITY CONNECTION**
-_Oh My Sweet Land_'s simple act of gathering in the kitchen for cooking and storytelling, 
-turned a distant conflict into an intimate experience, and spread a little sweetness, even in the midst of a bitter world.
+- - -
 
-**GIRL POWER!**
-_Leila’s Quest for Flight_, a new Golden Thread Fairytale Players show based on beloved Palestinian folktales,
-soared across Bay Area schools and libraries, empowering little girls everywhere.
+**GOLDEN THREAD'S 2019 ACCOMPLISHMENTS**
 
+**Empowering Little Girls Everywhere!**
+_Since it’s relaunch in fall 2018, Golden Thread Fairytale Players new show,_ Leila’s Quest for Flight _reached more than 5,000 children and families at over 40 Bay Area schools and libraries_
 
-Any one of the above accomplishments would be cause for pride and celebration, but together they reflect remarkable artistic achievement and organizational recognition. Our stories come from the heart and they counteract the ongoing divisiveness pervading our society by allowing us to discover unexpected connections and by igniting dialogue that allows us to engage in deeply moving conversations that last well beyond the life of the play.
+**Building & Celebrating Community!**
+_US premiere of_ Scenes from 71* Years _by Hannah Khalil amplifies rarely told Palestinian narratives._
 
-Your contribution is essential to our success. [Give as generously as you can](https://goldenthread.secure.force.com/donate/?dfId=a0nj0000003z3ikAAA) because without your support these unique and essential stories will go untold. Only together can we create a less fragmented world.
+**Breaking Taboos & Box Office Records!**
+_World premiere of_ On Behalf of All Muslims: A Comedy Special _by Zahra Noorbaksh sells out Brava’s main stage for both nights._
+
+**Convening Middle Eastern Theatre Artists!**
+_Building on years of community organizing with our partners, Golden Thread will assemble artists from across the US to launch a national coalition to increase our visibility and impact._
+
+**New Staff! New Website!**
+_With support from institutions and donors like you, Golden Thread is able to fulfill its commitment to paying our artists and staff a living wage - even in the San Francisco Bay Area!_
+
+**We are Published!**
+_More of our artists than ever before are recognized for their body of work:_ Collected Plays of Yussef El Guindi _(Bloomsbury) and Torange Yeghiazarian’s ReOrient chapter in_ Casting a Movement _(Routledge)._
 
 [![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0nj0000003z3ikAAA)[![Sustaining Donor Button](/img/archive/2015/03/Donate-Button-Sustaining-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0nf100000eMbl8AAC)
 ![](/img/archive/2015/03/20thAnniversary-Line-1024x36.jpg)
