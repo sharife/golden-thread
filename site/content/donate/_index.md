@@ -8,9 +8,7 @@ sidebar:
 
 ![](/img/archive/2015/03/20thAnniversary-Line-1024x36.jpg)
 
-# Celebrate the 20th Anniversary of
-
-# ReOrient with a donation today!
+# Celebrate the 20th Anniversary of ReOrient!
 
 Bringing many voices and diverse perspectives to one stage, Golden Thread's ReOrient Festival is the place to be to gain a deeper understanding of the Middle East and its global diaspora. As we struggle to go beyond the latest crisis or news bites to understand how events actually impact human lives, ReOrient is theatre that helps us see ourselves in someone else’s story, breaking down barriers and illustrating how our shared humanity supersedes political and cultural differences.
 
