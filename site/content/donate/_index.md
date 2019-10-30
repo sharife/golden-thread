@@ -10,7 +10,7 @@ sidebar:
 
 # <center>Celebrate the 20th Anniversary of ReOrient!</center>
 
-Bringing many voices and diverse perspectives to one stage, Golden Thread's ReOrient Festival is the place to be to gain a deeper understanding of the Middle East and its global diaspora. As we struggle to go beyond the latest crisis or news bites to understand how events actually impact human lives, ReOrient is theatre that helps us see ourselves in someone else’s story, breaking down barriers and illustrating how our shared humanity supersedes political and cultural differences.
+Bringing many voices and diverse perspectives to one stage, Golden Thread's ReOrient Festival is the place to be to gain a deeper understanding of the Middle East and its global diaspora. As we struggle to go beyond the latest crisis or news bite to understand how events actually impact human lives, ReOrient is theatre that helps us see ourselves in someone else’s story, breaking down barriers and illustrating how our shared humanity supersedes political and cultural differences.
 
 These stories come from the heart. They ignite dialogue and allow us to engage in deeply moving conversations that last well beyond the life of any one play.
 
