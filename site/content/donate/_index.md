@@ -14,6 +14,8 @@ sidebar:
 
 Bringing many voices and diverse perspectives to one stage, Golden Thread's ReOrient Festival is the place to be to gain a deeper understanding of the Middle East and its global diaspora. As we struggle to go beyond the latest crisis or news bites to understand how events actually impact human lives, ReOrient is theatre that helps us see ourselves in someone else’s story, breaking down barriers and illustrating how our shared humanity supersedes political and cultural differences.
 
+These stories come from the heart. They ignite dialogue and allow us to engage in deeply moving conversations that last well beyond the life of any one play.
+
 Give as generously as you can. Without you these stories will go untold.
 
 ReOrient's 20th Anniversary is only one of Golden Thread's many 2019 accomplishments. Here are the rest:
@@ -34,7 +36,11 @@ _World premiere of_ On Behalf of All Muslims: A Comedy Special _by Zahra Noorbak
 **Convening Middle Eastern Theatre Artists!**
 _Building on years of community organizing with our partners, Golden Thread will assemble artists from across the US to launch a national coalition to increase our visibility and impact._
 
-Give as generously as you can. Without you these stories will go untold.
+**New Staff! New Website!**
+_With support from institutions and donors like you, Golden Thread is able to fulfill its commitment to paying our artists and staff a living wage - even in the San Francisco Bay Area!_
+
+**We are Published!**
+_More of our artists than ever before are recognized for their body of work:_ Collected Plays of Yussef El Guindi _(Bloomsbury) and Torange Yeghiazarian’s ReOrient chapter in_ Casting a Movement _(Routledge)._
 
 [![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0nj0000003z3ikAAA)[![Sustaining Donor Button](/img/archive/2015/03/Donate-Button-Sustaining-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0nf100000eMbl8AAC)
 ![](/img/archive/2015/03/20thAnniversary-Line-1024x36.jpg)
