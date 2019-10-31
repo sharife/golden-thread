@@ -1,42 +1,65 @@
 ---
 title: Donors
-intro: >
+intro: >-
   We are privileged to recognize the generous individuals and institutions that
   support our mission and make our programming possible. (Combined gifts from
-  1/1/2018 through 6/11/2019)
+  06/01/2018 through 10/01/2019)
 sidebar:
-  text: >-
-    **We gratefully acknowledge gifts from the following donors in memory of
-    Terry Lamb:**<br />JoAnne Winter & Adrian Elfenbaum, Alexa Hauser, Lukas
-    Hauser, G. Horinouchi & M. Maggart, Marty & Joy, North Atlantic Books, Kevin
-    O’Connor, Lawrence Radecker, Catherine Rico, Jean Schiffman   <br /><br />
-    **Thank you to these corporations for their Matching Gift Programs:**<br />
-    Amazon.com, Chevron, Genentech, Google, Inc., Intuit, Nissan, TMC
-    Development Working Solutions, UC Berkeley   <br /><br /> **Thank you to the
-    following for their In-Kind Support:**<br /> Wes Burwell, Artin Der
-    Minassians, Humaira Ghilzai, Athena Kyle, La Mediterranee Restaurant, Bob
-    Miller & Judy Wilbur, Murrey E. Nelson, Armen Sedrakian & Ruth Alahydoian
+  text: "**Thank you to these corporations for their Matching Gift programs:**\r\\\nAmazon.com, Chevron, Genentech, Google, Inc., Intuit, Nissan, Visa, Working Solutions\r\r\n\n**Thank you to the following for their In-Kind support:**\\\nMay Allam, Wes Burwell, Artin Der Minassians, Nora el Samahy, Rita Hovakimian, Murrey E. Nelson, \rBabak Sani, Armen Sedrakian & Ruth Alahydoian"
 ---
 ### **LEADERSHIP CIRCLE**
 
-**Season Sponsors ($50,000 and above)**<br />The William & Flora Hewlett Foundation<br />Neda Nobari Foundation<br />San Francisco Arts Commission<br />San Francisco Grants for the Arts
+**Season Sponsor ($50,000 and above)**\
+San Francisco Arts Commission\
+The William and Flora Hewlett Foundation
 
-**Lead Sponsors ($25,000 to $49,999)**\
-California Arts Council<br />The Walter & Elise Haas Fund<br />Sam Mazza Foundation
+**Lead Sponsor ($25,000 to $49,999)**\
+California Arts Council\
+San Francisco Grants for the Arts\
+The Sam Mazza Foundation\
+Walter & Elise Haas Fund
 
-**Program Sponsors ($10,000 to $24,999)**\
-John Atwood & Sofia Ahmad<br />Doris Duke Charitable Fund<br />National Endowment for the Arts<br />The Shubert Foundation<br />The Tides Foundation Venturous Theater Fund<br />The Zellerbach Family Foundation
+**Program Sponsor ($10,000 to $24,999)**\
+The Doris Duke Charitable Foundation\
+National Endowment for the Arts\
+The Neda Nobari Foundation\
+The Shubert Foundation\
+The Tides Foundation Venturous Theater Fund\
+The Zellerbach Family Foundation
 
 ### **PRODUCER CIRCLE**
 
-**Executive Producer ($5,000 to $9,999)**\
-Monica Cappuccini Fund<br />The Dillon Fund<br />Harbor Point Charitable Foundation
+### ****
 
-**Lead Producers ($2,500 to $4,999)**\
-Nora el Samahy & Patrick Kaliski<br />Artin Der Minassians<br />Murrey E. Nelson<br />Babak Sani<br />The Tournesol Project
+Executive Producer ($5,000 to $9,999)\
+John Atwood & Sofia AhmadMonica Cappuccini Fund\
+The Dillon Fund\
+Harbor Point Charitable Foundation\
+Murrey E. Nelson
 
-**Associate Producers ($1,000 to $2,499)**\
-Anonymous<br />Thomas Bell<br />Farah & Fabio Bullara<br />King Choi<br />Ron Dudum<br />Fleishhacker Foundation<br />Rita Hovakimian<br />Betsy Jasny<br />Ray & Carla Kaliski<br />Middle East Children’s Alliance<br />Rebecca Novick & Jeff Prucher<br />The Puffin Foundation Ltd.<br />Sara Razavi<br />Martha Richards<br />Jane Swinerton<br />WomenArts<br />Torange Yeghiazarian
+Lead Producer ($2,500 to $4,999)\
+May Allam\
+Artin Der Minassians\
+Nora el Samahy & Patrick Kaliski\
+Babak SaniTournesol Project
+
+**Associate Producer ($1,000 to $2,499)**\
+Thomas Bell and Nina Ghandi\
+King Choi\
+Ron Dudum\
+The Fleishhacker Family Foundation\
+Elizabeth Jasny\
+Ray and Carla Kaliski\
+Middle East Children’s Alliance\
+Rebecca Novick & Jeff Prucher\
+Sara Razavi\
+Martha Richards\
+Jane Swinerton\
+UC Berkeley Center for Middle Eastern Studies\
+WomenArts\
+Torange Yeghiazarian
+
+
 
 **$500 to $999**\
 May Allam<br />Anonymous<br />Bryan Baker<br />Anna & Amer Budayr<br />Linda Chang & Emin Maltepe<br />Syan & Kayden Davis<br />Rasha Dessouki<br />Richard Dudum<br />Rami el Samahy & Kelly Hutzell<br />Hassan Fouda<br />Iranian Diaspora Studies Program at SFSU<br />Jennifer Grady<br />Jim Lucas<br />Sana Makhoul<br />Sami & Leila Masri<br />Kia Mousavi<br />Duraid Musleh<br />Jumana Muwafi<br />John O'Farrell<br />Bothaina Salama<br />Lila Shadloo & Terry Griffith
