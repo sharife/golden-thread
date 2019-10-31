@@ -270,6 +270,13 @@ cast:
 photos:
   heading: ReOrient 2019
   items:
+    - image: 'https://ucarecdn.com/6bc21860-3564-4fa9-b82e-94c022bc439c/'
+    - image: 'https://ucarecdn.com/376f3817-a2d1-42de-8a89-9b87d3ad45a9/'
+    - image: 'https://ucarecdn.com/76909d2d-2c33-4d92-8395-74ba6c3eceaa/'
+    - image: 'https://ucarecdn.com/cd5731b3-e88c-4e9d-b17b-1e2ee8f044a2/'
+    - image: 'https://ucarecdn.com/3bc0b135-5721-48bc-9d45-afca422d0619/'
+    - image: 'https://ucarecdn.com/c13f410c-6df8-48ee-a2a5-566180a2bd4d/'
+    - image: 'https://ucarecdn.com/7bcd1b0e-26b8-4e59-a6ab-c95705623233/'
     - image: 'https://ucarecdn.com/cf9f49ee-c237-464c-8912-a5eb24744eee/'
     - image: 'https://ucarecdn.com/6b91d759-66fc-4584-9c09-d24203db9dfa/'
     - image: 'https://ucarecdn.com/e18164ae-d5c0-409d-9661-8f900df5e46f/'
