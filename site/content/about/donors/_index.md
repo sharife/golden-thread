@@ -9,57 +9,66 @@ sidebar:
 ---
 ### **LEADERSHIP CIRCLE**
 
-**Season Sponsor ($50,000 and above)**\
+**Season Sponsor ($50,000 and above)**
+\
 San Francisco Arts Commission\
-The William and Flora Hewlett Foundation
+The William and Flora Hewlett Foundation
 
-**Lead Sponsor ($25,000 to $49,999)**\
-California Arts Council\
-San Francisco Grants for the Arts\
-The Sam Mazza Foundation\
+**Lead Sponsor ($25,000 to $49,999)**
+\
+California Arts Council
+\
+San Francisco Grants for the Arts
+\
+The Sam Mazza Foundation
+\
 Walter & Elise Haas Fund
 
-**Program Sponsor ($10,000 to $24,999)**\
-The Doris Duke Charitable Foundation\
+**Program Sponsor ($10,000 to $24,999)**
+\
+The Doris Duke Charitable Foundation
+\
 National Endowment for the Arts\
-The Neda Nobari Foundation\
-The Shubert Foundation\
-The Tides Foundation Venturous Theater Fund\
+
+The Neda Nobari Foundation\
+
+The Shubert Foundation
+\
+The Tides Foundation Venturous Theater Fund
+\
 The Zellerbach Family Foundation
 
 ### **PRODUCER CIRCLE**
 
-### ****
-
-Executive Producer ($5,000 to $9,999)\
-John Atwood & Sofia AhmadMonica Cappuccini Fund\
-The Dillon Fund\
-Harbor Point Charitable Foundation\
+**Executive Producer ($5,000 to $9,999)**
+John Atwood & Sofia Ahmad
+Monica Cappuccini Fund
+The Dillon Fund
+Harbor Point Charitable Foundation
 Murrey E. Nelson
 
-Lead Producer ($2,500 to $4,999)\
-May Allam\
-Artin Der Minassians\
-Nora el Samahy & Patrick Kaliski\
-Babak SaniTournesol Project
+**Lead Producer ($2,500 to $4,999)**\
+May Allam\
+Artin Der Minassians\
+Nora el Samahy & Patrick Kaliski\
+Babak Sani
+Tournesol Project
 
-**Associate Producer ($1,000 to $2,499)**\
-Thomas Bell and Nina Ghandi\
-King Choi\
-Ron Dudum\
-The Fleishhacker Family Foundation\
-Elizabeth Jasny\
-Ray and Carla Kaliski\
-Middle East Children’s Alliance\
-Rebecca Novick & Jeff Prucher\
-Sara Razavi\
-Martha Richards\
-Jane Swinerton\
+**Associate Producer ($1,000 to $2,499)**\
+Thomas Bell and Nina Ghandi\
+King Choi\
+Ron Dudum\
+The Fleishhacker Family Foundation\
+Elizabeth Jasny\
+Ray and Carla Kaliski\
+Middle East Children’s Alliance\
+Rebecca Novick & Jeff Prucher\
+Sara Razavi\
+Martha Richards\
+Jane Swinerton\
 UC Berkeley Center for Middle Eastern Studies\
-WomenArts\
+WomenArts\
 Torange Yeghiazarian
-
-
 
 **$500 to $999**\
 May Allam<br />Anonymous<br />Bryan Baker<br />Anna & Amer Budayr<br />Linda Chang & Emin Maltepe<br />Syan & Kayden Davis<br />Rasha Dessouki<br />Richard Dudum<br />Rami el Samahy & Kelly Hutzell<br />Hassan Fouda<br />Iranian Diaspora Studies Program at SFSU<br />Jennifer Grady<br />Jim Lucas<br />Sana Makhoul<br />Sami & Leila Masri<br />Kia Mousavi<br />Duraid Musleh<br />Jumana Muwafi<br />John O'Farrell<br />Bothaina Salama<br />Lila Shadloo & Terry Griffith
