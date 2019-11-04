@@ -23,7 +23,7 @@ lists:
           https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006fbQvUAI
         subtitle: ''
         text: >-
-          Set in Istanbul and Paris, **AT THE PERIPHERY** is a new play that
+          Set in Istanbul and Paris, **ON THE PERIPHERY** is a new play that
           focuses on the rarely told stories of migrants in Istanbul’s urban
           slums. **Sedef Ecer’s** new play takes a lyrical, funny, and deeply
           human look at hope and home against all odds. Directed by **Erin
@@ -32,7 +32,7 @@ lists:
           Bay Area where these issues are extremely palpable and relevant.
 
 
-          This production marks both At the Periphery’s US premiere as well as
+          This production marks both On the Periphery’s US premiere as well as
           **the first co-production between Golden Thread Productions and
           Crowded Fire Theater**.
 
@@ -45,7 +45,7 @@ lists:
 
           Group of 10 or more? Contact <mailto:boxoffice@goldenthread.org> for
           30% off.
-        title: At the Periphery
+        title: On the Periphery
 ---
 **GOLDEN THREAD TICKETING POLICIES**
 
