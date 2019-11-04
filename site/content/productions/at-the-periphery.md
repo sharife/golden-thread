@@ -1,5 +1,5 @@
 ---
-title: At the Periphery
+title: On the Periphery
 pre: US Premiere
 season: 2020
 date: 2019-09-10T20:06:27.442Z
@@ -7,7 +7,7 @@ start: 2020-02-23T08:00:00.000Z
 end: 2020-04-04T20:06:27.482Z
 heading: ''
 description: >-
-  Set in Istanbul and Paris, **AT THE PERIPHERY** is a new play that focuses on
+  Set in Istanbul and Paris, **ON THE PERIPHERY** is a new play that focuses on
   the rarely told stories of migrants in Istanbul’s urban slums. Farmers Dilcha
   and Bilo leave their home in the countryside to make a life in the big city.
   Young lovers Azad and Tamar appeal to superstar Sultane’s reality TV show to
@@ -22,7 +22,7 @@ description: >-
   relevant. 
 
 
-  Translated from Turkish by Evren Odcikin, this production marks both At the
+  Translated from Turkish by Evren Odcikin, this production marks both On the
   Periphery's US premiere as well as the first co-production between Golden
   Thread Productions and [Crowded Fire Theater](http://crowdedfire.org). For
   more information about the history between these two companies, click
