@@ -25,12 +25,13 @@ The Sam Mazza Foundation
 Walter & Elise Haas Fund
 
 **Program Sponsor ($10,000 to $24,999)**
-\
+
 The Doris Duke Charitable Foundation\
 National Endowment for the Arts\
 The Neda Nobari Foundation\
 The Shubert Foundation\
-The Tides Foundation Venturous Theater Fund\
+The Tides Foundation\
+Venturous Theater Fund\
 The Zellerbach Family Foundation
 
 ### **PRODUCER CIRCLE**
