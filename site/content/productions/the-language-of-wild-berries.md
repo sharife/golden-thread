@@ -8,6 +8,7 @@ end: 2020-11-15T23:06:41.319Z
 background: 'https://ucarecdn.com/dd15058f-bed1-4889-9b35-e1a3929dffe3/'
 writer: Naghmeh Samini
 director: Torange Yeghiazarian
+additional: Translation by Torange Yeghiazarian
 stage: Potrero Stage
 address: '1695 18th St, San Francisco, CA'
 cast:
