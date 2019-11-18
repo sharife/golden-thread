@@ -15,7 +15,8 @@ description: >-
   — woman, wife and mother — echoes that of her city, one that destroys to build
   and builds to destroy.
 background: 'https://ucarecdn.com/da937f09-cb5d-4c02-af13-9bd88976c53b/'
-videos: []
+videos:
+  - id: U0yozQEJ2pI
 writer: Hanane Hajj Ali
 director: Eric Deniaud
 additional: Translated by Hassan Abdulrazzak
