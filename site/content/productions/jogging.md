@@ -19,7 +19,7 @@ videos:
   - id: U0yozQEJ2pI
 writer: Hanane Hajj Ali
 director: Eric Deniaud
-additional: Translated by Hassan Abdulrazzak
+additional: Translation by Hassan Abdulrazzak
 stage: Brava Theater Center
 address: '2781 24th St, San Francisco, CA 94110'
 grids:
