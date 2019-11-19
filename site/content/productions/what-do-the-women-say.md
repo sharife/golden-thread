@@ -8,6 +8,7 @@ heading: International Women’s Day 2020
 description: >-
   Each year, Golden Thread Productions celebrates International Women’s Day by
   showcasing the work of leading Middle Eastern women artists.
+background: 'https://ucarecdn.com/146ffef3-4fbf-4191-a119-008f6d103d7b/'
 stage: Brava Theater Center
 address: '2781 24th St, San Francisco, CA 94110'
 cast:
