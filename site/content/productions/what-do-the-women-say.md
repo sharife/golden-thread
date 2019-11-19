@@ -4,6 +4,7 @@ season: '2020'
 date: 2019-11-19T00:37:38.180Z
 start: 2019-11-19T00:37:38.209Z
 end: 2019-11-19T00:37:38.228Z
+heading: International Women’s Day 2020
 description: >-
   Each year, Golden Thread Productions celebrates International Women’s Day by
   showcasing the work of leading Middle Eastern women artists.
