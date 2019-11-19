@@ -15,7 +15,7 @@ description: >-
   Award-winning Iranian playwright, Naghmeh Samini finds the sublime in an
   ordinary couple’s annual road trips to the Caspian Sea. This U.S. Premiere is
   Samini’s first production in English in the United States.
-background: 'https://ucarecdn.com/dd15058f-bed1-4889-9b35-e1a3929dffe3/'
+background: 'https://ucarecdn.com/edc486a6-251b-4b5c-947c-bac1ed21751d/'
 videos:
   - id: jdrvjojNEW4
 writer: Naghmeh Samini
