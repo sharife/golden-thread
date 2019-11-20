@@ -10,7 +10,7 @@ description: >-
   non-Middle Eastern descent an authentic and supportive space to develop work
   about the Middle East. Since its launch in 2011, many New Threads plays and
   playwrights have continued on to receive mainstage productions.
-background: 'https://ucarecdn.com/996b6c58-f59c-4f0f-835f-d9c3262a37ff/'
+background: 'https://ucarecdn.com/bffb024f-c4e5-4366-8e4e-0df632b0cb25/'
 stage: Brava Theater Center
 address: '2781 24th St, San Francisco, CA 94110'
 cast:
@@ -30,7 +30,7 @@ _**Better understand the casting and production needs of a play**_
 
 _**Build support for a particular artist or play among our patrons**_
 
-![](https://ucarecdn.com/422470ee-5092-41d8-a9af-557253077f4e/)
+![](https://ucarecdn.com/e3a8fc97-5d99-4dd7-a0c9-fa5e5e0b72e7/)
 
 The readings are accompanied by talkbacks with the artists and experts that comment on the themes of the play. We invite you to join the creative process of a new play and discover brilliant gems never before seen in the Bay Area. We invite you to laugh, cry, and think alongside these beautiful stories from and about the Middle East. Each play is teeming with unexpected humor, surprising characters, and important questions about the world we live in today.
 
