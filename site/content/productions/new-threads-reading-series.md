@@ -1,5 +1,5 @@
 ---
-title: New Threads Reading Series
+title: New Threads Reading Series 2020
 season: '2020'
 date: 2019-11-19T00:37:38.180Z
 start: 2020-08-04T23:37:38.209Z
