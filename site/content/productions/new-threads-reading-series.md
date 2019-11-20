@@ -2,8 +2,8 @@
 title: New Threads Reading Series
 season: '2020'
 date: 2019-11-19T00:37:38.180Z
-start: 2020-08-01T23:37:38.209Z
-end: 2020-08-31T23:37:38.228Z
+start: 2020-08-04T23:37:38.209Z
+end: 2020-08-25T23:37:38.228Z
 description: >-
   New Threads is Golden Thread’s annual staged reading series that engages its
   audience in the process of playmaking and allows writers of Middle Eastern and
