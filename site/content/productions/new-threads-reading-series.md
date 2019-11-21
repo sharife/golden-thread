@@ -11,6 +11,18 @@ description: >-
   non-Middle Eastern descent an authentic and supportive space to develop work
   about the Middle East. Since its launch in 2011, many New Threads plays and
   playwrights have continued on to receive mainstage productions.
+
+
+  ![](https://ucarecdn.com/828a499e-c28d-42da-a0f3-af321ce5eaa2/)
+
+
+  The readings are accompanied by talkbacks with the artists and experts that
+  comment on the themes of the play. We invite you to join the creative process
+  of a new play and discover brilliant gems never before seen in the Bay Area.
+  We invite you to laugh, cry, and think alongside these beautiful stories from
+  and about the Middle East. Each play is teeming with unexpected humor,
+  surprising characters, and important questions about the world we live in
+  today.
 background: 'https://ucarecdn.com/bffb024f-c4e5-4366-8e4e-0df632b0cb25/'
 stage: Brava Theater Center
 address: '2781 24th St, San Francisco, CA 94110'
@@ -19,20 +31,4 @@ cast:
 photos:
   heading: Photo Gallery
 ---
-Our goals for this program are:
-
-_**Support the playwright in the development of the script towards production**_
-
-_**Build a working relationship with a new playwright or director and introduce them to our community**_
-
-_**Share a rarely told narrative, particularly one with current resonance**_
-
-_**Better understand the casting and production needs of a play**_
-
-_**Build support for a particular artist or play among our patrons**_
-
-![](https://ucarecdn.com/e3a8fc97-5d99-4dd7-a0c9-fa5e5e0b72e7/)
-
-The readings are accompanied by talkbacks with the artists and experts that comment on the themes of the play. We invite you to join the creative process of a new play and discover brilliant gems never before seen in the Bay Area. We invite you to laugh, cry, and think alongside these beautiful stories from and about the Middle East. Each play is teeming with unexpected humor, surprising characters, and important questions about the world we live in today.
-
 **The staged readings are free and open to the public.**
