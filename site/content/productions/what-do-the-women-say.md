@@ -15,7 +15,7 @@ background: 'https://ucarecdn.com/146ffef3-4fbf-4191-a119-008f6d103d7b/'
 stage: Brava Theater Center
 address: '2781 24th St, San Francisco, CA 94110'
 cast:
-  heading: Cast & Crew
+  heading: More information soon
 photos:
   heading: Photo Gallery
 ---
