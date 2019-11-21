@@ -3,7 +3,7 @@ title: What Do the Women Say?
 season: '2020'
 date: 2019-11-19T00:37:38.180Z
 start: 2020-03-08T23:37:38.209Z
-end: 2020-03-08T23:37:38.228Z
+end: ''
 heading: International Women’s Day 2020
 description: >-
   Each year, Golden Thread Productions celebrates International Women’s Day by
