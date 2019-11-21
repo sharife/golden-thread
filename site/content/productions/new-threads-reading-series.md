@@ -1,8 +1,9 @@
 ---
 title: New Threads Reading Series 2020
+pre: Four New Plays. Four Singular Voices.
 season: '2020'
 date: 2019-11-19T00:37:38.180Z
-start: 2020-08-04T23:37:38.209Z
+start: 2020-08-04T07:00:00.000Z
 end: 2020-08-25T23:37:38.228Z
 description: >-
   New Threads is Golden Thread’s annual staged reading series that engages its
