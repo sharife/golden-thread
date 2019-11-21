@@ -39,11 +39,6 @@ grids:
           _The Skinny_'s Cat Acheson reviews the one-woman show by Hanane Hajj
           Ali
       - cta: Read more
-        link: >-
-          https://www.gatetheatre.co.uk/blog/an-interview-with-hanane-hajj-ali-jogging/
-        subtitle: An Interview with Hanane Hajj Ali
-        text: The playwright and performer answers questions from Gate Theatre
-      - cta: Read more
         link: 'https://arablit.org/2019/08/03/hanane-hajj-alis-jogging/'
         subtitle: 'Sex, Prime Ministers, and Running in Circles'
         text: >-
