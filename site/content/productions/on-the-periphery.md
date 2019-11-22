@@ -60,6 +60,7 @@ cast:
         produced by 3 Girls Theatre and First Person Travel. Erin studied
         theatre as an undergraduate at Princeton University and received her MFA
         from Birkbeck, University of London. www.eringilley.com
+      image: 'https://ucarecdn.com/2e15926d-cd7e-4385-adc4-44c6a21fc5e2/'
       name: Erin Gilley
     - bio: >-
         Evren Odcikin is a San Francisco-based freelance theatre director.
