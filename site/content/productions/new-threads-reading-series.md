@@ -13,9 +13,6 @@ description: >-
   playwrights have continued on to receive mainstage productions.
 
 
-  ![](https://ucarecdn.com/828a499e-c28d-42da-a0f3-af321ce5eaa2/)
-
-
   The readings are accompanied by talkbacks with the artists and experts that
   comment on the themes of the play. We invite you to join the creative process
   of a new play and discover brilliant gems never before seen in the Bay Area.
