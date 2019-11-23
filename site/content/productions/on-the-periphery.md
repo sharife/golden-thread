@@ -2,7 +2,7 @@
 title: On the Periphery
 pre: US Premiere
 season: 2020
-date: 2019-09-10T20:06:27.442Z
+date: 2019-11-10T20:06:27.442Z
 start: 2020-02-23T08:00:00.000Z
 end: 2020-04-04T20:06:27.482Z
 heading: ''

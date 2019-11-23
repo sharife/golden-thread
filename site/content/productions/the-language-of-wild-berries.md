@@ -1,8 +1,8 @@
 ---
 title: The Language of Wild Berries
 pre: U.S. Premiere
-season: '2020'
-date: 2019-10-28T22:06:41.267Z
+season: 2020
+date: 2019-11-06T22:06:41.267Z
 start: 2020-10-16T22:06:41.302Z
 end: 2020-11-15T23:06:41.319Z
 description: >-

@@ -1,8 +1,8 @@
 ---
 title: Jogging
 pre: One Night Only!
-season: '2020'
-date: 2019-09-10T20:06:27.442Z
+season: 2020
+date: 2019-11-08T20:06:27.442Z
 start: 2020-05-03T03:00:00.000Z
 end: ''
 description: >-
