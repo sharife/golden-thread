@@ -2,7 +2,7 @@
 title: What Do the Women Say?
 pre: Celebrating the Centennial of U.S. Women’s Right to Vote
 season: 2020
-date: 2019-11-09T00:37:38.180Z
+date: 2019-11-25T00:37:38.180Z
 start: 2020-03-08T23:37:38.209Z
 end: ''
 heading: International Women’s Day 2020
