@@ -2,8 +2,7 @@
 title: 'ReOrient 2019: National Convening of MENA Theatre Artists'
 date: 2019-09-12T20:50:39.702Z
 description: ''
-background: >-
-  https://ucarecdn.com/01483185-943f-4251-b3e3-5cb3ecfb7b81/-/crop/591x310/0,92/-/preview/
+background: 'https://ucarecdn.com/38c06c25-a578-4ff7-885f-6d086d51fe5f/'
 ---
 _**Building on years of community organizing, the convening, hosted by Golden Thread, will launch a national coalition of Middle Eastern, North African and Muslim theatre artists.**_ 
 
