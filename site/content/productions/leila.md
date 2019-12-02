@@ -1,11 +1,11 @@
 ---
 title: Leila’s Quest For Flight
 pre: GOLDEN THREAD FAIRYTALE PLAYERS PRESENT
-season: 2019
+season: 2020
 date: 2019-04-01T15:04:10.000Z
 start: ''
 end: ''
-heading: Touring Bay Area schools and libraries this fall!
+heading: Touring Bay Area schools and libraries!
 description: >-
   When the optometrist shatters little Leila’s dream of becoming a pilot, a
   menagerie of mythic birds gather to help her accomplish her goal. Drawn from
