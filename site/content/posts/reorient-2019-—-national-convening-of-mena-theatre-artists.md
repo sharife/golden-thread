@@ -8,9 +8,7 @@ _**Building on years of community organizing, the convening, hosted by Golden Th
 
 Golden Thread is part of a 14-member steering committee that has been working to increase MENA visibility, amplify our voices, and deepen the impact of our work. This gathering is made up of work sessions as well as public panels, roundtables, and coalition-building opportunities in conjunction with Golden Thread's ReOrient Festival. 
 
-Come be part of our conversation on leading and fostering Middle Eastern and North African narratives on the American stage!
-
-All events are open to the public unless otherwise specified as a MENA-only work session. Snacks and refreshments will be provided throughout the convening. Admission is free; advanced registration is strongly encouraged.
+All events were open to the public unless otherwise specified as a MENA-only work session. 
 
 _Please note that we define “Middle East” and “Middle Eastern” broadly and inclusively, and embrace the multiplicity of ethnic and religious identities that span Southwest Asia, North Africa, Central Asia, the Caucasus, parts of Mediterranean Europe, and our Diaspora communities. We understand our respective backgrounds in terms of rich pluralism and interconnectedness. We also define “America” and “American” in the broadest possible ways to include the continents of North and South America. Furthermore, at this time in history, it’s important that we include American Muslims, of all cultural, ethnic, and racial backgrounds, as members of our Middle Eastern American communities._
 
