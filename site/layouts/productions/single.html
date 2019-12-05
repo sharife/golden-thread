@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "background" .Params.background "pre" .Params.pre "title" .Title "subtitle" .Params.subtitle "cta" .Params.cta "link" .Params.link "writer" .Params.writer) }}
+{{ partial "jumbotron" (dict "background" .Params.background "pre" .Params.pre "title" .Title "subtitle" .Params.subtitle "cta" .Params.cta "link" .Params.link "writer" .Params.writer "translator" .Params.translator) }}
 
   <div class="mw7 center ph3 pv4">
     <div class="flex-ns justify-between">
@@ -50,8 +50,11 @@
         
         <div class="mb3">
           {{ if .Params.writer }} <p class="mb1">Written by <span class="b">{{ .Params.writer }}</span></p> {{ end }}
+          {{ if .Params.translator }} <p class="mb1">Translated by <span class="b">{{ .Params.translator }}</span></p> {{ end }}
           {{ if .Params.director }} <p class="mb1">Directed by <span class="b">{{ .Params.director }}</span></p> {{ end }}
           {{ if .Params.featuring }} <p class="mb1">Featuring <span class="b">{{ .Params.featuring }}</span></p> {{ end }}
+          {{ if .Params.musicaldirector }} <p class="mb1">Musical Director <span class="b">{{ .Params.musicaldirector }}</span></p> {{ end }}
+          {{ if .Params.dramaturg }} <p class="mb1">Dramaturgy by <span class="b">{{ .Params.dramaturg }}</span></p> {{ end }}
           {{ if .Params.additional }} <p class="f6 mb1 i">{{ .Params.additional }}</p> {{ end }}
         </div>
         <div class="mb3">

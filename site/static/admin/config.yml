@@ -37,6 +37,9 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Writer", name: "writer", widget: "string", required: false}
       - {label: "Director", name: "director", widget: "string", required: false}
       - {label: "Featuring", name: "featuring", widget: "string", required: false}
+      - {label: "Translator", name: "translator", widget: "string", required: false}
+      - {label: "Dramaturg", name: "dramaturg", widget: "string", required: false}
+      - {label: "Musical Director", name: "musicaldirector", widget: "string", required: false}
       - {label: "Additional Credit", name: "additional", widget: "string", required: false}
       - {label: "Stage", name: "stage", widget: "string", required: false}
       - {label: "Address", name: "address", widget: "string", required: false}
@@ -44,6 +47,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Ticket Info", name: "ticketinfo", widget: "string", required: false}
       - {label: "Awards Image", name: "awardsimage", widget: "image", required: false}
       - {label: "Awards Text", name: "awards", widget: "string", required: false}
+      - {label: "External Link", name: "externallink", widget: "string", required: false}
       - {label: "Misc. Text", name: "misc", widget: "text", required: false}
       - label: "Lists"
         name: "lists"

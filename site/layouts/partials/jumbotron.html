@@ -28,7 +28,7 @@
             {{ end }}
             {{ if .writer }}
             <p class="b f4 white mb2">
-              by {{.writer}}
+              by {{.writer}}{{ if .translator }}, translated by {{.translator}}{{ end }}
             </p>
             {{ end }}
           </div>

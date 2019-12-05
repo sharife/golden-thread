@@ -9,13 +9,21 @@
 	<div class="flex-ns flex-wrap mhn2-ns">
 	  {{ if .Params.titleimage }}
 	  <div class="mr2 w-30-ns">
+	  	{{ if .Params.externallink }}
+	  	<a href="{{.Params.externallink}}">
+	  	{{ else }}
 	    <a href="{{.Permalink}}">
+	    {{ end }}
 	      <img src="{{.Params.titleimage}}" alt="" class="w-60 w-100-ns db mb3">
 	    </a>
 	  </div>
 	  {{ else if .Params.background }}
 	  <div class="mr2 w-30-ns">
+	    {{ if .Params.externallink }}
+	  	<a href="{{.Params.externallink}}">
+	  	{{ else }}
 	    <a href="{{.Permalink}}">
+	    {{ end }}
 	      <img src="{{.Params.background}}" alt="" class="w-60 w-100-ns db mb3">
 	    </a>
 	  </div>
@@ -26,7 +34,7 @@
           <p class="f6 b mb1">{{ dateFormat "January 2, 2006" .Params.start }} {{ if .Params.end }}- {{ dateFormat "January 2, 2006" .Params.end }}{{ end }}</p>
         {{ end }}
 	    <p class="cms f6 mb0">{{.Description | markdownify }}</p>
-	    <p class="b"><a href="{{.Permalink}}" class="link">→ View</a></p>
+	    <p class="b"><a href="{{ if .Params.externallink }}{{.Params.externallink}}{{ else }}{{.Permalink}}{{ end }}" class="link">→ View</a></p>
 	  </div>
 	</div>
 </div>

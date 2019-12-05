@@ -20,7 +20,7 @@
 
     <hr />
 
-  <h3 class="f3 b">Mainstage Productions</h3>
+  <h3 class="f3 b">Productions</h3>
   <ul class="flex-ns flex-wrap mhn1-ns pv3">
     {{ $season := .Params.currentseason }}
       {{ range where (where .Site.Pages "Type" "productions") ".Params.season" $season }}

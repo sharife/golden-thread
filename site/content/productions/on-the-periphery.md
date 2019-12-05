@@ -30,7 +30,7 @@ description: >-
 background: 'https://ucarecdn.com/174b7abb-5b7d-40e2-8f35-b4413a503bb8/'
 writer: Sedef Ecer
 director: Erin Gilley
-additional: Translation by Evren Odcikin
+translator: Evren Odcikin
 stage: Potrero Stage
 address: '1695 18th Street, San Francisco'
 ticketlink: 'https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/ '
