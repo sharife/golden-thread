@@ -20,7 +20,8 @@ videos:
   - id: jdrvjojNEW4
 writer: Naghmeh Samini
 director: Torange Yeghiazarian
-additional: Translation by Torange Yeghiazarian
+translator: Torange Yeghiazarian
+additional: ''
 stage: Potrero Stage
 address: '1695 18th St, San Francisco, CA'
 cast:
