@@ -32,7 +32,7 @@ _This roundtable session began as an inter-generational conversation amongst art
 
 Golden Thread’s Founding Artistic Director Torange Yeghiazarian contextualized current efforts to organize and, with the support of MENA Steering Committee members, presented highlights from the MENA Theatre Artist Community Survey, the community’s top priorities, and current goals. Also, Kate Moore Heaney (Noor Theatre) and Andrea Assaf (Art2Action) addressed participants as members of the Steering Committee of MENA Theatre Artists.
 
-Steering Committee members (present) included Yussef El Guindi, Orange Yeghiazarian, Denmo Ibrahim, Tracy Francis, Debórah Eliezer, Evren Odickin, Pia Haddad, Andrea Assaf & Kate Moore Heaney. 
+Steering Committee members (present) included Yussef El Guindi, Torange Yeghiazarian, Denmo Ibrahim, Tracy Francis, Debórah Eliezer, Evren Odickin, Pia Haddad, Andrea Assaf & Kate Moore Heaney. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qbHdQs8tgAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
