@@ -46,7 +46,7 @@ _This panel examined the role of the academy in relation to MENA theatrical educ
 
 **SUNDAY, NOVEMBER 10, 2019**
 
-•	_**Naming & Defining Our Coalition.**_ Organized by Jamil Khoury, Silk Road Rising. Facilitated by Khoury and Andrea Assaf, Art2Action. (MENA-only work session)*
+•	_**Naming & Defining Our Coalition.**_ Organized by and facilitated by Andrea Assaf, Art2Action. (MENA-only work session)*
 
 _Building upon past convenings and the Middle Eastern American Theatre Artists Bill of Rights, participants in this working session helped define a broader vision of our MENA coalition. We explored what it means to be a collective of theatre artists amplifying our voices within the American theatre, and grappled with such questions as:  What should we name our coalition?  What are our values and goals?  How do we support one another and hold each other accountable? Where do we see our coalition ten years from now?_
 
