@@ -7,8 +7,8 @@ intro: >
   young audiences, with plays based on traditions and folklore from across the
   Middle East. 
 description: >-
-  Inspired by popular performance traditions such as _Hakawati_, _Ru-hozi_,
-  _Naghalli_, _Karagoz_, and _Commedia dell Arte_, Golden Thread Fairytale
+  Inspired by popular performance traditions such as *Hakawati*, *Ru-hozi*,
+  *Naghalli*, *Karagoz*, and *Commedia dell Arte*, Golden Thread Fairytale
   Players employ epic storytelling, puppetry, song, dance, circus arts
   techniques, and Middle Eastern languages to create engaging performances that
   draw from enriching folk tales and timeless historical texts. <br /><br />Our
@@ -27,13 +27,30 @@ sidebar:
   heading: >-
     Golden Thread Fairytale Players have performed for thousands of elementary
     students.
-  text: >-
-    John Muir Elementary<br />KZV Armenian School<br />Berkwood Hedge
-    Elementary<br />Cesar Chavez Elementary<br />Tenderloin Elementary<br
-    />Synergy Elementary<br />New School<br />Orion Alternative Elementary<br
-    />Redding Elementary<br />Thousand Oaks Elementary<br />Palomares
-    Elementary<br />Daniel Webster Elementary<br />Sylvia Mendez School<br
-    />Emerson Elementary
+  text: |-
+    John Muir Elementary\
+    KZV Armenian School\
+    Berkwood Hedge Elementary\
+    Cesar Chavez Elementary\
+    Tenderloin Elementary\
+    Synergy Elementary\
+    New School\
+    Orion Alternative Elementary\
+    Redding Elementary\
+    Thousand Oaks Elementary\
+    Palomares Elementary\
+    Daniel Webster Elementary (SF)\
+    Sylvia Mendez School\
+    Emerson Elementary\
+    Daniel Webster Elementary (Daly City)\
+    Dolores Huerta Elementary\
+    Guadalupe Elementary\
+    Buena Vista Horace Mann\
+    Clarendon Alternative Elementary\
+    George Peabody Elementary\
+    Chinese Immersion School\
+    Bryant Elementary School\
+    Live Oak Elementary School
 lists:
   - heading: Current Touring Shows
     items:
@@ -89,7 +106,7 @@ photos:
 * Shows are 30 minutes and include a post-performance Question & Answer session with the cast.
 * For schools, an informational brochure with background on themes and resources for further learning are provided.
 
-**Questions? Email us at <mailto:education@goldenthread.org>.**
+**Questions? Email us at [education@goldenthread.org](mailto:education@goldenthread.org).**
 
 **Golden Thread Fairytale Players is supported by generous grants from [Neda Nobari Foundation](http://nnf.foundation/) and [Harbor Point Charitable Foundation](https://www.hpcfgiving.org/).**
 
@@ -99,15 +116,14 @@ photos:
 
 **Here is what audience members and educators are saying about the program.**
 
-"Golden Thread has quickly become a favorite presenter of family programs at San Francisco Public Library."  _—Family Engagement Services, San Francisco Public Library_
+"Golden Thread has quickly become a favorite presenter of family programs at San Francisco Public Library."  *—Family Engagement Services, San Francisco Public Library*
 
-"The program was excellent. It definitely broadened their perception of cultures. The students enjoyed the ingenious way the actors changed their parts. The kids went around mimicking the actors for days." _—Teacher, Hawes
-Elementary_
+"The program was excellent. It definitely broadened their perception of cultures. The students enjoyed the ingenious way the actors changed their parts. The kids went around mimicking the actors for days." *—Teacher, Hawes Elementary*
 
-"I’m so happy these kids are getting such wonderful exposure to Middle Eastern culture, and especially getting to hear the Palestinian voice. And to end it with one of my family’s favorite Fairuz songs was the cherry on top!" _—Parent, Berkwood Hedge School_
+"I’m so happy these kids are getting such wonderful exposure to Middle Eastern culture, and especially getting to hear the Palestinian voice. And to end it with one of my family’s favorite Fairuz songs was the cherry on top!" *—Parent, Berkwood Hedge School*
 
-"\[As an educator, I valued] an opportunity for students to experience art especially made by people of color and performers. _—Teacher, Cesar Chavez Elementary School_
+"\[As an educator, I valued] an opportunity for students to experience art especially made by people of color and performers. *—Teacher, Cesar Chavez Elementary School*
 
-"Inspirational. It would be wonderful to bring it to all elementary schools." _—President, Berkeley PTA Council_
+"Inspirational. It would be wonderful to bring it to all elementary schools." *—President, Berkeley PTA Council*
 
-"I so appreciated how this performance gave my students some understanding of Palestine, Arabic, and even the simple geography of the Middle East. I especially appreciated the lesson plan that was available to us before the performance." _—Teacher, Berkwood Hedge School_
+"I so appreciated how this performance gave my students some understanding of Palestine, Arabic, and even the simple geography of the Middle East. I especially appreciated the lesson plan that was available to us before the performance." *—Teacher, Berkwood Hedge School*
