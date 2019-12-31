@@ -32,59 +32,46 @@ misc: >
   YOUR SHOW TODAY!</a> 
 lists:
   - heading: Upcoming Performances
-    items:
-      - cta: More Info
-        link: 'https://sfpl.org/index.php?pg=0100000601'
-        title: 'Thursday, November 14 2019 - 3:30pm'
-        pre: 'Excelsior Library '
-        subtitle: '4400 Mission St, San Francisco, CA 94112'
-      - cta: More Info
-        link: 'https://www.sanleandro.org/depts/library/'
-        title: 'Wednesday, November 20, 2019 - 7:00pm'
-        pre: San Leandro Community Library
-        subtitle: '300 Estudillo Avenue, San Leandro, CA 94577'
-        text: ''
+    items: []
   - heading: Testimonials
     items:
       - subtitle: ''
         text: >-
           "Golden Thread has quickly become a favorite presenter of family
-          programs at San Francisco Public Library."  _—Family Engagement
-          Services, San Francisco Public Library_
+          programs at San Francisco Public Library."  *—Family Engagement
+          Services, San Francisco Public Library*
 
 
           "The program was excellent. It definitely broadened their perception
           of cultures. The students enjoyed the ingenious way the actors changed
           their parts. The kids went around mimicking the actors for days."
-          _—Teacher, Hawes
-
-          Elementary_
+          *—Teacher, Hawes Elementary*
 
 
           "I’m so happy these kids are getting such wonderful exposure to Middle
           Eastern culture, and especially getting to hear the Palestinian voice.
           And to end it with one of my family’s favorite Fairuz songs was the
-          cherry on top!" _—Parent, Berkwood Hedge School_
+          cherry on top!" *—Parent, Berkwood Hedge School*
 
 
           "\[As an educator, I valued] an opportunity for students to experience
-          art especially made by people of color and performers. _—Teacher,
-          Cesar Chavez Elementary School_
+          art especially made by people of color and performers. *—Teacher,
+          Cesar Chavez Elementary School*
 
 
           "Inspirational. It would be wonderful to bring it to all elementary
-          schools." _—President, Berkeley PTA Council_
+          schools." *—President, Berkeley PTA Council*
 
 
           "I so appreciated how this performance gave my students some
           understanding of Palestine, Arabic, and even the simple geography of
           the Middle East. I especially appreciated the lesson plan that was
-          available to us before the performance." _—Teacher, Berkwood Hedge
-          School_
+          available to us before the performance." *—Teacher, Berkwood Hedge
+          School*
 cast:
   heading: Cast & Crew
   items:
-    - bio: >
+    - bio: >-
         <strong>Simone Bloch </strong>is a French-American performer, who has
         danced and acted in numerous shows in the Bay Area since 2001. She is a
         cofounder of Inferno Theatre and was part of street performances of Sun
@@ -114,7 +101,7 @@ cast:
       image: >-
         https://ucarecdn.com/10992e43-cdc1-4d16-b3c8-534a9bf03e9b/-/crop/425x414/0,0/-/preview/
       name: Maya Nazzal
-    - bio: >
+    - bio: >-
         <strong>Torange Yeghiazarian</strong> is a playwright, director, and
         translator. She is the Founding Artistic Director of Golden Thread
         Productions, the first American theatre company devoted to the Middle
@@ -130,7 +117,7 @@ cast:
       credit: Playwright & Director
       image: /img/archive/2014/03/torange_headshot_tfs-e1498076049423.jpg
       name: Torange Yeghiazarian
-    - bio: >
+    - bio: >-
         <strong>Mokhtar Paki</strong> is a Bay Area visual artist, art teacher,
         and sometimes architectural designer. Mokhtar was the production
         designer on <em>The Fifth String: Ziryab’s Passage to Cordoba</em> on
@@ -145,7 +132,7 @@ cast:
       credit: Production Designer
       image: /img/archive/2012/03/mokhtar_paki_300x300.jpg
       name: Mokhtar Paki
-    - bio: >
+    - bio: >-
         <strong>Sarah Al-Kassab</strong> is a first generation
         Jordanian-American powerhouse of production and performance. Sarah has
         spent the last 12 years as a self-producing Bay Area interactive
@@ -158,7 +145,7 @@ cast:
       credit: Stage Manager
       image: /img/archive/2018/10/Sarah-AlKassab-300x300.jpg
       name: Sarah Al-Kassab
-    - bio: >
+    - bio: >-
         <strong>Lisa Tateosian</strong> is Golden Thread resident artist. She
         has worked with Golden Thread as a performer (<em>Nasrudin’s Magnificent
         Journey to Samarqand, Benedictus, </em>ReOrient 2004 Festival) and as a
