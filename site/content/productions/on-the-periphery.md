@@ -63,25 +63,34 @@ cast:
       image: 'https://ucarecdn.com/2e15926d-cd7e-4385-adc4-44c6a21fc5e2/'
       name: Erin Gilley
     - bio: >-
-        Evren Odcikin is a San Francisco-based freelance theatre director.
-        Recent credits include KISS by Guillermo Calderón at Shotgun Players,
-        and the world premiere of Mona Mansour’s WE SWIM, WE TALK, WE GO TO WAR
-        at Golden Thread. Other credits: the world premiere of MJ Kaufman’s
-        SENSITIVE GUYS at InterACT (Barrymore Recommended), I CALL MY BROTHERS
-        by Jonas Hassen Khemiri at Cleveland Public Theatre; Saïd
-        Sayrafiezadeh’s AUTOBIOGRAPHY OF A TERRORIST, and Kevin Artigue’s THE
-        MOST DANGEROUS HIGHWAY in the World (6 BATCC nominations, including best
-        director) at Golden Thread; I CALL MY BROTHERS (TBA Awards nomination
-        for Outstanding Direction) and INVASION! by Jonas Hassen Khemiri and
-        \[410]GONE by Frances Ya-Chu Cowhig (Production Notebook feature in
-        American Theatre Magazine) at Crowded Fire.  A graduate of Princeton,
-        Evren was named a “Theatre Worker to Watch” by American Theatre Magazine
-        in 2016, awarded a 2015 National Directors Fellowship by the O’Neill.
-        Odcikin.com
+        Evren Odcikin (Translator) is the Interim Associate Artistic Director at
+        Oregon Shakespeare Festival, a founder of Maia Directors, and a resident
+        artist at Golden Thread. As a director, he's worked at South Coast Rep,
+        Berkeley Rep, New York Theater Workshop, Kennedy Center, InterAct
+        (Philadelphia), Cleveland Public Theatre, The Lark, Magic Theatre,
+        Crowded Fire, Shotgun Players, TheatreFirst, and Playwrights Foundation,
+        amongst many others. He will direct Heather Raffo's*Nine Parts of
+        Desire*at Portland Center Stage next, and he is under commission at Cal
+        Shakes with Leila Buck to create*1001 Nights (A Retelling)*, which he
+        will direct in 2020. [odcikin.com](https://www.odcikin.com/)
+      image: 'https://ucarecdn.com/6168d5ce-0243-4d04-b632-e604babfa550/'
       name: Evren Odcikin
     - bio: ''
       name: ''
-      text: "**Cast:** Ayla Yarkut\\*, Leila Rosa, Zaya Kolia, Lijesh Krishnan, Sofia Ahmad\\*^, Olivia Rosaldo-Pratt\r\n\n**Creative Team:** Kate Boyd^ (Scenic Design), Cassie Barnes^ (Lighting Design), James Ard^ (Sound Design), Maggie Whittacker (Costume Design), Kenan Arun^ (Makeup Design), Nima Dehghani (Projection Design), Grisel GG Torres (Prop Design), Stephanie Alyson (Production Manager), Beckett Finn (Technical Director), Rachel Mogan\r (Assistant Stage Manager), Sophie Burke\r (Assistant Stage Manager)\n\n_\\*Member, Actors Equity; ^Golden Thread Resident Artist_"
+      text: >-
+        **Cast:** Ayla Yarkut\*, Leila Rosa, Zaya Kolia, Lijesh Krishnan, Sofia
+        Ahmad\*^, Olivia Rosaldo-Pratt
+
+
+        **Creative Team:** Kate Boyd^ (Scenic Design), Cassie Barnes^ (Lighting
+        Design), James Ard^ (Sound Design), Maggie Whittacker (Costume Design),
+        Kenan Arun^ (Makeup Design), Nima Dehghani (Projection Design), Grisel
+        GG Torres (Prop Design), Stephanie Alyson (Production Manager), Beckett
+        Finn (Technical Director), Rachel Mogan  (Assistant Stage Manager),
+        Sophie Burke
+         (Assistant Stage Manager)
+
+        *\*Member, Actors Equity; ^Golden Thread Resident Artist*
 photos:
   heading: Photo Gallery
 ---
