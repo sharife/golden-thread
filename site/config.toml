@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Golden Thread Productions"
 [params] 
-	currentseason = "2019"
+	currentseason = "2020"
 
 [menu]
 	[[menu.primary]]
@@ -13,45 +13,46 @@ title = "Golden Thread Productions"
 
 		[[menu.primary]]
 		parent = "season"
-		identifier = "reorient-2019"
-		name = "ReOrient 2019"
-		url = "/productions/reorient-2019"
+		identifier = "on-the-periphery"
+		name = "On the Periphery"
+		url = "/productions/on-the-periphery"
 		weight = 11
+
+		[[menu.primary]]
+		parent = "season"
+		identifier = "jogging"
+		name = "Jogging"
+		url = "/productions/jogging"
+		weight = 12
+
+		[[menu.primary]]
+		parent = "season"
+		identifier = "the-language-of-wild-berries"
+		name = "The Language of Wild Berries"
+		url = "/productions/the-language-of-wild-berries"
+		weight = 13
+
+		[[menu.primary]]
+		parent = "season"
+		identifier = "what-do-the-women-say"
+		name = "What Do the Women Say?"
+		url = "/productions/what-do-the-women-say"
+		weight = 14
+
+		[[menu.primary]]
+		parent = "season"
+		identifier = "new-threads-reading-series"
+		name = "New Threads Reading Series 2020"
+		url = "/productions/new-threads-reading-series"
+		weight = 15
 
 		[[menu.primary]]
 		parent = "season"
 		identifier = "leila"
 		name = "Leila’s Quest For Flight"
 		url = "/productions/leila"
-		weight = 12
-
-		[[menu.primary]]
-		parent = "season"
-		identifier = "obam-2019"
-		name = "On Behalf of All Muslims"
-		url = "/productions/obam-2019"
-		weight = 13
-
-		[[menu.primary]]
-		parent = "season"
-		identifier = "scenes-from-71-years"
-		name = "Scenes From 71* Years"
-		url = "/productions/scenes-from-71-years"
-		weight = 14
-
-		[[menu.primary]]
-		parent = "season"
-		identifier = "wdtws-2019"
-		name = "What Do the Women Say?"
-		url = "/productions/wdtws-2019"
-		weight = 15
-
-		[[menu.primary]]
-		parent = "season"
-		identifier = "upcoming"
-		name = "2020 Season"
-		url = "/season/upcoming"
 		weight = 16
+
 
 	[[menu.primary]]
 	identifier = "about"
