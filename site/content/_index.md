@@ -5,8 +5,8 @@ subtitle: >-
   Golden Thread extends the multifaceted discourse and unique stories of the
   evolving agency of Middle East women.
 background: 'https://ucarecdn.com/5b5f9b54-e398-48c5-9961-db4502bc795d/'
-cta: MORE
-link: /productions/reorient-2019
+cta: LEARN MORE NOW
+link: 'https://goldenthread.org/season/'
 items:
   - image: >-
       https://ucarecdn.com/9a24a39d-e035-472f-95c1-d374a34d73b0/-/crop/3500x2402/0,220/-/preview/
