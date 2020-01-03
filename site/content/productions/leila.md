@@ -32,7 +32,10 @@ misc: >
   YOUR SHOW TODAY!</a> 
 lists:
   - heading: Upcoming Performances
-    items: []
+    items:
+      - cta: Learn More
+        link: 'https://www.ssf.net/departments/library'
+        title: South San Francisco Library
   - heading: Testimonials
     items:
       - subtitle: ''
