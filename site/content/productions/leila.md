@@ -36,6 +36,8 @@ lists:
       - cta: Learn More
         link: 'https://www.ssf.net/departments/library'
         title: South San Francisco Library
+        pre: 'April 25, 2020 at 1 p.m.'
+        subtitle: ''
   - heading: Testimonials
     items:
       - subtitle: ''
