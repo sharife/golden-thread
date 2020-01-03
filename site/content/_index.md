@@ -1,8 +1,10 @@
 ---
 title: Middle East Center Stage
-headline: ReOrient 2019 Festival of Short Plays
-subtitle: Think you know the Middle East? Think again!
-background: 'https://ucarecdn.com/dd36bdba-f8e2-4518-a52b-3ff079c3fe17/'
+headline: Season of International Women
+subtitle: >-
+  Golden Thread extends the multifaceted discourse and unique stories of the
+  evolving agency of Middle East women.
+background: 'https://ucarecdn.com/5b5f9b54-e398-48c5-9961-db4502bc795d/'
 cta: MORE
 link: /productions/reorient-2019
 items:
