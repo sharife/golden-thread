@@ -44,6 +44,8 @@ In January 2020, we will begin receiving submissions for consideration in **ReOr
 
 ### ReOrient 2021 DEADLINE: May 30, 2020
 
+
+
 ## **Submission Guidelines:**
 
 • Complete the [Play Submission Form](https://docs.google.com/forms/d/1drHtvZB7Qz3-gtBLU4V6-Jx2qEjnN1xlY9RkDZXctfU/edit)
