@@ -46,9 +46,9 @@ In January 2020, we will begin receiving submissions for consideration in **ReOr
 
 ## **Submission Guidelines:**
 
-1. Complete the [Play Submission Form](https://docs.google.com/forms/d/1drHtvZB7Qz3-gtBLU4V6-Jx2qEjnN1xlY9RkDZXctfU/edit)
+• Complete the [Play Submission Form](https://docs.google.com/forms/d/1drHtvZB7Qz3-gtBLU4V6-Jx2qEjnN1xlY9RkDZXctfU/edit)
 
-2. Email pdf copy of the play to **submissions@goldenthread.org** with subject Line: ReOrient 2021
+• Email pdf copy of the play to **submissions@goldenthread.org** with subject Line: ReOrient 2021
 
 **WE NO LONGER ACCEPT HARD COPY SUBMISSIONS BY MAIL.**
 
