@@ -1,6 +1,6 @@
 ---
 title: Middle East Center Stage
-headline: Season of International Women
+headline: 2020 Season of International Women
 subtitle: >-
   Golden Thread extends the multifaceted discourse and unique stories of the
   evolving agency of Middle East women.
