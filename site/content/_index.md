@@ -4,7 +4,7 @@ headline: 2020 Season of International Women
 subtitle: >-
   Golden Thread extends the multifaceted discourse and unique stories of the
   evolving agency of Middle East women.
-background: 'https://ucarecdn.com/884b6770-784e-4ff7-88ae-e63f8cd69589/'
+background: 'https://ucarecdn.com/bd2d1f78-2173-4616-975b-cd5135140b51/'
 cta: LEARN MORE
 link: 'https://goldenthread.org/season/'
 items:
