@@ -59,6 +59,4 @@ This is a part time, exempt position, reporting to the Executive Artistic Direct
 
 Please email a resume and a detailed cover letter explaining your interest in the position and our organization, along with the names and contact information for three or more references, to torange@goldenthread.org, subject line: Artistic Producer. Please make sure that references are from current and/or former supervisors and that information includes names, phone numbers, and the name of the organization where you worked with each person. Applications will be reviewed on a rolling basis and the position will remain upon until filled. Early submissions are encouraged. No phone calls or packets by regular mail, please. Further information is available at <https://www.goldenthread.org/about/opportunities/>.
 
-
-
 ***There are no other job openings with Golden Thread. However, we accept ongoing resumes with letters of interest in Golden Thread from stage managers, designers, set builders, and technical directors at [information@goldenthread.org]((mailto:information@goldenthread.org)).***
