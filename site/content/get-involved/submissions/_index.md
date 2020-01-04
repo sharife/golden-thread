@@ -48,6 +48,6 @@ We accept full-length plays year-round. We will only contact playwrights whose p
 
 **WE NO LONGER ACCEPT HARD COPY SUBMISSIONS BY MAIL.**
 
-
+For any further questions or concerns, email **submissions@goldenthread.org.**
 
 **THANK YOU FOR YOUR HARD WORK AND KEEP WRITING!**
