@@ -421,6 +421,14 @@ collections: # A list of collections the CMS should be able to edit
                 widget: list
                 fields:
                   - {label: Image, name: image, widget: image, required: false}
+      - file: "site/content/programs/what-do-the-women-say/_index.md"
+        label: "What Do the Women Say"
+        name: "what-do-the-women-say"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Intro, name: intro, widget: text, required: false}
+          - {label: Description, name: description, widget: markdown, required: false}
+          - {label: Body, name: body, widget: markdown}
       - file: "site/content/about/donors/_index.md"
         label: "Donors"
         name: "donors"

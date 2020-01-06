@@ -1,12 +1,7 @@
 ---
-author: Torange
-comments: false
 date: 2016-01-14 20:23:30+00:00
-layout: page
-link: https://www.goldenthread.org/programs/women/
 slug: women
 title: What Do the Women Say?
-wordpress_id: 10430
 titleimage: /img/archive/2016/01/WDTWS-banner2.jpg
 intro: >
   Each year, Golden Thread Productions celebrates International Women’s Day by showcasing the work of leading Middle Eastern women artists.
