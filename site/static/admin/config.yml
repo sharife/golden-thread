@@ -426,6 +426,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "what-do-the-women-say"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Image, name: "titleimage", widget: "image", required: false}
           - {label: Intro, name: intro, widget: text, required: false}
           - {label: Description, name: description, widget: markdown, required: false}
           - {label: Body, name: body, widget: markdown}
