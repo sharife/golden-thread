@@ -11,7 +11,7 @@ description: >-
   the rarely told stories of migrants in Istanbul’s urban slums. Farmers Dilcha
   and Bilo leave their home in the countryside to make a life in the big city.
   Young lovers Azad and Tamar appeal to superstar Sultane’s reality TV show to
-  realize their dream of a life in France. Gyspy woman Kybelee finds home in a
+  realize their dream of a life in France. Gypsy woman Kybelee finds home in a
   shack she has made with her own hands.
 
 
@@ -87,8 +87,8 @@ cast:
         Kenan Arun^ (Makeup Design), Nima Dehghani (Projection Design), Grisel
         GG Torres (Prop Design), Stephanie Alyson (Production Manager), Beckett
         Finn (Technical Director), Rachel Mogan  (Assistant Stage Manager),
-        Sophie Burke
-         (Assistant Stage Manager)
+        Sophie Burke  (Assistant Stage Manager)
+
 
         *\*Member, Actors Equity; ^Golden Thread Resident Artist*
 photos:
