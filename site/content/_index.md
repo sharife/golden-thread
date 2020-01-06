@@ -8,15 +8,13 @@ background: 'https://ucarecdn.com/0466f408-7b7a-4360-87d9-c13fd88289da/'
 cta: LEARN MORE
 link: 'https://goldenthread.org/season/'
 items:
-  - image: >-
-      https://ucarecdn.com/9a24a39d-e035-472f-95c1-d374a34d73b0/-/crop/3500x2402/0,220/-/preview/
-    subtitle: Weaving the Golden Thread at ReOrient 2019 Camp
-    cta: Read the full article
-    link: >-
-      https://goldenthread.org/posts/weaving-the-golden-thread-at-reorient-2019-camp/
+  - image: 'https://ucarecdn.com/4b68b59f-9bc6-4737-a101-af74cf5f3725/'
+    subtitle: Women Lead the Narrative in 2020
+    cta: Learn more
+    link: 'https://goldenthread.org/season/'
     text: >-
-      The twentieth anniversary of the ReOrient Festival of Short Plays began
-      with an incubation weekend that Golden Thread calls “ReOrient Camp.”
+      Celebrate the centennial of U.S. Women’s Right to Vote with a women-led
+      lineup of international playwrights this year.
   - image: >-
       https://ucarecdn.com/2caf07f3-57ed-4877-9bc2-00cf43fad49a/-/crop/591x304/0,91/-/preview/
     subtitle: National Convening of MENA Theatre Artists
