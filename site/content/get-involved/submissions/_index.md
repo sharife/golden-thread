@@ -38,13 +38,13 @@ In January 2020, we will begin receiving submissions for consideration in **ReOr
 
 **ReOrient 2021 DEADLINE: May 30, 2020** 
 
-We accept full-length plays year-round. We will only contact playwrights whose plays are under consideration for reading and/or production.
-
 **Submission Guidelines:**
 
 • Complete the [Play Submission Form](https://docs.google.com/forms/d/1drHtvZB7Qz3-gtBLU4V6-Jx2qEjnN1xlY9RkDZXctfU/edit)
 
 • Email pdf copy of the play to **submissions@goldenthread.org** with subject Line: ReOrient 2021
+
+We accept full-length plays year-round. We will only contact playwrights whose plays are under consideration for reading and/or production.
 
 **WE NO LONGER ACCEPT HARD COPY SUBMISSIONS BY MAIL.**
 
