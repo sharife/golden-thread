@@ -15,17 +15,17 @@ Supervises: N/A
 
 **Summary of Position:**
 
-Golden Thread Productions seeks an **Artistic Producer** to support our ongoing efforts todiversify the American theatre through the development and production of work devoted to the Middle East. The goal of this position is to implement Golden Thread’s mission through compelling artistic programming, engagement of a vibrant artistic community, and the documentation of the company’s artistic output and impact. This is an incredible opportunity for an emerging creative arts professional seeking a hands-on position in the production of a mainstage season at a small, but nationally recognized non-profit theatre company.
+Golden Thread Productions seeks an **Artistic Producer** to support our ongoing efforts to diversify American theatre through the development and production of work devoted to the Middle East. The goal of this position is to implement Golden Thread’s mission through compelling artistic programming, engagement of a vibrant artistic community, and the documentation of the company’s artistic output and impact. This is an incredible opportunity for an emerging creative arts professional seeking a hands-on position in the production of a mainstage season at a small, but nationally recognized non-profit theatre company.
 
-PURPOSE – Under the direct supervision of senior staff members, this critical position will assist the Executive Artistic Director in the production of a 3-show main stage season by providing administrative support in production management, casting, and literary management. Additionally this team member will provide artistic support through the coordination of play selection and casting, and the production of the annual New Threads staged reading series.
+PURPOSE – Under the direct supervision of senior staff members, this critical position will assist the Executive Artistic Director in the production of a 3-show main stage season by providing administrative support in production management, casting, and literary management. Additionally, this team member will provide artistic support through the coordination of play selection and casting, and the production of the annual New Threads staged reading series.
 
 **Responsibilities Include:**
 
-**Production Management:**Manage the overall season production schedule, coordinate design meetings/discussions, manage production budget, and complete reports.
+**Production Management:** Manage the overall season production schedule, coordinate design meetings/discussions, manage production budget, and complete reports.
 
-**Casting:**Manage the casting database, schedule and manage season and production-specific auditions, prepare AEA casting notices and reports.
+**Casting:** Manage the casting database, schedule and manage season and production-specific auditions, prepare AEA casting notices and reports.
 
-**Literary Management:**Manage the script database, read scripts and write recommendations, produce the annual New Threads Staged Reading Series, and manage play development workshops.
+**Literary Management:** Manage the script database, read scripts and write recommendations, produce the annual New Threads Staged Reading Series, and manage play development workshops.
 
 **Requirements:**
 
@@ -57,9 +57,9 @@ This is a part time, exempt position, reporting to the Executive Artistic Direct
 
 **Application Instructions:**
 
-**Please email a resume and a detailed cover letter explaining your interest in the position and our organization, along with the names and contact information for three or more references, to torange@goldenthread.org, subject line: Artistic Producer.** 
+**Please email a resume and a detailed cover letter explaining your interest in the position and our organization, along with the names and contact information for three or more references, to torange@goldenthread.org with subject line: Artistic Producer.** 
 
-Please make sure that references are from current and/or former supervisors and that information includes names, phone numbers, and the name of the organization where you worked with each person. Applications will be reviewed on a rolling basis and the position will remain upon until filled. Early submissions are encouraged. No phone calls or packets by regular mail, please.
+Please make sure that references are from current and/or former supervisors and that information includes names, phone numbers, and the name of the organization where you worked with each person. Applications will be reviewed on a rolling basis and the position will remain open until filled. Early submissions are encouraged. No phone calls or packets by regular mail, please.
 
 ### **Production & Artistic Opportunities**
 
