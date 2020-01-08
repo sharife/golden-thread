@@ -16,7 +16,8 @@ items:
     text: >-
       Help diversify American theatre by assisting our main stage season in
       production management, casting, and literary management.
-  - image: 'https://ucarecdn.com/9d8b62b0-a24c-4d08-8b70-b5aa87a4a5aa/'
+  - image: >-
+      https://ucarecdn.com/9d8b62b0-a24c-4d08-8b70-b5aa87a4a5aa/-/crop/3995x2455/0,281/-/preview/
     subtitle: Submit your Short Play for Consideration in ReOrient 2021
     cta: Submit your play NOW!
     link: 'https://goldenthread.org/get-involved/submissions/'
