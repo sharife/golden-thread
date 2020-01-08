@@ -14,7 +14,7 @@ items:
     cta: Apply Today
     link: 'https://goldenthread.org/get-involved/jobs/'
     text: >-
-      This position will assist in the production of our main stage season in
+      Help diversify American theatre by assisting our main stage season in
       production management, casting, and literary management.
   - image: 'https://ucarecdn.com/9d8b62b0-a24c-4d08-8b70-b5aa87a4a5aa/'
     subtitle: ReOrient the American Stage in 2021
