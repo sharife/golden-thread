@@ -83,11 +83,11 @@ cast:
 
 
         **Creative Team:** Kate Boyd^ (Scenic Design), Cassie Barnes^ (Lighting
-        Design), James Ard^ (Sound Design), Maggie Whittacker (Costume Design),
+        Design), James Ard^ (Sound Design), Maggie Whitaker (Costume Design),
         Kenan Arun^ (Makeup Design), Nima Dehghani (Projection Design), Grisel
         GG Torres (Prop Design), Stephanie Alyson (Production Manager), Beckett
-        Finn (Technical Director), Rachel Mogan  (Assistant Stage Manager),
-        Sophie Burke  (Assistant Stage Manager)
+        Finn (Technical Director), Rachel Mogan (Assistant Stage Manager),
+        Sophie Burke (Assistant Stage Manager)
 
 
         *\*Member, Actors Equity; ^Golden Thread Resident Artist*
