@@ -3,33 +3,22 @@ title: Tickets
 lists:
   - items:
       - cta: BUY YOUR TICKETS NOW
-        image: 'https://ucarecdn.com/b8f36844-5b83-4e9f-a863-f1898671c9fe/'
-        link: >-
-          https://goldenthread.secure.force.com/ticket/#/events/a0Sf1000006r1HhEAI
-        pre: ''
-        text: >-
-          Featuring plays by **Yussef El Guindi**, **Rendah Heywood**, **Lameece
-          Issaq**, **Mustafa Kaymak**, **Betty Shamieh**, **Niku Sharei**, and
-          **Naomi Wallace.** Directed by **Michael French**, **Rebecca Novick**,
-          **Lisa Marie Rollins**, and **Torange Yeghiazarian.** <br /> **October
-          18-November 17, 2019** at Potrero Stage (1695 18th Street, San
-          Francisco) <br /> $38 General Admission | $28 Student/Senior 65+ | $20
-          1st and 2nd Thursdays | $15 Previews <br /> Group of 10 or more?
-          Contact <mailto:boxoffice@goldenthread.org> for 30% off.
-        title: ReOrient 2019 Festival of Short Plays
-      - cta: BUY YOUR TICKETS NOW
         image: 'https://ucarecdn.com/70b5fdcf-4fc2-413d-a3e9-f8f540ac47ad/'
         link: >-
           https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006fbQvUAI
         subtitle: ''
         text: >-
-          Set in Istanbul and Paris, **ON THE PERIPHERY** is a new play that
+          Set in Istanbul and Paris,**ON THE PERIPHERY** is a new play that
           focuses on the rarely told stories of migrants in Istanbul’s urban
-          slums. **Sedef Ecer’s** new play takes a lyrical, funny, and deeply
-          human look at hope and home against all odds. Directed by **Erin
-          Gilley**, the play examines homelessness and displacement in Istanbul
-          with an expansive global lens that brings it home to the San Francisco
-          Bay Area where these issues are extremely palpable and relevant.
+          slums.
+
+
+          **Sedef Ecer’s** new play takes a lyrical, funny, and deeply human
+          look at hope and home against all odds. Translated by Evren Odcikin
+          and directed by **Erin Gilley**, the play examines homelessness and
+          displacement in Istanbul with an expansive global lens that brings it
+          home to the San Francisco Bay Area where these issues are extremely
+          palpable and relevant.
 
 
           This production marks both On the Periphery’s US premiere as well as
@@ -38,12 +27,13 @@ lists:
 
 
           **February 23 - April 4, 2020** at Potrero Stage (1695 18th Street,
-          San Francisco) \
+          San Francisco)\
 
           $50-38 General Admission | $28 Student/Senior 65+ | $20 1st and 2nd
           Thursdays | $15 Previews\
 
-          Group of 10 or more? Contact <mailto:boxoffice@goldenthread.org> for
+          Group of 10 or more? Contact
+          [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) for
           30% off.
         title: On the Periphery
 ---
