@@ -1,5 +1,5 @@
 ---
-title: What Do the Women Say?
+title: What Do the Women Say? 2020
 pre: 'Power, Privilege, and Agency'
 season: 2020
 date: 2019-09-05T23:37:38.180Z
