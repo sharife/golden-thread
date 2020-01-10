@@ -35,7 +35,7 @@ title = "Golden Thread Productions"
 		[[menu.primary]]
 		parent = "season"
 		identifier = "what-do-the-women-say-p"
-		name = "What Do the Women Say?"
+		name = "What Do the Women Say? 2020"
 		url = "/productions/what-do-the-women-say"
 		weight = 14
 
