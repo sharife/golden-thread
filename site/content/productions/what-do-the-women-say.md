@@ -1,5 +1,5 @@
 ---
-title: What Do the Women Say?
+title: What Do the Women Say? 2020
 pre: 'Power, Privilege, and Agency'
 season: 2020
 date: 2019-09-05T23:37:38.180Z
@@ -16,6 +16,7 @@ description: >-
 background: 'https://ucarecdn.com/146ffef3-4fbf-4191-a119-008f6d103d7b/'
 stage: Brava Theater Center
 address: '2781 24th St, San Francisco, CA 94110'
+ticketlink: 'https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gay1UAA'
 cast:
   heading: Tickets On Sale Soon
 photos:
