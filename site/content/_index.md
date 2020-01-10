@@ -4,7 +4,7 @@ headline: Season of International Women
 subtitle: >-
   Golden Thread extends the multifaceted discourse and unique stories of the
   evolving agency of Middle East women in 2020.
-background: 'https://ucarecdn.com/0466f408-7b7a-4360-87d9-c13fd88289da/'
+background: '/img/2020_Website_Front.jpg'
 cta: LEARN MORE
 link: 'https://goldenthread.org/season/'
 items:
@@ -24,7 +24,7 @@ items:
     text: >-
       Submissions are now open for the 2021 ReOrient Festival of Short Plays.
       Are you the next voice in Middle Eastern theatre?
-  - image: 'https://ucarecdn.com/ca56218b-dc04-4d08-891f-13222e692821/'
+  - image: '/img/JmeyzWings_smallersize_featurebox.jpg'
     subtitle: Celebrate Palestinian Culture with your children
     cta: Book a Show
     link: /productions/leila

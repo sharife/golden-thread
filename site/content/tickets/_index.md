@@ -3,7 +3,7 @@ title: Tickets
 lists:
   - items:
       - cta: BUY YOUR TICKETS NOW
-        image: 'https://ucarecdn.com/70b5fdcf-4fc2-413d-a3e9-f8f540ac47ad/'
+        image: '/img/SedefEcerByHasanDogan_1_small.jpg'
         link: >-
           https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006fbQvUAI
         subtitle: ''
@@ -27,6 +27,7 @@ lists:
           discount.
         title: On the Periphery
       - cta: BUY YOUR TICKETS NOW
+        image: '/img/Panelists-964.jpg'
         link: >-
           https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gay1UAA
         text: >-
@@ -44,6 +45,7 @@ lists:
           $50-20 General Admission | $15 Student/Senior 65+
         title: What Do the Women Say? 2020
       - cta: BUY YOUR TICKETS NOW
+        image: '/img/HananeHajjAli_PointingAngry.jpg'
         link: >-
           https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gaw5UAA
         text: >-
@@ -66,6 +68,7 @@ lists:
           $50-25 General Admission
         title: Jogging
       - cta: BUY YOUR TICKETS NOW
+        image: '/img/NaghmehSaminiPhoto1_TicketingPage_website.jpg'
         link: >-
           https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gbzUUAQ
         subtitle: ''
@@ -88,6 +91,8 @@ lists:
           discount.
         title: The Language of Wild Berries
 ---
+----
+
 **GOLDEN THREAD TICKETING POLICIES**
 
 Tickets for a Golden Thread performance may be purchased online by clicking the Buy Tickets link for the show you want to see.

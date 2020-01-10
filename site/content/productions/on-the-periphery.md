@@ -11,7 +11,7 @@ description: >-
   Theater, Sedef Ecer’s *On the Periphery* paints a tender portrayal of the
   lives of social outcasts in Istanbul’s urban slums mirroring the displacement,
   migration, and gentrification in the Bay Area.
-background: 'https://ucarecdn.com/174b7abb-5b7d-40e2-8f35-b4413a503bb8/'
+background: '/img/SedefEcerByHasanDogan_1.jpg'
 writer: Sedef Ecer
 director: Erin Gilley
 translator: Evren Odcikin
