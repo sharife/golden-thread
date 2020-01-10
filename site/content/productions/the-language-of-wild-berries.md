@@ -6,18 +6,13 @@ date: 2019-11-06T22:06:41.267Z
 start: 2020-10-16T22:06:41.302Z
 end: 2020-11-15T23:06:41.319Z
 description: >-
-  Donya and Davood celebrate their wedding anniversary by traveling to the same
-  sea side town where they spent their honeymoon. But on this trip, their 10th
-  anniversary, a mysterious young man is following them. Who is he? What does he
-  want? Trying to solve the mystery of the young man throws Donya and Davood
-  into a time warp recalling their past nine anniversary trips. They remember
-  what they have forgotten. But will that be enough to save their marriage?
-  Award-winning Iranian playwright, Naghmeh Samini finds the sublime in an
-  ordinary couple’s annual road trips to the Caspian Sea. This U.S. Premiere is
-  Samini’s first production in English in the United States.
+  The past, present, and future collide in the touching story of a couple’s
+  annual road trips to the Caspian Sea and the mysterious stranger following
+  them. **Naghmeh Samini**’s play is a rare glimpse into the lives of
+  contemporary Iranians, as well as her first English production in the United
+  States.
 background: 'https://ucarecdn.com/edc486a6-251b-4b5c-947c-bac1ed21751d/'
-videos:
-  - id: jdrvjojNEW4
+videos: []
 writer: Naghmeh Samini
 director: Torange Yeghiazarian
 translator: Torange Yeghiazarian
@@ -86,4 +81,8 @@ cast:
 photos:
   heading: Photo Gallery
 ---
-Samini's TEDx Talk, _The Threat of Generations Gap_, held at University of Tehran in 2016.
+Donya and Davood celebrate their wedding anniversary by traveling to the same sea side town where they spent their honeymoon. But on this trip, their 10th anniversary, a mysterious young man is following them. Who is he? What does he want? Trying to solve the mystery of the young man throws Donya and Davood into a time warp recalling their past nine anniversary trips. They remember what they have forgotten. But will that be enough to save their marriage? The U.S. Premiere of *The Language of Wild Berries* is Samini’s first production in English in the United States.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jdrvjojNEW4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***Samini's TEDx Talk, The Threat of Generations Gap, held at University of Tehran in 2016.***
