@@ -7,13 +7,9 @@ start: 2020-05-02T03:00:00.000Z
 end: ''
 description: >-
   **Hanane Hajj Ali**, a fifty-something Lebanese actress and citizen, exercises
-  daily to avoid osteoporosis, obesity, and depression. As she jogs through both
-  secluded and open spaces in Beirut, she revisits dreams, desires, hopes,
-  disillusionments, characters, and roles. Her body is stimulated through
-  exercise with two hormones, dopamine and adrenaline, alternating between
-  destruction and construction. In Medea-like fashion, this cycle within Hanane
-  — woman, wife and mother — echoes that of her city, one that destroys to build
-  and builds to destroy.
+  daily to avoid osteoporosis, obesity, and depression. As her story intertwines
+  with the city’s tumultuous history, Hajj Ali jogs through Beirut revisiting
+  dreams, desires, hopes, and disillusionments.
 background: 'https://ucarecdn.com/da937f09-cb5d-4c02-af13-9bd88976c53b/'
 videos:
   - id: U0yozQEJ2pI
@@ -107,12 +103,14 @@ photos:
     - image: 'https://ucarecdn.com/dd28e9d0-780c-4042-ba25-7bc7b3450914/'
     - image: 'https://ucarecdn.com/5352e510-bdd4-4de7-9c07-f310a49fe9cc/'
 ---
-Acclaimed Lebanese writer and performer, Hanane Hajj Ali brings her one-woman show to the Bay Area following her celebrated performances at the Kennedy Center and the Guthrie Theater.
+Her body is stimulated through exercise with two hormones, dopamine and adrenaline, alternating between destruction and construction. In Medea-like fashion, this cycle within Hajj Ali — woman, wife and mother — echoes that of her city, one that destroys to build and builds to destroy.
+
+Acclaimed Lebanese writer and performer, Hajj Ali brings her one-woman show to the Bay Area following her celebrated performances at the Kennedy Center and the Guthrie Theater.
 
 Performed in Arabic with English super titles. 
 
 # Reviews
 
-“Gloriously unpredictable and compelling.… a radical challenge to the stereotypes and prejudices that afflict global perceptions of Arab women.” Cat Acheson, _The Skinny_
+“Gloriously unpredictable and compelling.… a radical challenge to the stereotypes and prejudices that afflict global perceptions of Arab women.” Cat Acheson, *The Skinny*
 
-“And yet to call Jogging a play about running would be like calling The Odyssey a story about sailing. As with Ali’s layers of scarves and hair, the deceptively straightforward premise unfolds itself into proliferating narratives, voices, and histories. It’s a play that meditates on what it is to be a woman, a wife, a mother, a citizen, and an artist.” Katie Logan, _Arablit_
+“And yet to call Jogging a play about running would be like calling The Odyssey a story about sailing. As with Ali’s layers of scarves and hair, the deceptively straightforward premise unfolds itself into proliferating narratives, voices, and histories. It’s a play that meditates on what it is to be a woman, a wife, a mother, a citizen, and an artist.” Katie Logan, *Arablit*
