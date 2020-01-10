@@ -20,6 +20,7 @@ translator: Torange Yeghiazarian
 additional: ''
 stage: Potrero Stage
 address: '1695 18th St, San Francisco, CA'
+ticketlink: 'https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gbzUUAQ'
 cast:
   heading: Cast & Crew
   items:
