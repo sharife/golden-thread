@@ -8,34 +8,85 @@ lists:
           https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006fbQvUAI
         subtitle: ''
         text: >-
-          Set in Istanbul and Paris,**ON THE PERIPHERY** is a new play that
-          focuses on the rarely told stories of migrants in Istanbul’s urban
-          slums.
-
-
-          **Sedef Ecer’s** new play takes a lyrical, funny, and deeply human
-          look at hope and home against all odds. Translated by Evren Odcikin
-          and directed by **Erin Gilley**, the play examines homelessness and
-          displacement in Istanbul with an expansive global lens that brings it
-          home to the San Francisco Bay Area where these issues are extremely
-          palpable and relevant.
-
-
-          This production marks both On the Periphery’s US premiere as well as
-          **the first co-production between Golden Thread Productions and
-          Crowded Fire Theater**.
+          In the first co-production between Golden Thread Productions and
+          Crowded Fire Theater, **Sedef Ecer**’s ***On the Periphery*** paints a
+          tender portrayal of the lives of social outcasts in Istanbul’s urban
+          slums mirroring the displacement, migration, and gentrification in the
+          Bay Area.
 
 
           **February 23 - April 4, 2020** at Potrero Stage (1695 18th Street,
           San Francisco)\
 
           $50-38 General Admission | $28 Student/Senior 65+ | $20 1st and 2nd
-          Thursdays | $15 Previews\
+          Thursdays | $15 Previews
+
 
           Group of 10 or more? Contact
-          [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) for
-          30% off.
+          [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) for a
+          discount.
         title: On the Periphery
+      - cta: BUY YOUR TICKETS NOW
+        link: >-
+          https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gay1UAA
+        text: >-
+          Each year, Golden Thread celebrates International Women’s Day with
+          What Do the Women Say?, a curated evening showcasing the work of
+          leading Middle Eastern women artists. The 2020 theme is Power,
+          Privilege, and Agency: an artistic exploration of the 100th
+          anniversary of the passage of the 19th Amendment, guaranteeing and
+          protecting \[white] women’s constitutional right to vote in the U.S.
+
+
+          **March 8, 2020** at at Brava Theater Center (2781 24th Street, San
+          Francisco)\
+
+          $50-20 General Admission | $15 Student/Senior 65+
+        title: What Do the Women Say? 2020
+      - cta: BUY YOUR TICKETS NOW
+        link: >-
+          https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gaw5UAA
+        text: >-
+          **Hanane Hajj Ali**, a fifty-something Lebanese actress and citizen,
+          exercises daily to avoid osteoporosis, obesity, and depression. As her
+          story intertwines with the city’s tumultuous history, Hajj Ali jogs
+          through Beirut revisiting dreams, desires, hopes, and
+          disillusionments. 
+
+
+          Acclaimed Lebanese writer and performer, Hajj Ali brings her one-woman
+          show to the Bay Area following her celebrated performances at the
+          Kennedy Center and the Guthrie Theater. ***Jogging*** is performed in
+          Arabic with English super titles.
+
+
+          **May 2, 2020** at Brava Theater Center (2781 24th Street, San
+          Francisco)\
+
+          $50-25 General Admission
+        title: Jogging
+      - cta: BUY YOUR TICKETS NOW
+        link: >-
+          https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gbzUUAQ
+        subtitle: ''
+        text: >-
+          The past, present, and future collide in the touching story of a
+          couple’s annual road trips to the Caspian Sea and the mysterious
+          stranger following them. **Naghmeh Samini**’s play is a rare glimpse
+          into the lives of contemporary Iranians, as well as her first English
+          production in the United States.
+
+
+          **October 18–November 17, 2020** at Potrero Stage (1695 18th Street,
+          San Francisco)\
+
+          $50-25 General Admission | $15 Previews
+
+
+          Group of 10 or more? Contact
+          [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) for a
+          discount.
+        title: The Language of Wild Berries
 ---
 **GOLDEN THREAD TICKETING POLICIES**
 
