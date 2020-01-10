@@ -21,6 +21,8 @@ cast:
   heading: Tickets On Sale Soon
 photos:
   heading: Photo Gallery
+  items:
+    - {}
 ---
 ![](https://ucarecdn.com/efefe425-a7cb-4683-a75d-f7a6e9a6dc94/)
 
