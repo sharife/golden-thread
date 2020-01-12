@@ -1,6 +1,6 @@
 ---
 title: On the Periphery
-pre: US Premiere
+pre: U.S. Premiere
 season: 2020
 date: 2019-11-10T20:06:27.442Z
 start: 2020-02-23T08:00:00.000Z
@@ -11,7 +11,7 @@ description: >-
   Theater, Sedef Ecer’s *On the Periphery* paints a tender portrayal of the
   lives of social outcasts in Istanbul’s urban slums mirroring the displacement,
   migration, and gentrification in the Bay Area.
-background: '/img/SedefEcerByHasanDogan_1.jpg'
+background: /img/SedefEcerByHasanDogan_1.jpg
 writer: Sedef Ecer
 director: Erin Gilley
 translator: Evren Odcikin
