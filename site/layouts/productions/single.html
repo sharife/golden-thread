@@ -28,7 +28,7 @@
         {{ end }}
         {{ if .Params.ticketlink }}
           <div class="pv2">
-            <a href="{{.Params.ticketlink }}" class="btn raise">BUY TICKETS</a>
+            <a href="{{.Params.ticketlink}}" class="btn raise">BUY TICKETS</a>
           </div>
           <!-- <div id="open-modal-{{.Title}}-tickets" class="modal-window">
             <div>
@@ -45,7 +45,11 @@
         {{ end }}
 
         {{ if .Params.ticketlink }}
-          <p class="f6 mb3"><a href="/about/visit" class="link">→ Plan your visit</a></p>
+          {{ if .Params.visitlink }}
+            <p class="f6 mb3"><a href="{{.Params.visitlink}}" class="link">→ Plan your visit</a></p>
+          {{ else }}
+            <p class="f6 mb3"><a href="/about/visit" class="link">→ Plan your visit</a></p>
+          {{ end }}
         {{ end }}
         
         <div class="mb3">
