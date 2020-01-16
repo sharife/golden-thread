@@ -40,19 +40,36 @@ lists:
         subtitle: |-
           400 Grand Avenue\
           South San Francisco, CA 94080
+      - cta: Learn More
+        link: >-
+          https://dothebay.com/events/2020/4/18/amplify-24-hour-performance-marathon  
+        title: AMPLIFY! at Brava Theater Center
+        pre: 'April 19, 2020 at 11 AM'
+        subtitle: |-
+          2781 24th Street\
+          San Francisco, CA 94110
   - heading: Testimonials
     items:
       - subtitle: ''
         text: >-
+          #### "Thank you so much for the best educational program our school
+          has had in years...
+
+
+          "The beautiful messages and cultural awareness in story form is really
+          special! Live theatre is lacking in our elementary education-thank you
+          again for filling in this void in such a lovely and powerful way."
+          *—Teacher, Daniel Webster Elementary School*
+
+
           "Golden Thread has quickly become a favorite presenter of family
           programs at San Francisco Public Library."  *—Family Engagement
           Services, San Francisco Public Library*
 
 
-          "The program was excellent. It definitely broadened their perception
-          of cultures. The students enjoyed the ingenious way the actors changed
-          their parts. The kids went around mimicking the actors for days."
-          *—Teacher, Hawes Elementary*
+          "The students enjoyed the ingenious way the actors changed their
+          parts. The kids went around mimicking the actors for days." *—Teacher,
+          Hawes Elementary*
 
 
           "I’m so happy these kids are getting such wonderful exposure to Middle
@@ -68,13 +85,6 @@ lists:
 
           "Inspirational. It would be wonderful to bring it to all elementary
           schools." *—President, Berkeley PTA Council*
-
-
-          "I so appreciated how this performance gave my students some
-          understanding of Palestine, Arabic, and even the simple geography of
-          the Middle East. I especially appreciated the lesson plan that was
-          available to us before the performance." *—Teacher, Berkwood Hedge
-          School*
 cast:
   heading: Cast & Crew
   items:
