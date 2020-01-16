@@ -53,7 +53,7 @@ lists:
       - subtitle: ''
         text: >-
           #### "Thank you so much for the best educational program our school
-          has had in year...
+          has had in years...
 
 
           "The beautiful messages and cultural awareness in story form is really
