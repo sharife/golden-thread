@@ -18,7 +18,7 @@ stage: Brava Theater Center
 address: '2781 24th St, San Francisco, CA 94110'
 ticketlink: 'https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gay1UAA'
 cast:
-  heading: Tickets On Sale Soon
+  heading: Tickets on Sale Now
 photos:
   heading: Photo Gallery
   items:
