@@ -85,7 +85,7 @@ photos:
 ---
 Set in Istanbul and Paris, Ecer’s new play focuses on the rarely told stories of migrants in Istanbul’s urban slums. Farmers Dilcha and Bilo leave their home in the countryside to make a life in the big city. Young lovers Azad and Tamar appeal to superstar Sultane’s reality TV show to realize their dream of a life in France. Gypsy woman Kybelee finds home in a shack she has made with her own hands.
 
-Furthermore, the play takes a lyrical, funny, and deeply human look at hope and home against all odds. It examines homelessness and displacement in Istanbul with an expansive global lens that brings it home to the San Francisco Bay Area where these issues are extremely palpable and relevant.
+It takes a lyrical, funny, and deeply human look at hope and home against all odds. The play examines homelessness and displacement in Istanbul with an expansive global lens that brings it home to the San Francisco Bay Area where these issues are extremely palpable and relevant.
 
 For more information about the history between Golden Thread Productions and [Crowded Fire Theater](http://crowdedfire.org), click [here](https://www.goldenthread.org/posts/trailblazing-partnership-results-in-multiple-wins-for-two-exemplary-bay-area-theatre-companies/).
 
