@@ -7,6 +7,9 @@ start: 2020-02-23T08:00:00.000Z
 end: 2020-04-04T20:06:27.482Z
 heading: ''
 description: >-
+  ## A magical tale of hope and home against all odds. 
+
+
   In the first co-production between Golden Thread Productions and Crowded Fire
   Theater, Sedef Ecer’s *On the Periphery* paints a tender portrayal of the
   lives of social outcasts in Istanbul’s urban slums mirroring the displacement,
