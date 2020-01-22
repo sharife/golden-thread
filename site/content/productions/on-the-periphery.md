@@ -11,21 +11,9 @@ description: >-
   Theater, Sedef Ecer’s *On the Periphery* paints a tender portrayal of the
   lives of social outcasts in Istanbul’s urban slums mirroring the displacement,
   migration, and gentrification in the Bay Area.
-
-
-  **“A beautiful play filled with hope and feeling.”**
-
-
-  *—Telerama*
-
-
-  **“Sedef Ecer succeeds in an arena few dare venture into. A powerful play that
-  speaks of our humanity with humbleness and generosity, with whiffs of poetry
-  and imagination.”**
-
-
-  *—Theatrotèque*
 background: /img/SedefEcerByHasanDogan_1.jpg
+videos:
+  - id: Sze36ariAJM
 writer: Sedef Ecer
 director: Erin Gilley
 translator: Evren Odcikin
@@ -82,10 +70,10 @@ cast:
 
         **Creative Team:** Kate Boyd^ (Scenic Design), Cassie Barnes^ (Lighting
         Design), James Ard^ (Sound Design), Maggie Whitaker (Costume Design),
-        Kenan Arun^ (Makeup Design), Nima Dehghani (Projection Design), Grisel
-        GG Torres (Prop Design), Stephanie Alyson (Production Manager), Beckett
-        Finn (Technical Director), Rachel Mogan (Assistant Stage Manager),
-        Sophie Burke (Assistant Stage Manager)
+        Kenan Arun^ (Makeup Design), Nima Dehghani (Projection Design),
+        Stephanie Alyson (Production Manager), Beckett Finn (Technical
+        Director), Bri Ownes (Stage Manager), Rachel Mogan (Assistant Stage
+        Manager), Sophie Burke (Assistant Stage Manager)
 
 
         *\*Member, Actors Equity; ^Golden Thread Resident Artist*
