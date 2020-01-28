@@ -16,7 +16,7 @@ description: >-
   migration, and gentrification in the Bay Area.
 background: /img/SedefEcerByHasanDogan_1.jpg
 videos:
-  - id: Sze36ariAJM
+  - id: XBQDFk1e33s
 writer: Sedef Ecer
 director: Erin Gilley
 translator: Evren Odcikin
