@@ -4,7 +4,7 @@ headline: Season of International Women
 subtitle: >-
   Golden Thread extends the multifaceted discourse and unique stories of the
   evolving agency of Middle East women in 2020.
-background: '/img/2020_Website_Front.jpg'
+background: /img/2020_Website_Front.jpg
 cta: LEARN MORE
 link: 'https://goldenthread.org/season/'
 items:
@@ -24,12 +24,12 @@ items:
     text: >-
       Submissions are now open for the 2021 ReOrient Festival of Short Plays.
       Are you the next voice in Middle Eastern theatre?
-  - image: '/img/JmeyzWings_smallersize_featurebox.jpg'
+  - image: /img/JmeyzWings_smallersize_featurebox.jpg
     subtitle: Celebrate Palestinian Culture with your children
     cta: Book a Show
     link: /productions/leila
     text: >-
-      Drawn from Palestinian folk tales, <em>Leila’s Quest For Flight</em> will
-      resume touring schools & libraries this fall.
+      Drawn from Palestinian folk tales, Leila’s Quest For Flight are currently
+      touring schools & libraries.
 ---
 
