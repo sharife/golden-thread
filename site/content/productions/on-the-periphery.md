@@ -94,3 +94,5 @@ For more information about the history between Golden Thread Productions and [Cr
 **Golden Thread Productions** is the first American theatre company devoted to plays from or about the Middle East, defined broadly and inclusively. We produce passionate and provocative plays and are a developmental catalyst and vibrant artistic home to artists at various stages of their career. We bring the Middle East to the American stage, creating treasured cultural experiences for audiences of all ages and backgrounds.  
 
 **Crowded Fire Theater’s** ensemble produces poetic, bold theater created by new and contemporary artists. We seek to engage our community by producing adventurous work, innovative in structure, which addresses the diverse political and social concerns of our audiences.
+
+This production is made possible in part by major support from National Endowment for the Arts, Sam Mazza Foundation, Fleishhacker Foundation, and the generosity of countless individual donors.
