@@ -82,6 +82,16 @@ cast:
         *\*Member, Actors Equity; ^Golden Thread Resident Artist*
 photos:
   heading: Photo Gallery
+bottom:
+  text: >-
+    This production is made possible in part by major support from National
+    Endowment for the Arts, Sam Mazza Foundation, Fleishhacker Foundation, and
+    the generosity of countless individual donors.
+
+
+    Golden Thread is a resident company at Potrero Stage, operated by
+    PlayGround, and this show is presented as part of PlayGround’s Potrero Stage
+    Presenting Program.
 ---
 Set in Istanbul and Paris, Ecer’s new play focuses on the rarely told stories of migrants in Istanbul’s urban slums. Farmers Dilcha and Bilo leave their home in the countryside to make a life in the big city. Young lovers Azad and Tamar appeal to superstar Sultane’s reality TV show to realize their dream of a life in France. Roma woman, Kybelee, finds home in a shack she has made with her own hands.
 
@@ -94,5 +104,3 @@ For more information about the history between Golden Thread Productions and [Cr
 **Golden Thread Productions** is the first American theatre company devoted to plays from or about the Middle East, defined broadly and inclusively. We produce passionate and provocative plays and are a developmental catalyst and vibrant artistic home to artists at various stages of their career. We bring the Middle East to the American stage, creating treasured cultural experiences for audiences of all ages and backgrounds.  
 
 **Crowded Fire Theater’s** ensemble produces poetic, bold theater created by new and contemporary artists. We seek to engage our community by producing adventurous work, innovative in structure, which addresses the diverse political and social concerns of our audiences.
-
-This production is made possible in part by major support from National Endowment for the Arts, Sam Mazza Foundation, Fleishhacker Foundation, and the generosity of countless individual donors.
