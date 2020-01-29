@@ -48,6 +48,13 @@ lists:
         subtitle: |-
           2781 24th Street\
           San Francisco, CA 94110
+      - cta: Learn More
+        link: 'https://sccld.org/locations/MI/'
+        title: Milpitas Library
+        pre: 'May 5, 2020 at 7pm'
+        subtitle: |-
+          160 N. Main Street\
+          Milpitas, CA 95035
   - heading: Testimonials
     items:
       - subtitle: ''
