@@ -93,7 +93,7 @@ bottom:
     PlayGround, and this show is presented as part of PlayGround’s Potrero Stage
     Presenting Program.
 ---
-Set in Istanbul and Paris, Ecer’s new play focuses on the rarely told stories of migrants in Istanbul’s urban slums. Farmers Dilcha and Bilo leave their home in the countryside to make a life in the big city. Young lovers Azad and Tamar appeal to superstar Sultane’s reality TV show to realize their dream of a life in France. Roma woman, Kybelee, finds home in a shack she has made with her own hands.
+Set in Istanbul and Paris, Ecer’s new play focuses on the rarely told stories of migrants in Istanbul’s urban slums. Farmers Dilsha and Bilo leave their home in the countryside to make a life in the big city. Young lovers Azad and Tamar appeal to superstar Sultane’s reality TV show to realize their dream of a life in France. Roma woman, Kibele, finds home in a shack she has made with her own hands.
 
 Translated from Turkish by Evren Odcikin, the play takes a lyrical, funny, and deeply human look at hope and home against all odds. It examines homelessness and displacement in Istanbul with an expansive global lens that brings it home to the San Francisco Bay Area where these issues are extremely palpable and relevant.
 
