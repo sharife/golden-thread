@@ -70,20 +70,6 @@ staff:
       image: /img/archive/2018/10/Espino-Laura-300x300.jpg
       name: Laura Espino
     - bio: >-
-        <strong>Grisel (GG) Torres</strong> is from the Bay Area by way of
-        migrant parents from Guanajuato, México. She studied Technical Theatre,
-        Light Design, and Props Design at San Francisco State University. She
-        also loves to paint and create movement-based performance art, and sees
-        the two art forms as a vantage point for learning about self-healing.
-        Grisel is the Production Manager and a Resident Artist for Golden Thread
-        Productions, and is also the Venue Manager for the Joe Goode Annex in
-        the Mission. She often designs lights for PUSH Dance Company and Queer
-        Punk performance artist Keith Hennessy. She is extremely grateful to
-        have a hand in making some of the Bay Area&#8217;s best radical art.
-      credit: Production Manager
-      image: /img/archive/2018/02/Torres-Grisel-300x300.jpg
-      name: Grisel Torres
-    - bio: >-
         **Julius Rea** is a Bay Area theatre maker and curator. In addition to
         writing for publications such as the East Bay Express and EBONY
         magazine, he obtained a degree in Philosophy at San Francisco State
