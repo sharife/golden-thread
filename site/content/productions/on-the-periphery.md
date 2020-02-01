@@ -75,7 +75,7 @@ cast:
         Design), James Ard^ (Sound Design), Maggie Whitaker (Costume Design),
         Kenan Arun^ (Makeup Design), Nima Dehghani (Projection Design),
         Stephanie Alyson (Production Manager), Beckett Finn (Technical
-        Director), Bri Ownes (Stage Manager), Rachel Mogan (Assistant Stage
+        Director), Bri Owens (Stage Manager), Rachel Mogan (Assistant Stage
         Manager), Sophie Burke (Assistant Stage Manager)
 
 
