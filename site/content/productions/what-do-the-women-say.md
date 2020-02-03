@@ -18,9 +18,102 @@ stage: Brava Theater Center
 address: '2781 24th St, San Francisco, CA 94110'
 ticketlink: 'https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gay1UAA'
 cast:
-  heading: Tickets on Sale Now
+  heading: Artist Bios
+  items:
+    - bio: >-
+        **Kathreen Khavari** is an Iranian-American actress, writer & producer
+        whose short parody called “Brain of Terror” went viral. She was recently
+        seen on two HBO projects: Issa Rae’s hit series *INSECURE* as Patricia,
+        Issa’s sharp-witted and snarky co-worker; and in Jean-Marc Valle’s
+        acclaimed series *BIG LITTE LIES* as Samantha, one of the parents
+        interviewed throughout the season. She worked with Christopher Guest
+        both on his recent Netflix film *MASCOTS* and starred in his PetSmart
+        commercials. Kat is the voice of the iconic Ms. Marvel aka Kamala Khan,
+        in the Disney-Marvel animated series *MARVEL: AVENGERS ASSEMBLE* and
+        *MARVEL RISING*. Her Oakland-based pilot, *EMBRACE*—which she co-wrote
+        and starred in— premiered at the 2020 Sundance Film Festival as an Indie
+        Episodic selection.
+      image: 'https://ucarecdn.com/f1ede0b4-f9e9-4c68-941a-a12c7a68fa8e/'
+      name: Kathreen Khavari
+    - bio: >-
+        **Naghmeh Samini** is an award-winning playwright, scriptwriter and
+        Assistant Professor in Dramatic Literature at the Faculty of Music and
+        Performing Arts, University of Tehran. Her plays including *Sleeping in
+        an Empty Cup*, *Sky Horses Rain Ashes*, *Making Faces*, and *The Home*
+        (Best Playwright, 2008) have been staged in Iran, France, India, Canada,
+        and the United States, among others. She is the recipient of several
+        awards for her screenplays, notably by Yass Festival in 2016 for the
+        popular television series, Shahrzad. UNESCO selected Samini’s play *The
+        King and the Mathematician: A Legend* (2012), inspired by a story in the
+        *One Thousand and One Nights*, as one of the cultural achievements of
+        the year. Samini’s research into Iranian mythology has yielded several
+        publications, notably *The Theatre of Myths*, selected as Best Book of
+        the Year in Iran in 2010, and *Battles and Bodies* (Tehran: Ney,
+        forthcoming 2019) an examination of the semiotics of human body in
+        post-war Japanese cinema. Naghmeh was born in Iran and holds a BA in
+        Drama and a Masters of Arts in Cinema from the University of Tehran. Her
+        PhD thesis at the University of Tarbiat Modarres in Tehran focused on
+        Drama and Mythology.
+      image: 'https://ucarecdn.com/27af25ec-1a88-4b1e-a367-489a333a55d8/'
+      name: Naghmeh Samini
+    - bio: >-
+        **Basma Edrees** is a graduate of The Juilliard School where she
+        received her Master’s in Violin Performance. She performed under the
+        batons of many great conductors including Alan Gilbert and Daniel
+        Barenboim. Basma has served as Associate Concert Master of the Oakland
+        Symphony during their 2015-2016 season. She also worked with the San
+        Francisco Ballet Orchestra as well as the Santa Rosa Symphony. Basma has
+        performed as a soloist in various countries including the USA,
+        Montenegro, Ethiopia and her native country, Egypt. Equally at home with
+        Arabic music, Basma performed with renowned musicians from the Arab
+        world and has been invited to give Arabic Music workshops at UC Berkeley
+        and Stanford. She has also taught Arabic music at the San Francisco
+        Conservatory of Music. She has held the position of Music Director of
+        the Aswat Women Ensemble four four years; an all female Bay Area
+        community ensemble specializing in Arab music. She also served as the
+        co-manager and instructor of the Aswat Women Empowerment Program during
+        their 2019 Fall season; a program designed to empower women of Arab
+        descent through the study of their own rich musical tradition. Basma’s
+        proficiency in Music Theory earned her assistant teaching positions as
+        well as teaching fellowships at The Juilliard School while she was a
+        student there. She is currently a member of the Music Theory faculty at
+        the San Francisco Conservatory of Music. In addition to her performance
+        career, Basma loves to compose her own music. Her compositions reflect a
+        union of her Western contrapuntal training and her Eastern Egyptian
+        roots in a musical style that reflects her rich musical upbringing."
+      image: 'https://ucarecdn.com/b19b9ea1-7a54-4c4a-9dd4-6d2210c5dbc7/'
+      name: Basma Edrees
+    - bio: >-
+        **Ava Nazar** is a San Francisco Bay Area-based pianist. Born in Iran,
+        she has had numerous performances as soloist and chamber musician in her
+        home country and across the United States in venues such as the United
+        Nations, Merkin Hall, National Sawdust, American Museum of Natural
+        History, and Montgomery Museum of Fine Arts. Ava has been featured at
+        Académies Internationales d'été du Grand Nancy in France, has received
+        scholarship to study at the Aspen Music Festival, and has served as a
+        fellow at the Music Academy of the West in Santa Barbara. She is a
+        prizewinner of several competitions including the National Youth Music
+        Festival, the Biennial Piano Competition of New Music, and the Fajr
+        International Music Festival in Tehran. Ava received her Bachelor’s
+        degree in Piano Performance from the Manhattan School of Music, where
+        she worked with Donn-Alexandre Feder, and received her Master’s degree
+        in Collaborative Piano from The Juilliard School as a recipient of the
+        Bloomfield, Garvey, and Shendell Scholarships, under the guidance of
+        Jonathan Feldman, Margo Garrett, Andrew Harley, and Cameron Stowe. She
+        has also had the privilege of working with many distinguished artists
+        including Henri Barda, Jeffrey Cohen, Roger Vignoles, Rita Sloan, Anne
+        Epperson, J.J. Penna, Diane Richardson, Franz Helmerson, and David
+        Finckel. Passionate about expanding musical access across communities,
+        Ava is a volunteer at the Sing for Hope, an NYC-based and artist-powered
+        non-profit organization which brings art to communities in need. In
+        addition, she has worked as a teaching artist fellow with the ArtistYear
+        organization, which its mission is to increase arts access and education
+        for underserved youth in America through an arts-focused national
+        service year.
+      image: 'https://ucarecdn.com/1cbc1624-ce26-48c3-9e28-cc2189037f3f/'
+      name: Ava Nazar
 photos:
-  heading: Photo Gallery
+  heading: TICKETS ARE ON SALE NOW
   items:
     - {}
 bottom:
@@ -54,13 +147,3 @@ This year’s program showcases the work of leading Middle Eastern women artists
 **Marvel Rising** is an American media franchise produced by Marvel Animation based on characters from Marvel Comics. The franchise focuses on the Secret Warriors, a diverse team of teenage superheroes who must band together to defend the world from powerful threats. Kamala Khan, created by Sana Amanat, G. Willow Wilson, and Adrian Alphona, and featuring the voice of **Kathreen Khavari** is the fourth character to take the name Ms. Marvel. Khan first appeared in Captain Marvel #17 (November 2013) and is a 16-year-old Pakistani-American from Jersey City, New Jersey, who idolizes Carol Danvers, the first character to use the moniker Ms. Marvel. Premiering in February 2014, Khan was given her own Ms. Marvel series becoming Marvel Comics' first Muslim character to headline her own comic book. The first collected volume of this series, *Ms. Marvel Volume 1: No Normal*, won the 2015 Hugo Award for Best Graphic Story.
 
 Golden Thread will premiere ***The Language of Wild Berries* by Naghmeh Samini** in fall 2020. The play depicts a couple, Donya and Davood, celebrating their wedding anniversary by traveling to the same sea side town where they spent their honeymoon. But on this trip, their 10th anniversary, a mysterious young man is following them. Who is he? What does he want? Trying to solve the mystery of the young man throws Donya and Davood into a time warp recalling their past nine anniversary trips. They remember what they have forgotten. But will that be enough to save their marriage? The U.S. Premiere of *The Language of Wild Berries* is Samini’s first production in English in the United States.
-
-**2020 ARTIST BIOGRAPHIES:**
-
-**KATHREEN KHAVARI** is an Iranian-American actress, writer & producer whose short parody called “Brain of Terror” went viral. She was recently seen on two HBO projects: Issa Rae’s hit series *INSECURE* as Patricia, Issa’s sharp-witted and snarky co-worker; and in Jean-Marc Valle’s acclaimed series *BIG LITTE LIES* as Samantha, one of the parents interviewed throughout the season. She worked with Christopher Guest both on his recent Netflix film *MASCOTS* and starred in his PetSmart commercials. Kat is the voice of the iconic Ms. Marvel aka Kamala Khan, in the Disney-Marvel animated series *MARVEL: AVENGERS ASSEMBLE* and *MARVEL RISING*. Her Oakland-based pilot, *EMBRACE*—which she co-wrote and starred in— premiered at the 2020 Sundance Film Festival as an Indie Episodic selection.
-
-**Naghmeh Samini** is an award-winning playwright, scriptwriter and Assistant Professor in Dramatic Literature at the Faculty of Music and Performing Arts, University of Tehran. Her plays including *Sleeping in an Empty Cup*, *Sky Horses Rain Ashes*, *Making Faces*, and *The Home* (Best Playwright, 2008) have been staged in Iran, France, India, Canada, and the United States, among others. She is the recipient of several awards for her screenplays, notably by Yass Festival in 2016 for the popular television series, Shahrzad. UNESCO selected Samini’s play *The King and the Mathematician: A Legend* (2012), inspired by a story in the *One Thousand and One Nights*, as one of the cultural achievements of the year. Samini’s research into Iranian mythology has yielded several publications, notably *The Theatre of Myths*, selected as Best Book of the Year in Iran in 2010, and *Battles and Bodies* (Tehran: Ney, forthcoming 2019) an examination of the semiotics of human body in post-war Japanese cinema. Naghmeh was born in Iran and holds a BA in Drama and a Masters of Arts in Cinema from the University of Tehran. Her PhD thesis at the University of Tarbiat Modarres in Tehran focused on Drama and Mythology.
-
-**Basma Edrees** is a graduate of The Juilliard School where she received her Master’s in Violin Performance. She performed under the batons of many great conductors including Alan Gilbert and Daniel Barenboim. Basma has served as Associate Concert Master of the Oakland Symphony during their 2015-2016 season. She also worked with the San Francisco Ballet Orchestra as well as the Santa Rosa Symphony. Basma has performed as a soloist in various countries including the USA, Montenegro, Ethiopia and her native country, Egypt. Equally at home with Arabic music, Basma performed with renowned musicians from the Arab world and has been invited to give Arabic Music workshops at UC Berkeley and Stanford. She has also taught Arabic music at the San Francisco Conservatory of Music. She has held the position of Music Director of the Aswat Women Ensemble four four years; an all female Bay Area community ensemble specializing in Arab music. She also served as the co-manager and instructor of the Aswat Women Empowerment Program during their 2019 Fall season; a program designed to empower women of Arab descent through the study of their own rich musical tradition. Basma’s proficiency in Music Theory earned her assistant teaching positions as well as teaching fellowships at The Juilliard School while she was a student there. She is currently a member of the Music Theory faculty at the San Francisco Conservatory of Music. In addition to her performance career, Basma loves to compose her own music. Her compositions reflect a union of her Western contrapuntal training and her Eastern Egyptian roots in a musical style that reflects her rich musical upbringing."
-
-**Ava Nazar** is a San Francisco Bay Area-based pianist. Born in Iran, she has had numerous performances as soloist and chamber musician in her home country and across the United States in venues such as the United Nations, Merkin Hall, National Sawdust, American Museum of Natural History, and Montgomery Museum of Fine Arts. Ava has been featured at Académies Internationales d'été du Grand Nancy in France, has received scholarship to study at the Aspen Music Festival, and has served as a fellow at the Music Academy of the West in Santa Barbara. She is a prizewinner of several competitions including the National Youth Music Festival, the Biennial Piano Competition of New Music, and the Fajr International Music Festival in Tehran. Ava received her Bachelor’s degree in Piano Performance from the Manhattan School of Music, where she worked with Donn-Alexandre Feder, and received her Master’s degree in Collaborative Piano from The Juilliard School as a recipient of the Bloomfield, Garvey, and Shendell Scholarships, under the guidance of Jonathan Feldman, Margo Garrett, Andrew Harley, and Cameron Stowe. She has also had the privilege of working with many distinguished artists including Henri Barda, Jeffrey Cohen, Roger Vignoles, Rita Sloan, Anne Epperson, J.J. Penna, Diane Richardson, Franz Helmerson, and David Finckel. Passionate about expanding musical access across communities, Ava is a volunteer at the Sing for Hope, an NYC-based and artist-powered non-profit organization which brings art to communities in need. In addition, she has worked as a teaching artist fellow with the ArtistYear organization, which its mission is to increase arts access and education for underserved youth in America through an arts-focused national service year.
