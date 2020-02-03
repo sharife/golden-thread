@@ -113,7 +113,7 @@ cast:
       image: 'https://ucarecdn.com/1cbc1624-ce26-48c3-9e28-cc2189037f3f/'
       name: Ava Nazar
 photos:
-  heading: Photo Gallery
+  heading: TICKETS ARE ON SALE NOW
   items:
     - {}
 bottom:
