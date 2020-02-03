@@ -3,7 +3,7 @@ title: Tickets
 lists:
   - items:
       - cta: BUY YOUR TICKETS NOW
-        image: '/img/SedefEcerByHasanDogan_1_small.jpg'
+        image: /img/SedefEcerByHasanDogan_1_small.jpg
         link: >-
           https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006fbQvUAI
         subtitle: ''
@@ -27,7 +27,7 @@ lists:
           discount.
         title: On the Periphery
       - cta: BUY YOUR TICKETS NOW
-        image: '/img/Panelists-964.jpg'
+        image: /img/Panelists-964.jpg
         link: >-
           https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gay1UAA
         text: >-
@@ -45,7 +45,7 @@ lists:
           $50-20 General Admission | $15 Student/Senior 65+
         title: What Do the Women Say? 2020
       - cta: BUY YOUR TICKETS NOW
-        image: '/img/HananeHajjAli_PointingAngry.jpg'
+        image: /img/HananeHajjAli_PointingAngry.jpg
         link: >-
           https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gaw5UAA
         text: >-
@@ -68,7 +68,7 @@ lists:
           $50-25 General Admission
         title: Jogging
       - cta: BUY YOUR TICKETS NOW
-        image: '/img/NaghmehSaminiPhoto1_TicketingPage_website.jpg'
+        image: /img/NaghmehSaminiPhoto1_TicketingPage_website.jpg
         link: >-
           https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gbzUUAQ
         subtitle: ''
@@ -80,7 +80,7 @@ lists:
           production in the United States.
 
 
-          **October 18–November 17, 2020** at Potrero Stage (1695 18th Street,
+          **October 16–November 15, 2020** at Potrero Stage (1695 18th Street,
           San Francisco)\
 
           $50-25 General Admission | $15 Previews
