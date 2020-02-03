@@ -38,22 +38,22 @@ cast:
     - bio: >-
         **Naghmeh Samini** is an award-winning playwright, scriptwriter and
         Assistant Professor in Dramatic Literature at the Faculty of Music and
-        Performing Arts, University of Tehran. Her plays including *Sleeping in
+        Performing Arts, University of Tehran. Her plays, including *Sleeping in
         an Empty Cup*, *Sky Horses Rain Ashes*, *Making Faces*, and *The Home*
-        (Best Playwright, 2008) have been staged in Iran, France, India, Canada,
-        and the United States, among others. She is the recipient of several
-        awards for her screenplays, notably by Yass Festival in 2016 for the
-        popular television series, Shahrzad. UNESCO selected Samini’s play *The
-        King and the Mathematician: A Legend* (2012), inspired by a story in the
-        *One Thousand and One Nights*, as one of the cultural achievements of
-        the year. Samini’s research into Iranian mythology has yielded several
-        publications, notably *The Theatre of Myths*, selected as Best Book of
-        the Year in Iran in 2010, and *Battles and Bodies* (Tehran: Ney,
-        forthcoming 2019) an examination of the semiotics of human body in
-        post-war Japanese cinema. Naghmeh was born in Iran and holds a BA in
-        Drama and a Masters of Arts in Cinema from the University of Tehran. Her
-        PhD thesis at the University of Tarbiat Modarres in Tehran focused on
-        Drama and Mythology.
+        (Best Playwright, 2008), have been staged in Iran, France, India,
+        Canada, and the United States, among others. She is the recipient of
+        several awards for her screenplays, notably by Yass Festival in 2016 for
+        the popular television series, Shahrzad. UNESCO selected Samini’s play
+        *The King and the Mathematician: A Legend* (2012), inspired by a story
+        in the *One Thousand and One Nights*, as one of the cultural
+        achievements of the year. Samini’s research into Iranian mythology has
+        yielded several publications, notably *The Theatre of Myths*, selected
+        as Best Book of the Year in Iran in 2010, and *Battles and Bodies*
+        (Tehran: Ney, forthcoming 2019) an examination of the semiotics of human
+        body in post-war Japanese cinema. Naghmeh was born in Iran and holds a
+        BA in Drama and a Masters of Arts in Cinema from the University of
+        Tehran. Her PhD thesis at the University of Tarbiat Modarres in Tehran
+        focused on Drama and Mythology.
       image: 'https://ucarecdn.com/27af25ec-1a88-4b1e-a367-489a333a55d8/'
       name: Naghmeh Samini
     - bio: >-
@@ -69,7 +69,7 @@ cast:
         world and has been invited to give Arabic Music workshops at UC Berkeley
         and Stanford. She has also taught Arabic music at the San Francisco
         Conservatory of Music. She has held the position of Music Director of
-        the Aswat Women Ensemble four four years; an all female Bay Area
+        the Aswat Women Ensemble for four years; an all female Bay Area
         community ensemble specializing in Arab music. She also served as the
         co-manager and instructor of the Aswat Women Empowerment Program during
         their 2019 Fall season; a program designed to empower women of Arab
@@ -80,7 +80,7 @@ cast:
         the San Francisco Conservatory of Music. In addition to her performance
         career, Basma loves to compose her own music. Her compositions reflect a
         union of her Western contrapuntal training and her Eastern Egyptian
-        roots in a musical style that reflects her rich musical upbringing."
+        roots in a musical style that reflects her rich musical upbringing.
       image: 'https://ucarecdn.com/b19b9ea1-7a54-4c4a-9dd4-6d2210c5dbc7/'
       name: Basma Edrees
     - bio: >-
@@ -89,27 +89,26 @@ cast:
         home country and across the United States in venues such as the United
         Nations, Merkin Hall, National Sawdust, American Museum of Natural
         History, and Montgomery Museum of Fine Arts. Ava has been featured at
-        Académies Internationales d'été du Grand Nancy in France, has received
-        scholarship to study at the Aspen Music Festival, and has served as a
-        fellow at the Music Academy of the West in Santa Barbara. She is a
-        prizewinner of several competitions including the National Youth Music
-        Festival, the Biennial Piano Competition of New Music, and the Fajr
-        International Music Festival in Tehran. Ava received her Bachelor’s
-        degree in Piano Performance from the Manhattan School of Music, where
-        she worked with Donn-Alexandre Feder, and received her Master’s degree
-        in Collaborative Piano from The Juilliard School as a recipient of the
-        Bloomfield, Garvey, and Shendell Scholarships, under the guidance of
-        Jonathan Feldman, Margo Garrett, Andrew Harley, and Cameron Stowe. She
-        has also had the privilege of working with many distinguished artists
-        including Henri Barda, Jeffrey Cohen, Roger Vignoles, Rita Sloan, Anne
-        Epperson, J.J. Penna, Diane Richardson, Franz Helmerson, and David
-        Finckel. Passionate about expanding musical access across communities,
-        Ava is a volunteer at the Sing for Hope, an NYC-based and artist-powered
-        non-profit organization which brings art to communities in need. In
-        addition, she has worked as a teaching artist fellow with the ArtistYear
-        organization, which its mission is to increase arts access and education
-        for underserved youth in America through an arts-focused national
-        service year.
+        Académies Internationales d'été du Grand Nancy in France, received a
+        scholarship to study at the Aspen Music Festival, and served as a fellow
+        at the Music Academy of the West in Santa Barbara. She is a prizewinner
+        of several competitions including the National Youth Music Festival, the
+        Biennial Piano Competition of New Music, and the Fajr International
+        Music Festival in Tehran. Ava received her Bachelor’s degree in Piano
+        Performance from the Manhattan School of Music, where she worked with
+        Donn-Alexandre Feder, and received her Master’s degree in Collaborative
+        Piano from The Juilliard School as a recipient of the Bloomfield,
+        Garvey, and Shendell Scholarships, under the guidance of Jonathan
+        Feldman, Margo Garrett, Andrew Harley, and Cameron Stowe. She has also
+        had the privilege of working with many distinguished artists including
+        Henri Barda, Jeffrey Cohen, Roger Vignoles, Rita Sloan, Anne Epperson,
+        J.J. Penna, Diane Richardson, Franz Helmerson, and David Finckel.
+        Passionate about expanding musical access across communities, Ava is a
+        volunteer at Sing for Hope, an NYC-based and artist-powered non-profit
+        organization which brings art to communities in need. In addition, she
+        has worked as a teaching artist fellow with the ArtistYear organization,
+        whose mission is to increase arts access and education for underserved
+        youth in America through an arts-focused national service year.
       image: 'https://ucarecdn.com/1cbc1624-ce26-48c3-9e28-cc2189037f3f/'
       name: Ava Nazar
 photos:
@@ -140,10 +139,10 @@ bottom:
     Territories*), Deema Shehabi (*Thirteen Departures From the Moon*), Seema
     Sueko (*Remains*), and Rosemary Toohey (*The Body Washer*), and Dina Zarif.
 ---
-This year’s program showcases the work of leading Middle Eastern women artists and examines the ways in which artists express political agency in cultural production. With a lineup of acclaimed artists surveying their diverse Middle Eastern cultures, the singular evening celebrates women who reject narrowly defined stereotypes to take ownership of their creative processes and carve out their own innovative identities. The event includes an excerpt from animated series *Marvel Rising* featuring Ms. Marvel, the first Muslim super hero. The program also features accomplished Egyptian violinist Basma Edrees performing selections from Arabic classics and original compositions. Edress will be accompanied by Ava Nazar on piano and Susu Pampanin on percussion. The last artist in the lineup is award-winning Iranian playwright, Naghmeh Samini whose play, *The Language of Wild Berries,* will premiere at Golden Thread in fall 2020. Atosa Babaof and Damien Seperi will perform an excerpt of the play as a staged reading. After the presentations, Founding Artistic Director **Torange Yeghiazarian** will facilitate a conversation with the participating artists and the audience.
+The event includes an excerpt from animated series *Marvel Rising* featuring Ms. Marvel, the first Muslim super hero. The program also features accomplished Egyptian violinist Basma Edrees performing selections of Arabic classics and original compositions. Edrees will be accompanied by Ava Nazar on piano and Susu Pampanin on percussion. The last artist in the lineup is award-winning Iranian playwright, Naghmeh Samini, whose play *The Language of Wild Berries,* will premiere at Golden Thread in fall 2020. Atosa Babaof and Damien Seperi will perform an excerpt of the play as a staged reading. After the presentations, Founding Artistic Director **Torange Yeghiazarian** will facilitate a conversation with the participating artists and the audience.
 
-“Much has been made of women’s growing political voice in the United States,” Yeghiazarian says. “As artists, we express our political voice in the artistic choices we make, the music we make, the stories we tell. How do we make those choices? This year’s Women’s Day event looks at how do we as artists use our political voice, and what is the political impact of our choices?”
+“Much has been made of women’s growing political voice in the United States.” Yeghiazarian says. “As artists, we express our political voice in the artistic choices we make, the music we make, the stories we tell. How do we make those choices? This year’s Women’s Day event looks at how do we as artists use our political voice, and what is the political impact of our choices?”
 
-**Marvel Rising** is an American media franchise produced by Marvel Animation based on characters from Marvel Comics. The franchise focuses on the Secret Warriors, a diverse team of teenage superheroes who must band together to defend the world from powerful threats. Kamala Khan, created by Sana Amanat, G. Willow Wilson, and Adrian Alphona, and featuring the voice of **Kathreen Khavari** is the fourth character to take the name Ms. Marvel. Khan first appeared in Captain Marvel #17 (November 2013) and is a 16-year-old Pakistani-American from Jersey City, New Jersey, who idolizes Carol Danvers, the first character to use the moniker Ms. Marvel. Premiering in February 2014, Khan was given her own Ms. Marvel series becoming Marvel Comics' first Muslim character to headline her own comic book. The first collected volume of this series, *Ms. Marvel Volume 1: No Normal*, won the 2015 Hugo Award for Best Graphic Story.
+**Marvel Rising** is an American media franchise produced by Marvel Animation based on characters from Marvel Comics. The franchise focuses on the Secret Warriors, a diverse team of teenage superheroes who must band together to defend the world from powerful threats. Kamala Khan, created by Sana Amanat, G. Willow Wilson, and Adrian Alphona and featuring the voice of **Kathreen Khavari,** is the fourth character to take the name Ms. Marvel. Khan first appeared in Captain Marvel #17 (November 2013) and is a 16-year-old Pakistani-American from Jersey City, New Jersey, who idolizes Carol Danvers, the first character to use the moniker Ms. Marvel. Premiering in February 2014, Khan was given her own Ms. Marvel series becoming Marvel Comics' first Muslim character to headline her own comic book. The first collected volume of this series, *Ms. Marvel Volume 1: No Normal*, won the 2015 Hugo Award for Best Graphic Story.
 
-Golden Thread will premiere ***The Language of Wild Berries* by Naghmeh Samini** in fall 2020. The play depicts a couple, Donya and Davood, celebrating their wedding anniversary by traveling to the same sea side town where they spent their honeymoon. But on this trip, their 10th anniversary, a mysterious young man is following them. Who is he? What does he want? Trying to solve the mystery of the young man throws Donya and Davood into a time warp recalling their past nine anniversary trips. They remember what they have forgotten. But will that be enough to save their marriage? The U.S. Premiere of *The Language of Wild Berries* is Samini’s first production in English in the United States.
+Golden Thread will premiere ***The Language of Wild Berries*** by **Naghmeh Samini** in fall 2020. The play depicts a couple, Donya and Davood, celebrating their wedding anniversary by traveling to the same sea side town where they spent their honeymoon. But on this trip, their 10th anniversary, a mysterious young man is following them. Who is he? What does he want? Trying to solve the mystery of the young man throws Donya and Davood into a time warp recalling their past nine anniversary trips. They remember what they have forgotten. But will that be enough to save their marriage? The U.S. Premiere of *The Language of Wild Berries* is Samini’s first production in English in the United States.
