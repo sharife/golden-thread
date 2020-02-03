@@ -621,7 +621,8 @@ artists:
         Venado, a 33-acre artist retreat center.  For more information, visit
         Venado Retreat on Facebook.
       credit: Actor
-      image: /img/archive/2018/02/Eliezer-Deborah-300x300.jpg
+      image: >-
+        https://ucarecdn.com/cdce5e77-a294-4caa-b3d4-ac8158d1b908/-/crop/2400x2378/0,364/-/preview/
       name: Debórah Eliezer
     - bio: >-
         <strong>NASEEM ETEMAD (Resident Artist / Actor) </strong>is a Los
