@@ -118,11 +118,6 @@ photos:
 bottom:
   heading: ''
   text: >-
-    #### Golden Thread is thankful for the support of our sponsors
-    **WomenArts**, **Brava For Women in the Arts**, and **Center for Iranian
-    Diaspora Studies at San Francisco State University**.
-
-
     Each year, Golden Thread Productions celebrates International Women’s Day
     with ***What Do the Women Say?***, which showcases the work of leading
     Middle Eastern women artists. Previous programs have focused on dismantling
@@ -138,6 +133,11 @@ bottom:
     Memoirs*, *Women Without Men*), Betty Shamieh (*The Black Eyed,
     Territories*), Deema Shehabi (*Thirteen Departures From the Moon*), Seema
     Sueko (*Remains*), and Rosemary Toohey (*The Body Washer*), and Dina Zarif.
+
+
+    Golden Thread is thankful for the support of our sponsors WomenArts, Brava
+    For Women in the Arts, and Center for Iranian Diaspora Studies at San
+    Francisco State University.
 ---
 The event includes an excerpt from animated series *Marvel Rising* featuring Ms. Marvel, the first Muslim super hero. The program also features accomplished Egyptian violinist Basma Edrees performing selections of Arabic classics and original compositions. Edrees will be accompanied by Ava Nazar on piano and Susu Pampanin on percussion. The last artist in the lineup is award-winning Iranian playwright, Naghmeh Samini, whose play *The Language of Wild Berries,* will premiere at Golden Thread in fall 2020. Atosa Babaof and Damien Seperi will perform an excerpt of the play as a staged reading. After the presentations, Founding Artistic Director **Torange Yeghiazarian** will facilitate a conversation with the participating artists and the audience.
 
