@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Golden Thread Productions</title>
+    <link>/pages/</link>
+    <description>Recent content in Pages on Golden Thread Productions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Dec 2018 23:03:48 +0000</lastBuildDate>
+    
+	<atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bill of Rights</title>
+      <link>/pages/bill-of-rights/</link>
+      <pubDate>Tue, 04 Dec 2018 23:03:48 +0000</pubDate>
+      
+      <guid>/pages/bill-of-rights/</guid>
+      <description>In 2017, two seminal documents were developed as a result of three convenings of Middle Eastern American theatre artists. The first document is an open letter, &amp;ldquo;Dear Producers and Artistic Directors of the American Theatre,&amp;rdquo; and the second is titled &amp;ldquo;A Middle Eastern American Theatre Artists Bill of Rights.&amp;rdquo; Given the many artists, activists, and scholars involved in these historic gatherings, our hope is that these two documents will be engaged and discussed within theatre communities across the U.</description>
+    </item>
+    
+  </channel>
+</rss>

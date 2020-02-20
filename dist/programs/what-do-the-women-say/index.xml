@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>What Do the Women Say? on Golden Thread Productions</title>
+    <link>/programs/what-do-the-women-say/</link>
+    <description>Recent content in What Do the Women Say? on Golden Thread Productions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Jan 2016 20:23:30 +0000</lastBuildDate>
+    
+	<atom:link href="/programs/what-do-the-women-say/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

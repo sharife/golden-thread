@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Donors on Golden Thread Productions</title>
+    <link>/get-involved/donors/</link>
+    <description>Recent content in Donors on Golden Thread Productions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 May 2016 00:04:16 +0000</lastBuildDate>
+    
+	<atom:link href="/get-involved/donors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
