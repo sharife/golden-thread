@@ -10,9 +10,9 @@ link: 'https://goldenthread.org/season/'
 items:
   - image: >-
       https://ucarecdn.com/f924567f-7af9-4c14-96bd-c0a337a5b53d/-/crop/4032x1856/0,520/-/preview/
-    subtitle: Join the Golden Thread team as our new Artistic Producer
-    cta: Apply Today
-    link: 'https://goldenthread.org/get-involved/jobs/'
+    subtitle: Snag a sneak peek!
+    cta: Explore Now
+    link: 'https://www.instagram.com/goldenthreadplays/'
     text: >-
       Check out our social media platforms for behind-the-scenes for our life at
       Golden Thread!
