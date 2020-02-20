@@ -103,10 +103,11 @@ collections: # A list of collections the CMS should be able to edit
         widget: object
         required: false
         fields: 
-          - {label: "Heading", name: "heading", widget: "string"}
+          - {label: "Heading", name: "heading", widget: "string", required: false}
           - label: Images
             name: items
             widget: list
+            required: false
             fields:
               - {label: Image, name: image, widget: image, required: false}
       - label: Sponsors/Bottom

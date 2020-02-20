@@ -112,7 +112,7 @@ cast:
       image: 'https://ucarecdn.com/1cbc1624-ce26-48c3-9e28-cc2189037f3f/'
       name: Ava Nazar
 photos:
-  heading: TICKETS ARE ON SALE NOW
+  heading:
   items:
     - {}
 bottom:
@@ -146,3 +146,5 @@ The event includes an excerpt from animated series *Marvel Rising* featuring Ms.
 **Marvel Rising** is an American media franchise produced by Marvel Animation based on characters from Marvel Comics. The franchise focuses on the Secret Warriors, a diverse team of teenage superheroes who must band together to defend the world from powerful threats. Kamala Khan, created by Sana Amanat, G. Willow Wilson, and Adrian Alphona and featuring the voice of **Kathreen Khavari,** is the fourth character to take the name Ms. Marvel. Khan first appeared in Captain Marvel #17 (November 2013) and is a 16-year-old Pakistani-American from Jersey City, New Jersey, who idolizes Carol Danvers, the first character to use the moniker Ms. Marvel. Premiering in February 2014, Khan was given her own Ms. Marvel series becoming Marvel Comics' first Muslim character to headline her own comic book. The first collected volume of this series, *Ms. Marvel Volume 1: No Normal*, won the 2015 Hugo Award for Best Graphic Story.
 
 Golden Thread will premiere ***The Language of Wild Berries*** by **Naghmeh Samini** in fall 2020. The play depicts a couple, Donya and Davood, celebrating their wedding anniversary by traveling to the same sea side town where they spent their honeymoon. But on this trip, their 10th anniversary, a mysterious young man is following them. Who is he? What does he want? Trying to solve the mystery of the young man throws Donya and Davood into a time warp recalling their past nine anniversary trips. They remember what they have forgotten. But will that be enough to save their marriage? The U.S. Premiere of *The Language of Wild Berries* is Samini’s first production in English in the United States.
+
+[**TICKETS ARE ON SALE NOW**](https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gay1UAA)
