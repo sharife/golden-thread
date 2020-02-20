@@ -6,7 +6,6 @@ media_library:
   name: uploadcare
   config:
     publicKey: 27bd1f32452db346e082
-    data-tabs: "file url gdrive dropbox facebook"
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
@@ -102,7 +101,7 @@ collections: # A list of collections the CMS should be able to edit
         name: photos
         widget: object
         fields: 
-          - {label: "Heading", name: "heading", widget: "string", required: false}
+          - {label: "Heading", name: "heading", widget: "string"}
           - label: Images
             name: items
             widget: list
