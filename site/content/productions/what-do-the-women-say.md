@@ -17,6 +17,7 @@ background: 'https://ucarecdn.com/146ffef3-4fbf-4191-a119-008f6d103d7b/'
 stage: Brava Theater Center
 address: '2781 24th St, San Francisco, CA 94110'
 ticketlink: 'https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gay1UAA'
+visitlink: '/about/visit/brava'
 cast:
   heading: Artist Bios
   items:
@@ -33,7 +34,7 @@ cast:
         *MARVEL RISING*. Her Oakland-based pilot, *EMBRACE*—which she co-wrote
         and starred in— premiered at the 2020 Sundance Film Festival as an Indie
         Episodic selection.
-      image: 'https://ucarecdn.com/f1ede0b4-f9e9-4c68-941a-a12c7a68fa8e/'
+      image: '/img/profile-KathreenKhavari.jpg'
       name: Kathreen Khavari
     - bio: >-
         **Naghmeh Samini** is an award-winning playwright, scriptwriter and
@@ -111,6 +112,14 @@ cast:
         youth in America through an arts-focused national service year.
       image: 'https://ucarecdn.com/1cbc1624-ce26-48c3-9e28-cc2189037f3f/'
       name: Ava Nazar
+    - bio: >-
+        **Aisan Hoss** and Dancers produce Iranian/Contemporary dance pieces that explore human themes through sharing stories and aesthetics from the Middle East and Iran within international contexts. For Aisan (Choreographer/Founder), her passion for dance and choreography has been a means for gaining insight into her identity as an Iranian living outside of her home country. Specifically, several of her choreographies have explored how the physical distance from her home country provides a deeper sense of intimacy. Hoss’s primary choreographic objective is to create joy within darkness.
+      image: '/img/profile-AisanHoss.jpg'
+      name: Aisan Hoss
+    - bio: >-
+        **Sabina Zafar** was inaugurated into office on December, 2018 and is currently serving her first term as a Councilwoman, she was appointed Vice Mayor November 2019. She is an accomplished technology leader, community volunteer, mentor and mother. As a San Ramon resident, Sabina is wholeheartedly committed to giving back to her city. She has dedicated her career and personal time to improving our community, empowering women & girls to pursue STEM careers, helping make San Ramon the center of technology and innovation in the bay area, and promises to ensure transparency and inclusion in our local government for all residents.
+      image: '/img/profile-SabinaZafar.jpg'
+      name: Sabina Zafar
 photos:
   heading:
   items:
@@ -143,12 +152,13 @@ This year’s program showcases the work of leading Middle Eastern women artists
 
 The event includes an excerpt from animated series *Marvel Rising* featuring **Kathreen Khavari** as the voice of Ms Marvel, the first Muslim super hero and. The program also features accomplished Egyptian violinist **Basma Edrees** and Iranian dancer, **Aisan Hoss** performing *Nuance, An Immigration Story*, a collaboration that also includes **Ava Nazar** on piano and **Susu Pampanin** on percussion. The last artist in the lineup is award-winning Iranian playwright, **Naghmeh Samini**, whose play *The Language of Wild Berries,* will premiere at Golden Thread in fall 2020. **Atosa Babaof, Damien Seperi,** and **Ali-Moosa Mirza** will perform an excerpt of the play as a staged reading.
 
-<<<<<<< HEAD
+After the presentations, Founding Artistic Director **Torange Yeghiazarian** will facilitate a conversation with the participating artists and special guest, **Sabina Zafar**, the vice-mayor of San Ramon.
+
 **Marvel Rising** is an American media franchise produced by Marvel Animation based on characters from Marvel Comics. The franchise focuses on the Secret Warriors, a diverse team of teenage superheroes who must band together to defend the world from powerful threats. Kamala Khan, created by Sana Amanat, G. Willow Wilson, and Adrian Alphona and featuring the voice of **Kathreen Khavari,** is the fourth character to take the name Ms. Marvel. Khan first appeared in Captain Marvel #17 (November 2013) and is a 16-year-old Pakistani-American from Jersey City, New Jersey, who idolizes Carol Danvers, the first character to use the moniker Ms. Marvel. Premiering in February 2014, Khan was given her own Ms. Marvel series becoming Marvel Comics' first Muslim character to headline her own comic book. The first collected volume of this series, *Ms. Marvel Volume 1: No Normal*, won the 2015 Hugo Award for Best Graphic Story.
+
+***Nuance*** is a piece that incorporates Basma and Aisan's immigration experience coming to the US from their respective countries; Egypt and Iran. The piece incorporates Egyptian and Iranian influences portraying their roots, as well as contemporary and western classical influences portraying their artistic training in the US. Artistically, they are both: Eastern and Western, but does society allow you to be both or does it seek to put you in a categorical box that is simpler than the nuanced reality of the human experience? This piece seeks to dwell upon the struggles that come along with immigrating to a new land, the questions surrounding identity, leaving all that one knows, and the courage needed to face the new. These ideas are brought together and illustrated in *Nuance* through music and dance.
 
 Golden Thread will premiere ***The Language of Wild Berries*** by **Naghmeh Samini** in fall 2020. The play depicts a couple, Donya and Davood, celebrating their wedding anniversary by traveling to the same sea side town where they spent their honeymoon. But on this trip, their 10th anniversary, a mysterious young man is following them. Who is he? What does he want? Trying to solve the mystery of the young man throws Donya and Davood into a time warp recalling their past nine anniversary trips. They remember what they have forgotten. But will that be enough to save their marriage? The U.S. Premiere of *The Language of Wild Berries* is Samini’s first production in English in the United States.
 
 [**TICKETS ARE ON SALE NOW**](https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gay1UAA)
-
-After the presentations, Founding Artistic Director **Torange Yeghiazarian** will facilitate a conversation with the participating artists and special guest, **Sabina Zafar**, the vice-mayor of San Ramon.
 
