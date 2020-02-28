@@ -70,33 +70,6 @@ staff:
       image: /img/archive/2018/10/Espino-Laura-300x300.jpg
       name: Laura Espino
     - bio: >-
-        **Julius Rea** is a Bay Area theatre maker and curator. In addition to
-        writing for publications such as the East Bay Express and EBONY
-        magazine, he obtained a degree in Philosophy at San Francisco State
-        University. While gaining experience as a theater and event producer
-        throughout his education, Rea is also an experienced playwright, poet
-        and dramaturg. In 2018, he co-founded an art collective (The Forum) that
-        focuses on journalism theatre and gallery curation. He has worked with
-        the Playwrights Foundation, Greenhouse Theatre Festival, Nomadic Press,
-        Firehouse Art Collective, Adelines Lab and Playground. His acting
-        credits include Sweat (Benicia Old Town Hall Theatre Group), Honky (Left
-        Edge Theatre) and Multiverse (Ragged Wing Ensemble).
-      credit: Marketing & Communications Associate
-      image: 'https://ucarecdn.com/34322725-42ba-414a-9511-278c5c6c7451/'
-      name: Julius Rea
-    - bio: >-
-        **Amitis Rossoukh** is a Bay-Area based, bi-cultural 1st-gen American
-        who’s been captivated by the stage since her first school play. She
-        holds a BA in Theater Arts from UC Santa Cruz, and is now happily
-        involved as a performer in the SF Bay Area. Having previously worked as
-        a tech specialist at a local private high school, Amitis is just as
-        comfortable in the theater as she is tearing down a computer. She
-        couldn’t be more pleased to be joining both Crowded Fire and Golden
-        Thread as their new Operations Associate!
-      credit: Operations Associate
-      image: 'https://ucarecdn.com/922ca672-59df-4e6e-8643-3e1197ffb4d1/'
-      name: Amitis Rossoukh
-    - bio: >-
         **Aram Krikorian** was born in San Francisco. After attending KZV
         Armenian School he went on to work in Los Angeles and New York City in
         television at CBS and theater at the Tres Stage (adjacent to Mashti
