@@ -18,7 +18,7 @@
           {{ end }}
         {{ end }}
           
-        {{ .Content }}
+        {{ .Content | markdownify }}
       </div>
       <div class="pv3 w-30-ns">
         {{ if .Params.sidebar }}
@@ -37,7 +37,7 @@
         </p>
       {{ end }}
         <div class="cms pv3">
-        {{ .Content }}
+        {{ .Content | markdownify }}
       </div>
     </div>
 

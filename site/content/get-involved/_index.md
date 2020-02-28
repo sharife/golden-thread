@@ -8,17 +8,17 @@ intro: >
 - - -
 
 **JOB OPENINGS**\
-We are currently accepting applications for an Artistic Producer position. In addition, we accept ongoing resumes with letters of interest in Golden Thread from stage managers, designers, set builders, and technical directors at [information@goldenthread.org]((mailto:information@goldenthread.org)). **[Learn more](https://goldenthread.org/get-involved/jobs/).**
+We are currently accepting applications for an Artistic Producer position. In addition, we accept ongoing resumes with letters of interest in Golden Thread from stage managers, designers, set builders, and technical directors at [information@goldenthread.org]((mailto:information@goldenthread.org)). **[Learn more](/get-involved/jobs/).**
 
 - - -
 
 **CASTING**\
-There are no current casting opportunities with Golden Thread. Check back another time or join our email list for general audition announcements. **[Learn more](https://golden-thread.netlify.com/get-involved/casting/).**
+We are casting roles for the 2020 season now. **[Learn more](/get-involved/casting/).**
 
 - - -
 
 **PLAY SUBMISSIONS**\
-Golden Thread will not be accepting submissions for the 2019 season. Check back another time or join our email list for general submission announcements. **[Learn more.](/get-involved/submissions/)**
+Golden Thread will not be accepting submissions for the 2020 season. Check back another time or join our email list for general submission announcements. **[Learn more.](/get-involved/submissions/)**
 
 - - -
 
@@ -28,4 +28,4 @@ Donate your time to Golden Thread! There are many ways to volunteer. **[Learn mo
 - - -
 
 **INTERNSHIPS**\
-Golden Thread is seeking two highly organized and motivated individuals for our ReOrient 2019 Festival of Short Plays. This internship will provide hands-on experience in theater production, marketing and community engagement, and conference planning. **[Learn more.](/get-involved/internships/)**
+There are no interships available at this time. Please check back soon.
