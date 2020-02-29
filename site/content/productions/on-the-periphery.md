@@ -82,6 +82,17 @@ cast:
         *\*Member, Actors Equity; ^Golden Thread Resident Artist*
 photos:
   heading: Photo Gallery
+  text: Download press photos [here](/assets/Periphery-PressPicks.zip).
+  items:
+    - image: /img/periphery-1.jpg
+    - image: /img/periphery-2.jpg
+    - image: /img/periphery-3.jpg
+    - image: /img/periphery-4.jpg
+    - image: /img/periphery-5.jpg
+    - image: /img/periphery-6.jpg
+    - image: /img/periphery-7.jpg
+    - image: /img/periphery-8.jpg
+    - image: /img/periphery-9.jpg
 bottom:
   text: >-
     This production is made possible in part by major support from National
