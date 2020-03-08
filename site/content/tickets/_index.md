@@ -31,6 +31,8 @@ lists:
         link: >-
           https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gay1UAA
         text: >-
+          **THIS EVENT HAS BEEN CANCELLED**<br />
+          Due to the release of aggressive new recommendations against COVID-19 from the SF Department of Public Health to cancel large community events, we have decided to cancel Sunday, March 8th's Women's Day event in the interest of public health. We will refund all tickets in full.<br /><hr />
           Each year, Golden Thread celebrates International Women’s Day with
           What Do the Women Say?, a curated evening showcasing the work of
           leading Middle Eastern women artists. The 2020 theme is Power,

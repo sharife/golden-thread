@@ -14,7 +14,8 @@ items:
     cta: Read More Now
     link: '/productions/what-do-the-women-say'
     text: >-
-      Check out this year’s lineup of leading Middle Eastern women artists including Basma Edrees, Aisan Hoss, Kathreen Khavari, and Naghmeh Samini. Special guest: Sabina Zafar.
+      **THIS EVENT HAS BEEN CANCELLED**<br />
+      Due to the release of aggressive new recommendations against COVID-19 from the SF Department of Public Health to cancel large community events, we have decided to cancel Sunday, March 8th's Women's Day event in the interest of public health. We will refund all tickets in full.
   - image: >-
       https://ucarecdn.com/9d8b62b0-a24c-4d08-8b70-b5aa87a4a5aa/-/crop/3995x2455/0,281/-/preview/
     subtitle: Submit your Short Play for Consideration in ReOrient 2021
