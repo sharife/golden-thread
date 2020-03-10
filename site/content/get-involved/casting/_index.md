@@ -13,7 +13,7 @@ Golden Thread Productions is holding both General Auditions for its 2020 Season,
 ---
 
 **When:**  
-Equity Generals - Monday, March 30, 2020 12-4pm  
+Equity Generals - Tuesday, March 31, 2020 12-4pm  
 The Language of Wild Berries - Tuesday, March 31, 2020 5-9pm 
 
 **Where:**  
