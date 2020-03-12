@@ -107,6 +107,7 @@ Directions and parking information for various venues and other show information
 
 * The Box Office will open at the venue one hour before the show begins for will call pick-up and day of show sales.
 * Online ticket sales will end 4 hours before show time.
+* For ticket exchanges, cancellations, and group discounts email **<boxoffice@goldenthread.org>**.
 * Any guests with hearing, sight, or mobility issues are asked to contact us by email in advance of making reservations so that we may best accommodate your party. Please be aware that we do not offer listening devices.
 * Seating is usually general admission and begins 30 minutes before the performance. There is no late seating.
 * Unclaimed prepaid tickets may be released for company walk-ins prior to the start of the show.
