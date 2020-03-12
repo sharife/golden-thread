@@ -22,9 +22,7 @@ lists:
           Thursdays | $15 Previews
 
 
-          Group of 10 or more? Contact
-          [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) for a
-          discount.
+          For ticket exchanges, cancellations, and group discounts email **<boxoffice@goldenthread.org>**.
         title: On the Periphery
       - cta: BUY YOUR TICKETS NOW
         image: /img/Panelists-964.jpg
