@@ -97,7 +97,7 @@ lists:
 
 **GOLDEN THREAD TICKETING POLICIES**
 
-Tickets for a Golden Thread performance may be purchased online by clicking the Buy Tickets link for the show you want to see.
+Tickets for a Golden Thread performance may be purchased online by clicking the *Buy Tickets* link for the show you want to see.
 
 The only way to guarantee your seat is to pay in advance online with a credit card. You can purchase tickets with cash at the venue an hour before the show, but that is based solely on availability.
 
@@ -109,7 +109,7 @@ Directions and parking information for various venues and other show information
 
 * The Box Office will open at the venue one hour before the show begins for will call pick-up and day of show sales.
 * Online ticket sales will end 4 hours before show time.
-* All ticket sales are final. Tickets may be transferable, depending on availability. Contact us by email to request an exchange.
+* All ticket sales are final. Tickets may be transferable, depending on availability. For ticket exchanges, cancellations, and group discounts email **<boxoffice@goldenthread.org>**.
 * Any guests with hearing, sight, or mobility issues are asked to contact us by email in advance of making reservations so that we may best accommodate your party. Please be aware that we do not offer listening devices.
 * Seating is usually general admission and begins 30 minutes before the performance. There is no late seating.
 * Unclaimed prepaid tickets may be released for company walk-ins prior to the start of the show.
