@@ -7,8 +7,10 @@ start: 2020-02-23T08:00:00.000Z
 end: 2020-04-04T20:06:27.482Z
 heading: ''
 description: >-
-  ## A magical tale of hope and home against all odds. 
+  For the health and safety of our patrons and artists, we have cancelled the remainder of the run of *On the Periphery* in accordance with the [Governor's newly updated recommendations](https://www.gov.ca.gov/2020/03/11/california-public-health-experts-mass-gatherings-should-be-postponed-or-canceled-statewide-to-slow-the-spread-of-covid-19/) on COVID-19 (coronavirus), effective Saturday March 14. Tickets may be exchanged for either company's fall show, refunded, or donated by contacting **<boxoffice@goldenthread.org>**. <hr />
 
+  ## A magical tale of hope and home against all odds. 
+ 
 
   In the first co-production between Golden Thread Productions and Crowded Fire
   Theater, Sedef Ecer’s *On the Periphery* paints a tender portrayal of the
