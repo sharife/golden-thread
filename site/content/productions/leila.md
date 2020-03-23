@@ -34,21 +34,6 @@ lists:
   - heading: Upcoming Performances
     items:
       - cta: Learn More
-        link: 'https://www.ssf.net/departments/library'
-        title: South San Francisco Library
-        pre: 'April 25, 2020 at 1 PM'
-        subtitle: |-
-          840 West Orange Ave\
-          South San Francisco, 94080
-      - cta: Learn More
-        link: >-
-          https://dothebay.com/events/2020/4/18/amplify-24-hour-performance-marathon  
-        title: AMPLIFY! at Brava Theater Center
-        pre: 'April 19, 2020 at 11 AM'
-        subtitle: |-
-          2781 24th Street\
-          San Francisco, CA 94110
-      - cta: Learn More
         link: 'https://sccld.org/locations/MI/'
         title: Milpitas Library
         pre: 'May 12, 2020 at 7pm'
