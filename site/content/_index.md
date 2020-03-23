@@ -14,7 +14,7 @@ items:
     cta: Read More Now
     link: '/get-involved/casting'
     text: >-
-      We'll be holding both General and show-specific auditions on March 31. Equity and non-Equity actors are invited. Actors of Middle Eastern and diverse cultural backgrounds are encouraged.
+      We will be conducting General Auditions by VIDEO SUBMISSION ONLY. Show-specific auditions will be held on May 26th. Equity and non-Equity actors are invited. Actors of Middle Eastern and diverse cultural backgrounds are encouraged.
   - image: >-
       https://ucarecdn.com/9d8b62b0-a24c-4d08-8b70-b5aa87a4a5aa/-/crop/3995x2455/0,281/-/preview/
     subtitle: Submit your Short Play for Consideration in ReOrient 2021
