@@ -6,6 +6,8 @@ date: 2019-11-08T20:06:27.442Z
 start: 2020-05-02T03:00:00.000Z
 end: ''
 description: >-
+  **THIS EVENT HAS BEEN CANCELLED**<br />
+  With broken hearts we must announce that we have cancelled our upcoming presentation of Hanane Hajj Ali's amazing one woman show, Jogging,﻿ in the interest of public health and in accordance with the extended shelter-in-place ordinance continuing through May 3rd. Tickets may be exchanged, refunded or donated by contact us by email at boxoffice@goldenthread.org.<br /><hr />
   **Hanane Hajj Ali**, a fifty-something Lebanese actress and citizen, exercises
   daily to avoid osteoporosis, obesity, and depression. As her story intertwines
   with the city’s tumultuous history, Hajj Ali jogs through Beirut revisiting

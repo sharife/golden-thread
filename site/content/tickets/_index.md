@@ -2,10 +2,7 @@
 title: Tickets
 lists:
   - items:
-      - cta: BUY YOUR TICKETS NOW
-        image: /img/SedefEcerByHasanDogan_1_small.jpg
-        link: >-
-          https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006fbQvUAI
+      - image: /img/SedefEcerByHasanDogan_1_small.jpg
         subtitle: ''
         text: >-
           For the health and safety of our patrons and artists, we have cancelled the remainder of the run of *On the Periphery* in accordance with the [Governor's newly updated recommendations](https://www.gov.ca.gov/2020/03/11/california-public-health-experts-mass-gatherings-should-be-postponed-or-canceled-statewide-to-slow-the-spread-of-covid-19/) on COVID-19 (coronavirus), effective Saturday March 14.
@@ -30,10 +27,7 @@ lists:
 
           For ticket exchanges, cancellations, and group discounts email **<boxoffice@goldenthread.org>**.
         title: On the Periphery
-      - cta: BUY YOUR TICKETS NOW
-        image: /img/Panelists-964.jpg
-        link: >-
-          https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gay1UAA
+      - image: /img/Panelists-964.jpg
         text: >-
           **THIS EVENT HAS BEEN CANCELLED**<br />
           Due to the release of aggressive new recommendations against COVID-19 from the SF Department of Public Health to cancel large community events, we have decided to cancel Sunday, March 8th's Women's Day event in the interest of public health. We will refund all tickets in full.<br /><hr />
@@ -50,11 +44,10 @@ lists:
 
           $50-20 General Admission | $15 Student/Senior 65+
         title: What Do the Women Say? 2020
-      - cta: BUY YOUR TICKETS NOW
-        image: /img/HananeHajjAli_PointingAngry.jpg
-        link: >-
-          https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gaw5UAA
+      - image: /img/HananeHajjAli_PointingAngry.jpg
         text: >-
+          **THIS EVENT HAS BEEN CANCELLED**<br />
+          With broken hearts we must announce that we have cancelled our upcoming presentation of Hanane Hajj Ali's amazing one woman show, Jogging,﻿ in the interest of public health and in accordance with the extended shelter-in-place ordinance continuing through May 3rd. Tickets may be exchanged, refunded or donated by contact us by email at boxoffice@goldenthread.org.<br /><hr />
           **Hanane Hajj Ali**, a fifty-something Lebanese actress and citizen,
           exercises daily to avoid osteoporosis, obesity, and depression. As her
           story intertwines with the city’s tumultuous history, Hajj Ali jogs
