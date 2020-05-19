@@ -38,6 +38,6 @@ Roles include:
 
 * Donya - 30-40's woman, Iranian, married to Davood  
 * Davood - 30-40's man, Iranian, married to Donya  
-* Danial - 20s man, A man of mystery
+* Danial - 20s man, a man of mystery
 
 Golden Thread Productions is the first American theatre company devoted to plays from or about the Middle East. Golden Thread is an equal opportunity employer. Golden Thread Productions prohibits discrimination and harassment of any type and affords equal employment opportunities to employees and applicants without regard to race, color, religion, gender, sexual orientation, national origin, disability status, protected veteran status, or any other characteristic protected by law. Golden Thread Productions conforms to the spirit as well as to the letter of all applicable laws and regulations.
