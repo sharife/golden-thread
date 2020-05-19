@@ -9,7 +9,7 @@ sidebar:
 
 Golden Thread is working diligently to comply with San Francisco regulations in response to the COVID-19 pandemic. Accordingly, we will be conducting General Auditions by way of VIDEO SUBMISSION ONLY. There will be no in-person General Auditions on March 31, 2020. Auditions for *The Language of Wild Berries* will be held on May 26, 2020. Please review our audition instructions below:
 
-Show-specific auditions will be held by way of VIDEO SUBMISSION only. Equity and non-Equity actors are invited to submit auditions. Performers with movement, dance, and music backgrounds are encouraged. Actors of all ages, cultural backgrounds, and abilities are welcomed. Please email[auditions@goldenthread.org](mailto:auditions@goldenthread.org)for instructions & sides. Please attache your headshot and resume to your email. Local Hire Only.
+Show-specific auditions will be held by way of VIDEO SUBMISSION only. Equity and non-Equity actors are invited to submit auditions. Performers with movement, dance, and music backgrounds are encouraged. Actors of all ages, cultural backgrounds, and abilities are welcomed. Please email [auditions@goldenthread.org](mailto:auditions@goldenthread.org) for instructions & sides. Please attache your headshot and resume to your email. Local Hire Only.
 
 Auditions for *The Language of Wild Berries* will take place on Tuesday, May 26, 2020
 
